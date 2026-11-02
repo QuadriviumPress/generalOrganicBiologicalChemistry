@@ -228,7 +228,7 @@ Suppose we consider the transfer of heat from the opposite perspective---namely,
 
 heat ∝ Δ*T*
 
-where ∝ means "is proportional to" and Δ*T* is the change in temperature of the system. Any change in a variable is always defined as "the final value minus the initial value" of the variable, so Δ*T* is *T*<sub>final</sub> − *T*<sub>initial</sub>. In addition, the greater the mass of an object, the more heat is needed to change its temperature. We can include a variable representing mass (*m*) to the proportionality as follows:
+where ∝ means "is proportional to" and Δ*T* is the change in temperature of the system. Any change in a variable is always defined as "the final value minus the initial value" of the variable, so Δ*T* is *T*<sub>final</sub> − *T*<sub>initial</sub>. In addition, the greater the mass of an object, the more heat is needed to change its temperature. We can include a variable representing mass (*m*) in the proportionality as follows:
 
 heat ∝ *m*Δ*T*
 
@@ -286,7 +286,7 @@ The proportionality constant *c* is sometimes referred to as the *specific heat 
 
 ````````````
 
-The *direction* of heat flow is not shown in heat = *mc*Δ*T*. If energy goes into an object, the total energy of the object increases, and the values of heat Δ*T* are positive. If energy is coming out of an object, the total energy of the object decreases, and the values of heat and Δ*T* are negative.
+The *direction* of heat flow is not shown in heat = *mc*Δ*T*. If energy goes into an object, the total energy of the object increases, and the values of heat and Δ*T* are positive. If energy is coming out of an object, the total energy of the object decreases, and the values of heat and Δ*T* are negative.
 
 ### Example 2
 
@@ -298,7 +298,7 @@ We can use heat = *mc*Δ*T* to determine the amount of heat, but first we need t
 
 Δ*T* = *T*<sub>final</sub> − *T*<sub>initial</sub> = 73.3°C − 25.0°C = 48.3°C
 
-The mass is given as 150.0 g, and [Table 7.3 \"Specific Heats of Selected Substances\"](/chapters/ch-07-energy-and-chemical-processes.md#src-gob-ch07-s02-t01) gives the specific heat of iron as 0.108 cal/g·°C. Substitute the known values into heat = *mc*Δ*T* and solve for amount of heat:
+The mass is given as 150.0 g, and [Table 7.3 \"Specific Heats of Selected Substances\"](/chapters/ch-07-energy-and-chemical-processes.md#src-gob-ch07-s02-t01) gives the specific heat of iron as 0.108 cal/g·°C. Substitute the known values into heat = *mc*Δ*T* and solve for the amount of heat:
 
 $$\text{heat} = \text{(150}\text{.0}\cancel{\text{~g}}\text{)}\left( {\text{0}\text{.108~}\frac{\text{cal}}{\cancel{\text{~g}}\text{}\cdot \text{}\cancel{\text{°C}}}} \right)\text{(48}\text{.3}\cancel{\text{°C}}\text{)~=~782~cal}$$
 
@@ -500,7 +500,7 @@ We encounter sublimation in several ways. You may already be familiar with dry i
 
 $$\text{CO}_{\text{2}}\text{(s)~~}\overset{- \text{78}\text{.5°C}}{\rightarrow}\text{~~CO}_{\text{2}}\text{(g)}$$
 
-Solid carbon dioxide is called dry ice because it does not pass through the liquid phase. Instead, it does directly to the gas phase. (Carbon dioxide *can* exist as liquid but only under high pressure.) Dry ice has many practical uses, including the long-term preservation of medical samples.
+Solid carbon dioxide is called dry ice because it does not pass through the liquid phase. Instead, it goes directly to the gas phase. (Carbon dioxide *can* exist as liquid but only under high pressure.) Dry ice has many practical uses, including the long-term preservation of medical samples.
 
 Even at temperatures below 0°C, solid H<sub>2</sub>O will slowly sublime. For example, a thin layer of snow or frost on the ground may slowly disappear as the solid H<sub>2</sub>O sublimes, even though the outside temperature may be below the freezing point of water. Similarly, ice cubes in a freezer may get smaller over time. Although frozen, the solid water slowly sublimes, redepositing on the colder cooling elements of the freezer, which necessitates periodic defrosting. (Frost-free freezers minimize this redeposition.) Lowering the temperature in a freezer will reduce the need to defrost as often.
 
@@ -739,7 +739,7 @@ Considering that 1 mol of C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(s) has a volu
 
 Glucose and other sugars are examples of carbohydrates[^chem-16], which are one of the three main dietary components of a human diet. All carbohydrates supply approximately 4 kcal/g. You can verify that by taking the heat of reaction for glucose oxidation and dividing it by its molar mass. Proteins[^chem-17], the building blocks of structural tissues like muscle and skin, also supply about 4 kcal/g. Other important energy sources for the body are fats[^chem-18], which are largely hydrocarbon chains. Fats provide even more energy per gram, about 9 kcal/g. A detailed discussion of carbohydrates and fats and their chemistry in the body is found in [Chapter 16 \"Carbohydrates\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16) and [Chapter 17 \"Lipids\"](/chapters/ch-17-lipids.md#src-gob-ch17).
 
-Another important reaction is the conversion of adenosine triphosphate (ATP) to adenosine diphosphate (ADP), which is shown in [Figure 7.5 \"ATP to ADP\"](/chapters/ch-07-energy-and-chemical-processes.md#src-gob-ch07-s05-f01). Under physiological conditions, the breaking of an O--P bond and the formation of an O--P and two O--H bonds gives off about 7.5 kcal/mol of ATP. This may not seem like much energy, especially compared to the amount of energy given off when glucose reacts. It is enough energy, however, to fuel other biochemically important chemical reactions in our cells.
+Another important reaction is the conversion of adenosine triphosphate (ATP) to adenosine diphosphate (ADP), which is shown in [Figure 7.5 \"ATP to ADP\"](/chapters/ch-07-energy-and-chemical-processes.md#src-gob-ch07-s05-f01). Under physiological conditions, the breaking of an O--P bond and the formation of an O--P and two O--H bonds give off about 7.5 kcal/mol of ATP. This may not seem like much energy, especially compared to the amount of energy given off when glucose reacts. It is enough energy, however, to fuel other biochemically important chemical reactions in our cells.
 
 ``````````{figure} /images/section_10/bf369f5da318e1889315f867cd0dbe09.jpg
 :alt: Chemical illustration: Figure 7.5 ATP to ADP

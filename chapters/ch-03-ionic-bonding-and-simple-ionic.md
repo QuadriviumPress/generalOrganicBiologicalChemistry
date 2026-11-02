@@ -41,7 +41,7 @@ The second way for an atom to obtain an octet of electrons is by sharing electro
 
 ````````````{important} Note
 
-Despite our focus on the octet rule, we must remember that for small atoms, such as hydrogen, helium, and lithium, the first shell is, or becomes, the outermost shell and hold only two electrons. Therefore, these atoms satisfy a "duet rule" rather than the octet rule.
+Despite our focus on the octet rule, we must remember that for small atoms, such as hydrogen, helium, and lithium, the first shell is, or becomes, the outermost shell and holds only two electrons. Therefore, these atoms satisfy a "duet rule" rather than the octet rule.
 
 ````````````
 
@@ -459,7 +459,7 @@ Note that some atoms commonly form ions of different charges.
 
 We have already encountered some chemical formulas for simple ionic compounds. A chemical formula[^chem-9] is a concise list of the elements in a compound and the ratios of these elements. To better understand what a chemical formula means, we must consider how an ionic compound is constructed from its ions.
 
-Ionic compounds exist as alternating positive and negative ions in regular, three-dimensional arrays called crystals[^chem-10] ([Figure 3.6 \"A Sodium Chloride Crystal\"](/chapters/ch-03-ionic-bonding-and-simple-ionic.md#src-gob-ch03-s03-f01)). As you can see, there are no individual NaCl "particles" in the array; instead, there is a continuous lattice of alternating sodium and chloride ions. However, we can use the ratio of sodium ions to chloride ions, expressed in the lowest possible whole numbers, as a way of describing the compound. In the case of sodium chloride, the ratio of sodium ions to chloride ions, expressed in lowest whole numbers, is 1:1, so we use NaCl (one Na symbol and one Cl symbol) to represent the compound. Thus, NaCl is the chemical formula for sodium chloride, which is a concise way of describing the relative number of different ions in the compound. A macroscopic sample is composed of myriads of NaCl pairs; each pair called a formula unit[^chem-11]. Although it is convenient to think that NaCl crystals are composed of individual NaCl units, [Figure 3.6 \"A Sodium Chloride Crystal\"](/chapters/ch-03-ionic-bonding-and-simple-ionic.md#src-gob-ch03-s03-f01) shows that no single ion is exclusively associated with any other single ion. Each ion is surrounded by ions of opposite charge.
+Ionic compounds exist as alternating positive and negative ions in regular, three-dimensional arrays called crystals[^chem-10] ([Figure 3.6 \"A Sodium Chloride Crystal\"](/chapters/ch-03-ionic-bonding-and-simple-ionic.md#src-gob-ch03-s03-f01)). As you can see, there are no individual NaCl "particles" in the array; instead, there is a continuous lattice of alternating sodium and chloride ions. However, we can use the ratio of sodium ions to chloride ions, expressed in the lowest possible whole numbers, as a way of describing the compound. In the case of sodium chloride, the ratio of sodium ions to chloride ions, expressed in lowest whole numbers, is 1:1, so we use NaCl (one Na symbol and one Cl symbol) to represent the compound. Thus, NaCl is the chemical formula for sodium chloride, which is a concise way of describing the relative number of different ions in the compound. A macroscopic sample is composed of myriads of NaCl pairs; each pair is called a formula unit[^chem-11]. Although it is convenient to think that NaCl crystals are composed of individual NaCl units, [Figure 3.6 \"A Sodium Chloride Crystal\"](/chapters/ch-03-ionic-bonding-and-simple-ionic.md#src-gob-ch03-s03-f01) shows that no single ion is exclusively associated with any other single ion. Each ion is surrounded by ions of opposite charge.
 
 ``````````{figure} /images/section_06/7b7ced1b53e4aea3db26d2a9749795e3.jpg
 :alt: Chemical illustration: Figure 3.6 A Sodium Chloride Crystal
@@ -492,7 +492,7 @@ By convention, assume that there is only one atom if a subscript is not present.
 
 If we look at the ionic compound consisting of lithium ions and bromide ions, we see that the lithium ion has a 1+ charge and the bromide ion has a 1− charge. Only one ion of each is needed to balance these charges. The formula for lithium bromide is LiBr.
 
-When an ionic compound is formed from magnesium and oxygen, the magnesium ion has a 2+ charge, and the oxygen atom has a 2− charge. Although both of these ions have higher charges than the ions in lithium bromide, they still balance each other in a one-to-one ratio. Therefore, the proper formula for this ionic compound is MgO.
+When an ionic compound is formed from magnesium and oxygen, the magnesium ion has a 2+ charge, and the oxygen ion has a 2− charge. Although both of these ions have higher charges than the ions in lithium bromide, they still balance each other in a one-to-one ratio. Therefore, the proper formula for this ionic compound is MgO.
 
 Now consider the ionic compound formed by magnesium and chlorine. A magnesium ion has a 2+ charge, while a chlorine ion has a 1− charge:
 
@@ -1571,9 +1571,9 @@ The **formula mass** of an ionic compound is the sum of the masses of each indiv
 
 13. What is the formula mass of CaSO<sub>4</sub>·½H<sub>2</sub>O?
 
-14. What mass does 20 formula units of NaCl have?
+14. What mass do 20 formula units of NaCl have?
 
-15. What mass does 75 formula units of K<sub>2</sub>SO<sub>4</sub> have?
+15. What mass do 75 formula units of K<sub>2</sub>SO<sub>4</sub> have?
 
 16. If an atomic mass unit equals 1.66 × 10<sup>−24</sup> g, what is the mass in grams of one formula unit of NaCl?
 

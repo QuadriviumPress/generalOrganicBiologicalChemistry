@@ -60,7 +60,7 @@ Table 18.1 Classification of Proteins by Biological Function
   - Ovalbumin stores amino acids in the egg white that will be used by the developing bird.
 - - protection
   - protect cells or the organism from foreign substances
-  - Immunoglobulins recognize and breakdown foreign molecules.
+  - Immunoglobulins recognize and break down foreign molecules.
 
 ````````
 
@@ -551,7 +551,7 @@ We learned in [Chapter 16 \"Carbohydrates\"](/chapters/ch-16-carbohydrates.md#sr
 
 ````````````
 
-The structure of an amino acid allows it to act as both an acid and a base. An amino acid has this ability because at a certain pH value (different for each amino acid) nearly all the amino acid molecules exist as zwitterions. If acid is added to a solution containing the zwitterion, the carboxylate group captures a hydrogen (H<sup>+</sup>) ion, and the amino acid becomes positively charged. If base is added, ion removal of the H<sup>+</sup> ion from the amino group of the zwitterion produces a negatively charged amino acid. In both circumstances, the amino acid acts to maintain the pH of the system---that is, to remove the added acid (H<sup>+</sup>) or base (OH<sup>−</sup>) from solution.
+The structure of an amino acid allows it to act as both an acid and a base. An amino acid has this ability because at a certain pH value (different for each amino acid) nearly all the amino acid molecules exist as zwitterions. If acid is added to a solution containing the zwitterion, the carboxylate group captures a hydrogen (H<sup>+</sup>) ion, and the amino acid becomes positively charged. If base is added, removal of the H<sup>+</sup> ion from the amino group of the zwitterion produces a negatively charged amino acid. In both circumstances, the amino acid acts to maintain the pH of the system---that is, to remove the added acid (H<sup>+</sup>) or base (OH<sup>−</sup>) from solution.
 
 ``````````{figure} /images/section_21/ec4991fcc176fcfc73905e203570504e.jpg
 :alt: Chemical illustration: The structure of an amino acid allows it to act as both an acid and a base. An amino acid has this ability because at a certain pH value (different for each amino acid) nearly all the amino acid molecules exist as zwitterions. If acid is added to a solution containing the zwitterion, the carboxylate group captures a hydrogen (H + ) ion, and the ami
@@ -681,7 +681,7 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
     1.  acidic solution (pH = 1).
     2.  neutral solution (pH = 7).
-    3.  a basic solution (pH = 11)
+    3.  basic solution (pH = 11).
 
 2.  Draw the structure of isoleucine and determine the charge on the molecule in a(n)
 
@@ -775,7 +775,7 @@ Just as millions of different words are spelled with our 26-letter English alpha
 
 ````````````{important} Key Takeaways
 
-- The amino group of one amino acid can react with the carboxyl group on another amino acid to form a peptide bond that links the two amino acids together. Additional amino acids can be added on through the formation of addition peptide (amide) bonds.
+- The amino group of one amino acid can react with the carboxyl group on another amino acid to form a peptide bond that links the two amino acids together. Additional amino acids can be added on through the formation of additional peptide (amide) bonds.
 - A sequence of amino acids in a peptide or protein is written with the N-terminal amino acid first and the C-terminal amino acid at the end (writing left to right).
 
 ````````````
@@ -957,7 +957,7 @@ Anyone who has fried an egg has observed denaturation. The clear egg white turns
 
 **Figure 18.9 Denaturation and Renaturation of a Protein**
 
-The denaturation (unfolding) and renaturation (refolding) of a protein is depicted. The red boxes represent stabilizing interactions, such as disulfide linkages, hydrogen bonding, and/or ionic bonds.
+The denaturation (unfolding) and renaturation (refolding) of a protein are depicted. The red boxes represent stabilizing interactions, such as disulfide linkages, hydrogen bonding, and/or ionic bonds.
 ``````````
 
 The primary structures of proteins are quite sturdy. In general, fairly vigorous conditions are needed to hydrolyze peptide bonds. At the secondary through quaternary levels, however, proteins are quite vulnerable to attack, though they vary in their vulnerability to denaturation. The delicately folded globular proteins are much easier to denature than are the tough, fibrous proteins of hair and skin.
@@ -1080,7 +1080,7 @@ Table 18.5 Classes of Enzymes
   - Dehydrogenases catalyze oxidation-reduction reactions involving hydrogen and reductases catalyze reactions in which a substrate is reduced.
 - - transferases
   - transfer reactions of groups, such as methyl, amino, and acetyl
-  - Transaminases catalyze the transfer of amino group, and kinases catalyze the transfer of a phosphate group.
+  - Transaminases catalyze the transfer of an amino group, and kinases catalyze the transfer of a phosphate group.
 - - hydrolases
   - hydrolysis reactions
   - Lipases catalyze the hydrolysis of lipids, and proteases catalyze the hydrolysis of proteins
@@ -1201,7 +1201,7 @@ Enzyme-catalyzed reactions occur in at least two steps. In the first step, an en
 
 S + E → E--S E--S → P + E
 
-Hydrogen bonding and other electrostatic interactions hold the enzyme and substrate together in the complex. The structural features or functional groups on the enzyme that participate in these interactions are located in a cleft or pocket on the enzyme surface. This pocket, where the enzyme combines with the substrate and transforms the substrate to product is called the active site[^chem-22] of the enzyme ([Figure 18.10 \"Substrate Binding to the Active Site of an Enzyme\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s06-f01)). It possesses a unique conformation (including correctly positioned bonding groups) that is complementary to the structure of the substrate, so that the enzyme and substrate molecules fit together in much the same manner as a key fits into a tumbler lock. In fact, an early model describing the formation of the enzyme-substrate complex was called the lock-and-key model[^chem-23] ([Figure 18.11 \"The Lock-and-Key Model of Enzyme Action\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s06-f02)). This model portrayed the enzyme as conformationally rigid and able to bond only to substrates that exactly fit the active site.
+Hydrogen bonding and other electrostatic interactions hold the enzyme and substrate together in the complex. The structural features or functional groups on the enzyme that participate in these interactions are located in a cleft or pocket on the enzyme surface. This pocket, where the enzyme combines with the substrate and transforms the substrate to product, is called the active site[^chem-22] of the enzyme ([Figure 18.10 \"Substrate Binding to the Active Site of an Enzyme\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s06-f01)). It possesses a unique conformation (including correctly positioned bonding groups) that is complementary to the structure of the substrate, so that the enzyme and substrate molecules fit together in much the same manner as a key fits into a tumbler lock. In fact, an early model describing the formation of the enzyme-substrate complex was called the lock-and-key model[^chem-23] ([Figure 18.11 \"The Lock-and-Key Model of Enzyme Action\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s06-f02)). This model portrayed the enzyme as conformationally rigid and able to bond only to substrates that exactly fit the active site.
 
 ``````````{figure} /images/section_21/11aacd29092c2bf6edd10e57800cb799.jpg
 :alt: Chemical illustration: Figure 18.10 Substrate Binding to the Active Site of an Enzyme
@@ -1246,7 +1246,7 @@ Solution
 
 ### Skill-Building Exercise
 
-1.  What type of interaction would occur between an COO<sup>−</sup> group present on a substrate molecule and a functional group in the active site of an enzyme?
+1.  What type of interaction would occur between a COO<sup>−</sup> group present on a substrate molecule and a functional group in the active site of an enzyme?
 
 2.  Suggest an amino acid whose side chain might be in the active site of an enzyme and form the type of interaction you just identified.
 
@@ -1519,7 +1519,7 @@ Feedback inhibition[^chem-30] is a normal biochemical process that makes use of 
 
 **Figure 18.16 Feedback Inhibition of Threonine Deaminase by Isoleucine**
 
-Threonine deaminase is the first enzyme in the conversion of threonine to isoleucine. Isoleucine inhibits threonine deaminase through feedback inhibition .
+Threonine deaminase is the first enzyme in the conversion of threonine to isoleucine. Isoleucine inhibits threonine deaminase through feedback inhibition.
 ``````````
 
 ### Concept Review Exercises
@@ -1626,7 +1626,7 @@ Table 18.9 Water-Soluble Vitamins and Physiological Functions
   - variety of reactions including the transfer of amino groups
   - &mdash;
 - - vitamin B<sub>12</sub> (cyanocobalamin)
-  - methylcobalamin or deoxyadenoxylcobalamin
+  - methylcobalamin or deoxyadenosylcobalamin
   - intramolecular rearrangement reactions
   - pernicious anemia
 - - biotin
@@ -1656,7 +1656,7 @@ Vitamins C and E, as well as the provitamin β-carotene can act as antioxidants 
 
 ````````````
 
-Free radicals react most commonly react with lipoproteins and unsaturated fatty acids in cell membranes, removing an electron from those molecules and thus generating a new free radical. The process becomes a chain reaction that finally leads to the oxidative degradation of the affected compounds. Antioxidants react with free radicals to stop these chain reactions by forming a more stable molecule or, in the case of vitamin E, a free radical that is much less reactive. (Vitamin E is converted back to its original form through interaction with vitamin C.)
+Free radicals most commonly react with lipoproteins and unsaturated fatty acids in cell membranes, removing an electron from those molecules and thus generating a new free radical. The process becomes a chain reaction that finally leads to the oxidative degradation of the affected compounds. Antioxidants react with free radicals to stop these chain reactions by forming a more stable molecule or, in the case of vitamin E, a free radical that is much less reactive. (Vitamin E is converted back to its original form through interaction with vitamin C.)
 
 ### Concept Review Exercises
 

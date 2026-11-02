@@ -478,7 +478,7 @@ $$\left. \text{2KMnO}_{\text{4}} + \text{3CH}_{\text{2}}\text{=CH}_{\text{2}} + 
     SO<sub>2</sub>(g) + 2H<sub>2</sub>S(g) → 3S(g) + 2H<sub>2</sub>O(g)
 
     1.  Verify that this equation is balanced.
-    2.  How many S atoms will be formed from by reacting 1,078 molecules of H<sub>2</sub>S?
+    2.  How many S atoms will be formed by reacting 1,078 molecules of H<sub>2</sub>S?
 
 10. Nitric acid is made by reacting nitrogen dioxide with water:
 
@@ -1061,7 +1061,7 @@ In **stoichiometry**, quantities of reactants and/or products can be related to 
 
 Chemical reactions can be classified by type. **Combination reactions** (also called **composition reactions**) make a substance from other substances. **Decomposition reactions** break one substance down into multiple substances. **Combustion reactions** combine molecular oxygen with the atoms of another reactant.
 
-**Oxidation reactions** are reactions in which an atom loses an electron. **Reduction reactions** are reactions in which an atom gains an electron. These two processes always occur together, so they are collectively referred to as **oxidation-reduction** (or **redox**) **reactions**. The species being oxidized it called the **reducing agent**, while the species being reduced is the **oxidizing agent**. Alternate definitions of oxidation and reduction focus on the gain or loss of oxygen atoms, or the loss or gain of hydrogen atoms. Redox reactions are easily balanced if the overall reaction is first separated into **half reactions**, which are individually balanced.
+**Oxidation reactions** are reactions in which an atom loses an electron. **Reduction reactions** are reactions in which an atom gains an electron. These two processes always occur together, so they are collectively referred to as **oxidation-reduction** (or **redox**) **reactions**. The species being oxidized is called the **reducing agent**, while the species being reduced is the **oxidizing agent**. Alternate definitions of oxidation and reduction focus on the gain or loss of oxygen atoms, or the loss or gain of hydrogen atoms. Redox reactions are easily balanced if the overall reaction is first separated into **half reactions**, which are individually balanced.
 
 Oxidation-reduction reactions are common in organic and biological chemistry. **Respiration**, the process by which we inhale and metabolize oxygen, is a series of redox reactions. In the absence of oxygen, redox reactions still occur in a process called **anaerobic metabolism**. **Antioxidants** such as ascorbic acid also play a part in the human diet, acting as reducing agents in various biochemical reactions. **Photosynthesis**, the process by which plants convert water and carbon dioxide to glucose, is also based on redox reactions.
 
@@ -1087,7 +1087,7 @@ Oxidation-reduction reactions are common in organic and biological chemistry. **
 
 7.  Sulfuric acid is made in a three-step process: (1) the combustion of elemental sulfur to produce sulfur dioxide, (2) the continued reaction of sulfur dioxide with oxygen to produce sulfur trioxide, and (3) the reaction of sulfur trioxide with water to make sulfuric acid (H<sub>2</sub>SO<sub>4</sub>). Write balanced chemical equations for all three reactions.
 
-8.  If the products of glucose metabolism are carbon dioxide and water, what is the balanced chemical equation for the overall process? What is the stoichiometric ratio between the number of CO<sub>2</sub> molecules made to the number of H<sub>2</sub>O molecules made?
+8.  If the products of glucose metabolism are carbon dioxide and water, what is the balanced chemical equation for the overall process? What is the stoichiometric ratio between the number of CO<sub>2</sub> molecules made and the number of H<sub>2</sub>O molecules made?
 
 9.  Historically, the first true battery was the Leclanché cell, named after its discoverer, Georges Leclanché. It was based on the following reaction:
 

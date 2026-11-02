@@ -268,10 +268,10 @@ Table 2.3 Element Names and Symbols
   - Li
   - zirconium
   - Zr
-- - \*The symbol comes from the Latin name of element.
-  - \*The symbol comes from the Latin name of element.
-  - \*The symbol comes from the Latin name of element.
-  - \*The symbol comes from the Latin name of element.
+- - \*The symbol comes from the Latin name of the element.
+  - \*The symbol comes from the Latin name of the element.
+  - \*The symbol comes from the Latin name of the element.
+  - \*The symbol comes from the Latin name of the element.
 - - <sup>†</sup>The symbol for tungsten comes from its German name---*wolfram*.
   - <sup>†</sup>The symbol for tungsten comes from its German name---*wolfram*.
   - <sup>†</sup>The symbol for tungsten comes from its German name---*wolfram*.
@@ -1377,7 +1377,7 @@ Some sections of the periodic table have special names. The elements lithium, so
 
 ````````````{important} To Your Health: Transition Metals in the Body
 
-According to [Table 2.2 \"Elemental Composition of a Human Body\"](/chapters/ch-02-elements-atoms-and-the-periodi.md#src-gob-ch02-s01-s01-t02), most of the elemental composition of the human body consists of main group elements. The first element appearing on the list that is not a main group element is iron, at 0.006 percentage by mass. Because iron has relatively massive atoms, it would appear even lower on a list organized in terms of percent by *atoms* rather than percent by mass.
+According to [Table 2.2 \"Elemental Composition of a Human Body\"](/chapters/ch-02-elements-atoms-and-the-periodi.md#src-gob-ch02-s01-s01-t02), most of the elemental composition of the human body consists of main group elements. The first element appearing on the list that is not a main group element is iron, at 0.006 percent by mass. Because iron has relatively massive atoms, it would appear even lower on a list organized in terms of percent by *atoms* rather than percent by mass.
 
 Iron is a transition metal. Transition metals have interesting chemical properties, partially because some of their electrons are in *d* subshells. (For more information about electron shells, see [Section 2.6 \"Arrangements of Electrons\"](/chapters/ch-02-elements-atoms-and-the-periodi.md#src-gob-ch02-s06).) The chemistry of iron makes it a key component in the proper functioning of red blood cells.
 
@@ -1688,7 +1688,7 @@ The periodic table helps us understand trends in some of the properties of atoms
 
 11. The compound that sodium makes with chlorine has sodium and chlorine atoms in a 1:1 ratio. Name two other elements that should make a compound having a 1:1 ratio of atoms with sodium.
 
-12. The compound that magnesium makes with oxygen has magnesium to oxygen atoms in a 1:1 ratio. Name two other elements that should make a compound having a 1:1 ratio of atoms with magnesium.
+12. The compound that magnesium makes with oxygen has magnesium and oxygen atoms in a 1:1 ratio. Name two other elements that should make a compound having a 1:1 ratio of atoms with magnesium.
 
 ### Answers
 

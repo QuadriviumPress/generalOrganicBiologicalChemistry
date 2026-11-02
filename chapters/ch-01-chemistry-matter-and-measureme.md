@@ -131,7 +131,7 @@ Not all scientific investigations are simple enough to be separated into these t
     4.  astrology (the prediction of human events based on planetary and star positions)
     5.  political science (the study of politics)
 
-2.  Based on what you know, which fields are a branches of science?
+2.  Based on what you know, which fields are branches of science?
 
     1.  history (the study of past events)
     2.  ornithology (the study of birds)
@@ -714,7 +714,7 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
 
 ### Concept Review Exercises
 
-1.  Why it is easier to use scientific notation to express very large or very small numbers?
+1.  Why is it easier to use scientific notation to express very large or very small numbers?
 
 2.  What is the relationship between how many places a decimal point moves and the power of 10 used in changing a conventional number into scientific notation?
 
@@ -726,7 +726,7 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
 
 ````````````{important} Key Takeaway
 
-- Large or small numbers are expressed in scientific notation, which use powers of 10.
+- Large or small numbers are expressed in scientific notation, which uses powers of 10.
 
 ````````````
 
@@ -1110,11 +1110,11 @@ Remember that calculators do not understand significant figures. *You* are the o
 
 Now that we have discussed some of the conventions for expressing numbers, let us focus on the other component of a quantity---the units.
 
-People who live in the United States measure weight in pounds, height in feet and inches, and a car's speed in miles per hour. In contrast, chemistry and other branches of science use the International System of Units (also known as **SI** after *Système Internationale d'Unités*), which was established so that scientists around the world could communicate efficiently with each other. Many countries have also adopted SI units for everyday use as well. The United States is one of the few countries that has not.
+People who live in the United States measure weight in pounds, height in feet and inches, and a car's speed in miles per hour. In contrast, chemistry and other branches of science use the International System of Units (also known as **SI** after *Système International d'Unités*), which was established so that scientists around the world could communicate efficiently with each other. Many countries have also adopted SI units for everyday use as well. The United States is one of the few countries that has not.
 
 ### Base SI Units
 
-Base (or basic) units[^chem-28], are the fundamental units of SI. There are seven base units, which are listed in [Table 1.2 \"The Seven Base SI Units\"](/chapters/ch-01-chemistry-matter-and-measureme.md#src-gob-ch01-s06-s01-t01). Chemistry uses five of the base units: the mole for amount, the kilogram for mass, the meter for length, the second for time, and the kelvin for temperature. The degree Celsius (°C) is also commonly used for temperature. The numerical relationship between kelvins and degrees Celsius is as follows:
+Base (or basic) units[^chem-28] are the fundamental units of SI. There are seven base units, which are listed in [Table 1.2 \"The Seven Base SI Units\"](/chapters/ch-01-chemistry-matter-and-measureme.md#src-gob-ch01-s06-s01-t01). Chemistry uses five of the base units: the mole for amount, the kilogram for mass, the meter for length, the second for time, and the kelvin for temperature. The degree Celsius (°C) is also commonly used for temperature. The numerical relationship between kelvins and degrees Celsius is as follows:
 
 K = °C + 273
 
@@ -1865,7 +1865,7 @@ Chemistry uses SI, a system of units based on seven **basic units**. The most im
 
 [^chem-6]: A general statement that describes a large set of observations and data.
 
-[^chem-7]: A charactristic that describes matter, such as size, shape, and color.
+[^chem-7]: A characteristic that describes matter, such as size, shape, and color.
 
 [^chem-8]: A characteristic that describes how matter changes its chemical structure or composition.
 
@@ -1909,7 +1909,7 @@ Chemistry uses SI, a system of units based on seven **basic units**. The most im
 
 [^chem-28]: A fundamental unit of SI.
 
-[^chem-29]: A combinations of the SI base units.
+[^chem-29]: A combination of the SI base units.
 
 [^chem-30]: The amount of space that a given substance occupies.
 

@@ -109,7 +109,7 @@ Here are some basic rules for naming alkenes from the International Union of Pur
 
 1.  The longest chain of carbon atoms *containing the double bond* is considered the parent chain. It is named using the same stem as the alkane having the same number of carbon atoms but ends in -*ene* to identify it as an alkene. Thus the compound CH<sub>2</sub>=CHCH<sub>3</sub> is *propene*.
 
-2.  If there are four or more carbon atoms in a chain, we must indicate the position of the double bond. The carbons atoms are numbered so that the first of the two that are doubly bonded is given the lower of the two possible numbers. The compound CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub>, for example, has the double bond between the second and third carbon atoms. Its name is 2-pentene (not 3-pentene).
+2.  If there are four or more carbon atoms in a chain, we must indicate the position of the double bond. The carbon atoms are numbered so that the first of the two that are doubly bonded is given the lower of the two possible numbers. The compound CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub>, for example, has the double bond between the second and third carbon atoms. Its name is 2-pentene (not 3-pentene).
 
 3.  Substituent groups are named as with alkanes, and their position is indicated by a number. Thus,
 
@@ -325,7 +325,7 @@ Draw the structure for each compound.
 
 ````````````{note} Learning Objectives
 
-1.  Recognize that alkenes that can exist as cis-trans isomers.
+1.  Recognize alkenes that can exist as cis-trans isomers.
 2.  Classify isomers as cis or trans.
 3.  Draw structures for cis-trans isomers given their names.
 
@@ -827,7 +827,7 @@ Table 13.2 Some Addition Polymers
 
 ### Medical Uses of Polymers
 
-An interesting use of polymers is the replacement of diseased, worn out, or missing parts in the body. For example, about a 250,000 hip joints and 500,000 knees are replaced in US hospitals each year. The artificial ball-and-socket hip joints are made of a special steel (the ball) and plastic (the socket). People crippled by arthritis or injuries gain freedom of movement and relief from pain. Patients with heart and circulatory problems can be helped by replacing worn out heart valves with parts based on synthetic polymers. These are only a few of the many biomedical uses of polymers.
+An interesting use of polymers is the replacement of diseased, worn out, or missing parts in the body. For example, about 250,000 hip joints and 500,000 knees are replaced in US hospitals each year. The artificial ball-and-socket hip joints are made of a special steel (the ball) and plastic (the socket). People crippled by arthritis or injuries gain freedom of movement and relief from pain. Patients with heart and circulatory problems can be helped by replacing worn out heart valves with parts based on synthetic polymers. These are only a few of the many biomedical uses of polymers.
 
 ``````````{figure} /images/section_16/461b2df917121289cc0d8b4d7c85c6f0.jpg
 :alt: Chemical illustration: Figure 13.4 Hip Joint Replacement
@@ -881,7 +881,7 @@ Synthetic polymers are an important part of a hip joint replacement. The hip is 
 
 ````````````
 
-The simplest alkyne---a hydrocarbon with carbon-to-carbon triple bond---has the molecular formula C<sub>2</sub>H<sub>2</sub> and is known by its common name---acetylene ([Figure 13.5 \"Ball-and-Spring Model of Acetylene\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13-s06-f01)). Its structure is H--C≡C--H.
+The simplest alkyne---a hydrocarbon with a carbon-to-carbon triple bond---has the molecular formula C<sub>2</sub>H<sub>2</sub> and is known by its common name---acetylene ([Figure 13.5 \"Ball-and-Spring Model of Acetylene\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13-s06-f01)). Its structure is H--C≡C--H.
 
 ``````````{figure} /images/section_16/a8fcc4af9afa9709d403b0501fc769f4.jpg
 :alt: Chemical illustration: Figure 13.5 Ball-and-Spring Model of Acetylene
@@ -964,7 +964,7 @@ Alkynes are similar to alkenes in both physical and chemical properties. For exa
 
 Next we consider a class of hydrocarbons with molecular formulas like those of unsaturated hydrocarbons, but which, unlike the alkenes, do not readily undergo addition reactions. These compounds comprise a distinct class, called aromatic hydrocarbons[^chem-14], with unique structures and properties. We start with the simplest of these compounds. Benzene (C<sub>6</sub>H<sub>6</sub>) is of great commercial importance, but it also has noteworthy health effects (see "To Your Health: Benzene and Us").
 
-The formula C<sub>6</sub>H<sub>6</sub> seems to indicate that benzene has a high degree of unsaturation. (Hexane, the saturated hydrocarbon with six carbon atoms has the formula C<sub>6</sub>H<sub>14</sub>---eight more hydrogen atoms than benzene.) However, despite the seeming low level of saturation, benzene is rather unreactive. It does not, for example, react readily with bromine, which, as mentioned in [Section 13.1 \"Alkenes: Structures and Names\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13-s01), is a test for unsaturation.
+The formula C<sub>6</sub>H<sub>6</sub> seems to indicate that benzene has a high degree of unsaturation. (Hexane, the saturated hydrocarbon with six carbon atoms, has the formula C<sub>6</sub>H<sub>14</sub>---eight more hydrogen atoms than benzene.) However, despite the seeming low level of saturation, benzene is rather unreactive. It does not, for example, react readily with bromine, which, as mentioned in [Section 13.1 \"Alkenes: Structures and Names\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13-s01), is a test for unsaturation.
 
 ````````````{important} Note
 

@@ -22,7 +22,7 @@ Ethanol and resveratrol, a phenol, are representatives of two of the families of
 
 ````````````
 
-In [Chapter 12 \"Organic Chemistry: Alkanes and Halogenated Hydrocarbons\"](/chapters/ch-12-organic-chemistry-alkanes-and-.md#src-gob-ch12) and [Chapter 13 \"Unsaturated and Aromatic Hydrocarbons\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13), we considered several kinds of hydrocarbons. Now we examine some of the many organic compounds that contain functional groups. We first introduced the idea of the functional group[^chem-1], a specific structural arrangement of atoms or bonds that imparts a characteristic chemical reactivity to the molecule, in [Chapter 4 \"Covalent Bonding and Simple Molecular Compounds\"](/chapters/ch-04-covalent-bonding-and-simple-mo.md#src-gob-ch04), [Section 4.6 \"Introduction to Organic Chemistry\"](/chapters/ch-04-covalent-bonding-and-simple-mo.md#src-gob-ch04-s06). If you understand the behavior of a particular functional group, you will know a great deal about the general properties of that class of compounds. In this chapter and [Chapter 15 \"Organic Acids and Bases and Some of Their Derivatives\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15), we make a brief yet systematic study of some of organic compound families. Each family is based on a common, simple functional group that contains an oxygen atom or a nitrogen atom. Some common functional groups are listed in [Table 14.1 \"Selected Organic Functional Groups\"](/chapters/ch-14-organic-compounds-of-oxygen.md#src-gob-ch14-s01-t01).
+In [Chapter 12 \"Organic Chemistry: Alkanes and Halogenated Hydrocarbons\"](/chapters/ch-12-organic-chemistry-alkanes-and-.md#src-gob-ch12) and [Chapter 13 \"Unsaturated and Aromatic Hydrocarbons\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13), we considered several kinds of hydrocarbons. Now we examine some of the many organic compounds that contain functional groups. We first introduced the idea of the functional group[^chem-1], a specific structural arrangement of atoms or bonds that imparts a characteristic chemical reactivity to the molecule, in [Chapter 4 \"Covalent Bonding and Simple Molecular Compounds\"](/chapters/ch-04-covalent-bonding-and-simple-mo.md#src-gob-ch04), [Section 4.6 \"Introduction to Organic Chemistry\"](/chapters/ch-04-covalent-bonding-and-simple-mo.md#src-gob-ch04-s06). If you understand the behavior of a particular functional group, you will know a great deal about the general properties of that class of compounds. In this chapter and [Chapter 15 \"Organic Acids and Bases and Some of Their Derivatives\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15), we make a brief yet systematic study of some of the organic compound families. Each family is based on a common, simple functional group that contains an oxygen atom or a nitrogen atom. Some common functional groups are listed in [Table 14.1 \"Selected Organic Functional Groups\"](/chapters/ch-14-organic-compounds-of-oxygen.md#src-gob-ch14-s01-t01).
 
 (src-gob-ch14-s01-t01)=
 
@@ -216,10 +216,10 @@ Give the IUPAC name for each compound.
 
 Solution
 
-1.  Ten carbon atoms in the LCC makes the compound a derivative of decane (rule 1), and the OH on the third carbon atom makes it a 3-decanol (rule 2).
+1.  Ten carbon atoms in the LCC make the compound a derivative of decane (rule 1), and the OH on the third carbon atom makes it a 3-decanol (rule 2).
 
     ``````````{figure} /images/section_17/bfd14bfef010dce587a4ad2e18541aaf.jpg
-    :alt: Chemical illustration: Ten carbon atoms in the LCC makes the compound a derivative of decane (rule 1), and the OH on the third carbon atom makes it a 3-decanol (rule 2).
+    :alt: Chemical illustration: Ten carbon atoms in the LCC make the compound a derivative of decane (rule 1), and the OH on the third carbon atom makes it a 3-decanol (rule 2).
     
     
     ``````````
@@ -639,7 +639,7 @@ Answer the following exercises without consulting tables in the text.
 
 ````````````
 
-Methanol is prepared by combining hydrogen gas and carbon monoxide at high temperatures and pressures in the presence of a catalyst composed of zinc oxide (ZnO) and chromium oxide (Cr<sub>2</sub>O<sub>3</sub>) catalyst:
+Methanol is prepared by combining hydrogen gas and carbon monoxide at high temperatures and pressures in the presence of a catalyst composed of zinc oxide (ZnO) and chromium oxide (Cr<sub>2</sub>O<sub>3</sub>):
 
 $$2\text{H}_{\text{2}}\text{~+~CO~}\underset{\text{ZnO,~Cr}_{\text{2}}\text{O}_{3}}{\overset{\text{200~atm,~350°C}}{\rightarrow}}\text{~CH}_{\text{3}}\text{OH}$$
 
@@ -841,7 +841,7 @@ Secondary alcohols are oxidized to *ketones*. The oxidation of isopropyl alcohol
 
 Unlike aldehydes, ketones are relatively resistant to further oxidation ([Section 14.9 \"Aldehydes and Ketones: Structure and Names\"](/chapters/ch-14-organic-compounds-of-oxygen.md#src-gob-ch14-s09)), so no special precautions are required to isolate them as they form.
 
-Note that in oxidation of both primary (RCH<sub>2</sub>OH) and secondary (R<sub>2</sub>CHOH) alcohols, two hydrogen atoms are removed from the alcohol molecule, one from the OH group and other from the carbon atom that bears the OH group.
+Note that in oxidation of both primary (RCH<sub>2</sub>OH) and secondary (R<sub>2</sub>CHOH) alcohols, two hydrogen atoms are removed from the alcohol molecule, one from the OH group and the other from the carbon atom that bears the OH group.
 
 ````````````{important} Note
 
@@ -1037,7 +1037,7 @@ Write an equation for the oxidation of each alcohol. Use \[O\] above the arrow t
 Alcohols with two OH groups on adjacent carbon atoms are commonly known as glycols[^chem-6]. The most important of these is 1,2-ethanediol (the common name is ethylene glycol), a sweet, colorless, somewhat viscous liquid.
 
 ``````````{figure} /images/section_17/191ae402a56372ad2c94e130982c7dce.jpg
-:alt: Chemical illustration: Alcohols with two OH groups on adjacent carbon atoms are commonly known as glycols An alcohol with two OH functional groups. . The most important of these is 1,2-ethanediol (the common name is ethylene glycol), a sweet, colorless, somewhat viscous liquid.
+:alt: Chemical illustration: Alcohols with two OH groups on adjacent carbon atoms are commonly known as glycols. The most important of these is 1,2-ethanediol (the common name is ethylene glycol), a sweet, colorless, somewhat viscous liquid.
 
 ``````````
 
@@ -1117,7 +1117,7 @@ Glycerol, a product of fat metabolism, is essentially nontoxic.
 
 4.  Draw the structure for each compound.
 
-    1.  1,3-hexandiol
+    1.  1,3-hexanediol
     2.  glycerol
 
 ### Answers
@@ -1262,11 +1262,11 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 ````````````
 
-With the general formula ROR′, an ether[^chem-8] may be considered a derivative of water in which both hydrogen atoms are replaced by alkyl or aryl groups. It may also be considered a derivative of an alcohol (ROH) in which the hydrogen atom of the OH group is been replaced by a second alkyl or aryl group:
+With the general formula ROR′, an ether[^chem-8] may be considered a derivative of water in which both hydrogen atoms are replaced by alkyl or aryl groups. It may also be considered a derivative of an alcohol (ROH) in which the hydrogen atom of the OH group has been replaced by a second alkyl or aryl group:
 
 $$\text{HOH}\underset{\text{H~atoms}}{\overset{\text{replace~both}}{\rightarrow}}\text{ROR'}\underset{\text{of~OH~group}}{\overset{\text{replace~H~atom}}{\leftarrow}}\text{ROH}$$
 
-Simple ethers have simple common names, formed from the names of the groups attached to oxygen atom, followed by the generic name *ether*. For example, CH<sub>3</sub>--O--CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> is methyl propyl ether. If both groups are the same, the group name should be preceded by the prefix *di*-, as in dimethyl ether (CH<sub>3</sub>--O--CH<sub>3</sub>) and diethyl ether CH<sub>3</sub>CH<sub>2</sub>--O--CH<sub>2</sub>CH<sub>3</sub>.
+Simple ethers have simple common names, formed from the names of the groups attached to the oxygen atom, followed by the generic name *ether*. For example, CH<sub>3</sub>--O--CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> is methyl propyl ether. If both groups are the same, the group name should be preceded by the prefix *di*-, as in dimethyl ether (CH<sub>3</sub>--O--CH<sub>3</sub>) and diethyl ether CH<sub>3</sub>CH<sub>2</sub>--O--CH<sub>2</sub>CH<sub>3</sub>.
 
 Ether molecules have no hydrogen atom on the oxygen atom (that is, no OH group). Therefore there is no intermolecular hydrogen bonding between ether molecules, and ethers therefore have quite low boiling points for a given molar mass. Indeed, ethers have boiling points about the same as those of alkanes of comparable molar mass and much lower than those of the corresponding alcohols ([Table 14.4 \"Comparison of Boiling Points of Alkanes, Alcohols, and Ethers\"](/chapters/ch-14-organic-compounds-of-oxygen.md#src-gob-ch14-s08-t01)).
 
@@ -1457,7 +1457,7 @@ These three modern, inhalant, halogen-containing, anesthetic compounds are less 
 The next functional group we consider, the carbonyl group[^chem-9], has a carbon-to-oxygen double bond.
 
 ``````````{figure} /images/section_17/c99afd71e60c6d951c0a506e18d676e2.jpg
-:alt: Chemical illustration: The next functional group we consider, the carbonyl group A compound with an carbon-to-oxygen double bond. , has a carbon-to-oxygen double bond.
+:alt: Chemical illustration: The next functional group we consider, the carbonyl group A compound with a carbon-to-oxygen double bond. , has a carbon-to-oxygen double bond.
 
 ``````````
 
@@ -1479,7 +1479,7 @@ In a ketone[^chem-10], two carbon groups are attached to the carbonyl carbon ato
 In an aldehyde[^chem-11], at least one of the attached groups must be a hydrogen atom. The following compounds are aldehydes:
 
 ``````````{figure} /images/section_17/aea4705b99aaa721f6011c448cb1e67d.jpg
-:alt: Chemical illustration: In an aldehyde An organic compound with a carbonyl functional group that has an hydrogen atom attached and either a hydrocarbon group or a second hydrogen atom. , at least one of the attached groups must be a hydrogen atom. The following compounds are aldehydes:
+:alt: Chemical illustration: In an aldehyde An organic compound with a carbonyl functional group that has a hydrogen atom attached and either a hydrocarbon group or a second hydrogen atom. , at least one of the attached groups must be a hydrogen atom. The following compounds are aldehydes:
 
 ``````````
 
@@ -1653,7 +1653,7 @@ Give the IUPAC name for each compound.
 Draw the structure for each compound.
 
 1.  7-chlorooctanal
-2.  4-methyl--3-hexanone
+2.  4-methyl-3-hexanone
 
 Solution
 
@@ -1703,7 +1703,7 @@ Draw the structure for each compound.
 
 - The common names of aldehydes are taken from the names of the corresponding carboxylic acids: formaldehyde, acetaldehyde, and so on.
 - The common names of ketones, like those of ethers, consist of the names of the groups attached to the carbonyl group, followed by the word *ketone*.
-- Stem names of aldehydes and ketones are derived from those of the parent alkanes, using an -*al* ending for an aldehydes and an -*one* ending for a ketone.
+- Stem names of aldehydes and ketones are derived from those of the parent alkanes, using an -*al* ending for an aldehyde and an -*one* ending for a ketone.
 
 ````````````
 
@@ -1800,7 +1800,7 @@ Draw the structure for each compound.
 
 1.  Explain why the boiling points of aldehydes and ketones are higher than those of ethers and alkanes of similar molar masses but lower than those of comparable alcohols.
 2.  Compare the solubilities in water of aldehydes and ketones of four or fewer carbon atoms with the solubilities of comparable alkanes and alcohols.
-3.  Name the typical reactions take place with aldehydes and ketones.
+3.  Name the typical reactions that take place with aldehydes and ketones.
 4.  Describe some of the uses of common aldehydes and ketones.
 
 ````````````
@@ -2039,7 +2039,7 @@ Certain steroid hormones have the ketone functional group as a part of their str
 
 Because sulfur is in the same group (6A) of the periodic table as oxygen, the two elements have some similar properties. We might expect sulfur to form organic compounds related to those of oxygen, and indeed it does.
 
-Thiols[^chem-12] (also called mercaptans), which are sulfur analogs of alcohols, have the general formula RSH. Methanethiol (also called methyl mercaptan), has the formula CH<sub>3</sub>SH. Ethanethiol (ethyl mercaptan) is the most common odorant for liquid propane (LP) gas.
+Thiols[^chem-12] (also called mercaptans), which are sulfur analogs of alcohols, have the general formula RSH. Methanethiol (also called methyl mercaptan) has the formula CH<sub>3</sub>SH. Ethanethiol (ethyl mercaptan) is the most common odorant for liquid propane (LP) gas.
 
 The mild oxidation of thiols gives compounds called disulfides.
 
@@ -2047,7 +2047,7 @@ $$2\text{~RSH~}\overset{\text{[O]}}{\rightarrow}\text{~RSSR}$$
 
 As we note in [Chapter 18 \"Amino Acids, Proteins, and Enzymes\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18), [Section 18.4 \"Proteins\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s04), the amino acids cysteine \[HSCH<sub>2</sub>CH(NH<sub>2</sub>)COOH\] and methionine \[CH<sub>3</sub>SCH<sub>2</sub>CH<sub>2</sub>CH(NH<sub>2</sub>)COOH\] contain sulfur atoms, as do all proteins that contain these amino acids. Disulfide linkages (--S--S--) between protein chains are extremely important in protein structure.
 
-Thioethers, which are sulfur analogs of ethers, have the form general formula RSR′. An example is dimethylsulfide (CH<sub>3</sub>SCH<sub>3</sub>), which is responsible for the sometimes unpleasant odor of cooking cabbage and related vegetables. Note that methionine has a thioether functional group.
+Thioethers, which are sulfur analogs of ethers, have the general formula RSR′. An example is dimethylsulfide (CH<sub>3</sub>SCH<sub>3</sub>), which is responsible for the sometimes unpleasant odor of cooking cabbage and related vegetables. Note that methionine has a thioether functional group.
 
 ````````````{important} Career Focus: Paramedic
 
@@ -2103,7 +2103,7 @@ The hydroxyl group (OH) is the functional group of the **alcohols**. The alcohol
 
 The ability to engage in hydrogen bonding greatly increases the boiling points of alcohols compared to hydrocarbons of comparable molar mass. Alcohols can also engage in hydrogen bonding with water molecules, and those with up to about four carbon atoms are soluble in water.
 
-Many alcohols can be synthesized by the hydration of alkenes. Common alcohols include methanol, ethanol, and isopropyl alcohol. Methanol is quite poisonous. It can cause blindness or even death. Ethanol can be prepared from ethylene or made by fermentation. It is the "alcohol" in alcoholic beverages. On occasion, people drink methanol by mistake, thinking it is the beverage alcohol. On occasion, unscrupulous bootleggers, sell methanol to unsuspecting customers. In either case, the results are often tragic.
+Many alcohols can be synthesized by the hydration of alkenes. Common alcohols include methanol, ethanol, and isopropyl alcohol. Methanol is quite poisonous. It can cause blindness or even death. Ethanol can be prepared from ethylene or made by fermentation. It is the "alcohol" in alcoholic beverages. On occasion, people drink methanol by mistake, thinking it is the beverage alcohol. On occasion, unscrupulous bootleggers sell methanol to unsuspecting customers. In either case, the results are often tragic.
 
 Rubbing alcohol is usually a 70% aqueous solution of isopropyl alcohol. Ethanol is also used in some rubbing alcohol formulations.
 
@@ -2137,7 +2137,7 @@ A **thiol** is a compound with an SH functional group.
     2.  CH<sub>3</sub>CHOHCH<sub>3</sub> → CH<sub>3</sub>CH=CH<sub>2</sub>
     3.  CH<sub>2</sub>=CHCH<sub>2</sub>CH<sub>3</sub> → CH<sub>3</sub>CHOHCH<sub>2</sub>CH<sub>3</sub>
 
-6.  Classify each conversion as oxidation, dehydration, or hydration (only the organic starting material and product are shown.):
+6.  Classify each conversion as oxidation, dehydration, or hydration (only the organic starting material and product are shown):
 
     1.  CH<sub>3</sub>CHOHCH<sub>3</sub> → CH<sub>3</sub>COCH<sub>3</sub>
     2.  HOOCCH=CHCOOH → HOOCCH<sub>2</sub>CHOHCOOH
@@ -2348,11 +2348,11 @@ A **thiol** is a compound with an SH functional group.
 
 [^chem-2]: An organic compound with an OH functional group on an aliphatic carbon atom.
 
-[^chem-3]: A compound with an OH group on a carbonatom that is attached to only one other carbon atom.
+[^chem-3]: A compound with an OH group on a carbon atom that is attached to only one other carbon atom.
 
 [^chem-4]: A compound with an OH group on a carbon atom that is attached to two other carbon atoms.
 
-[^chem-5]: A compond with an OH group on a carbon atom that is attached to three other carbon atoms.
+[^chem-5]: A compound with an OH group on a carbon atom that is attached to three other carbon atoms.
 
 [^chem-6]: An alcohol with two OH functional groups.
 
@@ -2360,10 +2360,10 @@ A **thiol** is a compound with an SH functional group.
 
 [^chem-8]: An organic compound that has an oxygen atom between two hydrocarbon groups.
 
-[^chem-9]: A compound with an carbon-to-oxygen double bond.
+[^chem-9]: A compound with a carbon-to-oxygen double bond.
 
 [^chem-10]: An organic compound whose molecules have a carbonyl functional group between two hydrocarbon groups.
 
-[^chem-11]: An organic compound with a carbonyl functional group that has an hydrogen atom attached and either a hydrocarbon group or a second hydrogen atom.
+[^chem-11]: An organic compound with a carbonyl functional group that has a hydrogen atom attached and either a hydrocarbon group or a second hydrogen atom.
 
 [^chem-12]: A compound with an SH functional group.

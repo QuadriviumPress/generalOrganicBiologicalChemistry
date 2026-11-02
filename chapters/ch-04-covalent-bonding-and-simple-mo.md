@@ -298,7 +298,7 @@ In molecules, there is a pattern to the number of covalent bonds that different 
 What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding. For example, ammonium chloride has ionic bonds between a polyatomic ion, NH<sub>4</sub><sup>+</sup>, and Cl<sup>−</sup> ions, but within the ammonium ion, the nitrogen and hydrogen atoms are connected by covalent bonds:
 
 ``````````{figure} /images/section_07/cdbb825f61fd187a32f41ebcf8eb82fc.jpg
-:alt: Chemical illustration: What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding. For example, 
+:alt: Chemical illustration: What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding.
 
 ``````````
 
@@ -318,7 +318,7 @@ Solution
 
 ### Skill-Building Exercise
 
-Is each compound are formed from ionic bonds, covalent bonds, or both?
+Is each compound formed from ionic bonds, covalent bonds, or both?
 
 1.  Ba(OH)<sub>2</sub>
 
@@ -590,14 +590,14 @@ Sometimes more than one pair of electrons must be shared between two atoms for b
 In this arrangement, the carbon atom shares four electrons (two pairs) with the oxygen atom on the left and four electrons with the oxygen atom on the right. There are now eight electrons around each atom. Two pairs of electrons shared between two atoms make a double bond[^chem-9] between the atoms, which is represented by a double dash:
 
 ``````````{figure} /images/section_07/9d06701edbe255e214cb9a2ce9003531.jpg
-:alt: Chemical illustration: In this arrangement, the carbon atom shares four electrons (two pairs) with the oxygen atom on the left and four electrons with the oxygen atom on the right. There are now eight electrons around each atom. Two pairs of electrons shared between two atoms make a double bond Two pairs of electrons being shared by two atoms in a molecule. between the a
+:alt: Chemical illustration: In this arrangement, the carbon atom shares four electrons (two pairs) with the oxygen atom on the left and four electrons with the oxygen atom on the right. There are now eight electrons around each atom. Two pairs of electrons shared between two atoms make a double bond between the atoms, which is represented by a double dash:
 
 ``````````
 
 Some molecules contain triple bonds[^chem-10], covalent bonds in which *three* pairs of electrons are shared by two atoms. A simple compound that has a triple bond is acetylene (C<sub>2</sub>H<sub>2</sub>), whose Lewis diagram is as follows:
 
 ``````````{figure} /images/section_07/d0933412cceac72020a327dded8fd804.jpg
-:alt: Chemical illustration: Some molecules contain triple bonds Three pairs of electrons being shared by two atoms in a molecule. , covalent bonds in which three pairs of electrons are shared by two atoms. A simple compound that has a triple bond is acetylene (C 2 H 2 ), whose Lewis diagram is as follows:
+:alt: Chemical illustration: Some molecules contain triple bonds, covalent bonds in which three pairs of electrons are shared by two atoms. A simple compound that has a triple bond is acetylene (C 2 H 2 ), whose Lewis diagram is as follows:
 
 ``````````
 
@@ -939,7 +939,7 @@ The physical properties of water and carbon dioxide are affected by their polari
 10. Will the electrons be shared equally or unequally across each covalent bond? If unequally, to which atom are the electrons more strongly drawn?
 
     1.  a C--C bond
-    2.  a S--Cl bond
+    2.  an S--Cl bond
     3.  an O--H bond
     4.  an H--H bond
 
@@ -1091,7 +1091,7 @@ What is the molecular mass of each covalent compound?
 Unlike ionic compounds, with their extended crystal lattices, covalent molecules are discrete units with specific three-dimensional shapes. The shape of a molecule is determined by the fact that covalent bonds, which are composed of negatively charged electrons, tend to repel one another. This concept is called the valence shell electron pair repulsion (VSEPR)[^chem-15] theory. For example, the two covalent bonds in BeCl<sub>2</sub> stay as far from each other as possible, ending up 180° apart from each other. The result is a linear molecule:
 
 ``````````{figure} /images/section_07/81c99548c102d66297c59c22993151a1.jpg
-:alt: Chemical illustration: Unlike ionic compounds, with their extended crystal lattices, covalent molecules are discrete units with specific three-dimensional shapes. The shape of a molecule is determined by the fact that covalent bonds, which are composed of negatively charged electrons, tend to repel one another. This concept is called the valence shell electron pair repul
+:alt: Chemical illustration: Unlike ionic compounds, with their extended crystal lattices, covalent molecules are discrete units with specific three-dimensional shapes. The shape of a molecule is determined by the fact that covalent bonds, which are composed of negatively charged electrons, tend to repel one another. This concept is called the valence shell electron pair repulsion (VSEPR) theory.
 
 ``````````
 
@@ -1627,7 +1627,7 @@ The distance between two covalently bonded atoms is the **bond length**. Bond le
 
 The mass of a molecule is called its **molecular mass** and is the sum of the masses of the atoms in the molecule. The shape of a molecule can be predicted using **valence shell electron pair repulsion (VSEPR)**, which uses the fact that the negative electrons in covalent bonds repel each other as much as possible.
 
-**Organic chemistry** is the chemistry of carbon compounds. Carbon forms covalent bonds with other carbon atoms and with the atoms of many other elements. The simplest organic compounds are **hydrocarbons**, which consist solely of carbon and hydrogen. Hydrocarbons containing only single bonds are called **alkanes (saturated hydrocarbons)**. Hydrocarbons containing carbon--carbon double bonds are **alkenes**, while hydrocarbons with carbon--carbon triple bonds are **alkynes**. Carbon-carbon double and triple bonds are examples of **functional groups**, atoms or bonds that impart a characteristic chemical function to the molecule. Other functional groups include the alcohol functional group (OH) and the **carboxyl functional group** (COOH). They are the characteristic functional group in organic compounds called **alcohols** and **carboxylic acids**.
+**Organic chemistry** is the chemistry of carbon compounds. Carbon forms covalent bonds with other carbon atoms and with the atoms of many other elements. The simplest organic compounds are **hydrocarbons**, which consist solely of carbon and hydrogen. Hydrocarbons containing only single bonds are called **alkanes (saturated hydrocarbons)**. Hydrocarbons containing carbon--carbon double bonds are **alkenes**, while hydrocarbons with carbon--carbon triple bonds are **alkynes**. Carbon-carbon double and triple bonds are examples of **functional groups**, atoms or bonds that impart a characteristic chemical function to the molecule. Other functional groups include the alcohol functional group (OH) and the **carboxyl functional group** (COOH). They are the characteristic functional groups in organic compounds called **alcohols** and **carboxylic acids**.
 
 ````````````
 

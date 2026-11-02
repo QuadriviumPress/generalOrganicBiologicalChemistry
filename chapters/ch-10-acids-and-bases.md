@@ -390,7 +390,7 @@ Sodium amide (NaNH<sub>2</sub>) dissolves in methanol (CH<sub>3</sub>OH) and sep
 
 Solution
 
-The equation for the reaction is between NH<sub>2</sub><sup>−</sup> and CH<sub>3</sub>OH to make NH<sub>3</sub> and CH<sub>3</sub>O<sup>−</sup> is as follows:
+The equation for the reaction between NH<sub>2</sub><sup>−</sup> and CH<sub>3</sub>OH to make NH<sub>3</sub> and CH<sub>3</sub>O<sup>−</sup> is as follows:
 
 NH<sub>2</sub><sup>−</sup>(solv) + CH<sub>3</sub>OH(ℓ) → NH<sub>3</sub>(solv) + CH<sub>3</sub>O<sup>−</sup>(solv)
 
@@ -1018,9 +1018,9 @@ Blood bank technology specialists are well trained. Typically, they require a co
     3.  NaNO<sub>3</sub> and Ca(NO<sub>3</sub>)<sub>2</sub>
     4.  HN<sub>3</sub> and NH<sub>3</sub>
 
-5.  For each combination in Exercise 3 that is a buffer, write the chemical equations for the reactions of the buffer components when a strong acid and a strong base is added.
+5.  For each combination in Exercise 3 that is a buffer, write the chemical equations for the reactions of the buffer components when a strong acid and a strong base are added.
 
-6.  For each combination in Exercise 4 that is a buffer, write the chemical equations for the reaction of the buffer components when a strong acid and a strong base is added.
+6.  For each combination in Exercise 4 that is a buffer, write the chemical equations for the reaction of the buffer components when a strong acid and a strong base are added.
 
 7.  The complete phosphate buffer system is based on four substances: H<sub>3</sub>PO<sub>4</sub>, H<sub>2</sub>PO<sub>4</sub><sup>−</sup>, HPO<sub>4</sub><sup>2−</sup>, and PO<sub>4</sub><sup>3−</sup>. What different buffer solutions can be made from these substances?
 

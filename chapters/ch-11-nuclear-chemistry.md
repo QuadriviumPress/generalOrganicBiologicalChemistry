@@ -269,7 +269,7 @@ Consider the following example. Suppose we have 100.0 g of <sup>3</sup>H (tritiu
 During each successive half-life, half of the initial amount will radioactively decay.
 ``````````
 
-We can determine the amount of a radioactive isotope remaining after a given number half-lives by using the following expression:
+We can determine the amount of a radioactive isotope remaining after a given number of half-lives by using the following expression:
 
 $$\text{amount~remaining} = \text{initial~amount} \times \left( \frac{1}{2} \right)^{n}$$
 
@@ -654,7 +654,7 @@ Radioactive iodine can be used to image the thyroid gland for diagnostic purpose
 Credit: Myohan at English Wikipedia; [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). [Source](https://commons.wikimedia.org/wiki/File:Thyroid_scan.jpg).
 ``````````
 
-Very little radioactive material is needed in these diagnostic techniques because the radiation emitted is so easy to detect. However, therapeutic applications usually require much larger doses because their purpose is to preferentially kill diseased tissues. For example, if a thyroid tumor is detected, a much larger infusion (thousands of rem, as opposed to a diagnostic dose of less then 40 rem) of iodine-131 could help destroy the tumor cells. Similarly, radioactive strontium is used to not only detect but also ease the pain of bone cancers. [Table 11.5 \"Some Radioactive Isotopes That Have Medical Applications\"](/chapters/ch-11-nuclear-chemistry.md#src-gob-ch11-s04-t01) lists several radioactive isotopes and their medical uses.
+Very little radioactive material is needed in these diagnostic techniques because the radiation emitted is so easy to detect. However, therapeutic applications usually require much larger doses because their purpose is to preferentially kill diseased tissues. For example, if a thyroid tumor is detected, a much larger infusion (thousands of rem, as opposed to a diagnostic dose of less than 40 rem) of iodine-131 could help destroy the tumor cells. Similarly, radioactive strontium is used to not only detect but also ease the pain of bone cancers. [Table 11.5 \"Some Radioactive Isotopes That Have Medical Applications\"](/chapters/ch-11-nuclear-chemistry.md#src-gob-ch11-s04-t01) lists several radioactive isotopes and their medical uses.
 
 (src-gob-ch11-s04-t01)=
 
@@ -721,7 +721,7 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 ### Exercises
 
-1.  Define *tracer* is and give an example of how tracers work.
+1.  Define *tracer* and give an example of how tracers work.
 
 2.  Name two isotopes that have been used as tracers.
 
@@ -818,7 +818,7 @@ Using the data given, we can write the following initial equation:
 
 $$\left. {{}_{0}^{1}\text{n}} + {{}_{94}^{239}\text{P}}\text{u}\rightarrow{{}_{\text{79}}^{\text{204}}\text{A}}\text{u} + {{}_{\text{15}}^{\text{31}}\text{P}} + \text{?}{{}_{\text{0}}^{\text{1}}\text{n}} \right.$$
 
-In balanced nuclear equations, the sums of the subscripts on each sides of the equation are the same, as are the sums of the superscripts. The subscripts are already balanced: 0 + 94 = 94 and 79 + 15 = 94. The superscripts on the left equal 240 (1 + 239) but equal 235 (204 + 31) on the right. We need five more mass number units on the right. Five neutrons should be the products of the process for the mass numbers to balance. (Because the atomic number of a neutron is zero, including five neutrons on the right does not change the overall sum of the subscripts.) Thus, the balanced nuclear equation is as follows:
+In balanced nuclear equations, the sums of the subscripts on each side of the equation are the same, as are the sums of the superscripts. The subscripts are already balanced: 0 + 94 = 94 and 79 + 15 = 94. The superscripts on the left equal 240 (1 + 239) but equal 235 (204 + 31) on the right. We need five more mass number units on the right. Five neutrons should be the products of the process for the mass numbers to balance. (Because the atomic number of a neutron is zero, including five neutrons on the right does not change the overall sum of the subscripts.) Thus, the balanced nuclear equation is as follows:
 
 $$\left. {{}_{0}^{1}\text{n}} + {{}_{94}^{239}\text{P}}\text{u}\rightarrow{{}_{\text{79}}^{\text{204}}\text{A}}\text{u} + {{}_{\text{15}}^{\text{31}}\text{P}} + \text{5}{{}_{\text{0}}^{\text{1}}\text{n}} \right.$$
 
@@ -952,7 +952,7 @@ Some atoms have unstable nuclei that emit particles and high-energy electromagne
 
 Radioactive isotopes decay at different rates. The rate of an isotope's decay is expressed as a **half-life**, which is the amount of time required for half of the original material to decay. The length of its half-life is a characteristic of the particular isotope and can range from less than microseconds to billions of years.
 
-Amounts of radioactivity are measured in several different ways. A **becquerel** is equal to one radioactive decay per second. A **curie** represents 3.7 × 10<sup>10</sup> decays per second. Other units describe the amount of energy absorbed by body tissues. One **rad** is equivalent to 0.01 joule of energy absorbed per gram of tissue. Different tissues react differently to different types of radioactivity. The **rem** unit takes into account not only the energy absorbed by the tissues, but also includes a numerical multiplication factor to account for the type of radioactivity and the type of tissue. The average annual radiation exposure of a person is less than 360 millirem, over 80% of which is from natural sources. Radioactivity can be detected using photographic film or other devices such as **Geiger counters**.
+Amounts of radioactivity are measured in several different ways. A **becquerel** is equal to one radioactive decay per second. A **curie** represents 3.7 × 10<sup>10</sup> decays per second. Other units describe the amount of energy absorbed by body tissues. One **rad** is equivalent to 0.01 joule of energy absorbed per gram of tissue. Different tissues react differently to different types of radioactivity. The **rem** unit not only takes into account the energy absorbed by the tissues, but also includes a numerical multiplication factor to account for the type of radioactivity and the type of tissue. The average annual radiation exposure of a person is less than 360 millirem, over 80% of which is from natural sources. Radioactivity can be detected using photographic film or other devices such as **Geiger counters**.
 
 Radioactive isotopes have many useful applications. They can be used as **tracers** to follow the journey of a substance through a system, like an underground waterway or a metabolic pathway. Radioactive isotopes can be used to date objects, since the amount of parent and daughter isotopes can sometimes be measured very accurately. Radioactive emission can be used to sterilize food for a longer edible lifetime. There are also a number of diagnostic and therapeutic medical applications for radioactive isotopes.
 

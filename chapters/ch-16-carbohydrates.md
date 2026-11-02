@@ -74,7 +74,7 @@ Solution
 1.  This is a carbohydrate because the molecule contains an aldehyde functional group with OH groups on the other two carbon atoms.
 2.  This is not a carbohydrate because the molecule does not contain an aldehyde or a ketone functional group.
 3.  This is a carbohydrate because the molecule contains a ketone functional group with OH groups on the other two carbon atoms.
-4.  This is not a carbohydrate; although it has a ketone functional group, one of the other carbons atoms does not have an OH group attached.
+4.  This is not a carbohydrate; although it has a ketone functional group, one of the other carbon atoms does not have an OH group attached.
 
 ### Skill-Building Exercise
 
@@ -465,7 +465,7 @@ In the 1960s and 1970s, several clinical tests with laboratory animals implicate
 
 A third artificial sweetener, aspartame, was discovered in 1965. This white crystalline compound is about 180 times sweeter than sucrose and has no aftertaste. It was approved for use in 1981 and is used to sweeten a wide variety of foods because it blends well with other food flavors. Aspartame is not used in baked goods, however, because it is not heat stable.
 
-In the body (or when heated), aspartame is initially hydrolyzed to three molecules: the amino acids aspartic acid and phenylalanine and an alcohol methanol. Repeated controversy regarding the safety of aspartame arises partly from the fact that the body metabolizes the released methanol to formaldehyde. It should be noted, though, that a glass of tomato juice has six times as much methanol as a similar amount of a diet soda containing aspartame. The only documented risk connected to aspartame use is for individuals with the genetic disease *phenylketonuria* (PKU); these individuals lack the enzyme needed to metabolize the phenylalanine released when aspartame is broken down by the body. Because of the danger to people with PKU, all products containing aspartame must carry a warning label.
+In the body (or when heated), aspartame is initially hydrolyzed to three molecules: the amino acids aspartic acid and phenylalanine and the alcohol methanol. Repeated controversy regarding the safety of aspartame arises partly from the fact that the body metabolizes the released methanol to formaldehyde. It should be noted, though, that a glass of tomato juice has six times as much methanol as a similar amount of a diet soda containing aspartame. The only documented risk connected to aspartame use is for individuals with the genetic disease *phenylketonuria* (PKU); these individuals lack the enzyme needed to metabolize the phenylalanine released when aspartame is broken down by the body. Because of the danger to people with PKU, all products containing aspartame must carry a warning label.
 
 Acesulfame K, discovered just two years after aspartame (1967), was approved for use in the United States in 1988. It is 200 times sweeter than sugar and, unlike aspartame, is heat stable. It has no lingering aftertaste.
 
@@ -561,7 +561,7 @@ In some cases, OH and carbonyl groups on the same molecule are able to react wit
 D-Glucose can be represented with a Fischer projection (a) or three dimensionally (b). By reacting the OH group on the fifth carbon atom with the aldehyde group, the cyclic monosaccharide (c) is produced.
 ``````````
 
-When a straight-chain monosaccharide, such as any of the structures shown in [Figure 16.4 \"Structures of Three Important Hexoses\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s03-f01), forms a cyclic structure, the carbonyl oxygen atom may be pushed either up or down, giving rise to two stereoisomers, as shown in [Figure 16.6 \"Monosaccharides\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s04-f02). The structure shown on the left side of [Figure 16.6 \"Monosaccharides\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s04-f02), with the OH group on the first carbon atom projected downward, represent what is called the *alpha (α) form*. The structures on the right side, with the OH group on the first carbon atom pointed upward, is the *beta (β) form*. These two stereoisomers of a cyclic monosaccharide are known as anomers[^chem-14]; they differ in structure around the anomeric carbon[^chem-15]---that is, the carbon atom that was the carbonyl carbon atom in the straight-chain form.
+When a straight-chain monosaccharide, such as any of the structures shown in [Figure 16.4 \"Structures of Three Important Hexoses\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s03-f01), forms a cyclic structure, the carbonyl oxygen atom may be pushed either up or down, giving rise to two stereoisomers, as shown in [Figure 16.6 \"Monosaccharides\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s04-f02). The structure shown on the left side of [Figure 16.6 \"Monosaccharides\"](/chapters/ch-16-carbohydrates.md#src-gob-ch16-s04-f02), with the OH group on the first carbon atom projected downward, represents what is called the *alpha (α) form*. The structure on the right side, with the OH group on the first carbon atom pointed upward, is the *beta (β) form*. These two stereoisomers of a cyclic monosaccharide are known as anomers[^chem-14]; they differ in structure around the anomeric carbon[^chem-15]---that is, the carbon atom that was the carbonyl carbon atom in the straight-chain form.
 
 ``````````{figure} /images/section_19/f6df6c6438cb67e35a2f82ac8cebe4ff.jpg
 :alt: Chemical illustration: Figure 16.6 Monosaccharides
@@ -600,7 +600,7 @@ The difference between the α and the β forms of sugars may seem trivial, but s
 
 ````````````{important} Key Takeaways
 
-- Monosaccharides that contain five or more carbons atoms form cyclic structures in aqueous solution.
+- Monosaccharides that contain five or more carbon atoms form cyclic structures in aqueous solution.
 - Two cyclic stereoisomers can form from each straight-chain monosaccharide; these are known as anomers.
 - In an aqueous solution, an equilibrium mixture forms between the two anomers and the straight-chain structure of a monosaccharide in a process known as mutarotation.
 
@@ -806,7 +806,7 @@ This linkage gives sucrose certain properties that are quite different from thos
 
 The hydrolysis of sucrose in dilute acid or through the action of the enzyme *sucrase* (also known as invertase) gives an equimolar mixture of glucose and fructose. This 1:1 mixture is referred to as *invert sugar* because it rotates plane-polarized light in the opposite direction than sucrose. The hydrolysis reaction has several practical applications. Sucrose readily recrystallizes from a solution, but invert sugar has a much greater tendency to remain in solution. In the manufacture of jelly and candy and in the canning of fruit, the recrystallization of sugar is undesirable. Therefore, conditions leading to the hydrolysis of sucrose are employed in these processes. Moreover, because fructose is sweeter than sucrose, the hydrolysis adds to the sweetening effect. Bees carry out this reaction when they make honey.
 
-The average American consumes more than 100 lb of sucrose every year. About two-thirds of this amount is ingested in soft drinks, presweetened cereals, and other highly processed foods. The widespread use of sucrose is a contributing factor to obesity and tooth decay. Carbohydrates such as sucrose, are converted to fat when the caloric intake exceeds the body's requirements, and sucrose causes tooth decay by promoting the formation of plaque that sticks to teeth.
+The average American consumes more than 100 lb of sucrose every year. About two-thirds of this amount is ingested in soft drinks, presweetened cereals, and other highly processed foods. The widespread use of sucrose is a contributing factor to obesity and tooth decay. Carbohydrates such as sucrose are converted to fat when the caloric intake exceeds the body's requirements, and sucrose causes tooth decay by promoting the formation of plaque that sticks to teeth.
 
 ### Concept Review Exercise
 
@@ -1069,7 +1069,7 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 2.  
 
-3.  Amylose and cellulose are both linear polymers of glucose units, but the glycosidic linkages between the glucose units differ. The linkages in amylose are α-1,4-glycosidic linkages, while the linkages in cellulose they are β-1,4-glycosidic linkages.
+3.  Amylose and cellulose are both linear polymers of glucose units, but the glycosidic linkages between the glucose units differ. The linkages in amylose are α-1,4-glycosidic linkages, while the linkages in cellulose are β-1,4-glycosidic linkages.
 
 4.  
 
@@ -1085,7 +1085,7 @@ Many carbohydrates exist as **stereoisomers**, in which the three-dimensional sp
 
 A sugar is designated as being a D sugar or an L sugar according to how, in a Fischer projection of the molecule, the hydrogen atom and OH group are attached to the *penultimate* carbon atom, which is the carbon atom immediately before the terminal alcohol carbon atom. If the structure at this carbon atom is the same as that of D-glyceraldehyde (OH to the right), the sugar is a **D sugar**; if the configuration is the same as that of L-glyceraldehyde (OH to the left), the sugar is an **L sugar**.
 
-Monosaccharides of five or more carbons atoms readily form cyclic structures when the carbonyl carbon atom reacts with an OH group on a carbon atom three or four carbon atoms distant. Consequently, glucose in solution exists as an equilibrium mixture of three forms, two of them cyclic (α- and β-) and one open chain. In Haworth projections, the *alpha* form is drawn with the OH group on the "former" carbonyl carbon atom (**anomeric carbon**) pointing downward; the *beta* form, with the OH group pointing upward; these two compounds are stereoisomers and are given the more specific term of **anomers**. Any solid sugar can be all alpha or all beta. Once the sample is dissolved in water, however, the ring opens up into the open-chain structure and then closes to form either the α- or the β-anomer. These interconversions occur back and forth until a dynamic equilibrium mixture is achieved in a process called **mutarotation**.
+Monosaccharides of five or more carbon atoms readily form cyclic structures when the carbonyl carbon atom reacts with an OH group on a carbon atom three or four carbon atoms distant. Consequently, glucose in solution exists as an equilibrium mixture of three forms, two of them cyclic (α- and β-) and one open chain. In Haworth projections, the *alpha* form is drawn with the OH group on the "former" carbonyl carbon atom (**anomeric carbon**) pointing downward; the *beta* form, with the OH group pointing upward; these two compounds are stereoisomers and are given the more specific term of **anomers**. Any solid sugar can be all alpha or all beta. Once the sample is dissolved in water, however, the ring opens up into the open-chain structure and then closes to form either the α- or the β-anomer. These interconversions occur back and forth until a dynamic equilibrium mixture is achieved in a process called **mutarotation**.
 
 The carbonyl group present in monosaccharides is easily oxidized by Tollens' or Benedict's reagents (as well as others). Any mono- or disaccharide containing a free anomeric carbon is a **reducing sugar**. The disaccharide *maltose* contains two glucose units joined in an α-1,4-glycosidic linkage. The disaccharide *lactose* contains a galactose unit and a glucose unit joined by a β-1,4-glycosidic linkage. Both maltose and lactose contain a free anomeric carbon that can convert to an aldehyde functional group, so they are reducing sugars; they also undergo mutarotation. Many adults, and some children, have a deficiency of the enzyme lactase (which is needed to break down lactose) and are said to be **lactose intolerant**. A more serious problem is the genetic disease **galactosemia**, which results from the absence of an enzyme needed to convert galactose to glucose.
 

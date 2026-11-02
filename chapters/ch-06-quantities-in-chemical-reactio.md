@@ -293,7 +293,7 @@ Solution
 
 What is the mass of 1 mol of each substance?
 
-1.  barium sulfate (BaSO<sub>4</sub>), used to take X rays of the gastrointestional tract
+1.  barium sulfate (BaSO<sub>4</sub>), used to take X rays of the gastrointestinal tract
 
 2.  adenosine (C<sub>10</sub>H<sub>13</sub>N<sub>5</sub>O<sub>4</sub>), a component of cell nuclei crucial for cell division
 
@@ -494,7 +494,7 @@ The mol bilirubin unit cancels. The biochemist needs 3.83 g of bilirubin.
 
 ````````````{important} To Your Health: Minerals
 
-For our bodies to function properly, we need to ingest certain substances from our diets. Among our dietary needs are minerals, the noncarbon elements our body uses for a variety of functions, such developing bone or ensuring proper nerve transmission.
+For our bodies to function properly, we need to ingest certain substances from our diets. Among our dietary needs are minerals, the noncarbon elements our body uses for a variety of functions, such as developing bone or ensuring proper nerve transmission.
 
 The US Department of Agriculture has established some recommendations for the RDIs of various minerals. The accompanying table lists the RDIs for minerals, both in mass and moles, assuming a 2,000-calorie daily diet.
 
@@ -812,7 +812,7 @@ The first step resembles the exercises we did in [Section 6.4 \"Mole-Mole Relati
 
 $$3.59\cancel{\text{~mol~Fe}_{\text{2}}\text{O}_{\text{3}}} \times \frac{\text{3~mol~SO}_{\text{3}}}{\text{1}\cancel{\text{~mol~Fe}_{\text{2}}\text{O}_{\text{3}}}} = 10.77\text{~mol~SO}_{\text{3}}$$
 
-The mol Fe<sub>2</sub>O<sub>3</sub> units cancel, leaving mol SO<sub>3</sub> unit. Now, we take this answer and convert it to grams of SO<sub>3</sub>, using the molar mass of SO<sub>3</sub> as the conversion factor:
+The mol Fe<sub>2</sub>O<sub>3</sub> units cancel, leaving the mol SO<sub>3</sub> unit. Now, we take this answer and convert it to grams of SO<sub>3</sub>, using the molar mass of SO<sub>3</sub> as the conversion factor:
 
 $$10.77\cancel{\text{~mol~SO}_{\text{3}}} \times \frac{\text{80}\text{.06~g~SO}_{\text{3}}}{\text{1}\cancel{\text{~mol~SO}_{\text{3}}}} = 862\text{~g~SO}_{\text{3}}$$
 
@@ -917,7 +917,7 @@ Taxol is a powerful anticancer drug that was originally extracted from the Pacif
 
 After a 20-year effort, two research groups announced the complete laboratory synthesis of taxol in 1994. However, each synthesis required over 30 separate chemical reactions, with an overall efficiency of less than 0.05%. To put this in perspective, to obtain a single 300 mg dose of taxol, you would have to begin with 600 g of starting material. To treat the 26,000 women who are diagnosed with ovarian cancer each year with one dose, almost 16,000 kg (over 17 tons) of starting material must be converted to taxol. Taxol is also used to treat breast cancer, with which 200,000 women in the United States are diagnosed every year. This only increases the amount of starting material needed.
 
-Clearly, there is intense interest in increasing the overall efficiency of the taxol synthesis. An improved synthesis not only will be easier but also will produce less waste materials, which will allow more people to take advantage of this potentially life-saving drug.
+Clearly, there is intense interest in increasing the overall efficiency of the taxol synthesis. An improved synthesis not only will be easier but also will produce less waste material, which will allow more people to take advantage of this potentially life-saving drug.
 
 ``````````{figure} /images/section_09/b42cb1dfe89bbb1cbd9e78eed6cfdf3f.jpg
 :alt: Chemical illustration: Figure 6.4 The Structure of the Cancer Drug Taxol

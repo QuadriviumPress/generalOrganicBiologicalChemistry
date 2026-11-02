@@ -380,7 +380,7 @@ Aminopeptidases in the intestinal juice remove amino acids from the N-terminal e
 
 **Figure 20.8 Hydrolysis of a Peptide by Several Peptidases**
 
-This diagram illustrates where in a peptide the different peptidases we have discussed would catalyze hydrolysis the peptide bonds.
+This diagram illustrates where in a peptide the different peptidases we have discussed would catalyze hydrolysis of the peptide bonds.
 ``````````
 
 ### Digestion of Lipids
@@ -676,7 +676,7 @@ FMNH<sub>2</sub> → FMN + 2H<sup>+</sup> + 2e<sup>−</sup>
 
 2Fe(III) · S + 2e<sup>−</sup> → 2Fe(II) · S
 
-Electrons from FADH<sub>2</sub>, formed in step 6 of the citric acid cycle, enter the electron transport chain through complex II. Succinate dehydrogenase, the enzyme in the citric acid cycle that catalyzes the formation of FADH<sub>2</sub> from FAD is part of complex II. The electrons from FADH<sub>2</sub> are then transferred to an Fe·S protein.
+Electrons from FADH<sub>2</sub>, formed in step 6 of the citric acid cycle, enter the electron transport chain through complex II. Succinate dehydrogenase, the enzyme in the citric acid cycle that catalyzes the formation of FADH<sub>2</sub> from FAD, is part of complex II. The electrons from FADH<sub>2</sub> are then transferred to an Fe·S protein.
 
  
 
@@ -1225,7 +1225,7 @@ Because two of the three kinds of ketone bodies are weak acids, their presence i
 
 ### ATP Yield from Fatty Acid Oxidation
 
-The amount of ATP obtained from fatty acid oxidation depends on the size of the fatty acid being oxidized. For our purposes here. we'll study palmitic acid, a saturated fatty acid with 16 carbon atoms, as a typical fatty acid in the human diet. Calculating its energy yield provides a model for determining the ATP yield of all other fatty acids.
+The amount of ATP obtained from fatty acid oxidation depends on the size of the fatty acid being oxidized. For our purposes here, we'll study palmitic acid, a saturated fatty acid with 16 carbon atoms, as a typical fatty acid in the human diet. Calculating its energy yield provides a model for determining the ATP yield of all other fatty acids.
 
 The breakdown by an organism of 1 mol of palmitic acid requires 1 mol of ATP (for activation) and forms 8 mol of acetyl-CoA. Recall from [Table 20.2 \"Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Acetyl-CoA\"](/chapters/ch-20-energy-metabolism.md#src-gob-ch20-s04-s04-t01) that each mole of acetyl-CoA metabolized by the citric acid cycle yields 10 mol of ATP. The complete degradation of 1 mol of palmitic acid requires the β-oxidation reactions to be repeated seven times. Thus, 7 mol of NADH and 7 mol of FADH<sub>2</sub> are produced. Reoxidation of these compounds through respiration yields 2.5--3 and 1.5--2 mol of ATP, respectively. The energy calculations can be summarized as follows:
 
@@ -1259,11 +1259,11 @@ The percentage of this energy that is conserved by the cell in the form of ATP i
 
 $$\frac{\text{energy~conserved}}{\text{total~energy~available}} \times 100 = \frac{(129\text{~ATP)(7}\text{.4~kcal/ATP)}}{\text{2,340~kcal}} \times 100 = 41\%$$
 
-The efficiency of fatty acid metabolism is comparable to that of carbohydrate metabolism, which we calculated to be 42%. For more information about the efficiency of fatty acid metabolism, see [Section 20.5 \"Stage II of Carbohydrate Catabolism\"](/chapters/ch-20-energy-metabolism.md#src-gob-ch20-s05).)
+The efficiency of fatty acid metabolism is comparable to that of carbohydrate metabolism, which we calculated to be 42%. For more information about the efficiency of fatty acid metabolism, see [Section 20.5 \"Stage II of Carbohydrate Catabolism\"](/chapters/ch-20-energy-metabolism.md#src-gob-ch20-s05).
 
 ````````````{important} Note
 
-The oxidation of fatty acids produces large quantities of water. This water, which sustains migratory birds and animals (such as the camel) for long periods of time.
+The oxidation of fatty acids produces large quantities of water. This water sustains migratory birds and animals (such as the camel) for long periods of time.
 
 ````````````
 
@@ -1545,12 +1545,12 @@ The first step in amino acid catabolism is separation of the amino group from th
 
 2.  If a cracker, which is rich in starch, is chewed for a long time, it begins to develop a sweet, sugary taste. Why?
 
-3.  Indicate where each enzymes would cleave the short peptide ala-ser-met-val-phe-gly-cys-lys-asp-leu.
+3.  Indicate where each enzyme would cleave the short peptide ala-ser-met-val-phe-gly-cys-lys-asp-leu.
 
     1.  aminopeptidase
     2.  chymotrypsin
 
-4.  Indicate where each enzymes would cleave the short peptide ala-ser-met-val-phe-gly-cys-lys-asp-leu.
+4.  Indicate where each enzyme would cleave the short peptide ala-ser-met-val-phe-gly-cys-lys-asp-leu.
 
     1.  trypsin
     2.  carboxypeptidase

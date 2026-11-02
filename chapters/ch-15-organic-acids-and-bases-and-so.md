@@ -32,17 +32,17 @@ A carboxylic acid[^chem-1] is an organic compound that has a carboxyl group[^che
 
 ``````````
 
-Esters are represented by the formula RCOOR', where R and R' are hydrocarbon groups. The ester[^chem-3], which is organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group, looks somewhat like an ether and also somewhat like a carboxylic acid. Even so, compounds in this group react *neither* like carboxylic acids nor like ethers; they make up a distinctive family. Unlike ethers, esters have a carbonyl group. Unlike carboxylic acids, esters have no acidic hydrogen atom; they have a hydrocarbon group in its place.
+Esters are represented by the formula RCOOR', where R and R' are hydrocarbon groups. The ester[^chem-3], which is an organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group, looks somewhat like an ether and also somewhat like a carboxylic acid. Even so, compounds in this group react *neither* like carboxylic acids nor like ethers; they make up a distinctive family. Unlike ethers, esters have a carbonyl group. Unlike carboxylic acids, esters have no acidic hydrogen atom; they have a hydrocarbon group in its place.
 
 ``````````{figure} /images/section_18/1e1a1ee745274c6d2d68c7ac20a76166.jpg
-:alt: Chemical illustration: Esters are represented by the formula RCOOR’, where R and R’ are hydrocarbon groups. The ester An organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group. , which is organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group, loo
+:alt: Chemical illustration: Esters are represented by the formula RCOOR’, where R and R’ are hydrocarbon groups. The ester An organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group. , which is an organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group, loo
 
 ``````````
 
 An amine[^chem-4] is a compound derived from ammonia (NH<sub>3</sub>); it has one, two, or all three of the hydrogen atoms of NH<sub>3</sub> replaced by an alkyl (or an aryl) group. Like NH<sub>3</sub>, amines are weak bases. The functional group of an amine is a nitrogen atom with a lone pair of electrons and with one, two, or three alkyl or aryl groups attached.
 
 ``````````{figure} /images/section_18/a286001933563022095113e5ed7f83a0.jpg
-:alt: Chemical illustration: An amine An organic compound derived from ammonia by the replacement of one, two, or three of the hydrogens atoms by alkyl or aryl groups. is a compound derived from ammonia (NH 3 ); it has one, two, or all three of the hydrogen atoms of NH 3 replaced by an alkyl (or an aryl) group. Like NH 3 , amines are weak bases. The functional group of an amin
+:alt: Chemical illustration: An amine An organic compound derived from ammonia by the replacement of one, two, or three of the hydrogen atoms by alkyl or aryl groups. is a compound derived from ammonia (NH 3 ); it has one, two, or all three of the hydrogen atoms of NH 3 replaced by an alkyl (or an aryl) group. Like NH 3 , amines are weak bases. The functional group of an amin
 
 ``````````
 
@@ -695,7 +695,7 @@ Write an equation for each reaction.
 
 Write an equation for the reaction of decanoic acid with each compound.
 
-1.  aqueous sodium hydoxide (NaOH)
+1.  aqueous sodium hydroxide (NaOH)
 2.  aqueous sodium bicarbonate (NaHCO<sub>3</sub>)
 
 Solution
@@ -807,7 +807,7 @@ Some organic salts are used as preservatives in food products. They prevent spoi
 
 ````````````
 
-Esters have the general formula RCOOR′, where R may be a hydrogen atom, an alkyl group, or an aryl group, and R′ may be an alkyl group or an aryl group but *not* a hydrogen atom. (If it were hydrogen atom, the compound would be a carboxylic acid.) [Figure 15.4 \"The Structure of Esters\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s06-f01) shows models for two common esters.
+Esters have the general formula RCOOR′, where R may be a hydrogen atom, an alkyl group, or an aryl group, and R′ may be an alkyl group or an aryl group but *not* a hydrogen atom. (If it were a hydrogen atom, the compound would be a carboxylic acid.) [Figure 15.4 \"The Structure of Esters\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s06-f01) shows models for two common esters.
 
 ``````````{figure} /images/section_18/265dedfb41458d0e46bba798c2719478.jpg
 :alt: Chemical illustration: Figure 15.4 The Structure of Esters
@@ -935,10 +935,10 @@ Draw the structure for ethyl pentanoate.
 
 Solution
 
-Start with the portion from the acid. Draw the pentanoate (five carbon atoms) group first; keeping in mind that the last carbon atom is a part of the carboxyl group.
+Start with the portion from the acid. Draw the pentanoate (five carbon atoms) group first, keeping in mind that the last carbon atom is a part of the carboxyl group.
 
 ``````````{figure} /images/section_18/43d1ecff4aeda5cdeb65fa5b5b722f47.jpg
-:alt: Chemical illustration: Start with the portion from the acid. Draw the pentanoate (five carbon atoms) group first; keeping in mind that the last carbon atom is a part of the carboxyl group.
+:alt: Chemical illustration: Start with the portion from the acid. Draw the pentanoate (five carbon atoms) group first, keeping in mind that the last carbon atom is a part of the carboxyl group.
 
 ``````````
 
@@ -1057,7 +1057,7 @@ Then attach the ethyl group to the bond that ordinarily holds the hydrogen atom 
 
 ````````````
 
-Ester molecules are polar but have no hydrogen atom attached directly to an oxygen atom. They are therefore incapable of engaging in intermolecular hydrogen bonding with one another and thus have considerably lower boiling points than their isomeric carboxylic acids counterparts. Because ester molecules can engage in hydrogen bonding with water molecules, however, esters of low molar mass are somewhat soluble in water. Borderline solubility occurs in those molecules that have three to five carbon atoms. [Table 15.4 \"Physical Properties of Some Esters\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s07-t01) lists the physical properties of some common esters.
+Ester molecules are polar but have no hydrogen atom attached directly to an oxygen atom. They are therefore incapable of engaging in intermolecular hydrogen bonding with one another and thus have considerably lower boiling points than their isomeric carboxylic acid counterparts. Because ester molecules can engage in hydrogen bonding with water molecules, however, esters of low molar mass are somewhat soluble in water. Borderline solubility occurs in those molecules that have three to five carbon atoms. [Table 15.4 \"Physical Properties of Some Esters\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s07-t01) lists the physical properties of some common esters.
 
 ````````````{important} Note
 
@@ -1875,7 +1875,7 @@ Name each ion.
 
 ````````````
 
-Primary and secondary amines have hydrogen atoms bonded to an nitrogen atom and are therefore capable of hydrogen bonding (part (a) of [Figure 15.6 \"Hydrogen Bonding\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s12-f01)), although not as strongly as alcohol molecules (which have hydrogen atoms bonded to an oxygen atom, which is more electronegative than nitrogen). These amines boil at higher temperatures than alkanes but at lower temperatures than alcohols of comparable molar mass. For example, compare the boiling point of methylamine (CH<sub>3</sub>NH<sub>2</sub>; −6°C) with those of ethane (CH<sub>3</sub>CH<sub>3</sub>; −89°C) and methanol (CH<sub>3</sub>OH; 65°C). Tertiary amines have no hydrogen atom bonded to the nitrogen atom and so cannot participate in intermolecular hydrogen bonding. They have boiling points comparable to those of ethers ([Table 15.5 \"Physical Properties of Some Amines and Comparable Oxygen-Containing Compounds\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s12-t01)).
+Primary and secondary amines have hydrogen atoms bonded to a nitrogen atom and are therefore capable of hydrogen bonding (part (a) of [Figure 15.6 \"Hydrogen Bonding\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s12-f01)), although not as strongly as alcohol molecules (which have hydrogen atoms bonded to an oxygen atom, which is more electronegative than nitrogen). These amines boil at higher temperatures than alkanes but at lower temperatures than alcohols of comparable molar mass. For example, compare the boiling point of methylamine (CH<sub>3</sub>NH<sub>2</sub>; −6°C) with those of ethane (CH<sub>3</sub>CH<sub>3</sub>; −89°C) and methanol (CH<sub>3</sub>OH; 65°C). Tertiary amines have no hydrogen atom bonded to the nitrogen atom and so cannot participate in intermolecular hydrogen bonding. They have boiling points comparable to those of ethers ([Table 15.5 \"Physical Properties of Some Amines and Comparable Oxygen-Containing Compounds\"](/chapters/ch-15-organic-acids-and-bases-and-so.md#src-gob-ch15-s12-t01)).
 
 ``````````{figure} /images/section_18/fe9a3912d4f545166faaa0e19de5bf13.jpg
 :alt: Chemical illustration: Figure 15.6 Hydrogen Bonding
@@ -2158,15 +2158,15 @@ Because it is soluble in water, cocaine hydrochloride is readily absorbed throug
 
 1.  Identify the general structure for an amide.
 2.  Identify the functional group for an amide.
-3.  Names amides with common names.
+3.  Name amides with common names.
 4.  Name amides according to the IUPAC system.
 
 ````````````
 
-The amide functional group has an nitrogen atom attached to a carbonyl carbon atom. If the two remaining bonds on the nitrogen atom are attached to hydrogen atoms, the compound is a *simple amide*. If one or both of the two remaining bonds on the atom are attached to alkyl or aryl groups, the compound is a *substituted amide*.
+The amide functional group has a nitrogen atom attached to a carbonyl carbon atom. If the two remaining bonds on the nitrogen atom are attached to hydrogen atoms, the compound is a *simple amide*. If one or both of the two remaining bonds on the atom are attached to alkyl or aryl groups, the compound is a *substituted amide*.
 
 ``````````{figure} /images/section_18/0ef861b88db1851d38e9d1f4748f58e3.jpg
-:alt: Chemical illustration: The amide functional group has an nitrogen atom attached to a carbonyl carbon atom. If the two remaining bonds on the nitrogen atom are attached to hydrogen atoms, the compound is a simple amide . If one or both of the two remaining bonds on the atom are attached to alkyl or aryl groups, the compound is a substituted amide .
+:alt: Chemical illustration: The amide functional group has a nitrogen atom attached to a carbonyl carbon atom. If the two remaining bonds on the nitrogen atom are attached to hydrogen atoms, the compound is a simple amide . If one or both of the two remaining bonds on the atom are attached to alkyl or aryl groups, the compound is a substituted amide .
 
 ``````````
 
@@ -2234,7 +2234,7 @@ Name each compound with the common name, the IUPAC name, or both.
     
     ``````````
 
-2.  Draw a the structural formulae for pentanamide.
+2.  Draw the structural formula for pentanamide.
 
 ### Answers
 
@@ -2258,7 +2258,7 @@ Name each compound with the common name, the IUPAC name, or both.
   
   ``````````
 
-- In names for amides, the -*ic acid* of the common name or the -*oic* ending of the IUPAC for the corresponding carboxylic acid is replaced by -*amide*.
+- In names for amides, the -*ic acid* of the common name or the -*oic* ending of the IUPAC name for the corresponding carboxylic acid is replaced by -*amide*.
 
 ````````````
 
@@ -2394,7 +2394,7 @@ Amide molecules can engage in hydrogen bonding with water molecules (a). Those a
 ````````````{important} Key Takeaways
 
 - Most amides are solids at room temperature; the boiling points of amides are much higher than those of alcohols of similar molar mass.
-- Amides of five or fewer carbon atoms are soluble in water?.
+- Amides of five or fewer carbon atoms are soluble in water.
 
 ````````````
 
@@ -2549,7 +2549,7 @@ Athletic trainers may have administrative duties, such as the responsibility for
 
 1.  What are the products of the hydrolysis of an amide?
 
-2.  When the amide CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CONH<sub>2</sub> is hydrolyzed in an NaOH solution, the products are CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>COO<sup>−</sup>Na<sup>+</sup> and NH<sub>3</sub>. What products are obtained when CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CONH<sub>2</sub> is hydrolyzed in an hydrochloric acid solution?
+2.  When the amide CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CONH<sub>2</sub> is hydrolyzed in an NaOH solution, the products are CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>COO<sup>−</sup>Na<sup>+</sup> and NH<sub>3</sub>. What products are obtained when CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CONH<sub>2</sub> is hydrolyzed in a hydrochloric acid solution?
 
 ### Answers
 
@@ -2659,10 +2659,10 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
 9.  The distinctive aroma and flavor of oranges are due in part to octyl acetate, an ester formed from 1-octanol (octyl alcohol) and acetic acid. Write the condensed structural formula for octyl acetate.
 
-10. A lactone is a cyclic ester. What product is formed in following reaction?
+10. A lactone is a cyclic ester. What product is formed in the following reaction?
 
     ``````````{figure} /images/section_18/6863a7ee08d16614c87b1259d11d80bf.jpg
-    :alt: Chemical illustration: A lactone is a cyclic ester. What product is formed in following reaction?
+    :alt: Chemical illustration: A lactone is a cyclic ester. What product is formed in the following reaction?
     
     
     ``````````
@@ -2681,7 +2681,7 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
 14. Cocaine is usually used in the form of the salt cocaine hydrochloride and sniffed up the nose. Some prefer to ingest their cocaine by smoking it (mixed with tobacco, for example). Before smoking, the cocaine hydrochloride must be converted back to the free base (that is, to the molecular form). Explain the choice of dosage form for each route of administration.
 
-15. Draw the structures all the isomeric amides that have the molecular formula C<sub>4</sub>H<sub>9</sub>NO.
+15. Draw the structures of all the isomeric amides that have the molecular formula C<sub>4</sub>H<sub>9</sub>NO.
 
 16. An ester with the molecular formula C<sub>6</sub>H<sub>12</sub>O<sub>2</sub> was hydrolyzed in aqueous acid to yield an acid Y and an alcohol Z. Oxidation of the alcohol with potassium dichromate (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) gave the identical acid Y. What is the condensed structural formula of the ester?
 
@@ -2753,7 +2753,7 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
 [^chem-3]: An organic compound derived from a carboxylic acid and an alcohol in which the OH of the acid is replaced by an OR group.
 
-[^chem-4]: An organic compound derived from ammonia by the replacement of one, two, or three of the hydrogens atoms by alkyl or aryl groups.
+[^chem-4]: An organic compound derived from ammonia by the replacement of one, two, or three of the hydrogen atoms by alkyl or aryl groups.
 
 [^chem-5]: An organic compound with a carbonyl group joined to a nitrogen atom from ammonia or an amine.
 
@@ -2771,7 +2771,7 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
 [^chem-12]: An NH<sub>2</sub> unit.
 
-[^chem-13]: A cyclic compound in which one or more atoms in the ring is an element other than a carbon atom.
+[^chem-13]: A cyclic compound in which one or more atoms in the ring are an element other than a carbon atom.
 
 [^chem-14]: A nitrogen-containing organic compound obtained from plants that has physiological properties.
 

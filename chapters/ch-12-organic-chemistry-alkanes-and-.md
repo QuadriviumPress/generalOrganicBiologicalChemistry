@@ -336,7 +336,7 @@ The formula of isobutane shows a continuous chain of three carbon atoms only, wi
 
 Unlike C<sub>4</sub>H<sub>10</sub>, the compounds methane (CH<sub>4</sub>), ethane (C<sub>2</sub>H<sub>6</sub>), and propane (C<sub>3</sub>H<sub>8</sub>) do not exist in isomeric forms because there is only one way to arrange the atoms in each formula so that each carbon atom has four bonds.
 
-Next beyond C<sub>4</sub>H<sub>10</sub> in the homologous series is pentane. Each compound has the same molecular formula: C<sub>5</sub>H<sub>12</sub>. ([Table 12.2 \"The First 10 Straight-Chain Alkanes\"](/chapters/ch-12-organic-chemistry-alkanes-and-.md#src-gob-ch12-s02-t01) has a column identifying the number of possible isomers for the first 10 straight-chain alkanes.) The compound at the far left is pentane because it has all five carbon atoms in a continuous chain. The compound in the middle is isopentane; like isobutane, it has a one CH<sub>3</sub> branch off the second carbon atom of the continuous chain. The compound at the far right, discovered after the other two, was named neopentane (from the Greek *neos*, meaning "new"). Although all three have the same molecular formula, they have different properties, including boiling points: pentane, 36.1°C; isopentane, 27.7°C; and neopentane, 9.5°C.
+Next beyond C<sub>4</sub>H<sub>10</sub> in the homologous series is pentane. Each compound has the same molecular formula: C<sub>5</sub>H<sub>12</sub>. ([Table 12.2 \"The First 10 Straight-Chain Alkanes\"](/chapters/ch-12-organic-chemistry-alkanes-and-.md#src-gob-ch12-s02-t01) has a column identifying the number of possible isomers for the first 10 straight-chain alkanes.) The compound at the far left is pentane because it has all five carbon atoms in a continuous chain. The compound in the middle is isopentane; like isobutane, it has one CH<sub>3</sub> branch off the second carbon atom of the continuous chain. The compound at the far right, discovered after the other two, was named neopentane (from the Greek *neos*, meaning "new"). Although all three have the same molecular formula, they have different properties, including boiling points: pentane, 36.1°C; isopentane, 27.7°C; and neopentane, 9.5°C.
 
 ``````````{figure} /images/section_15/e240c001d4462cb0a3358fc60cea4231.jpg
 :alt: Chemical illustration: Next beyond C 4 H 10 in the homologous series is pentane. Each compound has the same molecular formula: C 5 H 12 . ( Table 12.2 "The First 10 Straight-Chain Alkanes" has a column identifying the number of possible isomers for the first 10 straight-chain alkanes.) The compound at the far left is pentane because it has all five carbon atoms in a cont
@@ -1022,7 +1022,7 @@ As shown in [Table 12.5 \"Physical Properties of Some Alkanes\"](/chapters/ch-12
 
 ````````````{important} Looking Closer: An Alkane Basis for Properties of Other Compounds
 
-An understanding of the physical properties of the alkanes is important in that petroleum and natural gas and the many products derived from them---gasoline, bottled gas, solvents, plastics, and more---are composed primarily of alkanes. This understanding is also vital because it is the basis for describing the properties of other organic and biological compound families. For example, large portions of the structures of lipids consist of nonpolar alkyl groups. Lipids include the dietary fats and fatlike compounds called phospholipids and sphingolipids that serve as structural components of living tissues. (For more information about lipids, see [Chapter 17 \"Lipids\"](/chapters/ch-17-lipids.md#src-gob-ch17).). These compounds have both polar and nonpolar groups, enabling them to bridge the gap between water-soluble and water-insoluble phases. This characteristic is essential for the selective permeability of cell membranes.
+An understanding of the physical properties of the alkanes is important in that petroleum and natural gas and the many products derived from them---gasoline, bottled gas, solvents, plastics, and more---are composed primarily of alkanes. This understanding is also vital because it is the basis for describing the properties of other organic and biological compound families. For example, large portions of the structures of lipids consist of nonpolar alkyl groups. Lipids include the dietary fats and fatlike compounds called phospholipids and sphingolipids that serve as structural components of living tissues. (For more information about lipids, see [Chapter 17 \"Lipids\"](/chapters/ch-17-lipids.md#src-gob-ch17).) These compounds have both polar and nonpolar groups, enabling them to bridge the gap between water-soluble and water-insoluble phases. This characteristic is essential for the selective permeability of cell membranes.
 
 ``````````{figure} /images/section_15/916145918b4900ad6ddfc77069f8bcee.jpg
 :alt: Chemical illustration: An understanding of the physical properties of the alkanes is important in that petroleum and natural gas and the many products derived from them—gasoline, bottled gas, solvents, plastics, and more—are composed primarily of alkanes. This understanding is also vital because it is the basis for describing the properties of other organic and biologica
@@ -1163,11 +1163,11 @@ Many organic compounds are closely related to the alkanes. As we noted in [Secti
 The reactions of alkanes with halogens produce halogenated hydrocarbons[^chem-13], compounds in which one or more hydrogen atoms of a hydrocarbon have been replaced by halogen atoms:
 
 ``````````{figure} /images/section_15/2549e7390ea5ae7caee96d53ff7dd089.jpg
-:alt: Chemical illustration: The reactions of alkanes with halogens produce halogenated hydrocarbons A hydrocarbon in which one or more hydrogen atoms has been replaced by a halogen atom. , compounds in which one or more hydrogen atoms of a hydrocarbon have been replaced by halogen atoms:
+:alt: Chemical illustration: The reactions of alkanes with halogens produce halogenated hydrocarbons A hydrocarbon in which one or more hydrogen atoms have been replaced by a halogen atom. , compounds in which one or more hydrogen atoms of a hydrocarbon have been replaced by halogen atoms:
 
 ``````````
 
-The replacement of only one hydrogen atom gives an alkyl halide (or haloalkane)[^chem-14]. The *common names* of alkyl halides consist of two parts: the name of the alkyl group plus the stem of the name of the halogen, with the ending *-ide*. The IUPAC system uses the name of the parent alkane with a prefix indicating the halogen substituents, preceded by number indicating the substituent's location. The prefixes are *fluoro*-, *chloro*-, *bromo*-, and *iodo*-. Thus CH<sub>3</sub>CH<sub>2</sub>Cl has the common name ethyl chloride and the IUPAC name chloroethane. Alkyl halides with simple alkyl groups (one to four carbon atoms) are often called by common names. Those with a larger number of carbon atoms are usually given IUPAC names.
+The replacement of only one hydrogen atom gives an alkyl halide (or haloalkane)[^chem-14]. The *common names* of alkyl halides consist of two parts: the name of the alkyl group plus the stem of the name of the halogen, with the ending *-ide*. The IUPAC system uses the name of the parent alkane with a prefix indicating the halogen substituents, preceded by a number indicating the substituent's location. The prefixes are *fluoro*-, *chloro*-, *bromo*-, and *iodo*-. Thus CH<sub>3</sub>CH<sub>2</sub>Cl has the common name ethyl chloride and the IUPAC name chloroethane. Alkyl halides with simple alkyl groups (one to four carbon atoms) are often called by common names. Those with a larger number of carbon atoms are usually given IUPAC names.
 
 ### Example 3
 
@@ -1334,7 +1334,7 @@ Credit: NASA Ozone Watch; [Public domain](https://creativecommons.org/publicdoma
 
 ````````````{important} Key Takeaway
 
-- The replacement of an hydrogen atom on an alkane by a halogen atom---F, Cl, Br, or I---forms a halogenated compound.
+- The replacement of a hydrogen atom on an alkane by a halogen atom---F, Cl, Br, or I---forms a halogenated compound.
 
 ````````````
 
@@ -1543,7 +1543,7 @@ The cyclopropane ring is strained because the C--C--C angles are 60°, and the p
 
 *To ensure that you understand the material in this chapter, you should review the meanings of the following bold terms in the summary and ask yourself how they relate to the topics in the chapter.*
 
-**Organic chemistry** is the chemistry of carbon compounds, and **inorganic chemistry** is the chemistry of all the other elements. Carbon atoms can form stable covalent bonds with other carbon atoms and with atoms of other elements, and this property allows the formation the tens of millions of organic compounds. **Hydrocarbons** contain only hydrogen and carbon atoms.
+**Organic chemistry** is the chemistry of carbon compounds, and **inorganic chemistry** is the chemistry of all the other elements. Carbon atoms can form stable covalent bonds with other carbon atoms and with atoms of other elements, and this property allows the formation of the tens of millions of organic compounds. **Hydrocarbons** contain only hydrogen and carbon atoms.
 
 Hydrocarbons in which each carbon atom is bonded to four other atoms are called **alkanes** or **saturated hydrocarbons**. They have the general formula C<sub>*n*</sub>H<sub>2*n*</sub> <sub>+\ 2</sub>. Any given alkane differs from the next one in a series by a CH<sub>2</sub> unit. Any family of compounds in which adjacent members differ from each other by a definite factor is called a **homologous series**.
 
@@ -1724,7 +1724,7 @@ Alkanes react with halogens by substituting one or more halogen atoms for hydrog
 
 [^chem-12]: A chemical reaction in which a substance combines with molecular oxygen to make oxygen-containing compounds of other elements in the reaction.
 
-[^chem-13]: A hydrocarbon in which one or more hydrogen atoms has been replaced by a halogen atom.
+[^chem-13]: A hydrocarbon in which one or more hydrogen atoms have been replaced by a halogen atom.
 
 [^chem-14]: A compound resulting from the replacement of a hydrogen atom of an alkane with a halogen atom.
 

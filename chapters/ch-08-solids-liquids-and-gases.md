@@ -127,7 +127,7 @@ Many substances that experience covalent bonding exist as discrete molecules. In
 The electrons in the HF molecule are not equally shared by the two atoms in the bond. Because the fluorine atom has nine protons in its nucleus, it attracts the negatively charged electrons in the bond more than the hydrogen atom does with its one proton in its nucleus. Thus, electrons are more strongly attracted to the fluorine atom, leading to an imbalance in the electron distribution between the atoms. The fluorine side of the bond picks up a partial overall negative charge (represented by the δ− in the diagram), while the hydrogen side of the bond has an overall partial positive charge (represented by the δ+ in the diagram). Such a bond is called a *polar covalent bond*.
 ``````````
 
-The charge separation in a polar covalent bond is not as extreme as is found in ionic compounds, but there is a related result: oppositely charged ends of different molecules will attract each other. This type of intermolecular interaction is called a dipole-dipole interaction[^chem-8]. Many molecules with polar covalent bonds experience dipole-dipole interactions. The covalent bonds in some molecules are oriented in space in such a way that the bonds in the molecules cancel each other out. The individual bonds are polar, but the overall molecule is not polar; rather, the molecule is *nonpolar*. Such molecules experience little or no dipole-dipole interactions. Carbon dioxide (CO<sub>2</sub>) and carbon tetrachloride (CCl<sub>4</sub>) are examples of such molecules ([Figure 8.5 \"Nonpolar Molecules\"](/chapters/ch-08-solids-liquids-and-gases.md#src-gob-ch08-s01-f04)).
+The charge separation in a polar covalent bond is not as extreme as is found in ionic compounds, but there is a related result: oppositely charged ends of different molecules will attract each other. This type of intermolecular interaction is called a dipole-dipole interaction[^chem-8]. Many molecules with polar covalent bonds experience dipole-dipole interactions. The covalent bonds in some molecules are oriented in space in such a way that the bonds in the molecules cancel each other out. The individual bonds are polar, but the overall molecule is not polar; rather, the molecule is *nonpolar*. Such molecules experience little or no dipole-dipole interaction. Carbon dioxide (CO<sub>2</sub>) and carbon tetrachloride (CCl<sub>4</sub>) are examples of such molecules ([Figure 8.5 \"Nonpolar Molecules\"](/chapters/ch-08-solids-liquids-and-gases.md#src-gob-ch08-s01-f04)).
 
 ``````````{figure} /images/section_11/ed1431b7ec3d9310faa71047949c7eb8.jpg
 :alt: Chemical illustration: Figure 8.5 Nonpolar Molecules
@@ -323,7 +323,7 @@ Table 8.2 Characteristics of the Three States of Matter
 
 ### Example 2
 
-What state or states of matter does each statement, describe?
+What state or states of matter does each statement describe?
 
 1.  This state has a definite volume.
 2.  This state has no definite shape.
@@ -375,7 +375,7 @@ Water's influence on the world around us is affected by these properties. Isn't 
 
 1.  What are the general properties of solids?
 
-2.  What are the general properties of liquids
+2.  What are the general properties of liquids?
 
 3.  What are the general properties of gases?
 
@@ -687,7 +687,7 @@ A gas sample at 20°C has an initial volume of 20.0 L. What is its volume if the
 
 Solution
 
-Although the temperatures are given in degrees Celsius, we must convert them to the kelvins before we can use Charles's law. Thus,
+Although the temperatures are given in degrees Celsius, we must convert them to kelvins before we can use Charles's law. Thus,
 
 20°C + 273 = 293 K = *T*<sub>i</sub> 60°C + 273 = 333 K = *T*<sub>f</sub>
 
@@ -699,7 +699,7 @@ Multiplying the 333 K to the other side of the equation, we see that our tempera
 
 $$\frac{(333\cancel{\text{~K}}\text{)(}20.0\text{~L)}}{\text{293}\cancel{\text{~K}}} = V_{\text{f}}$$
 
-Solving for the final volume, *V*<sub>f</sub> = 22.7 L. So, as the temperature is increased, the volume increases. This makes sense because volume is directly proportional to the absolute temperature (as long as the pressure and the amount of the remain constant).
+Solving for the final volume, *V*<sub>f</sub> = 22.7 L. So, as the temperature is increased, the volume increases. This makes sense because volume is directly proportional to the absolute temperature (as long as the pressure and the amount of the gas remain constant).
 
 ### Skill-Building Exercise
 
@@ -743,7 +743,7 @@ The first task is to convert all quantities to the proper and consistent units. 
 
 22°C + 273 = 295 K = *T*<sub>i</sub> 11°C + 273 = 284 K = *T*<sub>f</sub> $$1.09\ \cancel{\text{~atm}} \times \frac{\text{760~torr}}{\text{1~}\cancel{\text{~atm}}} = 828\text{~torr~} = \ P_{\text{i}}$$
 
-Now we can substitute the quantities into the combined has law:
+Now we can substitute the quantities into the combined gas law:
 
 $$\frac{(828\text{~torr)(1,070~mL)}}{\text{295~K}} = \frac{\text{(655~torr)} \times V_{\text{f}}}{284\text{~K}}$$
 
@@ -953,7 +953,7 @@ Because respiratory therapists work directly with patients, the ability to work 
 
 *To ensure that you understand the material in this chapter, you should review the meanings of the following bold terms in the following summary and ask yourself how they relate to the topics in the chapter.*
 
-A **phase** is a certain form of matter that has the same physical properties throughout. Three phases are common: the solid, the liquid, and the gas phase. What determines the phase of a substance? Generally, the strength of the **intermolecular interactions** determines whether a substance is a solid, liquid, or gas under any particular conditions. **Covalent network bonding** is a very strong form of intermolecular interaction. Diamond is one example of a substance that has this intermolecular interaction. **Ionic interactions**, the forces of attraction due to oppositely charged ions, are also relatively strong. Covalent bonds are another type of interaction within molecules, but if the bonds are **polar covalent bonds**, then the unequal sharing of electrons can cause charge imbalances within molecules that cause interactions between molecules. These molecules are described as **polar**, and these interactions are called **dipole-dipole interactions**. A certain rather strong type of dipole-dipole interaction, involving a hydrogen atom, is called **hydrogen bonding**. On the other hand, equal sharing of electrons forms **nonpolar covalent bonds**, and the interactions between different molecules is less because the molecules are nonpolar. All substances have very weak **dispersion forces** (also called **London forces**) caused by the movement of electrons within the bonds themselves.
+A **phase** is a certain form of matter that has the same physical properties throughout. Three phases are common: the solid, the liquid, and the gas phase. What determines the phase of a substance? Generally, the strength of the **intermolecular interactions** determines whether a substance is a solid, liquid, or gas under any particular conditions. **Covalent network bonding** is a very strong form of intermolecular interaction. Diamond is one example of a substance that has this intermolecular interaction. **Ionic interactions**, the forces of attraction due to oppositely charged ions, are also relatively strong. Covalent bonds are another type of interaction within molecules, but if the bonds are **polar covalent bonds**, then the unequal sharing of electrons can cause charge imbalances within molecules that cause interactions between molecules. These molecules are described as **polar**, and these interactions are called **dipole-dipole interactions**. A certain rather strong type of dipole-dipole interaction, involving a hydrogen atom, is called **hydrogen bonding**. On the other hand, equal sharing of electrons forms **nonpolar covalent bonds**, and the interactions between different molecules are less because the molecules are nonpolar. All substances have very weak **dispersion forces** (also called **London forces**) caused by the movement of electrons within the bonds themselves.
 
 In the solid phase, intermolecular interactions are so strong that they hold the individual atoms or molecules in place. In many solids, the regular three-dimensional arrangement of particles makes a **crystal**. In other solids, the irregular arrangement of particles makes an **amorphous** solid. In liquids, the intermolecular interactions are strong enough to keep the particles of substance together but not in place. Thus, the particles are free to move over each other but still remain in contact.
 
@@ -1072,6 +1072,6 @@ There are several simple relationships between the variables used to describe a 
 
 [^chem-24]: The gas law that relates volume, pressure, temperature, and amount of a gas.
 
-[^chem-25]: The constant the appears in the ideal gas law.
+[^chem-25]: The constant that appears in the ideal gas law.
 
 [^chem-26]: 273 K (0°C) and 1.00 atm pressure.

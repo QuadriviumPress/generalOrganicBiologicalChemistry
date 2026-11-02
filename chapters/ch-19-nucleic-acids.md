@@ -436,7 +436,7 @@ The nucleus contains all the necessary enzymes, proteins, and nucleotides requir
 
 **Figure 19.9 A Schematic Diagram of DNA Replication**
 
-DNA replication occurs by the sequential unzipping of segments of the double helix. Each new nucleotide is brought into position by DNA polymerase and is added to the growing strand by the formation of a phosphate ester bond. Thus, two double helixes form from one, and each consists of one old strand and one new strand, an outcome called *semiconservative replications*. (This representation is simplified; many more proteins are involved in replication.)
+DNA replication occurs by the sequential unzipping of segments of the double helix. Each new nucleotide is brought into position by DNA polymerase and is added to the growing strand by the formation of a phosphate ester bond. Thus, two double helixes form from one, and each consists of one old strand and one new strand, an outcome called *semiconservative replication*. (This representation is simplified; many more proteins are involved in replication.)
 ``````````
 
 ### Example 1
@@ -561,12 +561,12 @@ The two-dimensional structure of a tRNA molecule has three distinctive loops, re
 
 3.  A portion of the coding strand for a given gene has the sequence 5′‑ATGAGCGACTTTGCGGGATTA‑3′.
 
-    1.  What is the sequence of complementary template strand?
+    1.  What is the sequence of the complementary template strand?
     2.  What is the sequence of the mRNA that would be produced during transcription from this segment of DNA?
 
 4.  A portion of the coding strand for a given gene has the sequence 5′‑ATGGCAATCCTCAAACGCTGT‑3′.
 
-    1.  What is the sequence of complementary template strand?
+    1.  What is the sequence of the complementary template strand?
     2.  What is the sequence of the mRNA that would be produced during transcription from this segment of DNA?
 
 ### Answers
@@ -709,7 +709,7 @@ Further experimentation threw much light on the nature of the genetic code, as f
 
 4.  
 
-5.  1a: phenyalanine; 1b: histidine; 1c: serine; 1d: proline
+5.  1a: phenylalanine; 1b: histidine; 1c: serine; 1d: proline
 
 6.  
 
@@ -1036,7 +1036,7 @@ A cell's hereditary information is encoded in **chromosomes** in the cell's nucl
 
 The two types of *nitrogenous bases* most important in nucleic acids are **purines**---adenine (A) and guanine (G)---and **pyrimidines**---cytosine (C), thymine (T), and uracil (U). DNA contains the nitrogenous bases adenine, cytosine, guanine, and thymine, while the bases in RNA are adenine, cytosine, guanine, and uracil. The sugar in the nucleotides of RNA is ribose; the one in DNA is 2-deoxyribose. The sequence of nucleotides in a nucleic acid defines the primary structure of the molecule.
 
-RNA is a single-chain nucleic acid, whereas DNA possesses two nucleic-acid chains intertwined in a secondary structure called a **double helix**. The sugar-phosphate backbone forms the outside the double helix, with the purine and pyrimidine bases tucked inside. Hydrogen bonding between **complementary bases** holds the two strands of the double helix together; A always pairs with T and C always pairs with G.
+RNA is a single-chain nucleic acid, whereas DNA possesses two nucleic-acid chains intertwined in a secondary structure called a **double helix**. The sugar-phosphate backbone forms the outside of the double helix, with the purine and pyrimidine bases tucked inside. Hydrogen bonding between **complementary bases** holds the two strands of the double helix together; A always pairs with T and C always pairs with G.
 
 Cell growth requires **replication**, or reproduction of the cell's DNA. The double helix unwinds, and hydrogen bonding between complementary bases breaks so that there are two single strands of DNA, and each strand is a *template* for the synthesis of a new strand. For protein synthesis, three types of RNA are needed: *messenger RNA* (mRNA), *ribosomal RNA* (rRNA), and *transfer RNA* (tRNA). All are made from a DNA template by a process called **transcription**. The double helix uncoils, and ribonucleotides base-pair to the deoxyribonucleotides on one DNA strand; however, RNA is produced using *uracil* rather than thymine. Once the RNA is formed, it dissociates from the template and leaves the nucleus, and the DNA double helix reforms.
 
@@ -1203,7 +1203,7 @@ The general term for any change in the genetic code in an organism's DNA is **mu
 
 [^chem-19]: A change in which one nucleotide is substituted, added, or deleted.
 
-[^chem-20]: A chemical or physical agent that cause mutations.
+[^chem-20]: A chemical or physical agent that causes mutations.
 
 [^chem-21]: A hereditary condition caused by an altered DNA sequence.
 

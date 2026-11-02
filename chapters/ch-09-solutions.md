@@ -32,7 +32,7 @@ A lot of the chemistry occurring around us happens in solution. In fact, much of
 
 A solution[^chem-1] is another name for a homogeneous mixture. [Chapter 1 \"Chemistry, Matter, and Measurement\"](/chapters/ch-01-chemistry-matter-and-measureme.md#src-gob-ch01) defined a *mixture* as a material composed of two or more substances. In a solution, the combination is so intimate that the different substances cannot be differentiated by sight, even with a microscope. Compare, for example, a mixture of salt and pepper and another mixture consisting of salt and water. In the first mixture, we can readily see individual grains of salt and the flecks of pepper. A mixture of salt and pepper is not a solution. However, in the second mixture, no matter how carefully we look, we cannot see two different substances. Salt dissolved in water is a solution.
 
-The major component of a solution, called the solvent[^chem-2], is typically the same phase as the solution itself. Each minor component of a solution (and there may be more than one) is called the solute[^chem-3]. In most of the solutions we will describe in this textbook, there will be no ambiguity about whether a component is the solvent or the solute.) For example, in a solution of salt in water, the solute is salt, and solvent is water.
+The major component of a solution, called the solvent[^chem-2], is typically the same phase as the solution itself. Each minor component of a solution (and there may be more than one) is called the solute[^chem-3]. In most of the solutions we will describe in this textbook, there will be no ambiguity about whether a component is the solvent or the solute. For example, in a solution of salt in water, the solute is salt, and the solvent is water.
 
 Solutions come in all phases, and the solvent and the solute do not have to be in the same phase to form a solution (such as salt and water). For example, air is a gaseous solution of about 80% nitrogen and about 20% oxygen, with some other gases present in much smaller amounts. An alloy[^chem-4] is a solid solution consisting of a metal (like iron) with some other metals or nonmetals dissolved in it. Steel, an alloy of iron and carbon and small amounts of other metals, is an example of a solid solution. [Table 9.1 \"Types of Solutions\"](/chapters/ch-09-solutions.md#src-gob-ch09-s01-t01) lists some common types of solutions, with examples of each.
 
@@ -160,7 +160,7 @@ Toluene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>) is widely used in industry as
     3.  isopropyl alcohol \[(CH<sub>3</sub>)<sub>2</sub>CHOH\]
     4.  benzene (C<sub>6</sub>H<sub>6</sub>)
 
-9.  The solubility of alcohols in water varies with the length of carbon chain. For example, ethanol (CH<sub>3</sub>CH<sub>2</sub>OH) is soluble in water in any ratio, while only 0.0008 mL of heptanol (CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH) will dissolve in 100 mL of water. Propose an explanation for this behavior.
+9.  The solubility of alcohols in water varies with the length of the carbon chain. For example, ethanol (CH<sub>3</sub>CH<sub>2</sub>OH) is soluble in water in any ratio, while only 0.0008 mL of heptanol (CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH) will dissolve in 100 mL of water. Propose an explanation for this behavior.
 
 10. Dimethyl sulfoxide \[(CH<sub>3</sub>)<sub>2</sub>SO\] is a polar liquid. Based on the information in Exercise 9, which do you think will be more soluble in it---ethanol or heptanol?
 
@@ -442,7 +442,7 @@ In both parts, we will use the definition of molarity to solve for the desired q
 
     Note that because the definition of molarity is mol/L, the division of mol by M yields L, a unit of volume.
 
-2.  The molar mass of C<sub>2</sub>H<sub>6</sub>O<sub>2</sub> is 62.08 g/mol., so
+2.  The molar mass of C<sub>2</sub>H<sub>6</sub>O<sub>2</sub> is 62.08 g/mol, so
 
     $$6.00\text{~M} = \frac{\text{moles~of~solute}}{\text{5}\text{.00~L}}$$
 
@@ -667,7 +667,7 @@ as the final concentration.
 
 7.  Calculate the mass/mass percent of a saturated solution of NaCl. Use the data from [Table 9.2 \"Solubilities of Various Solutes in Water at 25°C (Except as Noted)\"](/chapters/ch-09-solutions.md#src-gob-ch09-s02-s01-t01), assume that masses of the solute and the solvent are additive, and use the density of H<sub>2</sub>O (1.00 g/mL) as a conversion factor.
 
-8.  Calculate the mass/mass percent of a saturated solution of MgCO<sub>3</sub> Use the data from [Table 9.2 \"Solubilities of Various Solutes in Water at 25°C (Except as Noted)\"](/chapters/ch-09-solutions.md#src-gob-ch09-s02-s01-t01), assume that masses of the solute and the solvent are additive, and use the density of H<sub>2</sub>O (1.00 g/mL) as a conversion factor.
+8.  Calculate the mass/mass percent of a saturated solution of MgCO<sub>3</sub>. Use the data from [Table 9.2 \"Solubilities of Various Solutes in Water at 25°C (Except as Noted)\"](/chapters/ch-09-solutions.md#src-gob-ch09-s02-s01-t01), assume that masses of the solute and the solvent are additive, and use the density of H<sub>2</sub>O (1.00 g/mL) as a conversion factor.
 
 9.  Only 0.203 mL of C<sub>6</sub>H<sub>6</sub> will dissolve in 100.000 mL of H<sub>2</sub>O. Assuming that the volumes are additive, find the volume/volume percent of a saturated solution of benzene in water.
 
@@ -699,7 +699,7 @@ as the final concentration.
 
 23. What volume of 0.345 M NaCl solution is needed to obtain 10.0 g of NaCl?
 
-24. How many milliliters of a 0.0015 M cocaine hydrochloride (C<sub>17</sub>H<sub>22</sub>ClNO<sub>4</sub>) solution is needed to obtain 0.010 g of the solute?
+24. How many milliliters of a 0.0015 M cocaine hydrochloride (C<sub>17</sub>H<sub>22</sub>ClNO<sub>4</sub>) solution are needed to obtain 0.010 g of the solute?
 
 25. Aqueous calcium chloride reacts with aqueous silver nitrate according to the following balanced chemical equation:
 
@@ -729,7 +729,7 @@ as the final concentration.
 
 30. What is the concentration of a 1.0 M solution of SO<sub>4</sub><sup>2−</sup>(aq) ions in equivalents/liter?
 
-31. A solution having initial concentration of 0.445 M and initial volume of 45.0 mL is diluted to 100.0 mL. What is its final concentration?
+31. A solution having an initial concentration of 0.445 M and an initial volume of 45.0 mL is diluted to 100.0 mL. What is its final concentration?
 
 32. A 50.0 mL sample of saltwater that is 3.0% m/v is diluted to 950 mL. What is its final mass/volume percent?
 
@@ -1053,7 +1053,7 @@ The osmolarity of the Ca(NO<sub>3</sub>)<sub>2</sub> solution is lower than that
 
 The main function of the kidneys is to filter the blood to remove wastes and extra water, which are then expelled from the body as urine. Some diseases rob the kidneys of their ability to perform this function, causing a buildup of waste materials in the bloodstream. If a kidney transplant is not available or desirable, a procedure called dialysis can be used to remove waste materials and excess water from the blood.
 
-In one form of dialysis, called *hemodialysis*, a patient's blood is passed though a length of tubing that travels through an *artificial kidney machine* (also called a *dialysis machine*). A section of tubing composed of a semipermeable membrane is immersed in a solution of sterile water, glucose, amino acids, and certain electrolytes. The osmotic pressure of the blood forces waste molecules and excess water through the membrane into the sterile solution. Red and white blood cells are too large to pass through the membrane, so they remain in the blood. After being cleansed in this way, the blood is returned to the body.
+In one form of dialysis, called *hemodialysis*, a patient's blood is passed through a length of tubing that travels through an *artificial kidney machine* (also called a *dialysis machine*). A section of tubing composed of a semipermeable membrane is immersed in a solution of sterile water, glucose, amino acids, and certain electrolytes. The osmotic pressure of the blood forces waste molecules and excess water through the membrane into the sterile solution. Red and white blood cells are too large to pass through the membrane, so they remain in the blood. After being cleansed in this way, the blood is returned to the body.
 
 ``````````{figure} /images/replacements/dialysis.svg
 :alt: Blood and dialysate flow along opposite sides of a semipermeable membrane. Small waste solutes cross the membrane while blood cells remain on the blood side.
@@ -1124,7 +1124,7 @@ Despite the narrow parameters of their specialty, perfusionists must be highly t
 
 3.  In each pair of aqueous systems, which will have the higher boiling point?
 
-    1.  pure water or a 1.0 M NaCl
+    1.  pure water or a 1.0 M NaCl solution
     2.  1.0 M NaCl or 1.0 M C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
     3.  1.0 M CaCl<sub>2</sub> or 1.0 M (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>
 
