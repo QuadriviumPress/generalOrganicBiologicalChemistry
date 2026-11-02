@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Plaster of Paris</title><desc id="desc">An arm in a plaster cast accompanies the balanced hydration equation CaSO4·½H2O + 1½H2O → CaSO4·2H2O.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Plaster of Paris</text>
+<rect x="120" y="210" width="520" height="100" rx="45" fill="#eecfb5" stroke="#193348" stroke-width="3"/>
+<rect x="265" y="195" width="225" height="130" rx="10" fill="#eff1f3" stroke="#193348" stroke-width="3"/>
+<line x1="280" y1="202" x2="290" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="302" y1="202" x2="312" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="324" y1="202" x2="334" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="346" y1="202" x2="356" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="368" y1="202" x2="378" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="390" y1="202" x2="400" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="412" y1="202" x2="422" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="434" y1="202" x2="444" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="456" y1="202" x2="466" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<line x1="478" y1="202" x2="488" y2="318" stroke="#a7b5bf" stroke-width="2"/>
+<text x="760" y="275" font-family="DejaVu Sans, sans-serif" font-size="29" fill="#193348" text-anchor="middle" font-weight="normal">Plaster cast</text>
+<text x="500" y="425" font-family="DejaVu Sans, sans-serif" font-size="30" fill="#193348" text-anchor="middle" font-weight="normal">CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O</text>
+<text x="500" y="490" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Hemihydrate + water → gypsum</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

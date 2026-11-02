@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Phenolic antiseptics</title><desc id="desc">Phenol has one hydroxyl group on a benzene ring; 4-hexylresorcinol has hydroxyl groups at positions 1 and 3 and a hexyl group at position 4.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Phenolic antiseptics</text>
+<path d="M250.0,253.0 L308.0237020535574,286.5 L308.0237020535574,353.5 L250.0,387.0 L191.97629794644263,353.5 L191.97629794644263,286.5 Z" fill="#fff" stroke="#193348" stroke-width="3"/>
+<circle cx="250" cy="320" r="34.84" fill="none" stroke="#193348" stroke-width="2"/>
+<line x1="250.0" y1="253.0" x2="250" y2="210" stroke="#193348" stroke-width="3"/>
+<text x="250" y="188" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<text x="250" y="475" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Phenol</text>
+<path d="M690.0,253.0 L748.0237020535574,286.5 L748.0237020535574,353.5 L690.0,387.0 L631.9762979464426,353.5 L631.9762979464426,286.5 Z" fill="#fff" stroke="#193348" stroke-width="3"/>
+<circle cx="690" cy="320" r="34.84" fill="none" stroke="#193348" stroke-width="2"/>
+<line x1="690.0" y1="253.0" x2="690" y2="210" stroke="#193348" stroke-width="3"/>
+<text x="690" y="188" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="748.0237020535574" y1="353.5" x2="800" y2="385" stroke="#193348" stroke-width="3"/>
+<text x="840" y="410" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="690.0" y1="387.0" x2="690" y2="435" stroke="#193348" stroke-width="3"/>
+<text x="690" y="465" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">(CH₂)₅CH₃</text>
+<text x="690" y="530" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#193348" text-anchor="middle" font-weight="normal">4-Hexylresorcinol</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Citrus and vitamin C</title><desc id="desc">An orange, a lemon, and a lime appear next to an arrow labeled electron donation by vitamin C.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Citrus and vitamin C</text>
+<circle cx="180" cy="280" r="65" fill="#ed932c" stroke="#193348" stroke-width="2"/>
+<path d="M180 215 q20-40 60-23 q-15 35-60 23" fill="#38915c" stroke="#177c73" stroke-width="3"/>
+<circle cx="430" cy="280" r="65" fill="#f0da55" stroke="#193348" stroke-width="2"/>
+<path d="M430 215 q20-40 60-23 q-15 35-60 23" fill="#38915c" stroke="#177c73" stroke-width="3"/>
+<circle cx="680" cy="280" r="65" fill="#74aa4d" stroke="#193348" stroke-width="2"/>
+<path d="M680 215 q20-40 60-23 q-15 35-60 23" fill="#38915c" stroke="#177c73" stroke-width="3"/>
+<text x="180" y="410" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Orange</text>
+<text x="430" y="410" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Lemon</text>
+<text x="680" y="410" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Lime</text>
+<line x1="280" y1="500" x2="720" y2="500" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="500" y="470" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Vitamin C can donate electrons</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

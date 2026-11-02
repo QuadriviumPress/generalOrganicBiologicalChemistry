@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Reading a periodic-table cell</title><desc id="desc">An annotated carbon cell shows atomic number 6, symbol C, name carbon, and standard atomic weight 12.011. A separate example [294] is labeled isotope mass number, not standard atomic weight.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Reading a periodic-table cell</text>
+<rect x="100" y="160" width="250" height="325" rx="10" fill="#edf7f4" stroke="#193348" stroke-width="3"/>
+<text x="225" y="215" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="middle" font-weight="normal">6</text>
+<text x="225" y="315" font-family="DejaVu Sans, sans-serif" font-size="85" fill="#193348" text-anchor="middle" font-weight="bold">C</text>
+<text x="225" y="380" font-family="DejaVu Sans, sans-serif" font-size="29" fill="#193348" text-anchor="middle" font-weight="normal">carbon</text>
+<text x="225" y="445" font-family="DejaVu Sans, sans-serif" font-size="31" fill="#193348" text-anchor="middle" font-weight="normal">12.011</text>
+<line x1="365" y1="207" x2="445" y2="207" stroke="#193348" stroke-width="3"/>
+<text x="470" y="215" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="start" font-weight="normal">Atomic number: number of protons</text>
+<line x1="365" y1="297" x2="445" y2="297" stroke="#193348" stroke-width="3"/>
+<text x="470" y="305" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="start" font-weight="normal">Chemical symbol</text>
+<line x1="365" y1="367" x2="445" y2="367" stroke="#193348" stroke-width="3"/>
+<text x="470" y="375" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="start" font-weight="normal">Element name</text>
+<line x1="365" y1="437" x2="445" y2="437" stroke="#193348" stroke-width="3"/>
+<text x="470" y="445" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="start" font-weight="normal">Standard atomic weight</text>
+<text x="500" y="550" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">[294] denotes an isotope mass number, not an atomic weight.</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

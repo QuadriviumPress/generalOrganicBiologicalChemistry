@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Detecting amino acids with ninhydrin</title><desc id="desc">A drawn fingerprint ridge pattern changes from faint gray to purple after treatment with ninhydrin. The labels state amino-acid residue and purple color reaction.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Detecting amino acids with ninhydrin</text>
+<ellipse cx="250" cy="330" rx="21.0" ry="30" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="30.099999999999998" ry="43" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="39.199999999999996" ry="56" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="48.3" ry="69" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="57.4" ry="82" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="66.5" ry="95" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="75.6" ry="108" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="250" cy="330" rx="84.69999999999999" ry="121" fill="none" stroke="#c3ccd1" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="21.0" ry="30" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="30.099999999999998" ry="43" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="39.199999999999996" ry="56" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="48.3" ry="69" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="57.4" ry="82" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="66.5" ry="95" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="75.6" ry="108" fill="none" stroke="#8856a7" stroke-width="4"/>
+<ellipse cx="750" cy="330" rx="84.69999999999999" ry="121" fill="none" stroke="#8856a7" stroke-width="4"/>
+<line x1="420" y1="330" x2="580" y2="330" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="500" y="275" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Ninhydrin</text>
+<text x="250" y="520" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Amino-acid residue</text>
+<text x="750" y="520" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Purple color reaction</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

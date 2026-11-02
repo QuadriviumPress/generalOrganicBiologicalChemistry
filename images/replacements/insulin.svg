@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Human insulin products</title><desc id="desc">A generic vial and injection pen labeled insulin accompany a schematic gene-to-protein production arrow.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Human insulin products</text>
+<rect x="220" y="170" width="100" height="35" rx="10" fill="#177c73" stroke="#193348" stroke-width="3"/>
+<rect x="190" y="205" width="160" height="220" rx="10" fill="#f4f7f9" stroke="#193348" stroke-width="3"/>
+<rect x="202" y="275" width="136" height="95" rx="10" fill="#177c73" stroke="#177c73" stroke-width="3"/>
+<text x="270" y="310" font-family="DejaVu Sans, sans-serif" font-size="22" fill="white" text-anchor="middle" font-weight="normal">Insulin</text>
+<rect x="650" y="180" width="60" height="260" rx="20" fill="#dde8ef" stroke="#193348" stroke-width="3"/>
+<rect x="660" y="140" width="40" height="55" rx="10" fill="#177c73" stroke="#193348" stroke-width="3"/>
+<text x="680" y="485" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Injection pen</text>
+<text x="270" y="485" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Vial</text>
+<text x="500" y="550" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Insulin gene → expression → purified human insulin</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

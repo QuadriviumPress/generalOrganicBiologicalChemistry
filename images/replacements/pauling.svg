@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Linus Pauling and chemical bonding</title><desc id="desc">A typographic Linus Pauling card connects chemical bonding with an H–Cl bond polarized toward the more electronegative chlorine atom. It is not a portrait.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Linus Pauling and chemical bonding</text>
+<text x="500" y="170" font-family="DejaVu Sans, sans-serif" font-size="40" fill="#193348" text-anchor="middle" font-weight="bold">Linus Pauling</text>
+<circle cx="300" cy="335" r="45" fill="#f9fafb" stroke="#193348" stroke-width="2"/>
+<text x="300" y="347.25" font-family="DejaVu Sans, sans-serif" font-size="35" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="690" cy="335" r="67" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="690" y="348.3" font-family="DejaVu Sans, sans-serif" font-size="38" fill="white" text-anchor="middle" font-weight="normal">Cl</text>
+<line x1="350" y1="335" x2="618" y2="335" stroke="#193348" stroke-width="6"/>
+<text x="300" y="260" font-family="DejaVu Sans, sans-serif" font-size="30" fill="#193348" text-anchor="middle" font-weight="normal">δ+</text>
+<text x="690" y="225" font-family="DejaVu Sans, sans-serif" font-size="30" fill="#193348" text-anchor="middle" font-weight="normal">δ−</text>
+<line x1="420" y1="410" x2="580" y2="410" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="500" y="475" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Electron density drawn toward chlorine</text>
+<text x="500" y="540" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Bonding · Electronegativity</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

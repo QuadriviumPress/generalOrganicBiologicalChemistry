@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Measuring blood glucose</title><desc id="desc">A blood droplet on a test strip enters a handheld glucose meter; the screen displays the unit mg/dL without a sample reading.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Measuring blood glucose</text>
+<rect x="550" y="145" width="250" height="320" rx="38" fill="#d4e6ef" stroke="#193348" stroke-width="3"/>
+<rect x="580" y="190" width="190" height="110" rx="10" fill="#fff" stroke="#193348" stroke-width="3"/>
+<text x="675" y="260" font-family="DejaVu Sans, sans-serif" font-size="30" fill="#193348" text-anchor="middle" font-weight="normal">mg/dL</text>
+<circle cx="675" cy="380" r="25" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<rect x="430" y="323" width="120" height="44" rx="0" fill="#f9f8f2" stroke="#193348" stroke-width="3"/>
+<path d="M380 240 C375 280 345 300 350 325 C355 365 410 365 415 325 C420 300 390 280 380 240" fill="#bb4354" stroke="#193348" stroke-width="3"/>
+<text x="245" y="385" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Blood sample</text>
+<line x1="360" y1="390" x2="460" y2="365" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="500" y="535" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Test strip → chemical signal → glucose measurement</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

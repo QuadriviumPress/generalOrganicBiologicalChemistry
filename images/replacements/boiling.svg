@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Water at its boiling point</title><desc id="desc">A beaker of boiling water has separate liquid and vapor regions each labeled 100°C at 1 atm, with heat entering from below.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Water at its boiling point</text>
+<path d="M260 180 V470 H650 V180" fill="#eaf6fa" stroke="#193348" stroke-width="3"/>
+<rect x="270" y="340" width="370" height="120" rx="0" fill="#a7d5ef" stroke="#a7d5ef" stroke-width="3"/>
+<circle cx="310" cy="430" r="12" fill="#fff" stroke="#193348" stroke-width="2"/>
+<circle cx="460" cy="400" r="12" fill="#fff" stroke="#193348" stroke-width="2"/>
+<circle cx="590" cy="360" r="12" fill="#fff" stroke="#193348" stroke-width="2"/>
+<circle cx="390" cy="310" r="12" fill="#fff" stroke="#193348" stroke-width="2"/>
+<circle cx="310" cy="230" r="12" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<circle cx="450" cy="200" r="12" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<circle cx="580" cy="270" r="12" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="780" y="230" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Vapor: 100°C</text>
+<line x1="650" y1="230" x2="680" y2="230" stroke="#193348" stroke-width="3"/>
+<text x="780" y="400" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Liquid: 100°C</text>
+<line x1="650" y1="400" x2="680" y2="400" stroke="#193348" stroke-width="3"/>
+<line x1="450" y1="545" x2="450" y2="480" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="320" y="540" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Heat in</text>
+<text x="450" y="145" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Pressure = 1 atm</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

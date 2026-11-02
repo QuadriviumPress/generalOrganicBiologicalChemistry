@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">John W. Hill</title><desc id="desc">A typographic author card reading John W. Hill. No portrait is depicted.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">John W. Hill</text>
+<circle cx="500" cy="260" r="90" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="500" y="276.1" font-family="DejaVu Sans, sans-serif" font-size="46" fill="white" text-anchor="middle" font-weight="normal">JWH</text>
+<text x="500" y="410" font-family="DejaVu Sans, sans-serif" font-size="38" fill="#193348" text-anchor="middle" font-weight="bold">John W. Hill</text>
+<text x="500" y="462" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Author of the source textbook</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

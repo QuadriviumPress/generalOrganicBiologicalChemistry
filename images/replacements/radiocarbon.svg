@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Radiocarbon dating</title><desc id="desc">A qualitative decay chart shows carbon-14 remaining at one, one-half, one-quarter, and one-eighth after zero, one, two, and three half-lives. No measured Shroud data are shown.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Radiocarbon dating</text>
+<line x1="130" y1="490" x2="910" y2="490" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="130" y1="490" x2="130" y2="150" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M130,180.0 L138,186.85200946972623 L146,193.54751882687503 L154,200.09010253895778 L162,206.48325343253495 L170,212.73038455789822 L178,218.83483101116275 L186,224.79985171474328 L194,230.62863115716368 L202,236.32428109312931 L210,241.88984220477005 L218,247.3282857249398 L226,252.6425150234403 L234,257.8353671570154 L242,262.9096143839433 L250,267.86796564403573 L258,272.7130680048336 L266,277.44750807477146 L274,282.0738133840659 L282,286.5944537340631 L290,291.011842515769 L298,295.32833799826255 L306,299.5462445876825 L314,303.6678140574587 L322,307.69524675044477 L330,311.6306927535941 L338,315.4762530458061 L346,319.23398061955606 L354,322.905881576906 L362,326.4939162004838 L370,330.0 L378,333.4260047348631 L386,336.7737594134375 L394,340.0450512694789 L402,343.2416267162675 L410,346.36519227894917 L418,349.4174155055814 L426,352.3999258573716 L434,355.31431557858184 L442,358.16214054656473 L450,360.944921102385 L458,363.66414286246993 L466,366.32125751172015 L474,368.91768357850765 L482,371.45480719197167 L490,373.93398282201787 L498,376.3565340024168 L506,378.7237540373858 L514,381.03690669203297 L522,383.29722686703155 L530,385.5059212578845 L538,387.66416899913133 L546,389.77312229384125 L554,391.8339070287293 L562,393.8476233752224 L570,395.81534637679704 L578,397.7381265229031 L586,399.616990309778 L594,401.452940788453 L602,403.24695810024184 L610,405.0 L618,406.71300236743156 L626,408.3868797067188 L634,410.02252563473945 L642,411.6208133581338 L650,413.1825961394745 L658,414.7087077527907 L666,416.1999629286858 L674,417.6571577892909 L682,419.0810702732823 L690,420.4724605511925 L698,421.83207143123497 L706,423.1606287558601 L714,424.4588417892538 L722,425.72740359598583 L730,426.96699141100896 L738,428.1782670012084 L746,429.3618770186929 L754,430.5184533460165 L762,431.6486134335158 L770,432.7529606289422 L778,433.83208449956567 L786,434.8865611469206 L794,435.91695351436465 L802,436.9238116876112 L810,437.9076731883985 L818,438.8690632614515 L826,439.808495154889 L834,440.72647039422645 L842,441.623479050121 L850,442.5" fill="none" stroke="#177c73" stroke-width="4"/>
+<circle cx="130" cy="180" r="7" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<line x1="130" y1="180" x2="130" y2="490" stroke="#899daa" stroke-width="1" stroke-dasharray="8 7"/>
+<text x="130" y="525" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">0</text>
+<circle cx="370" cy="330.0" r="7" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<line x1="370" y1="330.0" x2="370" y2="490" stroke="#899daa" stroke-width="1" stroke-dasharray="8 7"/>
+<text x="370" y="525" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">1</text>
+<circle cx="610" cy="405.0" r="7" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<line x1="610" y1="405.0" x2="610" y2="490" stroke="#899daa" stroke-width="1" stroke-dasharray="8 7"/>
+<text x="610" y="525" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">2</text>
+<circle cx="850" cy="442.5" r="7" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<line x1="850" y1="442.5" x2="850" y2="490" stroke="#899daa" stroke-width="1" stroke-dasharray="8 7"/>
+<text x="850" y="525" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">3</text>
+<text x="105" y="188" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="end" font-weight="normal">1</text>
+<text x="105" y="338" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="end" font-weight="normal">½</text>
+<text x="105" y="413" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="end" font-weight="normal">¼</text>
+<text x="105" y="450.5" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="end" font-weight="normal">⅛</text>
+<text x="500" y="565" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Elapsed time / half-lives</text>
+<text x="500" y="135" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Fraction of original carbon-14 remaining</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

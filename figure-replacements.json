@@ -1,0 +1,1515 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "7bae9c48": {
+      "diagram": "alchemy",
+      "assets": [
+        {
+          "path": "images/replacements/alchemy.svg",
+          "title": "Historical alchemical symbols",
+          "alt": "Four independently drawn historical alchemical symbols: sun for gold, crescent for silver, Venus for copper, and Mars for iron.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "309f23fb2f4e5ca2846a971485fa47bffd70d59a28ddd0dba5ad4426810665de"
+        }
+      ],
+      "caption": "Historical alchemists used symbols for materials. Shown here are symbols for gold, silver, copper, and iron.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_04/7bae9c486542afa9a4e1c80e67369342.jpg",
+      "original_sha256": "38e915e21cc184d7897a657e004a5ed0b7b7c44fa5e7799ef9a1deec4fa3cfce",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "aeff97bc": {
+      "assets": [
+        {
+          "commons_title": "File:Steaming Kettle - Boston, MA.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Steaming_Kettle_-_Boston%2C_MA.jpg",
+          "credit": "Daderot",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "retrieved": "2026-10-30",
+          "alt": "A kettle emitting a visible cloud of condensed water droplets.",
+          "title": "Steaming Kettle - Boston, MA",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "b3bcbf4d88992518a0378fff92b55c6b74593e50434aef439d3e7803cc8f3a85",
+          "path": "images/replacements/fig-1-1c.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "A heated kettle illustrates boiling: liquid water becomes invisible water vapor. The visible mist near the spout consists of condensed liquid droplets.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_04/aeff97bc38b44288323700724f3c040c.jpg",
+      "original_sha256": "a19a3fd3714a8501633147145f4624135986b32e8ba70ab3eed1f7bcefe93149",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "Figure 1.4 Boiling Water",
+      "source_id": "gob-ch01_s02_s04_f01"
+    },
+    "fe491013": {
+      "diagram": "blood-pressure",
+      "assets": [
+        {
+          "path": "images/replacements/blood-pressure.svg",
+          "title": "Measuring blood pressure",
+          "alt": "An inflatable cuff surrounds an arm and connects to a pressure gauge marked in millimeters of mercury.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "3d060fe58b3dfa4d91344be8970f208542de68a15f9251a2ad51867f46e414c1"
+        }
+      ],
+      "caption": "A cuff and pressure gauge provide a quantitative blood-pressure measurement. The diagram shows the measurement apparatus schematically.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_04/fe49101387caede6dc35ee799a54af09.jpg",
+      "original_sha256": "01831b183ba56102600a6ab94c20b9369e235e6b64ee3c42f892c3d670613e82",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "Figure 1.6 Measuring Blood Pressure",
+      "source_id": "gob-ch01_s03_f01"
+    },
+    "a4270e0e": {
+      "diagram": "kilogram",
+      "assets": [
+        {
+          "path": "images/replacements/kilogram.svg",
+          "title": "The historical kilogram prototype",
+          "alt": "A cylinder with equal diameter and height of about 39 millimeters, labeled platinum–iridium, beside the modern Planck constant definition of the kilogram.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "518077412cc42c9913e4d364bc69317ca989b4ecdc229adcc6b0a77a97ebcf7a"
+        }
+      ],
+      "caption": "The historical international kilogram prototype was a platinum–iridium cylinder. Since 2019, the SI defines the kilogram by a fixed value of the Planck constant; this cylinder illustrates the earlier standard.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_04/a4270e0ed40643a4ee7127111c940a13.jpg",
+      "original_sha256": "6f8e1a388f704d50c369832bd6fe91d19b3b06784ee76279340f421cb208c735",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "Figure 1.8 The Kilogram",
+      "source_id": "gob-ch01_s06_s01_f01"
+    },
+    "caeface5": {
+      "diagram": "pharmacy",
+      "assets": [
+        {
+          "path": "images/replacements/pharmacy.svg",
+          "title": "Chemistry in pharmacy",
+          "alt": "A graduated measuring vessel and an unlabeled medicine container illustrate measurement and concentration in pharmacy.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "966fc1dd5b2080bb7ddf083bea1238f2e6898c84ba3ca87a0736362ff192dc83"
+        }
+      ],
+      "caption": "Pharmacists use chemical knowledge to interpret concentrations and measure quantities accurately.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_04/caeface5bd6986ddcda666d9a6941677.jpg",
+      "original_sha256": "3ef0ee76a305f3f09e0df781614fd3b8a241ad022698870dabd09f8560320a99",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "96419256": {
+      "diagram": "elements",
+      "assets": [
+        {
+          "path": "images/replacements/elements.svg",
+          "title": "Samples of elements",
+          "alt": "A gold ingot, an iron bar, and a mercury droplet are labeled Au solid, Fe solid, and Hg liquid. Shapes and colors are schematic.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "ce363725a241ce8ab94230aa7d4877b1ff81d47d1952c3bc99b983cf0a20d577"
+        }
+      ],
+      "caption": "Schematic samples distinguish yellow solid gold, silvery solid iron, and silvery liquid mercury at room temperature.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_05/96419256f1fb611d1ffd54c21aa3c58d.jpg",
+      "original_sha256": "f04d2c1f7e464873b8ceec5c54ec2a76e7ca051c4c654776a81338477868d91a",
+      "page": "chapters/ch-02-elements-atoms-and-the-periodi.md",
+      "source_title": "Figure 2.1 Samples of Elements",
+      "source_id": "gob-ch02_s01_f01"
+    },
+    "6ad1d276": {
+      "diagram": "cast",
+      "assets": [
+        {
+          "path": "images/replacements/cast.svg",
+          "title": "Plaster of Paris",
+          "alt": "An arm in a plaster cast accompanies the balanced hydration equation CaSO4·½H2O + 1½H2O → CaSO4·2H2O.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "d28aa16ec2b076261e01d3eaab1eefb7d1df931028937c5614cf6f595521ba0a"
+        }
+      ],
+      "caption": "Calcium sulfate hemihydrate hardens when it reacts with water to form gypsum, making it useful in casts.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_06/6ad1d2766f18706114cc47d5887142b6.jpg",
+      "original_sha256": "24f9398d7a8e5efa55c0593ffbb397b45f63d785211bb8b4261966728aaa7264",
+      "page": "chapters/ch-03-ionic-bonding-and-simple-ionic.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "3bae7db9": {
+      "diagram": "bread",
+      "assets": [
+        {
+          "path": "images/replacements/bread.svg",
+          "title": "Fermentation makes bread rise",
+          "alt": "A cut loaf and bubbles in rising dough accompany C6H12O6 → 2 C2H5OH + 2 CO2.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "3411af6385e67cd28ef644165f9f4f1cb661d6150658e3664805e6094f11aa07"
+        }
+      ],
+      "caption": "Yeast converts glucose into ethanol and carbon dioxide. Carbon dioxide bubbles expand the dough.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_08/3bae7db9e8ee15a7a6edbee903545ab5.jpg",
+      "original_sha256": "6a70b81a2782e5b2347cbd7b966f0cc389d10083a175f994058fe25dbae42d58",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "bdce07aa": {
+      "diagram": "recipe",
+      "assets": [
+        {
+          "path": "images/replacements/recipe.svg",
+          "title": "Proportions in a recipe",
+          "alt": "Two hydrogen molecules and one oxygen molecule combine to make two water molecules, illustrating fixed proportions.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "11c85d3c23dc6077153556c488e9123587d919e21dc7bb97a1bbb82ff44fb371"
+        }
+      ],
+      "caption": "A recipe fixes ingredient proportions. A balanced chemical equation similarly fixes relative amounts of reactants and products.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_08/bdce07aac940727d30169f57f0c06608.jpg",
+      "original_sha256": "70b4dae9bfcb63de1b9a00279bfc21aeb584a7058812f3552d315ec7160b95e4",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "55dc5464": {
+      "assets": [
+        {
+          "commons_title": "File:Coin-cells.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Coin-cells.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coin-cells.jpg",
+          "credit": "Gerhard H Wrodnigg",
+          "license": "CC BY-SA 2.5",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+          "retrieved": "2026-10-30",
+          "alt": "Several round button-cell batteries of different diameters.",
+          "title": "Coin-cells",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "0c051c1f05df3fcfa7707e32368ad73c60445da3baeef3e49f4a4592b9772819",
+          "path": "images/replacements/fig-14-3.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Button cells provide electrical energy through redox reactions. These compact batteries are used in small electronic devices.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_08/55dc5464fec4a88c49fcf1d04f8d4ca6.jpg",
+      "original_sha256": "1130acbeb6f3dade5c98a72bf6d4b7e3611340d1a741ad3fa27e5208a50e1b75",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "48ad605b": {
+      "assets": [
+        {
+          "commons_title": "File:Gas stove burner flame.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Gas_stove_burner_flame.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gas_stove_burner_flame.jpg",
+          "credit": "Lisafern",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "retrieved": "2026-10-30",
+          "alt": "Blue flames and a few yellow tips surrounding a gas-stove burner.",
+          "title": "Gas stove burner flame",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "320e9905f59d6399d1d25e09958219bfa6ccbf834ed1b0062007dbafb0a27c57",
+          "path": "images/replacements/fig-16-2.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Burning methane in a gas burner is both combustion and a redox reaction.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_08/48ad605bde80ddfa2ade40d86319f843.jpg",
+      "original_sha256": "b830a4e47d9ab87eef4c68f293979f894b3a000d3cfb3e9ed2fb4b0ae00a71e5",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "Figure 5.5 The Burning of Natural Gas",
+      "source_id": "gob-ch05_s06_f01"
+    },
+    "92236b84": {
+      "diagram": "citrus",
+      "assets": [
+        {
+          "path": "images/replacements/citrus.svg",
+          "title": "Citrus and vitamin C",
+          "alt": "An orange, a lemon, and a lime appear next to an arrow labeled electron donation by vitamin C.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "a9e65fbcd8c9f570b89bf5f25c1082889e16de43e435b46df968a62f5f8148e9"
+        }
+      ],
+      "caption": "Citrus fruits supply vitamin C, an antioxidant that can donate electrons in redox processes.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_08/92236b84d84965f434c38a7e073b64f0.jpg",
+      "original_sha256": "aafb969056196badd999b48d567f9bedb99c16e9f34a75052fa39a6b457f1d17",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "Figure 5.6 Citrus Fruits",
+      "source_id": "gob-ch05_s06_f02"
+    },
+    "cf04d2cc": {
+      "assets": [
+        {
+          "title": "Wheat crop in an arable field - geograph.org.uk - 5044039",
+          "commons_title": "File:Wheat crop in an arable field - geograph.org.uk - 5044039.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Wheat_crop_in_an_arable_field_-_geograph.org.uk_-_5044039.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wheat_crop_in_an_arable_field_-_geograph.org.uk_-_5044039.jpg",
+          "credit": "Graham Robson",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "retrieved": "2026-10-30",
+          "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+          "alt": "A field of green wheat growing beneath a cloudy sky.",
+          "sha256": "7afb8222193a3dde7fd6ee8e3bad28a16f3a4fae6a96750cf4ba08da268db118",
+          "path": "images/replacements/wheat-field.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Plants capture sunlight through photosynthesis, converting carbon dioxide and water into carbohydrates and oxygen.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_08/cf04d2cc698503fb6badf67234f1a919.jpg",
+      "original_sha256": "96d9873e6110130a636a9f877a0f7871e99c842ab4b69fd729b574aa9cdd20b1",
+      "page": "chapters/ch-05-introduction-to-chemical-react.md",
+      "source_title": "Figure 5.7 Life on Earth",
+      "source_id": "gob-ch05_s06_f03"
+    },
+    "ccbbf0fa": {
+      "assets": [
+        {
+          "commons_title": "File:FDA Nutrition Facts Label 2016.png",
+          "source": "https://commons.wikimedia.org/wiki/File:FDA_Nutrition_Facts_Label_2016.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/FDA_Nutrition_Facts_Label_2016.png",
+          "credit": "U.S. Food and Drug Administration",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "retrieved": "2026-10-30",
+          "alt": "An FDA Nutrition Facts label showing 230 Calories per serving.",
+          "title": "FDA Nutrition Facts Label 2016",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "2017b122972bdf558556ac6db78c39439a2693a65a4900b030ccc59e5ddc0a62",
+          "path": "images/replacements/fig-7-1.png",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Food labels report energy in Calories: 1 Calorie = 1 kilocalorie = 4,184 joules. This FDA example lists 230 Calories per serving.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_10/ccbbf0faf91b3e433a7d7613cd351518.jpg",
+      "original_sha256": "dc69b315905fdb8aa514876ef991300550b386ddfa293c166e9fe5b86b25e411",
+      "page": "chapters/ch-07-energy-and-chemical-processes.md",
+      "source_title": "Figure 7.1 Nutritional Energy",
+      "source_id": "gob-ch07_s01_f01"
+    },
+    "c0f76311": {
+      "diagram": "boiling",
+      "assets": [
+        {
+          "path": "images/replacements/boiling.svg",
+          "title": "Water at its boiling point",
+          "alt": "A beaker of boiling water has separate liquid and vapor regions each labeled 100°C at 1 atm, with heat entering from below.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "cdcf0333baac01307af9839e7128d103ad3f439fd9fc096f9c6c64a94a675639"
+        }
+      ],
+      "caption": "At 1 atmosphere, liquid water and water vapor in equilibrium at the boiling point both have a temperature of 100°C. Added energy drives the phase change.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_10/c0f7631193055b868a81f81f85198225.jpg",
+      "original_sha256": "71d519e0dc7ba5a145cddae0b614e989f5b4a409c733d80bec81c395533d2e48",
+      "page": "chapters/ch-07-energy-and-chemical-processes.md",
+      "source_title": "Figure 7.2 The Boiling Point of Water",
+      "source_id": "gob-ch07_s03_f01"
+    },
+    "4b30ed0d": {
+      "assets": [
+        {
+          "commons_title": "File:Ice cubes on water.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ice_cubes_on_water.jpg",
+          "credit": "Cleiton Andrade from Alfenas, Brasil",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "retrieved": "2026-10-30",
+          "alt": "Ice cubes floating in liquid water in drinking glasses.",
+          "title": "Ice cubes on water",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "c985118008c629815d1c1e40e51d6b30ff9d195ddb0b84876bd6bb711447fd20",
+          "path": "images/replacements/fig-1-1a.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        },
+        {
+          "commons_title": "File:Steaming Kettle - Boston, MA.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Steaming_Kettle_-_Boston%2C_MA.jpg",
+          "credit": "Daderot",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "retrieved": "2026-10-30",
+          "alt": "A kettle emitting a visible cloud of condensed water droplets.",
+          "title": "Steaming Kettle - Boston, MA",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "b3bcbf4d88992518a0378fff92b55c6b74593e50434aef439d3e7803cc8f3a85",
+          "path": "images/replacements/fig-1-1c.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Water occurs as ice, liquid water, and invisible water vapor. The mist near a kettle is a suspension of tiny liquid droplets formed when vapor condenses.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_11/4b30ed0d0401895ce17583d96306cc82.jpg",
+      "original_sha256": "f075f1ed0dae07afae9b389f08d575dcca2fed58eada8b5fd730b3cbcbd37e4f",
+      "page": "chapters/ch-08-solids-liquids-and-gases.md",
+      "source_title": "Figure 8.1 Water",
+      "source_id": "gob-ch08_f01"
+    },
+    "1fe481e0": {
+      "assets": [
+        {
+          "title": "Brillanten",
+          "commons_title": "File:Brillanten.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Brillanten.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brillanten.jpg",
+          "credit": "Mario Sarto",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "retrieved": "2026-10-30",
+          "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+          "alt": "Several transparent, faceted diamonds.",
+          "sha256": "dbe0869a4d5edd4f7ad9f831d5716bdf3b1a1ad18ecf12f9acc00eb407021d6a",
+          "path": "images/replacements/diamond.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Diamond is a crystalline form of carbon with a three-dimensional network of covalent bonds.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_11/1fe481e031800b30fbc6cf35acf4174e.jpg",
+      "original_sha256": "fd14aca4a1475ece4b81a1678d82ace9efa54d32e4475f59086310da62132ff1",
+      "page": "chapters/ch-08-solids-liquids-and-gases.md",
+      "source_title": "Figure 8.2 Diamond",
+      "source_id": "gob-ch08_s01_f01"
+    },
+    "e4b61877": {
+      "assets": [
+        {
+          "commons_title": "File:Table Salt (NaCl) Crystal.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Table_Salt_(NaCl)_Crystal.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Table_Salt_%28NaCl%29_Crystal.jpg",
+          "credit": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "retrieved": "2026-10-30",
+          "alt": "A magnified sodium chloride crystal with angular surface features.",
+          "title": "Table Salt (NaCl) Crystal",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "dcaf605fc41a14b6b6a2f37eacf1906be10223cea06ff6e3ba5e2d30c6bf425d",
+          "path": "images/replacements/fig-3-5.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Solid sodium chloride contains sodium and chloride ions held together by ionic interactions.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_11/e4b6187726547af0cd146a52d5fd4609.jpg",
+      "original_sha256": "dd88605d0291fe2fdf18e767cd4e7e724cc91704dda0451d7bfc6c26eac47597",
+      "page": "chapters/ch-08-solids-liquids-and-gases.md",
+      "source_title": "Figure 8.3 Sodium Chloride",
+      "source_id": "gob-ch08_s01_f02"
+    },
+    "ed4466e7": {
+      "diagram": "crystal",
+      "assets": [
+        {
+          "path": "images/replacements/crystal.svg",
+          "title": "Crystalline arrangement",
+          "alt": "A square array alternates positively charged sodium ions with negatively charged chloride ions. This is a two-dimensional slice of a three-dimensional lattice.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "978199b99f3d30806fffd97bddcb65d362ae202d6bfdd6c9d3a917a7d6f3b999"
+        }
+      ],
+      "caption": "A regular arrangement of particles produces a repeating crystal lattice; the diagram shows a simplified slice of an ionic crystal.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_11/ed4466e77b8e853a4a0e8e1d2a5c16f8.jpg",
+      "original_sha256": "082c2527b8505e64568fa163876662f0fefcb2ab8cfcfdbeda4c56736f195135",
+      "page": "chapters/ch-08-solids-liquids-and-gases.md",
+      "source_title": "Figure 8.7 Crystalline Arrangement",
+      "source_id": "gob-ch08_s02_s01_f01"
+    },
+    "d92eccb4": {
+      "diagram": "oil-water",
+      "assets": [
+        {
+          "path": "images/replacements/oil-water.svg",
+          "title": "Oil and water",
+          "alt": "A transparent vessel contains a yellow oil layer above a red water layer, with each layer labeled.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "240c6dbdaa05e99f7abbaad6b7874ed12786f87f5e6e418093e956c6f4884a7b"
+        }
+      ],
+      "caption": "Oil and water form separate liquid layers because their intermolecular interactions differ. The less dense oil forms the top layer.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/d92eccb40cee32f557e98e6b230b8037.jpg",
+      "original_sha256": "bf668c41c32b8cdc9cbe4fed79d3b1a5be99042a276e965b886c351d649a4b36",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "Figure 9.1 Solubility",
+      "source_id": "gob-ch09_s01_f01"
+    },
+    "c3f17593": {
+      "diagram": "saline",
+      "assets": [
+        {
+          "path": "images/replacements/saline.svg",
+          "title": "Mass per volume percent",
+          "alt": "A balance holding 0.9 g NaCl is connected by an arrow to a 100 mL solution in a volumetric vessel; the final volume, rather than the added water volume, is specified.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "a6b2dbfdb62d8cbca869f55d3064d9c574c90c9cb9bae73459ca7d401620fb9e"
+        }
+      ],
+      "caption": "A 0.9% mass/volume sodium chloride solution contains 0.9 g of NaCl in each 100 mL of final solution.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/c3f175935722d7b498e82ff1f84add18.jpg",
+      "original_sha256": "51a3e77ccb1c6c1eacc366ebf93e2e769f2db80c59458bc007dc076bf98c3b32",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "Figure 9.2 Mass/Volume Percent",
+      "source_id": "gob-ch09_s02_s02_f01"
+    },
+    "a7290e9b": {
+      "diagram": "water-balance",
+      "assets": [
+        {
+          "path": "images/replacements/water-balance.svg",
+          "title": "Water and solute balance",
+          "alt": "A cell before and after dilution of surrounding solution; arrows show water entering and the cell swelling. This is a qualitative osmosis model.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "86baf617f20c740dbb0e65fd02dc9744376a1cd9b85143f40d0a4442159b52f3"
+        }
+      ],
+      "caption": "Excess water intake can dilute extracellular sodium. Water movement across cell membranes then changes cell volume.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/a7290e9b85a621057441a423292ec317.jpg",
+      "original_sha256": "05de15f3b55373a6c115c714e4817020628a77044974b7be18ec126f093e8986",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "b3b0b9d1": {
+      "diagram": "solvation",
+      "assets": [
+        {
+          "path": "images/replacements/solvation.svg",
+          "title": "Solvation of ions",
+          "alt": "A positive sodium ion is surrounded by water molecules with oxygen ends facing inward, and a negative chloride ion has the hydrogen ends facing inward.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "7bebc3706f597db2f2e5e20aa4b0b03be8e3f45dc049293ca79dbfcca83c872f"
+        }
+      ],
+      "caption": "Water molecules surround dissolved ions. The oxygen ends of water molecules face a positive ion; hydrogen ends face a negative ion.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/b3b0b9d16a0f0bb2c33ab2015ece2aa9.jpg",
+      "original_sha256": "1154a15f08c70b09be72e5dcc1074809c4f3ec97982ccbb848771810730663c3",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "Figure 9.4 Solvation",
+      "source_id": "gob-ch09_s03_f01"
+    },
+    "c3b7beb9": {
+      "diagram": "dissociation",
+      "assets": [
+        {
+          "path": "images/replacements/dissociation.svg",
+          "title": "Ionic dissociation",
+          "alt": "A small sodium chloride lattice at left becomes separated sodium and chloride ions in water at right.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "265abdf6fbafbd83c4066ad29c1f9dea476dda8f9ae8b59a858687bf5b01b73d"
+        }
+      ],
+      "caption": "When an ionic solid dissolves, its ions separate and become dispersed in water. The diagram omits water molecules to emphasize separation.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/c3b7beb9ca9164ca6835371e8ae0439b.jpg",
+      "original_sha256": "a4cdecebb836b04a69ef505c03b0c5469e624298fbdb3b4e3c382a90b8537581",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "Figure 9.5 Ionic Dissociation",
+      "source_id": "gob-ch09_s03_f02"
+    },
+    "f5ef0688": {
+      "assets": [
+        {
+          "commons_title": "File:RoadSaltTrucks.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:RoadSaltTrucks.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/RoadSaltTrucks.jpg",
+          "credit": "James LeWorm",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "retrieved": "2026-10-30",
+          "alt": "Road-salt trucks inside a storage building containing piles of salt.",
+          "title": "RoadSaltTrucks",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "b81d2aa1c1b8c28bc9b78a995ce722b9a7aed88671b2cf2e26501d8a31538a9e",
+          "path": "images/replacements/fig-11-2.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Road salt lowers the freezing point of water, helping melt ice on treated surfaces.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_12/f5ef068873f15f6671d63320b45cbdeb.jpg",
+      "original_sha256": "f71fbb4d9e5497893ba83ec9ecf38cfcc7da3d7fc771003b87e92c74b89a03c3",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "Figure 9.7 Effect of Freezing Point Depression",
+      "source_id": "gob-ch09_s04_s03_f01"
+    },
+    "48937804": {
+      "diagram": "dialysis",
+      "assets": [
+        {
+          "path": "images/replacements/dialysis.svg",
+          "title": "Hemodialysis",
+          "alt": "Blood and dialysate flow along opposite sides of a semipermeable membrane. Small waste solutes cross the membrane while blood cells remain on the blood side.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "8b34192cf363d6ecb949d7a3d8c565eff105607a10b042119e90f70838788ac2"
+        }
+      ],
+      "caption": "A semipermeable membrane separates blood from dialysate. Small waste solutes diffuse down their concentration gradients; cells and most proteins remain in the blood. Water removal in clinical hemodialysis is controlled chiefly by a pressure difference.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_12/489378041d773aaf2ab78e6d01090a7e.jpg",
+      "original_sha256": "c505a5e19290b64066b0700ab6077216a914d7021ad99c7f83933e46c3863c5e",
+      "page": "chapters/ch-09-solutions.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "7d388094": {
+      "assets": [
+        {
+          "title": "White wine vinegar",
+          "commons_title": "File:White wine vinegar.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:White_wine_vinegar.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/White_wine_vinegar.jpg",
+          "credit": "Susan Slater",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "retrieved": "2026-10-30",
+          "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+          "alt": "A bottle of white wine vinegar.",
+          "sha256": "37c3c8224836158db1fc7b105d190065dd37433d6de74770b1c1de40df221e69",
+          "path": "images/replacements/vinegar.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        },
+        {
+          "title": "Ammonia solution (25-28%)",
+          "commons_title": "File:Ammonia solution (25-28%).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Ammonia_solution_(25-28%25).jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ammonia_solution_%2825-28%25%29.jpg",
+          "credit": "Leiem",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "retrieved": "2026-10-30",
+          "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+          "alt": "A laboratory bottle labeled as an aqueous ammonia solution.",
+          "sha256": "d191e08fe0b1f8bdd3ef6e613f39e2940febbbf62dd9d7d98b8c8de81223452e",
+          "path": "images/replacements/ammonia.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Everyday products contain acids or bases: vinegar contains acetic acid, while household ammonia is basic.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_13/7d3880949e326fa25fe29f019afc9a2d.jpg",
+      "original_sha256": "32d74d379f771cbde6cca1d69f101a1a1788cd74c14b3f6d1295d9306198362d",
+      "page": "chapters/ch-10-acids-and-bases.md",
+      "source_title": "Figure 10.1 Prevalence of Acids and Bases",
+      "source_id": "gob-ch10_f01"
+    },
+    "f5673a07": {
+      "diagram": "hydrochloride",
+      "assets": [
+        {
+          "path": "images/replacements/hydrochloride.svg",
+          "title": "A medicine as a hydrochloride salt",
+          "alt": "RNH2 + HCl → RNH3+ + Cl−, with the amine, acid, and ammonium salt labeled.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "600c5b800ec5314306a79417d4a4fa329be38534fe8db82fa807c3a20bb9157e"
+        }
+      ],
+      "caption": "A basic amine can accept a proton from hydrochloric acid, forming a hydrochloride salt. This generic scheme shows the acid–base chemistry.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_13/f5673a078f80e5af7d989011092e8d68.jpg",
+      "original_sha256": "9f74152eb109015ee7bbd5cde113fd093af4e615d57f45c5ae43ce460fb69a68",
+      "page": "chapters/ch-10-acids-and-bases.md",
+      "source_title": "",
+      "source_id": "gob-ch10_s02_f01"
+    },
+    "6c318e1f": {
+      "diagram": "cleaners",
+      "assets": [
+        {
+          "path": "images/replacements/cleaners.svg",
+          "title": "Different cleaning chemistries",
+          "alt": "Two generic bottles labeled alkaline drain cleaner and plant-derived cleaning formulation, with a reminder to read the product label. No commercial packaging is reproduced.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "b2b4887e6b79f1a6cc19664aecbeee2afc97a07c4ee7ec759a2af898e85dea4c"
+        }
+      ],
+      "caption": "Cleaning products use a range of chemical ingredients. Product labels distinguish an alkaline drain cleaner from a plant-derived cleaning formulation.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_13/6c318e1fdd8d15bc0c4189aa6061ef9b.jpg",
+      "original_sha256": "85aed472e0a4b2ce9f6cc66cd88a5397190c8494e1d59dabe3acdfca8386cf53",
+      "page": "chapters/ch-10-acids-and-bases.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "04de1614": {
+      "assets": [
+        {
+          "title": "Smokealarm",
+          "commons_title": "File:Smokealarm.JPG",
+          "source": "https://commons.wikimedia.org/wiki/File:Smokealarm.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Smokealarm.JPG",
+          "credit": "Hiya111",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "retrieved": "2026-10-30",
+          "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+          "alt": "The interior of an ionization smoke alarm showing its circuit board and battery.",
+          "sha256": "f35b153edfb95ec027263b8b502bcb330c9d5ddef8d925dd67546a5a14f9a0fc",
+          "path": "images/replacements/smoke-alarm.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "Some smoke detectors use a small radioactive source in an ionization chamber to help detect smoke.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_14/04de16149647a6e2516fe62148230bd9.jpg",
+      "original_sha256": "0b9e8c5ecd17cd830b1947c6257db6ffba6d9d6e4383bf7741173e727cda8ab2",
+      "page": "chapters/ch-11-nuclear-chemistry.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "61b5480c": {
+      "assets": [
+        {
+          "commons_title": "File:Geiger counter 2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Geiger_counter_2.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Geiger_counter_2.jpg",
+          "credit": "TimVickers",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "retrieved": "2026-10-30",
+          "alt": "A portable Geiger counter with a meter and a connected detector probe.",
+          "title": "Geiger counter 2",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "6879a255e3f90c0401e69eeca269539f79ae05eac344f04aadf0468055fe8043",
+          "path": "images/replacements/fig-15-2.jpg",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "A Geiger counter detects ionizing radiation and reports a count rate.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_14/61b5480c889282551987fb6fa000b1b5.jpg",
+      "original_sha256": "c3f0fe3f901a9c697d6058755634e600b6ce471318dc90e4edbeee7e0985835e",
+      "page": "chapters/ch-11-nuclear-chemistry.md",
+      "source_title": "Figure 11.2 Detecting Radioactivity",
+      "source_id": "gob-ch11_s03_f01"
+    },
+    "aa71b70a": {
+      "diagram": "pet",
+      "assets": [
+        {
+          "path": "images/replacements/pet.svg",
+          "title": "Positron emission tomography",
+          "alt": "A detector ring around a patient records two opposing 511 keV photons from a positron–electron annihilation event. The drawing is schematic and not to scale.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "1efe338e7eaa0fe406df36c1cd6790e7ed84b089e295bea42233c2d0d446463a"
+        }
+      ],
+      "caption": "After positron–electron annihilation, two gamma photons travel in approximately opposite directions. A detector ring records coincidences to reconstruct the tracer distribution.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_14/aa71b70a38143872cde276d2ca100205.jpg",
+      "original_sha256": "ca4a23868c860f9d782b846c7ed40a986185bf6d741bc4455798d6e90fc15c8d",
+      "page": "chapters/ch-11-nuclear-chemistry.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "5b4209bd": {
+      "diagram": "tomato",
+      "assets": [
+        {
+          "path": "images/replacements/tomato.svg",
+          "title": "Lycopene and tomatoes",
+          "alt": "Two red tomatoes appear above an alternating single and double carbon bond segment labeled conjugated system in lycopene.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "80e3262bed41abebb98c3a1942fa228e1f93cde47eb16bf77dc54ce6af8e8420"
+        }
+      ],
+      "caption": "Tomatoes owe much of their red color to lycopene, a molecule with an extended conjugated system of double bonds. The bond segment is schematic, not a complete molecular structure.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_16/5b4209bdfef182b6553a316fc2566705.jpg",
+      "original_sha256": "8a83e9f7e3f3c2e37da78ca63f07b80c7bda962df6a9ee38140bd666c42cf169",
+      "page": "chapters/ch-13-unsaturated-and-aromatic-hydro.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "d2663524": {
+      "diagram": "antiseptics",
+      "assets": [
+        {
+          "path": "images/replacements/antiseptics.svg",
+          "title": "Phenolic antiseptics",
+          "alt": "Phenol has one hydroxyl group on a benzene ring; 4-hexylresorcinol has hydroxyl groups at positions 1 and 3 and a hexyl group at position 4.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "1e1188f9ce687a5bfd70a1f3545292e53c41c7bb06ee5df53a98a1c38084df17"
+        }
+      ],
+      "caption": "Some phenolic derivatives are used as antiseptics. The phenol ring and the substitution pattern of 4-hexylresorcinol illustrate this family of compounds.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_17/d2663524199f9f7bde5202ac9bad063d.jpg",
+      "original_sha256": "f3084dfa3c511e859299e23103e17c6e6398b3a765a5fbdd6ad2cb55fafa1178",
+      "page": "chapters/ch-14-organic-compounds-of-oxygen.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "570e81e1": {
+      "diagram": "silvering",
+      "assets": [
+        {
+          "path": "images/replacements/silvering.svg",
+          "title": "Silvering a surface",
+          "alt": "A glass flask with a silver coating accompanies the balanced ionic equation RCHO + 2 Ag+ + 3 OH− → RCOO− + 2 Ag + 2 H2O.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "3e227e443d7e6084c7e99e42aa8e16b7b6266017c50d3dc7432b3199c800f69c"
+        }
+      ],
+      "caption": "An aldehyde reduces silver(I) to metallic silver while being oxidized to a carboxylate under basic conditions. Silver deposited on glass creates a reflective coating.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_17/570e81e1da6d42aca169f8d30b93d451.jpg",
+      "original_sha256": "864c60dabf8bb3a49c82fcb4eb5fe97eca2d39a49064f44758717a6d988117e5",
+      "page": "chapters/ch-14-organic-compounds-of-oxygen.md",
+      "source_title": "Figure 14.5 Aldehyde Reactions",
+      "source_id": "gob-ch14_s10_s01_f01"
+    },
+    "9af4e87b": {
+      "diagram": "household-acids",
+      "assets": [
+        {
+          "path": "images/replacements/household-acids.svg",
+          "title": "Carboxylic acids in household materials",
+          "alt": "Illustrations of vinegar, aspirin, citrus, a lemon, and spinach accompany the names of their associated acids. Vitamin C is explicitly distinguished from carboxylic acids.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "79926f6094e8627b7b30b316a7046c4a4fba59871da02905547e3d094b9e9247"
+        }
+      ],
+      "caption": "Vinegar contains acetic acid; aspirin is acetylsalicylic acid; vitamin C is ascorbic acid; lemons contain citric acid; spinach contains oxalic acid. Ascorbic acid is a lactone with acidic enediol hydroxyl groups, rather than a carboxylic acid.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_18/9af4e87b81d957f64489d631f5e17989.jpg",
+      "original_sha256": "51d0370015dea3a49ebb0d1af753b1ed65972e95945117a7fb6c19cd8a0a5d9f",
+      "page": "chapters/ch-15-organic-acids-and-bases-and-so.md",
+      "source_title": "Figure 15.1 Carboxylic Acids in the Home",
+      "source_id": "gob-ch15_s02_f01"
+    },
+    "d598f03a": {
+      "diagram": "glucose-meter",
+      "assets": [
+        {
+          "path": "images/replacements/glucose-meter.svg",
+          "title": "Measuring blood glucose",
+          "alt": "A blood droplet on a test strip enters a handheld glucose meter; the screen displays the unit mg/dL without a sample reading.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "0f21a6320414a91afcf01f096b7434495ba18f93d569aefddf5d789800747a59"
+        }
+      ],
+      "caption": "A small blood sample on a test strip is analyzed by a glucose meter. The blank screen emphasizes the measurement process.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_19/d598f03a445a299d7e3e5047989b028c.jpg",
+      "original_sha256": "9bca70b2952f54f48ee480541a3df574b60b9f947146b6d59668a995387d74f6",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "Figure 16.1 Using a Glucose Meter to Test Blood Glucose Level",
+      "source_id": "gob-ch16_f01"
+    },
+    "18e41006": {
+      "diagram": "hexoses",
+      "assets": [
+        {
+          "path": "images/replacements/hexoses.svg",
+          "title": "Three important hexoses",
+          "alt": "Fischer projections: D-glucose has hydroxyl groups right-left-right-right from C2 to C5; D-galactose right-left-left-right; D-fructose has a C2 ketone and left-right-right hydroxyl groups from C3 to C5.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "25995c60963d12f6ed73c93bd55d072a5878f09247c03ebe403dc4723875f087"
+        }
+      ],
+      "caption": "Fischer projections of D-glucose, D-galactose, and D-fructose show the different positions of carbonyl and hydroxyl groups. Food-source examples are grapes, milk lactose (a source of galactose after digestion), and honey.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_19/18e4100636c1d5f154f664a09be9a9e3.jpg",
+      "original_sha256": "7a94b37afe21fc173189f703659ebbd2eb020659064b0b0359a38dd9d00510e7",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "Figure 16.4 Structures of Three Important Hexoses",
+      "source_id": "gob-ch16_s03_f01"
+    },
+    "81d5424b": {
+      "diagram": "diabetes-education",
+      "assets": [
+        {
+          "path": "images/replacements/diabetes-education.svg",
+          "title": "Diabetes education",
+          "alt": "Four connected illustrated panels show a glucose meter, a balanced plate, a walking figure, and a medicine container.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "8bcc0637981445fa51695347535c9264d3736720f3f04cc6966284fba211ac97"
+        }
+      ],
+      "caption": "Diabetes educators help people connect glucose monitoring, nutrition, physical activity, and prescribed medication.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_19/81d5424bd220156eb5e218fb2cf3e4f0.jpg",
+      "original_sha256": "48fa111a496b5a050f2d89108bf3f3e2bb135625821dc75300f43646ba0ba3ce",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "5828886d": {
+      "assets": [
+        {
+          "commons_title": "File:FDA Nutrition Facts Label 2016.png",
+          "source": "https://commons.wikimedia.org/wiki/File:FDA_Nutrition_Facts_Label_2016.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/FDA_Nutrition_Facts_Label_2016.png",
+          "credit": "U.S. Food and Drug Administration",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "retrieved": "2026-10-30",
+          "alt": "An FDA Nutrition Facts label showing 230 Calories per serving.",
+          "title": "FDA Nutrition Facts Label 2016",
+          "changes": "Resized and optimized for the web; no content changes.",
+          "sha256": "2017b122972bdf558556ac6db78c39439a2693a65a4900b030ccc59e5ddc0a62",
+          "path": "images/replacements/fig-7-1.png",
+          "origin": "open photograph",
+          "prior_edition": "QuadriviumPress/introductoryChemistry"
+        }
+      ],
+      "caption": "A Nutrition Facts label includes trans fat per serving. Under US labeling rules, a value below 0.5 g per serving may be displayed as 0 g; the example illustrates a nutrition label.",
+      "reason": "Stock or separately credited upstream image replaced with openly licensed teaching material.",
+      "original_asset": "section_20/5828886d8087dfaf1bd749e65bebc2b1.jpg",
+      "original_sha256": "851a3571002609606cd90d7407eda4078bc5791ddf91db69f7c0a462493b5a23",
+      "page": "chapters/ch-17-lipids.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "3760b0e2": {
+      "diagram": "exercise",
+      "assets": [
+        {
+          "path": "images/replacements/exercise.svg",
+          "title": "Exercise physiology",
+          "alt": "A walking figure and a heart with arrows connect to the relationship between activity, oxygen use, and ATP demand.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "39be309efd4d6af28deeb32c64202adaa245b0bd6fa18e6a35bee9602a0f4fc5"
+        }
+      ],
+      "caption": "Exercise physiologists relate physical activity to oxygen use and energy metabolism, and help plan appropriate activity.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_23/3760b0e218c2735d48e9f72366629240.jpg",
+      "original_sha256": "2820f2d9f306fcf3f59fc64e939ec20aea9b91797397f2b1c9354a4dd85eabf4",
+      "page": "chapters/ch-20-energy-metabolism.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "d7a8c2e4": {
+      "diagram": "hemoglobin",
+      "assets": [
+        {
+          "path": "images/replacements/hemoglobin.svg",
+          "title": "Hemoglobin quaternary structure",
+          "alt": "Four differently colored globin subunits assemble into a tetramer, with one heme disk in each subunit. The diagram is a conceptual model, not a molecular rendering.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "a7ad913f10fbf474bf562e4bff0ab708601d3d37f07abdfd7d32d0c32641ee12"
+        }
+      ],
+      "caption": "Hemoglobin contains four globin subunits, each with a heme group. This conceptual diagram shows subunit organization rather than atomic coordinates.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_21/d7a8c2e47f3a05747b90791c7a2485be.jpg",
+      "original_sha256": "27393b4d05efba1c542a2339fe1d09de9dd18019d6f1dbe294c9da0feb22b07e",
+      "page": "chapters/ch-18-amino-acids-proteins-and-enzym.md",
+      "source_title": "Figure 18.7 The Quaternary Structure of Hemoglobin",
+      "source_id": "gob-ch18_s04_s01_f06"
+    },
+    "00c7e356": {
+      "diagram": "insulin",
+      "assets": [
+        {
+          "path": "images/replacements/insulin.svg",
+          "title": "Human insulin products",
+          "alt": "A generic vial and injection pen labeled insulin accompany a schematic gene-to-protein production arrow.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "5f11330b0dbd90afcb883d584cc32b7cc9dbb59d18d5d8115a4934f4fdc86eb0"
+        }
+      ],
+      "caption": "Recombinant production supplies human insulin for treatment of diabetes. Generic insulin containers represent the products without reproducing commercial packaging.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_22/00c7e356b9437c5b758c60e376c48dd0.jpg",
+      "original_sha256": "2b38e12504cfae5963308bb1364f99d0d87597bc787c1aa6f53d9fa745a8a437",
+      "page": "chapters/ch-19-nucleic-acids.md",
+      "source_title": "Figure 19.1 Human Insulin Products Now Being Used",
+      "source_id": "gob-ch19_f01"
+    },
+    "668bc833": {
+      "diagram": "author-ball",
+      "assets": [
+        {
+          "path": "images/replacements/author-ball.svg",
+          "title": "David W. Ball",
+          "alt": "A typographic author card reading David W. Ball. No portrait is depicted.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "4c27f18afd19c6a128aa096ff7b0f356006587a150655d1763cf8f1852639adf"
+        }
+      ],
+      "caption": "Author of the source textbook: David W. Ball.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_01/668bc8335bc49250a8c117e7f897479f.jpg",
+      "original_sha256": "38db310997fecf81a9ac6ca55e02f55a63bd552001d69dde6c42551425588389",
+      "page": "front/about-the-authors.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "111b8e10": {
+      "diagram": "author-hill",
+      "assets": [
+        {
+          "path": "images/replacements/author-hill.svg",
+          "title": "John W. Hill",
+          "alt": "A typographic author card reading John W. Hill. No portrait is depicted.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "b029b1c180d9fd1f7951272669e3e2dc8e134d54f7eab9cbeeb80adafd584a7c"
+        }
+      ],
+      "caption": "Author of the source textbook: John W. Hill.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_01/111b8e1074fee1da46f32b34ee68434a.jpg",
+      "original_sha256": "4ef480e12ff843a39aa87c933c558db9da55582ae029d3c06615c8ad3ac998da",
+      "page": "front/about-the-authors.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "e600c1bf": {
+      "diagram": "author-scott",
+      "assets": [
+        {
+          "path": "images/replacements/author-scott.svg",
+          "title": "Rhonda J. Scott",
+          "alt": "A typographic author card reading Rhonda J. Scott. No portrait is depicted.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New schematic drawn from the scientific concept, without copying the upstream image.",
+          "created": "2026-11-02",
+          "sha256": "92c17a34eb121d71590776b55d7ea237075656db825e0f2b7792b828af475b87"
+        }
+      ],
+      "caption": "Author of the source textbook: Rhonda J. Scott.",
+      "reason": "Restricted or uncertain image rights; replaced with an original educational schematic.",
+      "original_asset": "section_01/e600c1bf59303d9352995e39095afbf5.jpg",
+      "original_sha256": "dea41cc250da14aaad0dd7cc07633cef2d015f4437780e919de2ae18044a9211",
+      "page": "front/about-the-authors.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "6c6c8607": {
+      "assets": [
+        {
+          "title": "Periodic table of the elements",
+          "creator": "General Chemistry (QuadriviumPress) contributors",
+          "origin": "original",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "created": "2026-10-30",
+          "basis": "IUPAC names for elements 113-118 and the CIAAW abridged standard atomic weights of 2024. Bracketed masses are the longest-lived isotope mass numbers from the IUPAC atomic-weights table of 2021.",
+          "sha256": "5489aa75b83e823a6b45e516772e6362ee476a78a8de351ad657af39241b2728",
+          "path": "images/replacements/periodic-table.svg",
+          "credit": "General Chemistry (QuadriviumPress) contributors",
+          "source": "https://github.com/QuadriviumPress/generalChemistry/blob/main/images/replacements/fig-h-periodic-table.svg",
+          "alt": "Periodic table with all 118 official element symbols, atomic numbers, abridged 2024 standard atomic weights, and group numbers.",
+          "changes": "Reused without changes from the independently generated QuadriviumPress General Chemistry diagram."
+        }
+      ],
+      "reason": "Replaced a historical periodic table with an openly licensed table of all 118 named elements.",
+      "caption": "The periodic table with all 118 official element names and symbols; atomic weights are CIAAW abridged 2024 values. Bracketed numbers are mass numbers for selected radioactive isotopes, rather than standard atomic weights.",
+      "original_asset": "section_24/6c6c860738cc2c9aea91d9f579f5ee07.jpg",
+      "original_sha256": "ace052fb856186cb792bfeff6f5df147f38b3349686bdce76ad676bf6cbf329c",
+      "page": "appendices/appendix-periodic-table-of-the.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "ae1d9db8": {
+      "assets": [
+        {
+          "path": "images/replacements/element-key.svg",
+          "title": "Reading a periodic-table cell",
+          "alt": "An annotated carbon cell shows atomic number 6, symbol C, name carbon, and standard atomic weight 12.011. A separate example [294] is labeled isotope mass number, not standard atomic weight.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "New annotated schematic rather than a reproduction of the source periodic table.",
+          "created": "2026-11-02",
+          "sha256": "60cd693daf91b2bbd3040635734f099c379315ffd857d740e983ca9679a2f41f"
+        }
+      ],
+      "reason": "Replaced a historical periodic table with an openly licensed table of all 118 named elements.",
+      "caption": "Reading a periodic-table cell: the atomic number counts protons; the chemical symbol identifies the element; a standard atomic weight describes a naturally occurring isotopic mixture. Bracketed mass numbers for selected radioactive isotopes have a different meaning.",
+      "original_asset": "section_24/ae1d9db8c6cef79a4db550933c8c02cd.jpg",
+      "original_sha256": "91f317b4e79124c7b8117a49f0bac904008d528398c5e5c728d97a93e8cc7a3e",
+      "page": "appendices/appendix-periodic-table-of-the.md",
+      "source_title": "",
+      "source_id": null,
+      "diagram": "element-key"
+    },
+    "6dce235d": {
+      "assets": [
+        {
+          "title": "Periodic table of the elements",
+          "creator": "General Chemistry (QuadriviumPress) contributors",
+          "origin": "original",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "created": "2026-10-30",
+          "basis": "IUPAC names for elements 113-118 and the CIAAW abridged standard atomic weights of 2024. Bracketed masses are the longest-lived isotope mass numbers from the IUPAC atomic-weights table of 2021.",
+          "sha256": "5489aa75b83e823a6b45e516772e6362ee476a78a8de351ad657af39241b2728",
+          "path": "images/replacements/periodic-table.svg",
+          "credit": "General Chemistry (QuadriviumPress) contributors",
+          "source": "https://github.com/QuadriviumPress/generalChemistry/blob/main/images/replacements/fig-h-periodic-table.svg",
+          "alt": "Periodic table with all 118 official element symbols, atomic numbers, abridged 2024 standard atomic weights, and group numbers.",
+          "changes": "Reused without changes from the independently generated QuadriviumPress General Chemistry diagram."
+        }
+      ],
+      "reason": "Replaced a historical periodic table with an openly licensed table of all 118 named elements.",
+      "caption": "The periodic table with all 118 official element names and symbols; atomic weights are CIAAW abridged 2024 values. Bracketed numbers are mass numbers for selected radioactive isotopes, rather than standard atomic weights.",
+      "original_asset": "section_05/6dce235d136f3628acf15aba157a8927.jpg",
+      "original_sha256": "1f87cb5144f0ca54efc689ac7d043e073ef3a5abcc92933bc40d5e3ff56fdd4e",
+      "page": "chapters/ch-02-elements-atoms-and-the-periodi.md",
+      "source_title": "Figure 2.7 A Modern Periodic Table",
+      "source_id": "gob-ch02_s07_f01"
+    },
+    "4ea27ad9": {
+      "diagram": "ruler",
+      "assets": [
+        {
+          "path": "images/replacements/ruler.svg",
+          "title": "Reporting a measured length",
+          "alt": "An object starts at zero on a ruler and ends between 1.3 and 1.4 centimeters, at approximately 1.37 centimeters. The hundredths digit is labeled estimated.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "f451f777742d5b1529de413c50cdc456a63b67fcffab9ad66d6b1f3441f4dae7"
+        }
+      ],
+      "caption": "A ruler with 0.1 cm divisions supports one additional estimated decimal place. This schematic example reports a length of 1.37 cm; the final digit is estimated.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_04/4ea27ad91c2b3bbacd8630b1666c39b0.jpg",
+      "original_sha256": "585fb14a6a4aa29ac3a58ea2c2f84ffc57fec3beccd0003b3465f81eb6e4964c",
+      "page": "chapters/ch-01-chemistry-matter-and-measureme.md",
+      "source_title": "Figure 1.7 Measuring an Object to the Correct Number of Digits",
+      "source_id": "gob-ch01_s05_f01"
+    },
+    "df9a49ac": {
+      "diagram": "pauling",
+      "assets": [
+        {
+          "path": "images/replacements/pauling.svg",
+          "title": "Linus Pauling and chemical bonding",
+          "alt": "A typographic Linus Pauling card connects chemical bonding with an H–Cl bond polarized toward the more electronegative chlorine atom. It is not a portrait.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "533e132eb8989405d801932468d6d2a91cc5b7751adbf3d903311b7002cc61d2"
+        }
+      ],
+      "caption": "Linus Pauling helped explain chemical bonding and developed a widely used electronegativity scale. This conceptual illustration replaces the source portrait.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_07/df9a49acad271a13b8e3a5fd85e30b33.jpg",
+      "original_sha256": "1c967c0b7f9907e9e9a475c98e8804e9d3e96aa7aba1cd46dfd89cd514241e0a",
+      "page": "chapters/ch-04-covalent-bonding-and-simple-mo.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "47a5e6d9": {
+      "diagram": "dalton",
+      "assets": [
+        {
+          "path": "images/replacements/dalton.svg",
+          "title": "John Dalton and atomic theory",
+          "alt": "A John Dalton heading and the date circa 1803 accompany identical spheres labeled atoms of one element. This is a scientific schematic rather than a portrait.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "d38a4e3ac4d92ab23deee845c33b5648fc5d5c3bbfb229071979db799e058ed6"
+        }
+      ],
+      "caption": "John Dalton proposed his atomic theory in the early nineteenth century. Equal numbers of identical atoms represent a pure element in this conceptual schematic, which replaces the source portrait.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_05/47a5e6d995ab3ee491763f0981c6f279.jpg",
+      "original_sha256": "4ac76621e5f3665d8d178c28c744bf10db36b5eec630fadd414948128c00f0e3",
+      "page": "chapters/ch-02-elements-atoms-and-the-periodi.md",
+      "source_title": "Figure 2.2 John Dalton",
+      "source_id": "gob-ch02_s02_f01"
+    },
+    "70febe36": {
+      "diagram": "radiocarbon",
+      "assets": [
+        {
+          "path": "images/replacements/radiocarbon.svg",
+          "title": "Radiocarbon dating",
+          "alt": "A qualitative decay chart shows carbon-14 remaining at one, one-half, one-quarter, and one-eighth after zero, one, two, and three half-lives. No measured Shroud data are shown.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "d1d79546d2c31921d39756879f1981a09c3ce79156ca5d2ed310760eb5100a03"
+        }
+      ],
+      "caption": "Carbon-14 decays after an organism stops exchanging carbon with its surroundings. Measuring its remaining activity provides an age estimate. This diagram illustrates the principle applied to the Shroud of Turin in the source discussion; it does not depict the cloth or provide its measured data.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_14/70febe3669c63c82b194376699df1644.jpg",
+      "original_sha256": "3530ab3f4873a4bd734cd4e88712bde27fa63d0bd71eb57883dbc0cd61a81945",
+      "page": "chapters/ch-11-nuclear-chemistry.md",
+      "source_title": "Figure 11.3 Shroud of Turin",
+      "source_id": "gob-ch11_s04_f01"
+    },
+    "252f3875": {
+      "diagram": "benedict",
+      "assets": [
+        {
+          "path": "images/replacements/benedict.svg",
+          "title": "Benedict’s test",
+          "alt": "Three labeled test tubes show orange-red precipitates for fructose and glucose and an unchanged blue solution for sucrose.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "76d7d37638445e4240e5e68343fa7a2d96706e53eaee1468acbea8ebf621f2ba"
+        }
+      ],
+      "caption": "In Benedict’s test, fructose and glucose give positive reducing-sugar results after heating, while sucrose remains blue without prior hydrolysis. These colors are schematic, since the amount and appearance of precipitate depend on conditions.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_19/252f3875d3df002cf9eea66269bf4961.jpg",
+      "original_sha256": "0ce2ecc17658f69e853fe7b44a83014174543294f7989ed6bb96a49921941b24",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "Figure 16.7 Benedict’s Test",
+      "source_id": "gob-ch16_s05_f01"
+    },
+    "b7793f50": {
+      "diagram": "polarizers",
+      "assets": [
+        {
+          "path": "images/replacements/polarizers.svg",
+          "title": "Polarized light and crossed filters",
+          "alt": "Two rows compare aligned polarizers transmitting light with crossed polarizers blocking light. Transmission axes are explicitly marked.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "b72d93cfa6cee1d7e7bbe399eaa0947f49b11c7c03eac08d5a9c9590549a022e"
+        }
+      ],
+      "caption": "Light passing through a polarizer can pass through a second polarizer with a parallel transmission axis. A second polarizer with a perpendicular transmission axis ideally blocks that light.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_19/b7793f5080a41d9095f667118281a0e1.jpg",
+      "original_sha256": "41aec44ddce642e7d4fe256e17e1d334a005ae60d4ef425d2bab50bf7391c4c4",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "e7bf9545": {
+      "diagram": "insulin-pump",
+      "assets": [
+        {
+          "path": "images/replacements/insulin-pump.svg",
+          "title": "An insulin pump",
+          "alt": "A generic insulin pump with reservoir connects by tubing to a cannula in a cross section of skin. An arrow shows the insulin delivery direction.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "7017e51d114f93a6e3510146d8717524fda72c8f624401a0a44578ce1d21ab1e"
+        }
+      ],
+      "caption": "An insulin pump delivers insulin through tubing to a small cannula beneath the skin. The illustration shows the delivery path schematically without commercial device packaging.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_21/e7bf9545111e5a043b8df7b6590373d6.jpg",
+      "original_sha256": "0feae4402db8045783585490e2b1d831892e71a06c12a30a06c3b29c8202743f",
+      "page": "chapters/ch-18-amino-acids-proteins-and-enzym.md",
+      "source_title": "Figure 18.1 An Insulin Pump",
+      "source_id": "gob-ch18_f01"
+    },
+    "2563dcc3": {
+      "diagram": "ninhydrin",
+      "assets": [
+        {
+          "path": "images/replacements/ninhydrin.svg",
+          "title": "Detecting amino acids with ninhydrin",
+          "alt": "A drawn fingerprint ridge pattern changes from faint gray to purple after treatment with ninhydrin. The labels state amino-acid residue and purple color reaction.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "30caa600b552f6969b6efbb95fe87c78d1098feb07d5d9d17efe8c86b8f43067"
+        }
+      ],
+      "caption": "Ninhydrin reacts with many amino acids to produce a purple color. Traces of amino acids in a fingerprint can therefore reveal its ridge pattern. The fingerprint here is an original schematic, not a forensic specimen.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_21/2563dcc3db90b5aaef85fd6e82bf7e36.jpg",
+      "original_sha256": "6bdf5877a01b28dff823ea5237efef78fdffeaa033d0c8dffd10dffbf4440c83",
+      "page": "chapters/ch-18-amino-acids-proteins-and-enzym.md",
+      "source_title": "",
+      "source_id": null
+    },
+    "267fa5aa": {
+      "diagram": "cellulose",
+      "assets": [
+        {
+          "path": "images/replacements/cellulose.svg",
+          "title": "Cellulose chains and fibers",
+          "alt": "Parallel cellulose chains with alternating glucose units are connected by dashed hydrogen bonds. A second panel shows bundles of aligned cellulose fibers. This is a schematic rather than a micrograph.",
+          "credit": "QuadriviumPress",
+          "license": "CC BY-NC-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "source": "scripts/render_figures.py",
+          "origin": "original diagram",
+          "changes": "Original schematic replaces photographic material without separately documented rights.",
+          "created": "2026-11-02",
+          "sha256": "b3882181ebf93faf9e23d5bf6364bc825a4c6bb188d128bdf0ee3a3a8b1fa6bd"
+        }
+      ],
+      "caption": "Cellulose is built from glucose units joined by β-1,4-glycosidic linkages. Hydrogen bonds between extended chains help hold parallel chains together in fibers. This conceptual model replaces both the source structure panel and its uncredited micrograph.",
+      "reason": "Visual inventory identified photographic material without a separately documented open license; replaced conservatively.",
+      "original_asset": "section_19/267fa5aab1d648a5c3f6ff040173b4c1.jpg",
+      "original_sha256": "d0369d833684ebbe98ec3c4b87c379356d4e58dad0d8dde88279b64ca56ceb7f",
+      "page": "chapters/ch-16-carbohydrates.md",
+      "source_title": "Figure 16.11 Cellulose",
+      "source_id": "gob-ch16_s07_s03_f01"
+    }
+  }
+}

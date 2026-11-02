@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Three important hexoses</title><desc id="desc">Fischer projections: D-glucose has hydroxyl groups right-left-right-right from C2 to C5; D-galactose right-left-left-right; D-fructose has a C2 ketone and left-right-right hydroxyl groups from C3 to C5.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Three important hexoses</text>
+<text x="170" y="140" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="bold">D-Glucose</text>
+<text x="170" y="205" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CHO</text>
+<line x1="170" y1="225" x2="170" y2="298" stroke="#193348" stroke-width="3"/>
+<line x1="114" y1="265" x2="226" y2="265" stroke="#193348" stroke-width="3"/>
+<text x="87" y="274" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="253" y="274" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="170" y1="295" x2="170" y2="368" stroke="#193348" stroke-width="3"/>
+<line x1="114" y1="335" x2="226" y2="335" stroke="#193348" stroke-width="3"/>
+<text x="87" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">HO</text>
+<text x="253" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="170" y1="365" x2="170" y2="438" stroke="#193348" stroke-width="3"/>
+<line x1="114" y1="405" x2="226" y2="405" stroke="#193348" stroke-width="3"/>
+<text x="87" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="253" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="170" y1="435" x2="170" y2="508" stroke="#193348" stroke-width="3"/>
+<line x1="114" y1="475" x2="226" y2="475" stroke="#193348" stroke-width="3"/>
+<text x="87" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="253" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="170" y1="210" x2="170" y2="225" stroke="#193348" stroke-width="3"/>
+<line x1="170" y1="508" x2="170" y2="552" stroke="#193348" stroke-width="3"/>
+<text x="170" y="580" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CH₂OH</text>
+<text x="170" y="655" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Grapes</text>
+<text x="500" y="140" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="bold">D-Galactose</text>
+<text x="500" y="205" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CHO</text>
+<line x1="500" y1="225" x2="500" y2="298" stroke="#193348" stroke-width="3"/>
+<line x1="444" y1="265" x2="556" y2="265" stroke="#193348" stroke-width="3"/>
+<text x="417" y="274" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="583" y="274" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="500" y1="295" x2="500" y2="368" stroke="#193348" stroke-width="3"/>
+<line x1="444" y1="335" x2="556" y2="335" stroke="#193348" stroke-width="3"/>
+<text x="417" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">HO</text>
+<text x="583" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="500" y1="365" x2="500" y2="438" stroke="#193348" stroke-width="3"/>
+<line x1="444" y1="405" x2="556" y2="405" stroke="#193348" stroke-width="3"/>
+<text x="417" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">HO</text>
+<text x="583" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="500" y1="435" x2="500" y2="508" stroke="#193348" stroke-width="3"/>
+<line x1="444" y1="475" x2="556" y2="475" stroke="#193348" stroke-width="3"/>
+<text x="417" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="583" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="500" y1="210" x2="500" y2="225" stroke="#193348" stroke-width="3"/>
+<line x1="500" y1="508" x2="500" y2="552" stroke="#193348" stroke-width="3"/>
+<text x="500" y="580" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CH₂OH</text>
+<text x="500" y="655" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Milk lactose</text>
+<text x="830" y="140" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="bold">D-Fructose</text>
+<text x="830" y="205" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CH₂OH</text>
+<line x1="830" y1="225" x2="830" y2="298" stroke="#193348" stroke-width="3"/>
+<line x1="830" y1="265" x2="886" y2="265" stroke="#193348" stroke-width="3"/>
+<line x1="830" y1="273" x2="886" y2="273" stroke="#193348" stroke-width="3"/>
+<text x="909" y="274" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">O</text>
+<line x1="830" y1="295" x2="830" y2="368" stroke="#193348" stroke-width="3"/>
+<line x1="774" y1="335" x2="886" y2="335" stroke="#193348" stroke-width="3"/>
+<text x="747" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">HO</text>
+<text x="913" y="344" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="830" y1="365" x2="830" y2="438" stroke="#193348" stroke-width="3"/>
+<line x1="774" y1="405" x2="886" y2="405" stroke="#193348" stroke-width="3"/>
+<text x="747" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="913" y="414" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="830" y1="435" x2="830" y2="508" stroke="#193348" stroke-width="3"/>
+<line x1="774" y1="475" x2="886" y2="475" stroke="#193348" stroke-width="3"/>
+<text x="747" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<text x="913" y="484" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">OH</text>
+<line x1="830" y1="210" x2="830" y2="225" stroke="#193348" stroke-width="3"/>
+<line x1="830" y1="508" x2="830" y2="552" stroke="#193348" stroke-width="3"/>
+<text x="830" y="580" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">CH₂OH</text>
+<text x="830" y="655" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Honey</text>
+<text x="500" y="710" font-family="DejaVu Sans, sans-serif" font-size="21" fill="#193348" text-anchor="middle" font-weight="normal">Fischer projections · Horizontal bonds point toward the viewer</text>
+<text x="45" y="736" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

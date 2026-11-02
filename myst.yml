@@ -1,0 +1,85 @@
+version: 1
+project:
+  title: 'Introduction to Chemistry: General, Organic, and Biological'
+  short_title: General, Organic & Biological
+  description: A complete introductory chemistry course in twenty chapters, from measurement
+    and bonding to organic chemistry, biomolecules, and metabolism.
+  authors:
+  - name:
+      literal: QuadriviumPress
+    note: MyST adaptation of the openly licensed 2012 edition; see Sources and Attribution
+      for the source attribution request.
+  license: CC-BY-NC-SA-3.0
+  open_access: true
+  github: QuadriviumPress/generalOrganicBiologicalChemistry
+  keywords:
+  - chemistry
+  - general chemistry
+  - organic chemistry
+  - biochemistry
+  - open textbook
+  error_rules:
+  - rule: link-resolves
+    severity: ignore
+    keys:
+    - '{http,https}://**'
+  - rule: doi-link-valid
+    severity: ignore
+  toc:
+  - file: index.md
+  - title: Front matter
+    children:
+    - file: front/license.md
+    - file: front/about-the-authors.md
+    - file: front/acknowledgements.md
+    - file: front/preface.md
+  - title: Chapters
+    children:
+    - file: chapters/ch-01-chemistry-matter-and-measureme.md
+    - file: chapters/ch-02-elements-atoms-and-the-periodi.md
+    - file: chapters/ch-03-ionic-bonding-and-simple-ionic.md
+    - file: chapters/ch-04-covalent-bonding-and-simple-mo.md
+    - file: chapters/ch-05-introduction-to-chemical-react.md
+    - file: chapters/ch-06-quantities-in-chemical-reactio.md
+    - file: chapters/ch-07-energy-and-chemical-processes.md
+    - file: chapters/ch-08-solids-liquids-and-gases.md
+    - file: chapters/ch-09-solutions.md
+    - file: chapters/ch-10-acids-and-bases.md
+    - file: chapters/ch-11-nuclear-chemistry.md
+    - file: chapters/ch-12-organic-chemistry-alkanes-and-.md
+    - file: chapters/ch-13-unsaturated-and-aromatic-hydro.md
+    - file: chapters/ch-14-organic-compounds-of-oxygen.md
+    - file: chapters/ch-15-organic-acids-and-bases-and-so.md
+    - file: chapters/ch-16-carbohydrates.md
+    - file: chapters/ch-17-lipids.md
+    - file: chapters/ch-18-amino-acids-proteins-and-enzym.md
+    - file: chapters/ch-19-nucleic-acids.md
+    - file: chapters/ch-20-energy-metabolism.md
+  - title: Appendices and credits
+    children:
+    - file: appendices/appendix-periodic-table-of-the.md
+  - file: SOURCES.md
+  - file: image-credits.md
+  - file: FIGURE-AUDIT.md
+  numbering:
+    headings: false
+    equations: false
+    figures: false
+    tables: false
+site:
+  template: book-theme
+  title: 'Introduction to Chemistry: General, Organic, and Biological'
+  options:
+    favicon: images/favicon.svg
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    logo_alt: Open book logo
+    logo_text: GOB Chemistry
+    logo_url: /
+    style: css/custom.css
+    hide_authors: false
+  nav:
+  - title: Sources & Attribution
+    url: /sources
+  - title: Image credits
+    url: /image-credits

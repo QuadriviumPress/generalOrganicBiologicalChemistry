@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Historical alchemical symbols</title><desc id="desc">Four independently drawn historical alchemical symbols: sun for gold, crescent for silver, Venus for copper, and Mars for iron.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Historical alchemical symbols</text>
+<text x="150" y="330" font-family="DejaVu Sans, sans-serif" font-size="120" fill="#177c73" text-anchor="middle" font-weight="normal">☉</text>
+<text x="150" y="430" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Gold</text>
+<text x="380" y="330" font-family="DejaVu Sans, sans-serif" font-size="120" fill="#177c73" text-anchor="middle" font-weight="normal">☽</text>
+<text x="380" y="430" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Silver</text>
+<text x="610" y="330" font-family="DejaVu Sans, sans-serif" font-size="120" fill="#177c73" text-anchor="middle" font-weight="normal">♀</text>
+<text x="610" y="430" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Copper</text>
+<text x="840" y="330" font-family="DejaVu Sans, sans-serif" font-size="120" fill="#177c73" text-anchor="middle" font-weight="normal">♂</text>
+<text x="840" y="430" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#193348" text-anchor="middle" font-weight="normal">Iron</text>
+<text x="500" y="510" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Symbols used before modern chemical notation</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

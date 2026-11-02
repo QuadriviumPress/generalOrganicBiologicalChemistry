@@ -1,0 +1,25 @@
+{
+  "name": "general-organic-biological-chemistry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Complete MyST edition of Introduction to Chemistry: General, Organic, and Biological (2012), with openly licensed replacement illustrations.",
+  "license": "CC-BY-NC-SA-3.0",
+  "packageManager": "npm@11.20.0",
+  "engines": {
+    "node": ">=26",
+    "npm": ">=11 <12"
+  },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html && python3 scripts/verify_rendered.py && node scripts/setup-pwa.mjs",
+    "verify": "node scripts/verify-book.mjs && python3 scripts/verify_book.py",
+    "check": "npm run verify && myst build --html --strict --check-links && python3 scripts/verify_rendered.py && node scripts/setup-pwa.mjs",
+    "import:source": "python3 scripts/import_source.py",
+    "render:figures": "python3 scripts/render_figures.py"
+  },
+  "devDependencies": {
+    "mystmd": "1.12.0",
+    "sharp": "0.35.5",
+    "yaml": "2.9.1"
+  }
+}

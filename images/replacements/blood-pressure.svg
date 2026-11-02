@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Measuring blood pressure</title><desc id="desc">An inflatable cuff surrounds an arm and connects to a pressure gauge marked in millimeters of mercury.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Measuring blood pressure</text>
+<rect x="100" y="270" width="430" height="90" rx="42" fill="#eecfb5" stroke="#193348" stroke-width="3"/>
+<rect x="260" y="250" width="140" height="130" rx="10" fill="#2868a6" stroke="#193348" stroke-width="3"/>
+<path d="M330 380 V450 H710 V335" fill="none" stroke="#193348" stroke-width="3"/>
+<circle cx="710" cy="250" r="90" fill="#fff" stroke="#193348" stroke-width="2"/>
+<line x1="663.7192921025692" y1="305.1551999045664" x2="657.2914160057038" y2="312.8156443357562" stroke="#193348" stroke-width="3"/>
+<line x1="639.093841783121" y1="262.502668792019" x2="629.2457642529989" y2="264.2391505686883" stroke="#193348" stroke-width="3"/>
+<line x1="647.6461709275204" y1="214.0" x2="638.985916889676" y2="209.0" stroke="#193348" stroke-width="3"/>
+<line x1="685.3745496805518" y1="182.3421313034146" x2="681.9543482472951" y2="172.9452050955555" stroke="#193348" stroke-width="3"/>
+<line x1="734.6254503194482" y1="182.3421313034146" x2="738.0456517527049" y2="172.94520509555554" stroke="#193348" stroke-width="3"/>
+<line x1="772.3538290724796" y1="214.0" x2="781.014083110324" y2="209.0" stroke="#193348" stroke-width="3"/>
+<line x1="780.906158216879" y1="262.502668792019" x2="790.7542357470011" y2="264.2391505686883" stroke="#193348" stroke-width="3"/>
+<line x1="756.2807078974308" y1="305.1551999045664" x2="762.7085839942962" y2="312.8156443357562" stroke="#193348" stroke-width="3"/>
+<line x1="710" y1="250" x2="668" y2="205" stroke="#bb4354" stroke-width="5"/>
+<text x="710" y="300" font-family="DejaVu Sans, sans-serif" font-size="22" fill="#193348" text-anchor="middle" font-weight="normal">mmHg</text>
+<text x="330" y="205" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Inflatable cuff</text>
+<text x="710" y="130" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Pressure gauge</text>
+<text x="500" y="525" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">A measured pressure has a numerical value and a unit.</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

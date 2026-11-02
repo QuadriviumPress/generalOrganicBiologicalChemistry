@@ -1,0 +1,10 @@
+node_modules/
+_build/
+.myst/
+.env
+.env.*
+.DS_Store
+npm-debug.log*
+
+__pycache__/
+*.py[cod]

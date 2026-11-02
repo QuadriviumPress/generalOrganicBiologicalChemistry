@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Carboxylic acids in household materials</title><desc id="desc">Illustrations of vinegar, aspirin, citrus, a lemon, and spinach accompany the names of their associated acids. Vitamin C is explicitly distinguished from carboxylic acids.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Carboxylic acids in household materials</text>
+<rect x="120" y="160" width="100" height="35" rx="10" fill="#2868a6" stroke="#193348" stroke-width="3"/>
+<rect x="90" y="195" width="160" height="220" rx="10" fill="#f4f7f9" stroke="#193348" stroke-width="3"/>
+<rect x="102" y="265" width="136" height="95" rx="10" fill="#2868a6" stroke="#2868a6" stroke-width="3"/>
+<text x="170" y="300" font-family="DejaVu Sans, sans-serif" font-size="22" fill="white" text-anchor="middle" font-weight="normal">Vinegar</text>
+<text x="170" y="470" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Acetic acid</text>
+<circle cx="385" cy="275" r="60" fill="#fff" stroke="#193348" stroke-width="2"/>
+<line x1="340" y1="275" x2="430" y2="275" stroke="#193348" stroke-width="3"/>
+<text x="385" y="390" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Aspirin</text>
+<text x="385" y="430" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#193348" text-anchor="middle" font-weight="normal">Acetylsalicylic</text>
+<text x="385" y="457" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#193348" text-anchor="middle" font-weight="normal">acid</text>
+<circle cx="620" cy="275" r="65" fill="#f2d84f" stroke="#193348" stroke-width="2"/>
+<path d="M620 210 q20-40 60-23 q-15 35-60 23" fill="#38915c" stroke="#177c73" stroke-width="3"/>
+<text x="620" y="430" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Citric acid</text>
+<path d="M800 355 Q770 160 920 210 Q955 350 800 355" fill="#5f9b63" stroke="#177c73" stroke-width="3"/>
+<line x1="800" y1="355" x2="900" y2="235" stroke="#177c73" stroke-width="4"/>
+<text x="855" y="430" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Oxalic acid</text>
+<text x="500" y="535" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Vitamin C: ascorbic acid is an acidic lactone.</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

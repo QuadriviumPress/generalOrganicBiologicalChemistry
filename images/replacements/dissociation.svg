@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Ionic dissociation</title><desc id="desc">A small sodium chloride lattice at left becomes separated sodium and chloride ions in water at right.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Ionic dissociation</text>
+<circle cx="115" cy="220" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="115" y="225.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="180" cy="220" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="180" y="225.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="245" cy="220" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="245" y="225.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="310" cy="220" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="310" y="225.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="115" cy="285" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="115" y="290.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="180" cy="285" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="180" y="290.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="245" cy="285" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="245" y="290.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="310" cy="285" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="310" y="290.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="115" cy="350" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="115" y="355.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="180" cy="350" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="180" y="355.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="245" cy="350" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="245" y="355.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="310" cy="350" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="310" y="355.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="115" cy="415" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="115" y="420.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="180" cy="415" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="180" y="420.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="245" cy="415" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="245" y="420.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="310" cy="415" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="310" y="420.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<line x1="390" y1="325" x2="520" y2="325" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="570" y="175" width="350" height="310" rx="10" fill="#edf7fc" stroke="#193348" stroke-width="3"/>
+<circle cx="610" cy="215" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="610" y="220.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="697" cy="215" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="697" y="220.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="784" cy="215" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="784" y="220.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="871" cy="215" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="871" y="220.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="618" cy="293" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="618" y="298.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="705" cy="293" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="705" y="298.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="792" cy="293" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="792" y="298.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="879" cy="293" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="879" y="298.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="610" cy="371" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="610" y="376.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="697" cy="371" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="697" y="376.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="784" cy="371" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="784" y="376.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="871" cy="371" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="871" y="376.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="618" cy="449" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="618" y="454.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="705" cy="449" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="705" y="454.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<circle cx="792" cy="449" r="23" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="792" y="454.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<circle cx="879" cy="449" r="23" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="879" y="454.95" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<text x="235" y="540" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Ionic solid</text>
+<text x="745" y="540" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Separated ions in water</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

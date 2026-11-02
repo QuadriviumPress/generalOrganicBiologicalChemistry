@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Book favicon</title>
+  <rect width="64" height="64" rx="12" fill="#315c8c"/>
+  <path d="M12 16c8-1.5 15 1 21 6.5v29c-6-5.5-13-8-21-6.5V16Zm40 0c-8-1.5-15 1-21 6.5v29c6-5.5 13-8 21-6.5V16Z" fill="#fff"/>
+  <path d="M32 22.5v29" stroke="#dcecff" stroke-width="2"/>
+</svg>

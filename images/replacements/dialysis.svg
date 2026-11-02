@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Hemodialysis</title><desc id="desc">Blood and dialysate flow along opposite sides of a semipermeable membrane. Small waste solutes cross the membrane while blood cells remain on the blood side.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Hemodialysis</text>
+<rect x="100" y="170" width="800" height="145" rx="10" fill="#f7dfe2" stroke="#193348" stroke-width="3"/>
+<rect x="100" y="335" width="800" height="145" rx="10" fill="#e0eff8" stroke="#193348" stroke-width="3"/>
+<rect x="100" y="315" width="800" height="20" rx="0" fill="#d2d8de" stroke="#193348" stroke-width="3"/>
+<line x1="130" y1="205" x2="850" y2="205" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="850" y1="445" x2="130" y2="445" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<circle cx="230" cy="267" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<circle cx="420" cy="267" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<circle cx="680" cy="267" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<circle cx="340" cy="275" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<line x1="340" y1="290" x2="340" y2="385" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<circle cx="340" cy="405" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<circle cx="540" cy="275" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<line x1="540" y1="290" x2="540" y2="385" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<circle cx="540" cy="405" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<circle cx="790" cy="275" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<line x1="790" y1="290" x2="790" y2="385" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<circle cx="790" cy="405" r="7" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="500" y="140" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Blood: cells retained; small waste solutes can cross</text>
+<text x="500" y="525" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Dialysate: lower concentration of waste solutes</text>
+<text x="500" y="570" font-family="DejaVu Sans, sans-serif" font-size="21" fill="#193348" text-anchor="middle" font-weight="normal">Membrane separates the two flowing fluids</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

@@ -1,0 +1,6 @@
+:root {
+  --book-accent: #177c73;
+}
+a { text-underline-offset: 0.15em; }
+/* Chemical structures remain legible in narrow table cells. */
+figure img { max-width: 100%; height: auto; }

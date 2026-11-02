@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Chemistry in pharmacy</title><desc id="desc">A graduated measuring vessel and an unlabeled medicine container illustrate measurement and concentration in pharmacy.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Chemistry in pharmacy</text>
+<rect x="175" y="170" width="100" height="35" rx="10" fill="#177c73" stroke="#193348" stroke-width="3"/>
+<rect x="145" y="205" width="160" height="220" rx="10" fill="#f4f7f9" stroke="#193348" stroke-width="3"/>
+<rect x="157" y="275" width="136" height="95" rx="10" fill="#177c73" stroke="#177c73" stroke-width="3"/>
+<text x="225" y="310" font-family="DejaVu Sans, sans-serif" font-size="22" fill="white" text-anchor="middle" font-weight="normal">Medicine</text>
+<rect x="570" y="180" width="150" height="270" rx="0" fill="#eaf5fa" stroke="#193348" stroke-width="3"/>
+<line x1="570" y1="410" x2="610" y2="410" stroke="#193348" stroke-width="3"/>
+<text x="625" y="417" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#193348" text-anchor="start" font-weight="normal">20</text>
+<line x1="570" y1="350" x2="610" y2="350" stroke="#193348" stroke-width="3"/>
+<text x="625" y="357" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#193348" text-anchor="start" font-weight="normal">40</text>
+<line x1="570" y1="290" x2="610" y2="290" stroke="#193348" stroke-width="3"/>
+<text x="625" y="297" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#193348" text-anchor="start" font-weight="normal">60</text>
+<line x1="570" y1="230" x2="610" y2="230" stroke="#193348" stroke-width="3"/>
+<text x="625" y="237" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#193348" text-anchor="start" font-weight="normal">80</text>
+<text x="645" y="150" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Volume / mL</text>
+<line x1="330" y1="310" x2="535" y2="310" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="500" y="525" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Concentration × measured volume = amount of solute</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

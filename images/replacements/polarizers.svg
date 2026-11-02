@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Polarized light and crossed filters</title><desc id="desc">Two rows compare aligned polarizers transmitting light with crossed polarizers blocking light. Transmission axes are explicitly marked.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Polarized light and crossed filters</text>
+<line x1="110" y1="240" x2="265" y2="240" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="285" y="175" width="70" height="130" rx="10" fill="#d7e7ef" stroke="#193348" stroke-width="3"/>
+<rect x="565" y="175" width="70" height="130" rx="10" fill="#d7e7ef" stroke="#193348" stroke-width="3"/>
+<line x1="320" y1="195" x2="320" y2="285" stroke="#177c73" stroke-width="5"/>
+<line x1="365" y1="240" x2="550" y2="240" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="600" y1="195" x2="600" y2="285" stroke="#177c73" stroke-width="5"/>
+<line x1="650" y1="240" x2="900" y2="240" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="460" y="150" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Parallel axes</text>
+<line x1="110" y1="440" x2="265" y2="440" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="285" y="375" width="70" height="130" rx="10" fill="#d7e7ef" stroke="#193348" stroke-width="3"/>
+<rect x="565" y="375" width="70" height="130" rx="10" fill="#d7e7ef" stroke="#193348" stroke-width="3"/>
+<line x1="320" y1="395" x2="320" y2="485" stroke="#177c73" stroke-width="5"/>
+<line x1="365" y1="440" x2="550" y2="440" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="575" y1="440" x2="625" y2="440" stroke="#bb4354" stroke-width="5"/>
+<text x="805" y="448" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#bb4354" text-anchor="middle" font-weight="normal">Blocked</text>
+<text x="460" y="350" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Crossed axes</text>
+<text x="500" y="560" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Ideal transmission axes determine the transmitted light.</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Open book</title>
+  <rect width="512" height="512" rx="96" fill="#dcecff"/>
+  <path d="M82 130c66-10 123 7 174 51v232c-51-44-108-61-174-51V130Zm348 0c-66-10-123 7-174 51v232c51-44 108-61 174-51V130Z" fill="#132238"/>
+  <path d="M256 181v232" stroke="#315c8c" stroke-width="16"/>
+</svg>

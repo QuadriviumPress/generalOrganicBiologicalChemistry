@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Solvation of ions</title><desc id="desc">A positive sodium ion is surrounded by water molecules with oxygen ends facing inward, and a negative chloride ion has the hydrogen ends facing inward.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Solvation of ions</text>
+<circle cx="250" cy="320" r="40" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<text x="250" y="328.75" font-family="DejaVu Sans, sans-serif" font-size="25" fill="white" text-anchor="middle" font-weight="normal">Na⁺</text>
+<line x1="360.0" y1="320.0" x2="392.3959318382612" y2="300.13788530063493" stroke="#193348" stroke-width="3"/>
+<circle cx="392.3959318382612" cy="300.13788530063493" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="392.3959318382612" y="305.38788530063493" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="360.0" y1="320.0" x2="392.3959318382612" y2="339.86211469936507" stroke="#193348" stroke-width="3"/>
+<circle cx="392.3959318382612" cy="339.86211469936507" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="392.3959318382612" y="345.11211469936507" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="360.0" cy="320.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="360.0" y="327.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="250.0" y1="430.0" x2="269.86211469936507" y2="462.3959318382612" stroke="#193348" stroke-width="3"/>
+<circle cx="269.86211469936507" cy="462.3959318382612" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="269.86211469936507" y="467.6459318382612" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="250.0" y1="430.0" x2="230.13788530063496" y2="462.3959318382612" stroke="#193348" stroke-width="3"/>
+<circle cx="230.13788530063496" cy="462.3959318382612" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="230.13788530063496" y="467.6459318382612" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="250.0" cy="430.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="250.0" y="437.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="140.0" y1="320.0" x2="107.60406816173878" y2="339.86211469936507" stroke="#193348" stroke-width="3"/>
+<circle cx="107.60406816173878" cy="339.86211469936507" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="107.60406816173878" y="345.11211469936507" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="140.0" y1="320.0" x2="107.60406816173878" y2="300.13788530063493" stroke="#193348" stroke-width="3"/>
+<circle cx="107.60406816173878" cy="300.13788530063493" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="107.60406816173878" y="305.38788530063493" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="140.0" cy="320.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="140.0" y="327.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="249.99999999999997" y1="210.0" x2="230.13788530063493" y2="177.60406816173878" stroke="#193348" stroke-width="3"/>
+<circle cx="230.13788530063493" cy="177.60406816173878" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="230.13788530063493" y="182.85406816173878" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="249.99999999999997" y1="210.0" x2="269.862114699365" y2="177.60406816173878" stroke="#193348" stroke-width="3"/>
+<circle cx="269.862114699365" cy="177.60406816173878" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="269.862114699365" y="182.85406816173878" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="249.99999999999997" cy="210.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="249.99999999999997" y="217.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<circle cx="750" cy="320" r="40" fill="#e8b34b" stroke="#193348" stroke-width="2"/>
+<text x="750" y="328.75" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Cl⁻</text>
+<line x1="860.0" y1="320.0" x2="827.6040681617387" y2="339.86211469936507" stroke="#193348" stroke-width="3"/>
+<circle cx="827.6040681617387" cy="339.86211469936507" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="827.6040681617387" y="345.11211469936507" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="860.0" y1="320.0" x2="827.6040681617387" y2="300.13788530063493" stroke="#193348" stroke-width="3"/>
+<circle cx="827.6040681617387" cy="300.13788530063493" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="827.6040681617387" y="305.38788530063493" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="860.0" cy="320.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="860.0" y="327.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="750.0" y1="430.0" x2="730.1378853006349" y2="397.6040681617388" stroke="#193348" stroke-width="3"/>
+<circle cx="730.1378853006349" cy="397.6040681617388" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="730.1378853006349" y="402.8540681617388" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="750.0" y1="430.0" x2="769.8621146993651" y2="397.6040681617388" stroke="#193348" stroke-width="3"/>
+<circle cx="769.8621146993651" cy="397.6040681617388" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="769.8621146993651" y="402.8540681617388" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="750.0" cy="430.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="750.0" y="437.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="640.0" y1="320.0" x2="672.3959318382613" y2="300.13788530063493" stroke="#193348" stroke-width="3"/>
+<circle cx="672.3959318382613" cy="300.13788530063493" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="672.3959318382613" y="305.38788530063493" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="640.0" y1="320.0" x2="672.3959318382613" y2="339.86211469936507" stroke="#193348" stroke-width="3"/>
+<circle cx="672.3959318382613" cy="339.86211469936507" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="672.3959318382613" y="345.11211469936507" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="640.0" cy="320.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="640.0" y="327.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<line x1="750.0" y1="210.0" x2="769.8621146993651" y2="242.39593183826122" stroke="#193348" stroke-width="3"/>
+<circle cx="769.8621146993651" cy="242.39593183826122" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="769.8621146993651" y="247.64593183826122" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<line x1="750.0" y1="210.0" x2="730.1378853006349" y2="242.39593183826122" stroke="#193348" stroke-width="3"/>
+<circle cx="730.1378853006349" cy="242.39593183826122" r="14" fill="#fff" stroke="#193348" stroke-width="2"/>
+<text x="730.1378853006349" y="247.64593183826122" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#193348" text-anchor="middle" font-weight="normal">H</text>
+<circle cx="750.0" cy="210.0" r="22" fill="#bb4354" stroke="#193348" stroke-width="2"/>
+<text x="750.0" y="217.0" font-family="DejaVu Sans, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="normal">O</text>
+<text x="250" y="535" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Oxygen (δ−) faces Na⁺</text>
+<text x="750" y="535" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Hydrogen (δ+) faces Cl⁻</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

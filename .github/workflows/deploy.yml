@@ -1,0 +1,19 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  actions: read
+
+jobs:
+  deploy:
+    uses: QuadriviumPress/bindery/.github/workflows/deploy.yml@main
+    with:
+      build-command: npm run check
+      output-dir: _build/html

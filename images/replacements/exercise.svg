@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Exercise physiology</title><desc id="desc">A walking figure and a heart with arrows connect to the relationship between activity, oxygen use, and ATP demand.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Exercise physiology</text>
+<circle cx="220" cy="220" r="27" fill="#177c73" stroke="#193348" stroke-width="2"/>
+<line x1="220" y1="250" x2="220" y2="345" stroke="#177c73" stroke-width="14"/>
+<line x1="220" y1="285" x2="172" y2="325" stroke="#177c73" stroke-width="12"/>
+<line x1="220" y1="285" x2="268" y2="300" stroke="#177c73" stroke-width="12"/>
+<line x1="220" y1="345" x2="178" y2="417" stroke="#177c73" stroke-width="12"/>
+<line x1="220" y1="345" x2="270" y2="400" stroke="#177c73" stroke-width="12"/>
+<path d="M500 325 C450 260 500 230 535 265 C570 230 620 260 570 325 L535 360 Z" fill="#bb4354" stroke="#bb4354" stroke-width="3"/>
+<line x1="310" y1="305" x2="440" y2="305" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="630" y1="305" x2="755" y2="305" stroke="#2868a6" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="830" y="290" font-family="DejaVu Sans, sans-serif" font-size="40" fill="#177c73" text-anchor="middle" font-weight="bold">ATP</text>
+<text x="830" y="335" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">demand</text>
+<text x="500" y="515" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#193348" text-anchor="middle" font-weight="normal">Activity ↔ oxygen use ↔ energy metabolism</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

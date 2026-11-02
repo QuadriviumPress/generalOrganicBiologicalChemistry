@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Benedict’s test</title><desc id="desc">Three labeled test tubes show orange-red precipitates for fructose and glucose and an unchanged blue solution for sucrose.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Benedict’s test</text>
+<path d="M175 180 V400 Q220 480 265 400 V180" fill="#fff" stroke="#193348" stroke-width="3"/>
+<path d="M185 285 V395 Q220 460 255 395 V285 Z" fill="#82bdde" stroke="#2868a6" stroke-width="3"/>
+<path d="M185 385 V395 Q220 460 255 395 V385 Z" fill="#be5c37" stroke="#be5c37" stroke-width="3"/>
+<text x="220" y="510" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Fructose</text>
+<text x="220" y="550" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Positive</text>
+<path d="M455 180 V400 Q500 480 545 400 V180" fill="#fff" stroke="#193348" stroke-width="3"/>
+<path d="M465 285 V395 Q500 460 535 395 V285 Z" fill="#82bdde" stroke="#2868a6" stroke-width="3"/>
+<path d="M465 385 V395 Q500 460 535 395 V385 Z" fill="#be5c37" stroke="#be5c37" stroke-width="3"/>
+<text x="500" y="510" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Glucose</text>
+<text x="500" y="550" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Positive</text>
+<path d="M735 180 V400 Q780 480 825 400 V180" fill="#fff" stroke="#193348" stroke-width="3"/>
+<path d="M745 285 V395 Q780 460 815 395 V285 Z" fill="#82bdde" stroke="#2868a6" stroke-width="3"/>
+<text x="780" y="510" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">Sucrose</text>
+<text x="780" y="550" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Negative</text>
+<text x="500" y="140" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Results after heating (schematic)</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

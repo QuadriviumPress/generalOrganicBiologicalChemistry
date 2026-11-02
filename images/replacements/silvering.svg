@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Silvering a surface</title><desc id="desc">A glass flask with a silver coating accompanies the balanced ionic equation RCHO + 2 Ag+ + 3 OH− → RCOO− + 2 Ag + 2 H2O.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">Silvering a surface</text>
+<path d="M455 150 V215 L405 340 Q395 365 425 365 H545 Q575 365 565 340 L515 215 V150 Z" fill="#f3f8fb" stroke="#193348" stroke-width="3"/>
+<path d="M463 170 V217 L417 340 Q412 353 430 353 H540 Q555 353 553 340 L507 217 V170" fill="none" stroke="#adbcc6" stroke-width="13"/>
+<text x="730" y="300" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Deposited silver</text>
+<line x1="575" y1="310" x2="620" y2="310" stroke="#193348" stroke-width="3"/>
+<text x="500" y="475" font-family="DejaVu Sans, sans-serif" font-size="27" fill="#193348" text-anchor="middle" font-weight="normal">RCHO + 2 Ag⁺ + 3 OH⁻ → RCOO⁻ + 2 Ag + 2 H₂O</text>
+<text x="500" y="535" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">Aldehyde oxidized; silver(I) reduced</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>

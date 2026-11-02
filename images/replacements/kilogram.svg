@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">The historical kilogram prototype</title><desc id="desc">A cylinder with equal diameter and height of about 39 millimeters, labeled platinum–iridium, beside the modern Planck constant definition of the kilogram.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#2868a6"/></marker></defs>
+<rect width="1000" height="100%" fill="#fff"/>
+<path d="M40 88 H960" stroke="#177c73" stroke-width="4"/>
+<text x="45" y="56" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#193348" text-anchor="start" font-weight="bold">The historical kilogram prototype</text>
+<rect x="120" y="235" width="190" height="190" rx="0" fill="#c0c8cf" stroke="#193348" stroke-width="3"/>
+<ellipse cx="215" cy="235" rx="95" ry="26" fill="#e0e6eb" stroke="#193348" stroke-width="3"/>
+<line x1="100" y1="235" x2="100" y2="425" stroke="#193348" stroke-width="3"/>
+<text x="75" y="340" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#193348" text-anchor="end" font-weight="normal">39 mm</text>
+<text x="215" y="480" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#193348" text-anchor="middle" font-weight="normal">Platinum–iridium</text>
+<text x="215" y="515" font-family="DejaVu Sans, sans-serif" font-size="21" fill="#193348" text-anchor="middle" font-weight="normal">Historical artifact</text>
+<rect x="445" y="200" width="490" height="270" rx="10" fill="#edf7f4" stroke="#193348" stroke-width="3"/>
+<text x="690" y="265" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="bold">SI definition since 2019</text>
+<text x="690" y="330" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#193348" text-anchor="middle" font-weight="normal">h = 6.62607015 × 10⁻³⁴ J s</text>
+<text x="690" y="390" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#193348" text-anchor="middle" font-weight="normal">Planck constant: fixed exactly</text>
+<text x="690" y="435" font-family="DejaVu Sans, sans-serif" font-size="25" fill="#193348" text-anchor="middle" font-weight="normal">kg = J s² / m²</text>
+<text x="45" y="596" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#506578" text-anchor="start" font-weight="normal">QuadriviumPress · Original educational schematic · Not to scale</text>
+</svg>
