@@ -72,7 +72,7 @@ Before looking at explicit examples of the law of conservation of matter, we nee
 
 1.  Matter may not be created or destroyed.
 
-2.
+2.  
 
 ## 5.2 Chemical Equations
 
@@ -267,39 +267,39 @@ Now we check: each side has one carbon atom, four hydrogen atoms, and eight chlo
 
 1.  H<sub>2</sub>(g) + I<sub>2</sub>(s) → 2HI(g)
 
-2.
+2.  
 
 3.  H<sub>2</sub>(g) + F<sub>2</sub>(g) → 2HF(g)
 
-4.
+4.  
 
 5.  2Hg + O<sub>2</sub> → 2HgO
 
-6.
+6.  
 
 7.  2C<sub>3</sub>H<sub>7</sub>OH + 9O<sub>2</sub> → 6CO<sub>2</sub> + 8H<sub>2</sub>O
 
-8.
+8.  
 
 9.  1.  MgCl<sub>2</sub> + 2K → 2KCl + Mg
     2.  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> → 6CO<sub>2</sub> + 6H<sub>2</sub>O
     3.  2NaN<sub>3</sub> → 2Na + 3N<sub>2</sub>
 
-10.
+10. 
 
 11. 1.  4NH<sub>3</sub> + 5O<sub>2</sub> → 4NO + 6H<sub>2</sub>O
     2.  6Li + N<sub>2</sub> → 2Li<sub>3</sub>N
     3.  3AuCl → 2Au + AuCl<sub>3</sub>
 
-12.
+12. 
 
 13. Cr<sub>2</sub>O<sub>3</sub> + 3CCl<sub>4</sub> → 2CrCl<sub>3</sub> + 3COCl<sub>2</sub>
 
-14.
+14. 
 
 15. 2NaHCO<sub>3</sub> → Na<sub>2</sub>CO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O
 
-16.
+16. 
 
 ## 5.3 Quantitative Relationships Based on Chemical Equations
 
@@ -491,25 +491,25 @@ $$\left. \text{2KMnO}_{\text{4}} + \text{3CH}_{\text{2}}\text{=CH}_{\text{2}} + 
 
 1.  NH<sub>4</sub>NO<sub>3</sub> → N<sub>2</sub>O + 2H<sub>2</sub>O; the stoichiometric ratios are $\frac{\text{1NH}_{\text{4}}\text{NO}_{\text{3}}}{\text{1N}_{\text{2}}\text{O}}\text{,}$ $\frac{\text{1NH}_{\text{4}}\text{NO}_{\text{3}}}{\text{2H}_{\text{2}}\text{O}}\text{,}$ $\frac{\text{1N}_{\text{2}}\text{O}}{\text{2H}_{\text{2}}\text{O}}\text{,}$ and their reciprocals.
 
-2.
+2.  
 
 3.  2Fe<sub>2</sub>O<sub>3</sub> + 3C → 4Fe + 3CO<sub>2</sub>; the stoichiometric ratios are $\frac{\text{2Fe}_{\text{2}}\text{O}_{\text{3}}}{\text{3C}}\text{,}$ $\frac{\text{2Fe}_{\text{2}}\text{O}_{\text{3}}}{\text{4Fe}}\text{,}$ $\frac{\text{2Fe}_{\text{2}}\text{O}_{\text{3}}}{\text{3CO}_{\text{2}}}\text{,}$ $\frac{\text{3C}}{\text{4Fe}}\text{,}$ $\frac{\text{3C}}{\text{3CO}_{\text{2}}}\text{,}$ $\frac{\text{4Fe}}{\text{3CO}_{\text{2}}}\text{,}$ and their reciprocals.
 
-4.
+4.  
 
 5.  2C<sub>6</sub>H<sub>6</sub> + 15O<sub>2</sub> → 12CO<sub>2</sub> + 6H<sub>2</sub>O; 90 molecules
 
-6.
+6.  
 
 7.  1.  It is balanced.
     2.  183 atoms
 
-8.
+8.  
 
 9.  1.  It is balanced.
     2.  1,617 atoms
 
-10.
+10. 
 
 ## 5.4 Some Types of Chemical Reactions
 
@@ -662,11 +662,11 @@ Identify each type of reaction.
 1.  1.  combustion
     2.  decomposition
     3.  combination
-2.
+2.  
 3.  1.  decomposition
     2.  combustion or combination
     3.  combination
-4.
+4.  
 
 (src-gob-ch05-s05)=
 
@@ -887,7 +887,7 @@ In each conversion, indicate whether oxidation or reduction is occurring.
     3.  yes; oxidizing agent: H<sub>2</sub>O<sub>2</sub>; reducing agent: H<sub>2</sub>
     4.  no
 
-2.
+2.  
 
 3.  1.  Ca → Ca<sup>2+</sup> + 2e<sup>−</sup>
 
@@ -901,7 +901,7 @@ In each conversion, indicate whether oxidation or reduction is occurring.
 
         Combined: Br<sub>2</sub> + 2I<sup>−</sup> → 2Br<sup>−</sup> + I<sub>2</sub>
 
-4.
+4.  
 
 ## 5.6 Redox Reactions in Organic Chemistry and Biochemistry
 
@@ -1033,19 +1033,19 @@ In this reaction, carbon dioxide is reduced to glucose, and water is oxidized to
 
 1.  yes; oxidizing agent: O<sub>2</sub>; reducing agent: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
 
-2.
+2.  
 
 3.  CH<sub>3</sub>CH<sub>2</sub>COOH
 
-4.
+4.  
 
 5.  CH<sub>3</sub>CH<sub>2</sub>C(O)CH<sub>3</sub>, where the carbon is double bonded to the oxygen
 
-6.
+6.  
 
 7.  CH<sub>3</sub>CHOHCH<sub>3</sub>, or isopropyl alcohol
 
-8.
+8.  
 
 ## 5.7 End-of-Chapter Material
 
@@ -1099,19 +1099,19 @@ Oxidation-reduction reactions are common in organic and biological chemistry. **
 
 1.  2C<sub>8</sub>H<sub>18</sub> + 25O<sub>2</sub> → 16CO<sub>2</sub> + 18H<sub>2</sub>O
 
-2.
+2.  
 
 3.  A combination reaction makes a new substance from more than one reactant; a redox reaction rearranges electrons. Not all combination reactions are redox reactions, and not all redox reactions are combination reactions.
 
-4.
+4.  
 
 5.  Your friend is incorrect because the number of electrons transferring is not balanced.
 
-6.
+6.  
 
 7.  \(1\) S + O<sub>2</sub> → SO<sub>2</sub>; (2) 2SO<sub>2</sub> + O<sub>2</sub> → 2SO<sub>3</sub>; (3) SO<sub>3</sub> + H<sub>2</sub>O → H<sub>2</sub>SO<sub>4</sub>
 
-8.
+8.  
 
 9.  oxidized and reducing agent: Zn; reduced and oxidizing agent: Cu<sup>2+</sup>
 

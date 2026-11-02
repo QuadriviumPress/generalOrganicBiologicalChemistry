@@ -47,8 +47,8 @@ Table 14.1 Selected Organic Functional Groups
 
   - ``````````{figure} /images/section_17/ba65a60cebc7f5b56c0196b97a8faf04.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - \-*ene*
@@ -77,14 +77,14 @@ Table 14.1 Selected Organic Functional Groups
 
   - ``````````{figure} /images/section_17/6edd11b9ad9b08fe020e2622891f4a5f.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_17/05915cbbe7f39cea621c1cc3e14c6f47.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - \-*al*
@@ -93,14 +93,14 @@ Table 14.1 Selected Organic Functional Groups
 
   - ``````````{figure} /images/section_17/ca175216dec283789054fea218b7f6c3.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_17/4d28b4516f31978c40f6d2de8bbf3c37.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - \-*one*
@@ -109,14 +109,14 @@ Table 14.1 Selected Organic Functional Groups
 
   - ``````````{figure} /images/section_17/eb986810d5a353b5887ff8f9023caa0e.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_17/651a5e6e4014608f38132c82112717f3.jpg
     :alt: Chemical illustration: Table 14.1 Selected Organic Functional Groups
-
-
+    
+    
     ``````````
 
   - \-*oic acid*
@@ -156,7 +156,7 @@ Table 14.1 Selected Organic Functional Groups
 
 1.  OH
 
-2.
+2.  
 
 (src-gob-ch14-s02)=
 
@@ -208,8 +208,8 @@ Give the IUPAC name for each compound.
 
 1.  ``````````{figure} /images/section_17/862b9fc90a208eb2743cc24969a78bc4.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 2.  HOCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH
@@ -220,8 +220,8 @@ Solution
 
     ``````````{figure} /images/section_17/bfd14bfef010dce587a4ad2e18541aaf.jpg
     :alt: Chemical illustration: Ten carbon atoms in the LCC makes the compound a derivative of decane (rule 1), and the OH on the third carbon atom makes it a 3-decanol (rule 2).
-
-
+    
+    
     ``````````
 
     The carbon atoms are numbered from the end closest to the OH group. That fixes the two methyl (CH<sub>3</sub>) groups at the sixth and eighth positions. The name is 6,8-dimethyl-3-decanol (not 3,5-dimethyl-8-decanol).
@@ -230,28 +230,28 @@ Solution
 
     ``````````{figure} /images/section_17/cedab6e89cdf8f00c18914a2f19514e5.jpg
     :alt: Chemical illustration: Five carbon atoms in the LCC make the compound a derivative of pentane. Two OH groups on the first and fifth carbon atoms make the compound a diol and give the name 1,5-pentanediol (rule 3).
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
 
 Give the IUPAC name for each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_17/18da0ca810b55c395410e1d6308b28de.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_17/9bd956bbb7cacc428218422a7a6478db.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
 ### Example 2
@@ -269,16 +269,16 @@ Solution
 
     ``````````{figure} /images/section_17/f6ee49edf61b98dffd7504b64e5bb631.jpg
     :alt: Chemical illustration: The 2 indicates that the OH group is attached to the second carbon atom.
-
-
+    
+    
     ``````````
 
     Finally, we add enough hydrogen atoms to give each carbon atom four bonds.
 
     ``````````{figure} /images/section_17/25fbcea9064171b103c4409aea4d9ca5.jpg
     :alt: Chemical illustration: Finally, we add enough hydrogen atoms to give each carbon atom four bonds.
-
-
+    
+    
     ``````````
 
 2.  The ending -*ol* indicates an OH functional group, and the *pent*- stem tells us that there are five carbon atoms in the LCC. We start by drawing a chain of five carbon atoms:
@@ -289,8 +289,8 @@ Solution
 
     ``````````{figure} /images/section_17/b42c7ecc2b101a51b53f0f9cb2d18b81.jpg
     :alt: Chemical illustration: The numbers indicate that there is a methyl (CH 3 ) group on the third carbon atom and an OH group on the second carbon atom.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -387,8 +387,8 @@ Table 14.2 Classification and Nomenclature of Some Alcohols
 
 - - ``````````{figure} /images/section_17/5c5ceedc7b462cba5f198fe0f9eb33d7.jpg
     :alt: Chemical illustration: Table 14.2 Classification and Nomenclature of Some Alcohols
-
-
+    
+    
     ``````````
 
   - secondary
@@ -405,8 +405,8 @@ Table 14.2 Classification and Nomenclature of Some Alcohols
 
     ``````````{figure} /images/section_17/4284d4a077ae3a83a09d5bb034c9899c.jpg
     :alt: Chemical illustration: Is isobutyl alcohol primary, secondary, or tertiary? Explain.
-
-
+    
+    
     ``````````
 
 2.  What is the LCC in 2-ethyl-1-hexanol? What is taken as the LCC in naming the compound? Explain.
@@ -432,34 +432,34 @@ Table 14.2 Classification and Nomenclature of Some Alcohols
 
     2.  ``````````{figure} /images/section_17/fc8017cc3466bc67069ca55a2459848b.jpg
         :alt: Chemical illustration: Name each alcohol and classify it as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/0c1f39fd3982a35e06d50b1038f747e7.jpg
         :alt: Chemical illustration: Name each alcohol and classify it as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
 2.  Name each alcohol and classify it as primary, secondary, or tertiary.
 
     1.  ``````````{figure} /images/section_17/92124cf518b4c70e030d546752b1a321.jpg
         :alt: Chemical illustration: Name each alcohol and classify it as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/549bdb68d62ca24bf7f2196b2eade996.jpg
         :alt: Chemical illustration: Name each alcohol and classify it as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/60f2f6cb67cf4867c2db0a901cd0ad50.jpg
         :alt: Chemical illustration: Name each alcohol and classify it as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
 3.  Draw the structure for each alcohol.
@@ -480,27 +480,27 @@ Table 14.2 Classification and Nomenclature of Some Alcohols
     2.  3-hexanol; secondary
     3.  3,3-dibromo-2-methyl-2-butanol; tertiary
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_17/e944794985251bffe187c87984dea8c9.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/841bfdcadf854b1ff17d2a816dcd4db0.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/5d871d27dbe61bc8d0d79bd85bffe0b5.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 ## 14.3 Physical Properties of Alcohols
 
@@ -623,11 +623,11 @@ Answer the following exercises without consulting tables in the text.
 
 1.  methanol \< ethanol \< 1-propanol
 
-2.
+2.  
 
 3.  1-octanol \< 1-butanol \< methanol
 
-4.
+4.  
 
 (src-gob-ch14-s04)=
 
@@ -765,7 +765,7 @@ Rubbing alcohol is usually a 70% aqueous solution of isopropyl alcohol. It has a
 
 1.  ethylene; CH<sub>2</sub>=CH<sub>2</sub>
 
-2.
+2.  
 
 (src-gob-ch14-s05)=
 
@@ -873,14 +873,14 @@ Write an equation for the oxidation of each alcohol. Use \[O\] above the arrow t
 
 2.  ``````````{figure} /images/section_17/78586956bab5d97afd3e9044fe3918e7.jpg
     :alt: Chemical illustration: Write an equation for the oxidation of each alcohol. Use [O] above the arrow to indicate an oxidizing agent. If no reaction occurs, write “no reaction” after the arrow.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_17/8d2eb68f3fbc3f2b91b3aaf0bfb29d74.jpg
     :alt: Chemical illustration: Write an equation for the oxidation of each alcohol. Use [O] above the arrow to indicate an oxidizing agent. If no reaction occurs, write “no reaction” after the arrow.
-
-
+    
+    
     ``````````
 
 Solution
@@ -891,52 +891,52 @@ The first step is to recognize the class of each alcohol as primary, secondary, 
 
     ``````````{figure} /images/section_17/eb4b0b5478d0a651f861a9f523dd24b0.jpg
     :alt: Chemical illustration: This alcohol has the OH group on a carbon atom that is attached to only one other carbon atom, so it is a primary alcohol. Oxidation forms first an aldehyde and further oxidation forms a carboxylic acid.
-
-
+    
+    
     ``````````
 
 2.  This alcohol has the OH group on a carbon atom that is attached to three other carbon atoms, so it is a tertiary alcohol. No reaction occurs.
 
     ``````````{figure} /images/section_17/439fe9754258558486b3c521009d59fe.jpg
     :alt: Chemical illustration: This alcohol has the OH group on a carbon atom that is attached to three other carbon atoms, so it is a tertiary alcohol. No reaction occurs.
-
-
+    
+    
     ``````````
 
 3.  This alcohol has the OH group on a carbon atom that is attached to two other carbon atoms, so it is a secondary alcohol; oxidation gives a ketone.
 
     ``````````{figure} /images/section_17/3438852f2d7de00a29827c14cea2da29.jpg
     :alt: Chemical illustration: This alcohol has the OH group on a carbon atom that is attached to two other carbon atoms, so it is a secondary alcohol; oxidation gives a ketone.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
 
 Write an equation for the oxidation of each alcohol. Use \[O\] above the arrow to indicate an oxidizing agent. If no reaction occurs, write "no reaction" after the arrow.
 
-1.
+1.   
 
     ``````````{figure} /images/section_17/4d52c464c7b74631ff467489035603bc.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_17/34a1c9a4303792571a731c3a701e0a4d.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_17/8789a35879627a452713753254103aed.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
 ### Concept Review Exercises
@@ -970,28 +970,28 @@ Write an equation for the oxidation of each alcohol. Use \[O\] above the arrow t
 
     1.  ``````````{figure} /images/section_17/8e647d8e0c851f292b83450c6e62ae8e.jpg
         :alt: Chemical illustration: Draw the structure of the product for each reaction.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/5f7b9114f210a1803f87ad72da0b41d8.jpg
         :alt: Chemical illustration: Draw the structure of the product for each reaction.
-
-
+        
+        
         ``````````
 
 4.  Draw the structure of the product for each reaction.
 
     1.  ``````````{figure} /images/section_17/286795048894b3431ee100af2ae31fc8.jpg
         :alt: Chemical illustration: Draw the structure of the product for each reaction.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/ffd615d6af9376bf1cccbe3344adf175.jpg
         :alt: Chemical illustration: Draw the structure of the product for each reaction.
-
-
+        
+        
         ``````````
 
 5.  Write an equation for the dehydration of 2-propanol to yield each compound type.
@@ -1005,26 +1005,26 @@ Write an equation for the oxidation of each alcohol. Use \[O\] above the arrow t
 
 1.  dehydration, oxidation, and esterification
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_17/83aac2d3c0461c19ccbf47a3d5452ad8.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/50648792f99b541a8dac0466788ff9f1.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  $$\text{CH}_{3}\text{CHOHCH}_{\text{3}}\underset{180{^\circ}\text{C,~excess~acid}}{\overset{\text{conc~H}_{2}\text{SO}_{4}}{\rightarrow}}\text{~CH}_{3}\text{COCH}_{\text{3}} + \text{H}_{2}\text{O}$$
     2.  $$\text{2CH}_{3}\text{CHOHCH}_{\text{3}}\underset{180{^\circ}\text{C,~excess~acid}}{\overset{\text{conc~H}_{2}\text{SO}_{4}}{\rightarrow}}\text{~(CH}_{3}\text{)}_{2}\text{CHOCH(CH}_{\text{3}})_{2} + \text{H}_{2}\text{O}$$
 
-6.
+6.  
 
 ## 14.6 Glycols and Glycerol
 
@@ -1124,17 +1124,17 @@ Glycerol, a product of fat metabolism, is essentially nontoxic.
 
 1.  an alcohol with two OH groups on adjacent carbon atoms
 
-2.
+2.  
 
 3.  1.  HOCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH
 
     2.  ``````````{figure} /images/section_17/30a7dc6a60ff0d8050b5faa558966f1c.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 ## 14.7 Phenols
 
@@ -1197,28 +1197,28 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
     1.  ``````````{figure} /images/section_17/a799da6bdee347e2c40c2a5f54dfbe49.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/c8fac41c5d8ae50dfd3a1b70e5cc627b.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 2.  Name each compound.
 
     1.  ``````````{figure} /images/section_17/42ad82cc780601ea8780bc377ebd4cc8.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/009684d45782673e84c37f10747c81a1.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 3.  Draw the structure for each compound.
@@ -1236,21 +1236,21 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 1.  1.  *o*-nitrophenol
     2.  *p*-bromophenol
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_17/cf3f6944e8ba6b15bdf61d16e2417ff6.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/f67ac31ab400a20a355548753efbe4a6.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 ## 14.8 Ethers
 
@@ -1325,8 +1325,8 @@ What is the common name for each ether?
 
 2.  ``````````{figure} /images/section_17/e23b1e7fc08a53e3fef654cb471a210f.jpg
     :alt: Chemical illustration: What is the common name for each ether?
-
-
+    
+    
     ``````````
 
 Solution
@@ -1340,12 +1340,12 @@ What is the common name for each ether?
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>
 
-2.
+2.   
 
     ``````````{figure} /images/section_17/26bd36eb9e5c88e972e5d1dd169f6cb3.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
 ````````````{important} To Your Health: Ethers as General Anesthetics
@@ -1363,7 +1363,7 @@ Credit: Ernest Board (circa 1920), via Wellcome / Wikimedia Commons; [Public dom
 Diethyl ether is relatively safe because there is a fairly wide gap between the dose that produces an effective level of anesthesia and the lethal dose. However, because it is highly flammable and has the added disadvantage of causing nausea, it has been replaced by newer inhalant anesthetics, including the fluorine-containing compounds halothane, enflurane, and isoflurane. Unfortunately, the safety of these compounds for operating room personnel has been questioned. For example, female operating room workers exposed to halothane suffer a higher rate of miscarriages than women in the general population.
 
 ``````````{figure} /images/section_17/b7d49fe062a08e004b189f7c3a6f5e6d.jpg
-:alt: Chemical illustration: Diethyl ether is relatively safe because there is a fairly wide gap between the dose that produces an effective level of anesthesia and the lethal dose. However, because it is highly flammable and has the added disadvantage of causing nausea, it has been replaced by newer inhalant anesthetics, including the fluorine-containing compounds halothane,
+:alt: Chemical illustration: Diethyl ether is relatively safe because there is a fairly wide gap between the dose that produces an effective level of anesthesia and the lethal dose. However, because it is highly flammable and has the added disadvantage of causing nausea, it has been replaced by newer inhalant anesthetics, including the fluorine-containing compounds halothane, 
 
 These three modern, inhalant, halogen-containing, anesthetic compounds are less flammable than diethyl ether.
 ``````````
@@ -1402,8 +1402,8 @@ These three modern, inhalant, halogen-containing, anesthetic compounds are less 
 
     2.  ``````````{figure} /images/section_17/be77ef3468c162bdf5b421f7c1ea7509.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 4.  Name each compound.
@@ -1425,22 +1425,22 @@ These three modern, inhalant, halogen-containing, anesthetic compounds are less 
 
 1.  Intramolecular (both the H and the OH come from the same molecule) dehydration gives ethylene; intermolecular (the H comes from one molecule and the OH comes from another molecule) dehydration gives diethyl ether.
 
-2.
+2.  
 
 3.  1.  methyl propyl ether
     2.  ethyl isopropyl ether
 
-4.
+4.  
 
 5.  1.  CH<sub>3</sub>OCH<sub>2</sub>CH<sub>3</sub>
 
     2.  ``````````{figure} /images/section_17/5c89d7fa80fec31a4074ec46f98c3019.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-6.
+6.  
 
 (src-gob-ch14-s09)=
 
@@ -1534,20 +1534,20 @@ Classify each compound as an aldehyde or a ketone. Give the common name for each
 
 1.  ``````````{figure} /images/section_17/936d06564f4a5e15df10dc4018a6d4b8.jpg
     :alt: Chemical illustration: Classify each compound as an aldehyde or a ketone. Give the common name for each ketone.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_17/5a3e5cf375b47a091fd1db2c837b30f2.jpg
     :alt: Chemical illustration: Classify each compound as an aldehyde or a ketone. Give the common name for each ketone.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_17/d3d0cb767cda253ed0e3a6d63b3b1219.jpg
     :alt: Chemical illustration: Classify each compound as an aldehyde or a ketone. Give the common name for each ketone.
-
-
+    
+    
     ``````````
 
 Solution
@@ -1560,28 +1560,28 @@ Solution
 
 Classify each compound as an aldehyde or a ketone. Give the common name for each ketone.
 
-1.
+1.   
 
     ``````````{figure} /images/section_17/d564bb3d2391b00c9de1b892938ffa84.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_17/5a5a2ed8e7caf01167dad9765e57218f.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_17/60e1bd998fac7ad65662551494071e4b.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
 Here are some simple IUPAC rules for naming aldehydes and ketones:
@@ -1598,20 +1598,20 @@ Give the IUPAC name for each compound.
 
 1.  ``````````{figure} /images/section_17/f8433f746ceda879e02ec31aa113bfe8.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_17/c3c5aa121cd09ded3ad9cecd905903a6.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_17/7552c41ec3ff1d2181167793498bfffa.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -1624,28 +1624,28 @@ Solution
 
 Give the IUPAC name for each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_17/9d30dbb9670be9cabfbfd913d977def4.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_17/85e8f3cbaefd3cf6c6bce9bacc4ff59a.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_17/27452d4f63aa775eeb5f1df9964f74ba.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
 ### Example 8
@@ -1661,16 +1661,16 @@ Solution
 
     ``````````{figure} /images/section_17/4899969d52c9566dc6cbb8f70dd6daf5.jpg
     :alt: Chemical illustration: The octan - part of the name tells us that the LCC has eight carbon atoms. There is a chlorine (Cl) atom on the seventh carbon atom; numbering from the carbonyl group and counting the carbonyl carbon atom as C1, we place the Cl atom on the seventh carbon atom.
-
-
+    
+    
     ``````````
 
 2.  The *hexan*- part of the name tells us that the LCC has six carbon atoms. The 3 means that the carbonyl carbon atom is C3 in this chain, and the 4 tells us that there is a methyl (CH<sub>3</sub>) group at C4:
 
     ``````````{figure} /images/section_17/e0e0b6646c77c00b6d0ed135bab4ee70.jpg
     :alt: Chemical illustration: The hexan - part of the name tells us that the LCC has six carbon atoms. The 3 means that the carbonyl carbon atom is C3 in this chain, and the 4 tells us that there is a methyl (CH 3 ) group at C4:
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -1691,8 +1691,8 @@ Draw the structure for each compound.
 
 1.  ``````````{figure} /images/section_17/bc2b0cb1f17c1603e740de01133323da.jpg
     :alt: Chemical illustration: Give the IUPAC name for glyceraldehyde, (HOCH 2 CHOHCHO). (Hint: as a substituent, the OH group is named hydroxy .)
-
-
+    
+    
     ``````````
 
     3-bromobenzaldehyde
@@ -1713,48 +1713,48 @@ Draw the structure for each compound.
 
     1.  ``````````{figure} /images/section_17/bd64e64065c94085add603c7fc3ab2ba.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/0ac2f53674f4c92ae9a8eef18176655e.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/6ed52ed5a4a54e078ebba5cfde29c762.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_17/03b4397e4abb45d0c9356467eb29dd69.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 2.  Name each compound.
 
     1.  ``````````{figure} /images/section_17/ed36a6841de3477f8b5e07456373b3b0.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CHO
 
     3.  ``````````{figure} /images/section_17/5064ff38d05009c294b307515447db91.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_17/73bcecc59a7ad954d081f51adf180268.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 3.  Draw the structure for each compound.
@@ -1776,23 +1776,23 @@ Draw the structure for each compound.
     3.  3-pentanone or diethyl ketone
     4.  benzaldehyde
 
-2.
+2.  
 
 3.  1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO
 
     2.  ``````````{figure} /images/section_17/0ad48e399f118d7177538d85bf71369b.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/344612c37ec764a0368a9c285949059f.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 ## 14.10 Properties of Aldehydes and Ketones
 
@@ -2007,26 +2007,26 @@ Certain steroid hormones have the ketone functional group as a part of their str
 1.  1.  2-propanol
     2.  acetaldehyde
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_17/7c09ef5e758d96ce0e805dcda7976e59.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/e8aa2f2f9f1dc5d86740daefe20cbdf1.jpg
         :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  silver metal (Ag)
     2.  acetic acid (CH<sub>3</sub>COOH)
 
-6.
+6.  
 
 ## 14.11 Organic Sulfur Compounds
 
@@ -2089,7 +2089,7 @@ An experienced paramedic has a broad range of employment options, including trai
 
 1.  (CH<sub>3</sub>)<sub>3</sub>CSH
 
-2.
+2.  
 
 ## 14.12 End-of-Chapter Material
 
@@ -2167,20 +2167,20 @@ A **thiol** is a compound with an SH functional group.
 
     2.  ``````````{figure} /images/section_17/5082198149bb6556e538198d17ee37b9.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary (1°), secondary (2°), or tertiary (3°).
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/176934fdd1385e84d47ee0f9e52f18ba.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary (1°), secondary (2°), or tertiary (3°).
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_17/a40a57bd9b6be1fe3c870ca896fbf722.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary (1°), secondary (2°), or tertiary (3°).
-
-
+        
+        
         ``````````
 
 17. Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary, secondary, or tertiary.
@@ -2189,40 +2189,40 @@ A **thiol** is a compound with an SH functional group.
 
     2.  ``````````{figure} /images/section_17/b4546eb1f49e30b5818735f0c31c4d5e.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/3c01adc09fd642999850a098daf9b33d.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_17/fa3a2fcf565220f27741c05c2cff6514.jpg
         :alt: Chemical illustration: Identify each compound as an alcohol, a phenol, or an ether. Classify any alcohols as primary, secondary, or tertiary.
-
-
+        
+        
         ``````````
 
 18. Tell whether each compound forms an acidic, a basic, or a neutral solution in water.
 
     1.  ``````````{figure} /images/section_17/eb059ecc6ac55764db7562ffc67c50b9.jpg
         :alt: Chemical illustration: Tell whether each compound forms an acidic, a basic, or a neutral solution in water.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_17/6537a6258fbe3c492fab29bb5138a76c.jpg
         :alt: Chemical illustration: Tell whether each compound forms an acidic, a basic, or a neutral solution in water.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_17/920ba1901346217080d508acd2affa3d.jpg
         :alt: Chemical illustration: Tell whether each compound forms an acidic, a basic, or a neutral solution in water.
-
-
+        
+        
         ``````````
 
 19. When water is added to ethylene in the presence of an acid catalyst, only one product---ethanol---is possible. However, when water is added to propylene, two products are possible---1-propanol and 2-propanol---but only 2-propanol is formed. In 1870, the Russian chemist Vladimir V. Markovnikov proposed a rule to predict the products of such reactions: Considering water to be HOH, the hydrogen atom of water goes on the carbon atom (of the two involved in the double bond) that has the most hydrogen atoms already bonded to it. The OH group goes on the carbon atom with fewer hydrogen atoms. Use Markovnikov's rule to predict the product of the addition of water to each compound.
@@ -2242,8 +2242,8 @@ A **thiol** is a compound with an SH functional group.
 
     ``````````{figure} /images/section_17/e129532b529c6c8a7aaa2885694e3238.jpg
     :alt: Chemical illustration: Menthol is an ingredient in mentholated cough drops and nasal sprays. It produces a cooling, refreshing sensation when rubbed on the skin and so is used in shaving lotions and cosmetics. Thymol, the aromatic equivalent of menthol, is the flavoring constituent of thyme.
-
-
+    
+    
     ``````````
 
     1.  To what class of compounds does each belong?
@@ -2261,88 +2261,88 @@ A **thiol** is a compound with an SH functional group.
 
     ``````````{figure} /images/section_17/f9c7cc0eaba46567de086eefe2175641.jpg
     :alt: Chemical illustration: Tetrahydrocannabinol is the principal active ingredient in marijuana. What functional groups are present in this molecule?
-
-
+    
+    
     ``````````
 
 ### Answers
 
 1.  addition of water to ethylene; fermentation (for beverages)
 
-2.
+2.  
 
 3.  Methanol is too toxic.
 
-4.
+4.  
 
 5.  1.  oxidation
     2.  dehydration
     3.  hydration
 
-6.
+6.  
 
 7.  Methanol is oxidized in the body to toxic formaldehyde; ethanol is oxidized to the less toxic acetaldehyde.
 
-8.
+8.  
 
 9.  ``````````{figure} /images/section_17/175d08ba517233c60bee6bd100d10bd8.jpg
     :alt: Chemical illustration: Methanol is oxidized in the body to toxic formaldehyde; ethanol is oxidized to the less toxic acetaldehyde.
-
-
+    
+    
     ``````````
 
-10.
+10. 
 
 11. C<sub>6</sub>H<sub>5</sub>OH + H<sub>2</sub>O → C<sub>6</sub>H<sub>5</sub>O<sup>−</sup> + H<sub>3</sub>O<sup>+</sup>
 
-12.
+12. 
 
 13. ``````````{figure} /images/section_17/0a2ff2e91244ad19cc40395d72212d66.jpg
     :alt: Chemical illustration: C 6 H 5 OH + H 2 O → C 6 H 5 O − + H 3 O +
-
-
+    
+    
     ``````````
 
-14.
+14. 
 
 15. Isopropyl alcohol is a secondary alcohol, whereas isobutyl alcohol is a primary alcohol.
 
-16.
+16. 
 
 17. 1.  ether
     2.  tertiary alcohol
     3.  phenol
     4.  secondary alcohol
 
-18.
+18. 
 
 19. 1.  *tert*-butyl alcohol
     2.  2-butanol
     3.  2-methyl-2-pentanol
     4.  2-methyl-2-pentanol
 
-20.
+20. 
 
 21. ``````````{figure} /images/section_17/56003e269a3d5b709f0b841b0279b22b.jpg
     :alt: Chemical illustration: Chapter 14: Organic Compounds of Oxygen
-
-
+    
+    
     ``````````
 
-22.
+22. 
 
 23. 1.  menthol: alcohol; thymol: phenol
     2.  2-isopropyl-5-methylphenol
 
-24.
+24. 
 
 25. It might be ruled safe until tested on humans.
 
-26.
+26. 
 
 27. sulfide, amino, and carboxylic acid
 
-28.
+28. 
 
 [^chem-1]: A structural arrangement of atoms and/or bonds that imparts a wide range of important properties to organic compounds.
 

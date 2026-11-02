@@ -95,7 +95,7 @@ Using the relationships in [Table 6.1 \"Molecular Relationships\"](/chapters/ch-
 
 ``````````
 
-
+ 
 
 Note how the unit *mol C*<sub>*2*</sub>*H*<sub>*6*</sub>*O molecules* cancels algebraically. Similar equations can be constructed for determining the number of H and O atoms:
 
@@ -173,27 +173,27 @@ in the sample.
 
 1.  5.018 × 10<sup>22</sup> dozens
 
-2.
+2.  
 
 3.  6.0 mol of C atoms, 12.0 mol of H atoms, and 6.0 mol of O atoms
 
-4.
+4.  
 
 5.  5.16 mol of Na atoms, 2.58 mol of S atoms, and 10.32 mol of O atoms
 
-6.
+6.  
 
 7.  1.012 × 10<sup>25</sup> molecules
 
-8.
+8.  
 
 9.  11.7 mol
 
-10.
+10. 
 
 11. 1.04 × 10<sup>24</sup> Na atoms and 1.04 × 10<sup>24</sup> Cl atoms
 
-12.
+12. 
 
 (src-gob-ch06-s02)=
 
@@ -282,7 +282,7 @@ Solution
       - 6 × 16.00 =
       - 96.00 g
     - - Total:
-      -
+      -  
       - 584.69 g
 
     ````````
@@ -312,7 +312,7 @@ Be careful when counting atoms. In formulas with polyatomic ions in parentheses,
   - 2 × 1.01 g =
   - 2.02 g
 - - Total:
-  -
+  -  
   - 171.35 g
 
 ````````
@@ -363,23 +363,23 @@ Because molar mass is defined as the mass for 1 mol of a substance, we can refer
 
 1.  28.09 g/mol; 238.00 g/mol
 
-2.
+2.  
 
 3.  126.75 g/mol; 162.20 g/mol
 
-4.
+4.  
 
 5.  68.15 g/mol; 74.10 g/mol
 
-6.
+6.  
 
 7.  180.17 g/mol
 
-8.
+8.  
 
 9.  285.36 g
 
-10.
+10. 
 
 ## 6.3 Mole-Mass Conversions
 
@@ -473,7 +473,7 @@ To convert from moles to mass, we need the molar mass of bilirubin, which we can
   - 6 × 16.00 g =
   - 96.00 g
 - - Total:
-  -
+  -  
   - 584.69 g
 
 ````````
@@ -631,23 +631,23 @@ Although a properly balanced diet will provide all the necessary minerals, some 
 
 1.  480.5 g
 
-2.
+2.  
 
 3.  4.42 × 10<sup>6</sup> g
 
-4.
+4.  
 
 5.  2,079 g
 
-6.
+6.  
 
 7.  11.63 mol
 
-8.
+8.  
 
 9.  2.77 × 10<sup>−5</sup> mol
 
-10.
+10. 
 
 (src-gob-ch06-s04)=
 
@@ -771,19 +771,19 @@ To produce 27.6 mol of H<sub>2</sub>O, 13.8 mol of O<sub>2</sub> react.
 
 1.  1 mol NH<sub>3</sub>:2 mol O<sub>2</sub>:1 mol HNO<sub>3</sub>:1 mol H<sub>2</sub>O
 
-2.
+2.  
 
 3.  3.14 mol
 
-4.
+4.  
 
 5.  4NH<sub>3</sub> + 3O<sub>2</sub> → 2N<sub>2</sub> + 6H<sub>2</sub>O; 2.48 mol
 
-6.
+6.  
 
 7.  Yes, they are still balanced.
 
-8.
+8.  
 
 ## 6.5 Mole-Mass and Mass-Mass Problems
 
@@ -796,7 +796,7 @@ To produce 27.6 mol of H<sub>2</sub>O, 13.8 mol of O<sub>2</sub> react.
 We have established that a balanced chemical equation is balanced in terms of moles as well as atoms or molecules. We have used balanced equations to set up ratios, now in terms of moles of materials, that we can use as conversion factors to answer stoichiometric questions, such as how many moles of substance A react with so many moles of reactant B. We can extend this technique even further. Recall that we can relate a molar amount to a mass amount using molar mass. We can use that ability to answer stoichiometry questions in terms of the masses of a particular substance, in addition to moles. We do this using the following sequence:
 
 ``````````{figure} /images/section_09/ea1d4940033105bd3e47086d18eb745a.jpg
-:alt: Chemical illustration: We have established that a balanced chemical equation is balanced in terms of moles as well as atoms or molecules. We have used balanced equations to set up ratios, now in terms of moles of materials, that we can use as conversion factors to answer stoichiometric questions, such as how many moles of substance A react with so many moles of reactant
+:alt: Chemical illustration: We have established that a balanced chemical equation is balanced in terms of moles as well as atoms or molecules. We have used balanced equations to set up ratios, now in terms of moles of materials, that we can use as conversion factors to answer stoichiometric questions, such as how many moles of substance A react with so many moles of reactant 
 
 ``````````
 
@@ -844,7 +844,7 @@ Our strategy will be to convert from moles of HCl to moles of CO<sub>2</sub> and
 
 ``````````
 
-
+ 
 
 The molar ratio between CO<sub>2</sub> and HCl comes from the balanced chemical equation.
 
@@ -1002,23 +1002,23 @@ Because of the complexity of the molecule, hydrogen atoms are not shown, but the
 
 1.  127 g
 
-2.
+2.  
 
 3.  1.236 mol
 
-4.
+4.  
 
 5.  23.9 g
 
-6.
+6.  
 
 7.  0.251 g
 
-8.
+8.  
 
 9.  1.61 × 10<sup>8</sup> g
 
-10.
+10. 
 
 ## 6.6 End-of-Chapter Material
 
@@ -1066,22 +1066,22 @@ Chemical reactions list reactants and products in molar amounts, not just molecu
 
 1.  2,330 mol
 
-2.
+2.  
 
 3.  1.  2.67 mol of H and 2.67 mol of Cl
     2.  5.34 mol of H, 2.67 mol of S, and 10.68 mol of O
     3.  2.67 mol of Al, 8.01 mol of N, and 24.03 mol of O
     4.  5.34 mol of Ga, 8.01 mol of S, and 32.04 mol of O
 
-4.
+4.  
 
 5.  H = 1.66 × 10<sup>−24</sup> g and O = 2.66 × 10<sup>−23</sup> g; yes, they are in a 1:16 ratio.
 
-6.
+6.  
 
 7.  324 g/mol
 
-8.
+8.  
 
 [^chem-1]: A number of things equal to 6.022 × 10<sup>23</sup> items.
 

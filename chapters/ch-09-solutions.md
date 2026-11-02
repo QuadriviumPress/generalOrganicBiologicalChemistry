@@ -168,26 +168,26 @@ Toluene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>) is widely used in industry as
 
 1.  a homogeneous mixture
 
-2.
+2.  
 
 3.  A solvent is the majority component of a solution; a solute is the minority component of a solution.
 
-4.
+4.  
 
 5.  A solution does not have to be liquid; air is a gaseous solution, while some alloys are solid solutions (answers will vary).
 
-6.
+6.  
 
 7.  1.  probably soluble
     2.  probably not soluble
     3.  probably soluble
     4.  probably not soluble
 
-8.
+8.  
 
 9.  Small alcohol molecules have strong polar intermolecular interactions, so they dissolve in water. In large alcohol molecules, the nonpolar end overwhelms the polar end, so they do not dissolve very well in water.
 
-10.
+10. 
 
 (src-gob-ch09-s02)=
 
@@ -737,67 +737,67 @@ as the final concentration.
 
 1.  Solubility is the amount of a solute that can dissolve in a given amount of solute, typically 100 mL. The solubility of solutes varies widely.
 
-2.
+2.  
 
 3.  76.5 g
 
-4.
+4.  
 
 5.  12.6 g
 
-6.
+6.  
 
 7.  26.5%
 
-8.
+8.  
 
 9.  0.203%
 
-10.
+10. 
 
 11. 52.4 mL
 
-12.
+12. 
 
 13. 0.00321 g
 
-14.
+14. 
 
 15. 15 ppm
 
-16.
+16. 
 
 17. 0.130 M
 
-18.
+18. 
 
 19. 0.208 M
 
-20.
+20. 
 
 21. 37.6 g
 
-22.
+22. 
 
 23. 0.496 L
 
-24.
+24. 
 
 25. 0.262 mol; 37.5 g
 
-26.
+26. 
 
 27. 1.13 M C<sub>2</sub>H<sub>5</sub>OH; 1.13 mol of CO<sub>2</sub>; 49.7 g of CO<sub>2</sub>; 27.7 L of CO<sub>2</sub>
 
-28.
+28. 
 
 29. 1.0 Eq/L
 
-30.
+30. 
 
 31. 0.200 M
 
-32.
+32. 
 
 ## 9.3 The Dissolution Process
 
@@ -933,21 +933,21 @@ The following substances all dissolve to some extent in water. Classify each as 
 
 1.  Each ion of the ionic solute is surrounded by particles of solvent, carrying the ion from its associated crystal.
 
-2.
+2.  
 
 3.  1.  electrolyte
     2.  nonelectrolyte
     3.  nonelectrolyte
     4.  electrolyte
 
-4.
+4.  
 
 5.  1.  yes
     2.  no
     3.  yes
     4.  yes
 
-6.
+6.  
 
 (src-gob-ch09-s04)=
 
@@ -1172,33 +1172,33 @@ Despite the narrow parameters of their specialty, perfusionists must be highly t
     2.  1.0 M NaCl
     3.  1.0 M (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>
 
-2.
+2.  
 
 3.  1.  1.0 M NaCl
     2.  1.0 M NaCl
     3.  1.0 M (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>
 
-4.
+4.  
 
 5.  1.  100.5°C
     2.  102.3°C
     3.  101°C
 
-6.
+6.  
 
 7.  NaCl lowers the freezing point of water, so it needs to be colder for the water to freeze.
 
-8.
+8.  
 
 9.  1.  0.500 osmol
     2.  1.000 osmol
     3.  1.500 osmol
 
-10.
+10. 
 
 11. It must separate into three ions when it dissolves.
 
-12.
+12. 
 
 ## 9.5 End-of-Chapter Material
 
@@ -1254,19 +1254,19 @@ Solutions have properties that differ from those of the pure solvent. Some of th
     2.  2.39 g
     3.  1.80 osmol
 
-2.
+2.  
 
 3.  −45.6°C
 
-4.
+4.  
 
 5.  0.513 M; 1.026 osmol
 
-6.
+6.  
 
 7.  75.0 mL
 
-8.
+8.  
 
 9.  The osmotic pressure of seawater is too high. Drinking seawater would cause water to go from inside our cells into the more concentrated seawater, ultimately killing the cells.
 

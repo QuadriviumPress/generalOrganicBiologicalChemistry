@@ -68,9 +68,9 @@ Although either event is possible, a sodium atom is more likely to lose its sing
   - 11−
   - 10 electrons
   - 10−
-- -
+- -  
   - 0 overall charge
-  -
+  -  
   - +1 overall charge
 
 ````````
@@ -116,15 +116,15 @@ Although either event is possible, a sodium atom is more likely to lose its sing
 
 1.  Positive charges repel each other, so an ionic compound is not likely between two positively charged ions.
 
-2.
+2.  
 
 3.  It is more likely to lose two electrons.
 
-4.
+4.  
 
 5.  It is more likely to gain two electrons.
 
-6.
+6.  
 
 (src-gob-ch03-s02)=
 
@@ -308,8 +308,8 @@ Note that some atoms commonly form ions of different charges.
 2.  ``````````{figure} /images/section_06/7b15ea260e373be0a400410743664d4a.jpg
     :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
     :name: src-fwk-gob-eq03-010-ans
-
-
+    
+    
     ``````````
 
 3.  1.  1+
@@ -387,64 +387,64 @@ Note that some atoms commonly form ions of different charges.
     5.  neither
     6.  neither
 
-2.
+2.  
 
 3.  1.  1*s*<sup>2</sup>
     2.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>
     3.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>
     4.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>3*p*<sup>6</sup>
 
-4.
+4.  
 
 5.  1.  ``````````{figure} /images/section_06/6ab9102d8dfae2901ff7c7d287aaa5fc.jpg
         :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_06/d2df9ae99dcf253a64cf6baf71f63ca8.jpg
         :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_06/f998d3ee10b7b99348cd953faaab98bc.jpg
         :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_06/45f6a372cfbda913a706384da9919cc0.jpg
         :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+        
+        
         ``````````
 
-6.
+6.  
 
 7.  ``````````{figure} /images/section_06/1d59d9c0ed34154fda8534ea8a40f80a.jpg
     :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+    
+    
     ``````````
 
-8.
+8.  
 
 9.  ``````````{figure} /images/section_06/3a69a63d647000d682c03130953a2a34.jpg
     :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+    
+    
     ``````````
 
-10.
+10. 
 
 11. 1+
 
-12.
+12. 
 
 13. 2−
 
-14.
+14. 
 
 (src-gob-ch03-s03)=
 
@@ -797,31 +797,31 @@ Most ions are more abundant in seawater than they are in blood, with some import
 1.  1.  NaBr
     2.  MgBr<sub>2</sub>
     3.  MgS
-2.
+2.  
 3.  1.  Na<sub>3</sub>N
     2.  Mg<sub>3</sub>N<sub>2</sub>
     3.  Al<sub>2</sub>S<sub>3</sub>
-4.
+4.  
 5.  1.  FeBr<sub>3</sub>
     2.  FeBr<sub>2</sub>
     3.  Au<sub>2</sub>S<sub>3</sub>
     4.  Au<sub>2</sub>S
-6.
+6.  
 7.  1.  Cr(NO<sub>3</sub>)<sub>3</sub>
     2.  Fe<sub>3</sub> (PO<sub>4</sub>)<sub>2</sub>
     3.  CaCrO<sub>4</sub>
     4.  Al(OH)<sub>3</sub>
-8.
+8.  
 9.  1.  Ba<sup>2+</sup>, S<sup>2−</sup>, BaS
     2.  Cs<sup>+</sup>, I<sup>−</sup>, CsI
-10.
+10. 
 11. 1.  ionic
     2.  ionic
     3.  not ionic
     4.  ionic
     5.  not ionic
     6.  not ionic
-12.
+12. 
 
 (src-gob-ch03-s04)=
 
@@ -1164,28 +1164,28 @@ Follow these steps to name a simple ionic compound.
     2.  the phosphide ion
     3.  the dihydrogen phosphate ion
     4.  the tin(IV) ion or the stannic ion
-2.
+2.  
 3.  1.  sodium bromide
     2.  magnesium bromide
     3.  magnesium sulfide
-4.
+4.  
 5.  1.  sodium nitride
     2.  magnesium nitride
     3.  aluminum sulfide
-6.
+6.  
 7.  1.  iron(III) bromide or ferric bromide
     2.  iron(II) bromide or ferrous bromide
     3.  gold(III) sulfide or auric sulfide
     4.  gold(I) sulfide or aurous sulfide
-8.
+8.  
 9.  1.  chromium(III) nitrate or chromic nitrate
     2.  iron(II) phosphate or ferrous phosphate
     3.  calcium chromate
     4.  aluminum hydroxide
-10.
+10. 
 11. 1.  aluminum hydrogen sulfate or aluminum bisulfate
     2.  magnesium hydrogen sulfate or magnesium bisulfate
-12.
+12. 
 
 (src-gob-ch03-s05)=
 
@@ -1227,7 +1227,7 @@ When an ionic compound has more than one anion or cation, you must remember to u
   - 2 × 19.00 =
   - \+ 38.00 u
 - - Total:
-  -
+  -  
   - 78.08 u
 
 ````````
@@ -1249,7 +1249,7 @@ For ionic compounds with polyatomic ions, the sum must include the number and ma
   - 3 × 16.00 =
   - \+ 48.00 u
 - - Total:
-  -
+  -  
   - 101.10 u
 
 ````````
@@ -1277,7 +1277,7 @@ When a formula contains more than one polyatomic unit in the chemical formula, a
   - 6 × 16.00 =
   - \+ 96.00 u
 - - Total:
-  -
+  -  
   - 164.08 u
 
 ````````
@@ -1297,13 +1297,13 @@ Solution
     :header-rows: 0
 
     - - Fe:
-      -
+      -  
       - 55.85 u
     - - Cl:
       - 3 × 35.45 =
       - \+ 106.35 u
     - - Total:
-      -
+      -  
       - 162.20 u
 
     ````````
@@ -1322,13 +1322,13 @@ Solution
       - 12 × 1.00 =
       - \+ 12.00 u
     - - P:
-      -
+      -  
       - \+ 30.97 u
     - - O:
       - 4 × 16.00 =
       - \+ 64.00 u
     - - Total:
-      -
+      -  
       - 148.97 u
 
     ````````
@@ -1485,24 +1485,24 @@ Table 3.4 Names and Formulas of Some Widely Used Hydrates
 1.  1.  102.90 u
     2.  184.11 u
     3.  56.38 u
-2.
+2.  
 3.  1.  83.00 u
     2.  100.93 u
     3.  150.17 u
-4.
+4.  
 5.  1.  295.50 u
     2.  215.60 u
     3.  490.30 u
     4.  426.10 u
-6.
+6.  
 7.  1.  238.00 u
     2.  357.49 u
     3.  156.08 u
     4.  78.01 u
-8.
+8.  
 9.  1.  318.22 u
     2.  218.47 u
-10.
+10. 
 
 ## 3.6 End-of-Chapter Material
 
@@ -1544,12 +1544,12 @@ The **formula mass** of an ionic compound is the sum of the masses of each indiv
     3.  Cl<sup>−</sup>
     4.  O<sup>2−</sup>
 
-5.
+5.   
 
     1.  If a sodium atom were to lose two electrons, what would be the electron configuration of the resulting cation?
     2.  Considering that electron shells are typically separated by large amounts of energy, use your answer to Exercise 5a to suggest why sodium atoms do not form a 2+ cation.
 
-6.
+6.   
 
     1.  If a chlorine atom were to gain two electrons, what would be the electron configuration of the resulting anion?
     2.  Considering that electron shells are typically separated by large amounts of energy, use your answer to Exercise 6a to suggest why chlorine atoms do not form a 2− anion.
@@ -1595,56 +1595,56 @@ The **formula mass** of an ionic compound is the sum of the masses of each indiv
 
 1.  For sodium, the valence shell is the third shell; for the sodium ion, the valence shell is the second shell because it has lost all its third shell electrons.
 
-2.
+2.  
 
 3.  1.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>3*p*<sup>6</sup>
     2.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>
     3.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>
     4.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>3*p*<sup>6</sup>
 
-4.
+4.  
 
 5.  1.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>5</sup>
     2.  It probably requires too much energy to form.
 
-6.
+6.  
 
 7.  ``````````{figure} /images/section_06/be5ae655eb277d90fdc6744e062a4ce2.jpg
     :alt: Chemical illustration: Chapter 3: Ionic Bonding and Simple Ionic Compounds
-
-
+    
+    
     ``````````
 
-8.
+8.  
 
 9.  1.  mercuric and mercurous, respectively
     2.  HgO and Hg<sub>2</sub>O, respectively
 
-10.
+10. 
 
 11. FePO<sub>4</sub>·2H<sub>2</sub>O; 186.86 u
 
-12.
+12. 
 
 13. 145.16 u
 
-14.
+14. 
 
 15. 13,070.25 u
 
-16.
+16. 
 
 17. 3.32 g
 
-18.
+18. 
 
 19. Both tin and lead have two *p* electrons and two *s* electrons in their valence shells.
 
-20.
+20. 
 
 21. Br<sup>−</sup> because it is higher up on the periodic table
 
-22.
+22. 
 
 23. N<sup>3−</sup>
 

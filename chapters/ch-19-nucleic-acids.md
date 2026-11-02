@@ -155,56 +155,56 @@ Apart from being the monomer units of DNA and RNA, the nucleotides and some of t
 
     1.  ``````````{figure} /images/section_22/39e7f4d86706d8acbfdee56235448f2b.jpg
         :alt: Chemical illustration: For each structure, circle the sugar unit and identify the nucleotide as a ribonucleotide or a deoxyribonucleotide.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/f8a8060c2db24f0eb05e6223d141bad5.jpg
         :alt: Chemical illustration: For each structure, circle the sugar unit and identify the nucleotide as a ribonucleotide or a deoxyribonucleotide.
-
-
+        
+        
         ``````````
 
 4.  For each structure, circle the sugar unit and identify the nucleotide as a ribonucleotide or a deoxyribonucleotide.
 
     1.  ``````````{figure} /images/section_22/13f9b3e89d2ec3d744b24cd160f154fa.jpg
         :alt: Chemical illustration: For each structure, circle the sugar unit and identify the nucleotide as a ribonucleotide or a deoxyribonucleotide.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/b937de1e490a4e7627d62fd6c46825de.jpg
         :alt: Chemical illustration: For each structure, circle the sugar unit and identify the nucleotide as a ribonucleotide or a deoxyribonucleotide.
-
-
+        
+        
         ``````````
 
 5.  For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
 
     1.  ``````````{figure} /images/section_22/ec714440153361b5321cf7d405728c7b.jpg
         :alt: Chemical illustration: For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/57c52953790f14b008b29d8d931e4cd4.jpg
         :alt: Chemical illustration: For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
-
-
+        
+        
         ``````````
 
 6.  For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
 
     1.  ``````````{figure} /images/section_22/1cc60c8bceb3fe28d147d16dce2562ac.jpg
         :alt: Chemical illustration: For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/eeabe07655f30b892eec62b4490fa25f.jpg
         :alt: Chemical illustration: For each structure, circle the nitrogenous base and identify it as a purine or pyrimidine.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -212,35 +212,35 @@ Apart from being the monomer units of DNA and RNA, the nucleotides and some of t
 1.  1.  ribose
     2.  deoxyribose
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_22/0e58be4336524bf123bea0fed9e2dd73.jpg
         :alt: Chemical illustration: Chapter 19: Nucleic Acids
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/20a6f370044f2af5873d4b535f5f12e0.jpg
         :alt: Chemical illustration: Chapter 19: Nucleic Acids
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  ``````````{figure} /images/section_22/e043223735f02f7cf668a5452ad810b2.jpg
         :alt: Chemical illustration: Chapter 19: Nucleic Acids
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_22/b74deff4bc6b6a4b88da69b8b9936e81.jpg
         :alt: Chemical illustration: Chapter 19: Nucleic Acids
-
-
+        
+        
         ``````````
 
-6.
+6.  
 
 ## 19.2 Nucleic Acid Structure
 
@@ -310,7 +310,7 @@ Complementary bases engage in hydrogen bonding with one another: (a) thymine and
 
 ### Concept Review Exercises
 
-1.
+1.   
 
     1.  Name the two kinds of nucleic acids.
     2.  Which type of nucleic acid stores genetic information in the cell?
@@ -349,8 +349,8 @@ Complementary bases engage in hydrogen bonding with one another: (a) thymine and
 
         ``````````{figure} /images/section_22/c334efa701ab7ee44be3b9605984ee12.jpg
         :alt: Chemical illustration: write the nucleotide sequence of this RNA segment.
-
-
+        
+        
         ``````````
 
 2.  For this short DNA segment,
@@ -363,8 +363,8 @@ Complementary bases engage in hydrogen bonding with one another: (a) thymine and
 
         ``````````{figure} /images/section_22/0a654959c8f66824826656b2e9d41b77.jpg
         :alt: Chemical illustration: write the nucleotide sequence of this DNA segment.
-
-
+        
+        
         ``````````
 
 3.  Which nitrogenous base in DNA pairs with each nitrogenous base?
@@ -393,24 +393,24 @@ Complementary bases engage in hydrogen bonding with one another: (a) thymine and
 
 1.  ``````````{figure} /images/section_22/4d3fe764bd647e3da18845f1d41b6f46.jpg
     :alt: Chemical illustration: How many hydrogen bonds can form between the two strands in the short DNA segment shown below?
-
-
+    
+    
     ``````````
 
     c\. ACU
 
-2.
+2.  
 
 3.  1.  guanine
     2.  thymine
     3.  cytosine
     4.  adenine
 
-4.
+4.  
 
 5.  22 (2 between each AT base pair and 3 between each GC base pair)
 
-6.
+6.  
 
 ## 19.3 Replication and Expression of Genetic Information
 
@@ -573,12 +573,12 @@ The two-dimensional structure of a tRNA molecule has three distinctive loops, re
 
 1.  Both processes require a template from which a complementary strand is synthesized.
 
-2.
+2.  
 
 3.  1.  3′‑TACTCGCTGAAACGCCCTAAT‑5′
     2.  5′‑AUGAGCGACUUUGCGGGAUUA‑3′
 
-4.
+4.  
 
 (src-gob-ch19-s04)=
 
@@ -703,19 +703,19 @@ Further experimentation threw much light on the nature of the genetic code, as f
     3.  3′‑UCG‑5′
     4.  3′‑GGC‑5′
 
-2.
+2.  
 
 3.  27 nucleotides (3 nucleotides/codon)
 
-4.
+4.  
 
 5.  1a: phenyalanine; 1b: histidine; 1c: serine; 1d: proline
 
-6.
+6.  
 
 7.  met-ser-asp-phe-ala-gly-leu
 
-8.
+8.  
 
 (src-gob-ch19-s05)=
 
@@ -855,12 +855,12 @@ Restriction enzymes have been isolated from a number of bacteria and are named a
 
 ### Concept Review Exercises
 
-1.
+1.   
 
     1.  What effect can UV radiation have on DNA?
     2.  Is UV radiation an example of a physical mutagen or a chemical mutagen?
 
-2.
+2.   
 
     1.  What causes PKU?
     2.  How is PKU detected and treated?
@@ -892,7 +892,7 @@ Restriction enzymes have been isolated from a number of bacteria and are named a
     1.  Identify the mutation as a substitution, an insertion, or a deletion.
     2.  What effect would the mutation have on the amino acid sequence of the protein obtained from this mutated gene (use [Figure 19.14 \"The Genetic Code\"](/chapters/ch-19-nucleic-acids.md#src-gob-ch19-s04-f03))?
 
-3.
+3.   
 
     1.  What is a mutagen?
     2.  Give two examples of mutagens.
@@ -906,10 +906,10 @@ Restriction enzymes have been isolated from a number of bacteria and are named a
 
 1.  1.  substitution
     2.  Phenylalanine (UUU) would be replaced with leucine (CUU).
-2.
+2.  
 3.  1.  a chemical or physical agent that can cause a mutation
     2.  UV radiation and gamma radiation (answers will vary)
-4.
+4.  
 
 ## 19.6 Viruses
 
@@ -1007,7 +1007,7 @@ Credit: US National Institutes of Health; [Public domain](https://creativecommon
 
 1.  Describe how a DNA virus invades and destroys a cell.
 
-2.
+2.   
 
     1.  Describe how an RNA virus invades and destroys a cell.
     2.  How does this differ from a DNA virus?
@@ -1020,11 +1020,11 @@ Credit: US National Institutes of Health; [Public domain](https://creativecommon
 
 1.  The DNA virus enters a host cell and induces the cell to replicate the viral DNA and produce viral proteins. These proteins and DNA assemble into new viruses that are released by the host cell, which may die in the process.
 
-2.
+2.  
 
 3.  reverse transcriptase
 
-4.
+4.  
 
 ## 19.7 End-of-Chapter Material
 
@@ -1054,8 +1054,8 @@ The general term for any change in the genetic code in an organism's DNA is **mu
 
     ``````````{figure} /images/section_22/a7fb0b8d8bd87a23d5e3d86f5452a2dc.jpg
     :alt: Chemical illustration: For this nucleic acid segment,
-
-
+    
+    
     ``````````
 
     1.  classify this segment as RNA or DNA and justify your choice.
@@ -1065,8 +1065,8 @@ The general term for any change in the genetic code in an organism's DNA is **mu
 
     ``````````{figure} /images/section_22/4b2013cc42e956d9358e8fb268b4b67b.jpg
     :alt: Chemical illustration: For this nucleic acid segment,
-
-
+    
+    
     ``````````
 
     1.  classify this segment as RNA or DNA and justify your choice.
@@ -1135,23 +1135,23 @@ The general term for any change in the genetic code in an organism's DNA is **mu
 1.  1.  RNA; the sugar is ribose, rather than deoxyribose
     2.  5′‑GUA‑3′
 
-2.
+2.  
 
 3.  In the DNA structure, because guanine (G) is always paired with cytosine (C) and adenine (A) is always paired with thymine (T), you would expect to have equal amounts of each.
 
-4.
+4.  
 
 5.  1.  Each strand would be replicated, resulting in two double-stranded segments.
     2.  5′‑AUGAGGCAUGAGACG‑3′
     3.  met-arg-his-glu-thr
 
-6.
+6.  
 
 7.  1.  194
     2.  194
     3.  582
 
-8.
+8.  
 
 9.  1.  5′‑ACGUUAGCCCCAGCU‑3′
     2.  thr-leu-ala-pro-ala
@@ -1159,11 +1159,11 @@ The general term for any change in the genetic code in an organism's DNA is **mu
         2.  thr-leu-val-pro-ser
         3.  thr-leu-pro-gin
 
-10.
+10. 
 
 11. substitution of lysine for leucine because you are changing from an amino acid with a nonpolar side chain to one that has a positively charged side chain; both serine and threonine, on the other hand, have polar side chains containing the OH group.
 
-12.
+12. 
 
 [^chem-1]: An elongated, threadlike structure composed of protein and DNA that contains the genetic blueprint.
 

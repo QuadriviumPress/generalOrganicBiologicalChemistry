@@ -88,24 +88,24 @@ Table 2.1 Elemental Composition of Earth
   - 3.7
 - - potassium
   - 2.09
-  -
-  -
+  -  
+  -  
 - - titanium
   - 0.565
-  -
-  -
+  -  
+  -  
 - - hydrogen
   - 0.14
-  -
-  -
+  -  
+  -  
 - - phosphorus
   - 0.105
-  -
-  -
+  -  
+  -  
 - - all others
   - 0.174
-  -
-  -
+  -  
+  -  
 
 ````````
 
@@ -418,17 +418,17 @@ What element is represented by each chemical symbol?
     - - Element Symbol
       - Element Name
     - - F
-      -
+      -  
     - - Fe
-      -
+      -  
     - - I
-      -
+      -  
     - - Cr
-      -
+      -  
     - - C
-      -
+      -  
     - - P
-      -
+      -  
 
     ````````
 
@@ -440,17 +440,17 @@ What element is represented by each chemical symbol?
     - - Element Symbol
       - Element Name
     - - Mg
-      -
+      -  
     - - Mn
-      -
+      -  
     - - Ca
-      -
+      -  
     - - Cl
-      -
+      -  
     - - K
-      -
+      -  
     - - Pt
-      -
+      -  
 
     ````````
 
@@ -463,18 +463,18 @@ What element is represented by each chemical symbol?
     5.  not an element
     6.  element
 
-2.
+2.  
 
 3.  1.  Ag
     2.  S
     3.  N
     4.  Ne
 
-4.
+4.  
 
 5.  By convention, the second letter in an element's symbol is always lowercase.
 
-6.
+6.  
 
 7.  ````````{list-table}
     :header-rows: 1
@@ -496,7 +496,7 @@ What element is represented by each chemical symbol?
 
     ````````
 
-8.
+8.  
 
 ## 2.2 Atomic Theory
 
@@ -579,11 +579,11 @@ Dalton's ideas are called the *modern* atomic theory because the concept of atom
     3.  yes
     4.  no
 
-2.
+2.  
 
 3.  Hydrogen exists as a diatomic molecule in its elemental form; helium does not exist as a diatomic molecule.
 
-4.
+4.  
 
 ## 2.3 The Structure of Atoms
 
@@ -724,23 +724,23 @@ A more modern understanding of atoms, reflected in these representations of the 
 
 1.  An electron is smaller.
 
-2.
+2.  
 
 3.  proton; electron
 
-4.
+4.  
 
 5.  most; inside
 
-6.
+6.  
 
 7.  Electrons are in orbit about the nucleus.
 
-8.
+8.  
 
 9.  Most of the alpha particles went through the metal sheet because atoms are mostly empty space.
 
-10.
+10. 
 
 ## 2.4 Nuclei of Atoms
 
@@ -924,16 +924,16 @@ It is not absolutely necessary to indicate the atomic number as a subscript beca
       - Isotope Symbol
     - - 80
       - 120
-      -
-      -
-    - -
-      -
-      -
+      -  
+      -  
+    - -  
+      -  
+      -  
       - ${{}_{\text{26}}^{\text{55}}\text{F}}\text{e}$
-    - -
+    - -  
       - 2
       - hydrogen
-      -
+      -  
 
     ````````
 
@@ -946,18 +946,18 @@ It is not absolutely necessary to indicate the atomic number as a subscript beca
       - Number of Neutrons
       - Element Name
       - Isotope Symbol
-    - -
-      -
-      -
+    - -  
+      -  
+      -  
       - ${{}_{\text{2}}^{\text{3}}\text{H}}\text{e}$
     - - 95
       - 153
-      -
-      -
-    - -
+      -  
+      -  
+    - -  
       - 21
       - potassium
-      -
+      -  
 
     ````````
 
@@ -998,15 +998,15 @@ It is not absolutely necessary to indicate the atomic number as a subscript beca
     3.  24
     4.  4
 
-2.
+2.  
 
 3.  86, 74, 24, and 4
 
-4.
+4.  
 
 5.  86, 74, 24, and 4
 
-6.
+6.  
 
 7.  ````````{list-table}
     :header-rows: 1
@@ -1030,24 +1030,24 @@ It is not absolutely necessary to indicate the atomic number as a subscript beca
 
     ````````
 
-8.
+8.  
 
 9.  1.  protons: 53; neutrons: 78; electrons: 53
     2.  protons: 19; neutrons: 21; electrons: 19
     3.  protons: 80; neutrons: 121; electrons: 80
     4.  protons: 9; neutrons: 10; electrons: 9
 
-10.
+10. 
 
 11. 69
 
-12.
+12. 
 
 13. 1.  26
     2.  22
     3.  2
 
-14.
+14. 
 
 ## 2.5 Atomic Masses
 
@@ -1127,19 +1127,19 @@ This is an extremely small mass, which illustrates just how small individual ato
 
 1.  65.4 u
 
-2.
+2.  
 
 3.  4.04 × 10<sup>−23</sup> g
 
-4.
+4.  
 
 5.  44.8 g
 
-6.
+6.  
 
 7.  1 tungsten atom
 
-8.
+8.  
 
 (src-gob-ch02-s06)=
 
@@ -1268,35 +1268,35 @@ The highest-numbered shell is the third shell, which has 2 electrons in the 3*s*
 
 1.  2; no
 
-2.
+2.  
 
 3.  10; no
 
-4.
+4.  
 
 5.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>2</sup>
 
-6.
+6.  
 
 7.  4*s*<sup>2</sup>
 
-8.
+8.  
 
 9.  fluorine
 
-10.
+10. 
 
 11. ``````````{figure} /images/section_05/e3c502b9a0b1916660309465080482e4.jpg
     :alt: Chemical illustration: fluorine
-
-
+    
+    
     ``````````
 
-12.
+12. 
 
 13. 18; 1
 
-14.
+14. 
 
 ## 2.7 The Periodic Table
 
@@ -1596,7 +1596,7 @@ Clinical chemistry is the area of chemistry concerned with the analysis of body 
     4.  yes
     5.  no
 
-2.
+2.  
 
 3.  1.  no
     2.  yes
@@ -1604,7 +1604,7 @@ Clinical chemistry is the area of chemistry concerned with the analysis of body 
     4.  yes
     5.  no
 
-4.
+4.  
 
 5.  1.  yes
     2.  no
@@ -1612,7 +1612,7 @@ Clinical chemistry is the area of chemistry concerned with the analysis of body 
     4.  yes
     5.  no
 
-6.
+6.  
 
 7.  1.  no
     2.  yes
@@ -1620,25 +1620,25 @@ Clinical chemistry is the area of chemistry concerned with the analysis of body 
     4.  no
     5.  no
 
-8.
+8.  
 
 9.  1.  no
     2.  yes
     3.  yes
     4.  no
 
-10.
+10. 
 
 11. 1.  Li
     2.  P
     3.  Cl
     4.  Al
 
-12.
+12. 
 
 13. metal; transition metals
 
-14.
+14. 
 
 ## 2.8 End-of-Chapter Material
 
@@ -1694,27 +1694,27 @@ The periodic table helps us understand trends in some of the properties of atoms
 
 1.  5.38 × 10<sup>7</sup> atoms
 
-2.
+2.  
 
 3.  1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>3*p*<sup>6</sup>
 
-4.
+4.  
 
 5.  4*s*<sup>2</sup>
 
-6.
+6.  
 
 7.  0.000545 u
 
-8.
+8.  
 
 9.  581.1 u
 
-10.
+10. 
 
 11. potassium and bromine (answers will vary)
 
-12.
+12. 
 
 [^chem-1]: A one- or two-letter abbreviation for an element.
 

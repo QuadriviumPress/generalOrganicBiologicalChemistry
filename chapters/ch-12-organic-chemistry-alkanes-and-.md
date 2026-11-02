@@ -49,37 +49,37 @@ Table 12.1 General Contrasting Properties and Examples of Organic and Inorganic 
 
 - - Organic
   - Hexane
-  -
+  -  
   - Inorganic
   - NaCl
 - - low melting points
   - −95°C
-  -
+  -  
   - high melting points
   - 801°C
 - - low boiling points
   - 69°C
-  -
+  -  
   - high boiling points
   - 1,413°C
 - - low solubility in water; high solubility in nonpolar solvents
   - insoluble in water; soluble in gasoline
-  -
+  -  
   - greater solubility in water; low solubility in nonpolar solvents
   - soluble in water; insoluble in gasoline
 - - flammable
   - highly flammable
-  -
+  -  
   - nonflammable
   - nonflammable
 - - aqueous solutions do not conduct electricity
   - nonconductive
-  -
+  -  
   - aqueous solutions conduct electricity
   - conductive in aqueous solution
 - - exhibit covalent bonding
   - covalent bonds
-  -
+  -  
   - exhibit ionic bonding
   - ionic bonds
 
@@ -143,10 +143,10 @@ Table 12.1 General Contrasting Properties and Examples of Organic and Inorganic 
 1.  1.  organic
     2.  inorganic
     3.  organic
-2.
+2.  
 3.  1.  NaOH
     2.  KCl
-4.
+4.  
 
 ## 12.2 Structures and Names of Alkanes
 
@@ -279,7 +279,7 @@ The principle of homology allows us to write a general formula for alkanes: C<su
 
 1.  CH<sub>4</sub> and C<sub>2</sub>H<sub>6</sub>
 
-2.
+2.  
 
 ## 12.3 Branched-Chain Alkanes
 
@@ -377,14 +377,14 @@ A continuous (unbranched) chain of carbon atoms is often called a *straight chai
 
     1.  ``````````{figure} /images/section_15/f4e000cacc0fd570612e6713f728db25.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/e2be06c2f6562f3104ee3c4ab6d2650c.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 4.  Write the structural formula for each compound.
@@ -398,28 +398,28 @@ A continuous (unbranched) chain of carbon atoms is often called a *straight chai
 
         ``````````{figure} /images/section_15/cfa5bb309c438a57ce83ced2080e9320.jpg
         :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 3 and
-
-
+        
+        
         ``````````
 
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> and
 
         ``````````{figure} /images/section_15/80d3cfc03399873095a6f648297668d7.jpg
         :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 2 CH 3 and
-
-
+        
+        
         ``````````
 
 ### Answers
 
 1.  Straight-chain alkanes and branched-chain alkanes have different properties as well as different structures.
 
-2.
+2.  
 
 3.  1.  pentane
     2.  heptane
 
-4.
+4.  
 
 5.  1.  no
     2.  yes
@@ -438,14 +438,14 @@ We use several kinds of formulas to describe organic compounds. A *molecular for
 Unfortunately, structural formulas are difficult to type/write and take up a lot of space. Chemists often use condensed structural formulas[^chem-8] to alleviate these problems. The condensed formulas show hydrogen atoms right next to the carbon atoms to which they are attached, as illustrated for butane:
 
 ``````````{figure} /images/section_15/1b6bba3434534db0888ddeb47ba199d8.jpg
-:alt: Chemical illustration: Unfortunately, structural formulas are difficult to type/write and take up a lot of space. Chemists often use condensed structural formulas An organic chemical formula that shows the hydrogen atoms (or other atoms or groups) right next to the carbon atoms to which they are attached. to alleviate these problems. The condensed formulas show hydrogen
+:alt: Chemical illustration: Unfortunately, structural formulas are difficult to type/write and take up a lot of space. Chemists often use condensed structural formulas An organic chemical formula that shows the hydrogen atoms (or other atoms or groups) right next to the carbon atoms to which they are attached. to alleviate these problems. The condensed formulas show hydrogen 
 
 ``````````
 
 The ultimate condensed formula is a line-angle formula[^chem-9], in which carbon atoms are implied at the corners and ends of lines, and each carbon atom is understood to be attached to enough hydrogen atoms to give each carbon atom four bonds. For example, we can represent pentane (CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>) and isopentane \[(CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CH<sub>3</sub>\] as follows:
 
 ``````````{figure} /images/section_15/fd41a97f9fcdb3039e646410906528da.jpg
-:alt: Chemical illustration: The ultimate condensed formula is a line-angle formula An organic chemical formula in which carbon atoms are implied at the corners and ends of lines. Each carbon atom is understood to be attached to enough hydrogen atoms to give each carbon atom four bonds. , in which carbon atoms are implied at the corners and ends of lines, and each carbon atom
+:alt: Chemical illustration: The ultimate condensed formula is a line-angle formula An organic chemical formula in which carbon atoms are implied at the corners and ends of lines. Each carbon atom is understood to be attached to enough hydrogen atoms to give each carbon atom four bonds. , in which carbon atoms are implied at the corners and ends of lines, and each carbon atom 
 
 ``````````
 
@@ -468,20 +468,20 @@ Parentheses in condensed structural formulas indicate that the enclosed grouping
 
     1.  ``````````{figure} /images/section_15/ee2732e9b3260c19a4b574634b9a6ebb.jpg
         :alt: Chemical illustration: Write the condensed structural formula for each structural formula.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/9015dee78ce51648b28fe5e89e114fa2.jpg
         :alt: Chemical illustration: Write the condensed structural formula for each structural formula.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_15/49ce63b9e97b73e67c87a4ed581b412d.jpg
         :alt: Chemical illustration: Write the condensed structural formula for each structural formula.
-
-
+        
+        
         ``````````
 
 2.  A condensed structural formula for isohexane can be written as (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>. Draw the line-angle formula for isohexane.
@@ -492,8 +492,8 @@ Parentheses in condensed structural formulas indicate that the enclosed grouping
 
     ``````````{figure} /images/section_15/752d6a46a05f28c6e614e120e8cf1a08.jpg
     :alt: Chemical illustration: Give the structural formula for the compound represented by this line-angle formula:
-
-
+    
+    
     ``````````
 
 ### Answers
@@ -502,15 +502,15 @@ Parentheses in condensed structural formulas indicate that the enclosed grouping
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub>
     3.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_15/b943839f98f9c2ce040b0c2c5c3d6d6a.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 (src-gob-ch12-s05)=
 
@@ -577,16 +577,16 @@ Table 12.4 Common Alkyl Groups
 
   - ``````````{figure} /images/section_15/743d9957fb18ec1694f66d72b573a251.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - methyl
 
   - ``````````{figure} /images/section_15/ff00a48210ad164bc80a36fadecb8dd6.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - CH<sub>3</sub>--
@@ -595,16 +595,16 @@ Table 12.4 Common Alkyl Groups
 
   - ``````````{figure} /images/section_15/4a71d7591059f4b052d6d81245b2e146.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - ethyl
 
   - ``````````{figure} /images/section_15/3f0b74aa13180b0d6013d7f47bdc8f3f.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - CH<sub>3</sub>CH<sub>2</sub>--
@@ -613,30 +613,30 @@ Table 12.4 Common Alkyl Groups
 
   - ``````````{figure} /images/section_15/445d51e87ee3d8315d8f95e17a01e597.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - propyl
 
   - ``````````{figure} /images/section_15/8a341ab832ee48c754842d264b106398.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>--
 
-- -
+- -  
 
-  -
+  -  
 
   - isopropyl
 
   - ``````````{figure} /images/section_15/626b4e33abdc8392c46e6336e9ebeda6.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - (CH<sub>3</sub>)<sub>2</sub>CH--
@@ -645,16 +645,16 @@ Table 12.4 Common Alkyl Groups
 
   - ``````````{figure} /images/section_15/cd88411f4eb1119bea1aa530ead7c131.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - butyl\*
 
   - ``````````{figure} /images/section_15/03a31d7054e6b7f5081e9a0632031b39.jpg
     :alt: Chemical illustration: Table 12.4 Common Alkyl Groups
-
-
+    
+    
     ``````````
 
   - CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>--
@@ -674,7 +674,7 @@ Simplified IUPAC rules for naming alkanes are as follows (demonstrated in Exampl
 2\. **If the hydrocarbon is branched, number the carbon atoms of the LCC.** Numbers are assigned in the direction that gives the lowest numbers to the carbon atoms with attached substituents. Hyphens are used to separate numbers from the names of substituents; commas separate numbers from each other. (The LCC need not be written in a straight line; for example, the LCC in the following has five carbon atoms.)
 
 ``````````{figure} /images/section_15/3f6c56b25c1e9ae47eeb72a518620fb6.jpg
-:alt: Chemical illustration: 2. If the hydrocarbon is branched, number the carbon atoms of the LCC. Numbers are assigned in the direction that gives the lowest numbers to the carbon atoms with attached substituents. Hyphens are used to separate numbers from the names of substituents; commas separate numbers from each other. (The LCC need not be written in a straight line; for
+:alt: Chemical illustration: 2. If the hydrocarbon is branched, number the carbon atoms of the LCC. Numbers are assigned in the direction that gives the lowest numbers to the carbon atoms with attached substituents. Hyphens are used to separate numbers from the names of substituents; commas separate numbers from each other. (The LCC need not be written in a straight line; for 
 
 ``````````
 
@@ -688,20 +688,20 @@ Name each compound.
 
 1.  ``````````{figure} /images/section_15/5f4a1351fec9ebdb633dd85e5c3b4837.jpg
     :alt: Chemical illustration: Name each compound.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_15/af952c2b70b95445137222f2c6b8a265.jpg
     :alt: Chemical illustration: Name each compound.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_15/270b3d1705994abe72983feb445c2eba.jpg
     :alt: Chemical illustration: Name each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -714,28 +714,28 @@ Solution
 
 Name each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_15/b4867c9d3b6e404bcb0d8f2b2ad588e0.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_15/70e788c365135ab62ea78da51fd3e969.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_15/deba2a3ae5d24584dfbd7916b0db15a7.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
 ### Example 2
@@ -753,24 +753,24 @@ In drawing structures, always start with the parent chain.
 
     ``````````{figure} /images/section_15/c0b538562df1f9e0126beb8d7a6c7a44.jpg
     :alt: Chemical illustration: The parent chain is butane, indicating four carbon atoms in the LCC.
-
-
+    
+    
     ``````````
 
     Then add the groups at their proper positions. You can number the parent chain from either direction as long as you are consistent; just don't change directions before the structure is done. The name indicates two methyl (CH<sub>3</sub>) groups, one on the second carbon atom and one on the third.
 
     ``````````{figure} /images/section_15/e81b55e8408f84d7ea78c28749a6cddf.jpg
     :alt: Chemical illustration: Then add the groups at their proper positions. You can number the parent chain from either direction as long as you are consistent; just don’t change directions before the structure is done. The name indicates two methyl (CH 3 ) groups, one on the second carbon atom and one on the third.
-
-
+    
+    
     ``````````
 
     Finally, fill in all the hydrogen atoms, keeping in mind that each carbon atom must have four bonds.
 
     ``````````{figure} /images/section_15/778bb2ac5a4ffeda5024826f2b5f8b4f.jpg
     :alt: Chemical illustration: Finally, fill in all the hydrogen atoms, keeping in mind that each carbon atom must have four bonds.
-
-
+    
+    
     ``````````
 
 2.  The parent chain is heptane in this case, indicating seven carbon atoms in the LCC.
@@ -781,16 +781,16 @@ In drawing structures, always start with the parent chain.
 
     ``````````{figure} /images/section_15/372984f7fa556b44d7d7ce1f79d25007.jpg
     :alt: Chemical illustration: Adding the groups at their proper positions gives
-
-
+    
+    
     ``````````
 
     Filling in all the hydrogen atoms gives the following condensed structural formulas:
 
     ``````````{figure} /images/section_15/0f18ae38b83b04a2641b9fabe1063705.jpg
     :alt: Chemical illustration: Filling in all the hydrogen atoms gives the following condensed structural formulas:
-
-
+    
+    
     ``````````
 
     Note that the bonds (dashes) can be shown or not; sometimes they are needed for spacing.
@@ -853,28 +853,28 @@ Draw the structure for each compound.
 
     1.  ``````````{figure} /images/section_15/cdc0857391f9c8277e9445ef6ea33f8a.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/4df50315a069c8d243cffe4b3c9a92de.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
 7.  Name each compound according to the IUPAC system.
 
     1.  ``````````{figure} /images/section_15/d3f47d9a899b4507410238788c1bf061.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/1fe4546a829d6be07cb2cfe3809ef2df.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
 8.  What is a substituent? How is the location of a substituent indicated in the IUPAC system?
@@ -885,37 +885,37 @@ Draw the structure for each compound.
 
 1.  An alkane is a molecule; an alkyl group is not an independent molecule but rather a part of a molecule that we consider as a unit.
 
-2.
+2.  
 
 3.  1.  6
     2.  10
 
-4.
+4.  
 
 5.  1.  ``````````{figure} /images/section_15/d25d33df7edb326ac519fe7ee962df19.jpg
         :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/ba6ab7e80d1bb57e482106e58d0c3f26.jpg
         :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_15/334e3ad26ea3abab403bf4df5624bec9.jpg
         :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+        
+        
         ``````````
 
-6.
+6.  
 
 7.  1.  2,2,4,4-tetramethylpentane
     2.  3-ethylhexane
 
-8.
+8.  
 
 9.  Common names are widely used but not very systematic; IUPAC names identify a parent compound and name other groups as substituents.
 
@@ -1070,7 +1070,7 @@ Tripalmitin (a), a typical fat molecule, has long hydrocarbon chains typical of 
 
 1.  1.  pentane
     2.  nonane
-2.
+2.  
 
 (src-gob-ch12-s07)=
 
@@ -1142,11 +1142,11 @@ Fluorine (F<sub>2</sub>), the lightest halogen, combines explosively with most h
 
 1.  Alkanes are nonpolar; they do not attract ions.
 
-2.
+2.  
 
 3.  combustion
 
-4.
+4.  
 
 (src-gob-ch12-s08)=
 
@@ -1195,14 +1195,14 @@ Give the IUPAC name for each compound.
 
 1.  ``````````{figure} /images/section_15/45cc4c81e1ac9a9f282365224a472488.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_15/f71688e6ffbe8e6c4460c1b97f03c996.jpg
     :alt: Chemical illustration: Give the IUPAC name for each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -1214,20 +1214,20 @@ Solution
 
 Give the IUPAC name for each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_15/228c3daf4d5b40467d4326b9d2ab6814.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_15/e867da4956a88af7e41c6ceaeef205d0.jpg
     :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+    
+    
     ``````````
 
 A wide variety of interesting and often useful compounds have one or more halogen atoms per molecule. For example, methane (CH<sub>4</sub>) can react with chlorine (Cl<sub>2</sub>), replacing one, two, three, or all four hydrogen atoms with Cl atoms. Several halogenated products derived from methane and ethane (CH<sub>3</sub>CH<sub>3</sub>) are listed in [Table 12.6 \"Some Halogenated Hydrocarbons\"](/chapters/ch-12-organic-chemistry-alkanes-and-.md#src-gob-ch12-s08-t01), along with some of their uses.
@@ -1366,15 +1366,15 @@ Credit: NASA Ozone Watch; [Public domain](https://creativecommons.org/publicdoma
 1.  1.  CH<sub>3</sub>Cl
     2.  CHCl<sub>3</sub>
 
-2.
+2.  
 
 3.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br, propyl bromide, 1-bromopropane; CH<sub>3</sub>CHBrCH<sub>3</sub>, isopropyl bromide, 2-bromopropane
 
-4.
+4.  
 
 5.  compounds containing Cl, F, and C; by releasing Cl atoms in the stratosphere
 
-6.
+6.  
 
 (src-gob-ch12-s09)=
 
@@ -1425,16 +1425,16 @@ Solution
 
     ``````````{figure} /images/section_15/57727c5e225ff25f65c8dfd1ea0d3aa9.jpg
     :alt: Chemical illustration: The name cyclopentane indicates a cyclic (cyclo) alkane with five (pent-) carbon atoms. It can be represented as a pentagon.
-
-
+    
+    
     ``````````
 
 2.  The name *methylcyclobutane* indicates a cyclic alkane with four (but-) carbon atoms in the cyclic part. It can be represented as a square with a CH<sub>3</sub> group attached.
 
     ``````````{figure} /images/section_15/70fa84eec20de36db472e2476aeadbea.jpg
     :alt: Chemical illustration: The name methylcyclobutane indicates a cyclic alkane with four (but-) carbon atoms in the cyclic part. It can be represented as a square with a CH 3 group attached.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -1460,8 +1460,8 @@ The cyclopropane ring is strained because the C--C--C angles are 60°, and the p
 
     ``````````{figure} /images/section_15/749db5e560cea5a7132ffdd03b78fa66.jpg
     :alt: Chemical illustration: What is the IUPAC name for this compound?
-
-
+    
+    
     ``````````
 
 ### Answers
@@ -1492,50 +1492,50 @@ The cyclopropane ring is strained because the C--C--C angles are 60°, and the p
 
     1.  ``````````{figure} /images/section_15/02cf0a99e476a99a33f930fed4cc2062.jpg
         :alt: Chemical illustration: Cycloalkyl groups can be derived from cycloalkanes in the same way that alkyl groups are derived from alkanes. These groups are named as cyclopropyl, cyclobutyl, and so on. Name each cycloalkyl halide.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/cc7652b628138603a76f0743607fdbae.jpg
         :alt: Chemical illustration: Cycloalkyl groups can be derived from cycloalkanes in the same way that alkyl groups are derived from alkanes. These groups are named as cyclopropyl, cyclobutyl, and so on. Name each cycloalkyl halide.
-
-
+        
+        
         ``````````
 
 4.  Halogenated cycloalkanes can be named by the IUPAC system. As with alkyl derivatives, monosubstituted derivatives need no number to indicate the position of the halogen. To name disubstituted derivatives, the carbon atoms are numbered starting at the position of one substituent (C1) and proceeding to the second substituted atom by the shortest route. Name each compound.
 
     1.  ``````````{figure} /images/section_15/40db7c2540b28123cbcd9969fe513268.jpg
         :alt: Chemical illustration: Halogenated cycloalkanes can be named by the IUPAC system. As with alkyl derivatives, monosubstituted derivatives need no number to indicate the position of the halogen. To name disubstituted derivatives, the carbon atoms are numbered starting at the position of one substituent (C1) and proceeding to the second substituted atom by the shortest rout
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/695131fbfd311ec57aa69b1489268638.jpg
         :alt: Chemical illustration: Halogenated cycloalkanes can be named by the IUPAC system. As with alkyl derivatives, monosubstituted derivatives need no number to indicate the position of the halogen. To name disubstituted derivatives, the carbon atoms are numbered starting at the position of one substituent (C1) and proceeding to the second substituted atom by the shortest rout
-
-
+        
+        
         ``````````
 
 ### Answers
 
 1.  1.  ``````````{figure} /images/section_15/ce55b2e4fb2e7e7a7f8a9763687071ad.jpg
         :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/e3df37d45b8eaa9c914b7701cddeed45.jpg
         :alt: Chemical illustration: Chapter 12: Organic Chemistry: Alkanes and Halogenated Hydrocarbons
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  cyclopentyl bromide
     2.  cyclohexyl chloride
 
-4.
+4.  
 
 ## 12.10 End-of-Chapter Material
 
@@ -1584,8 +1584,8 @@ Alkanes react with halogens by substituting one or more halogen atoms for hydrog
 
     ``````````{figure} /images/section_15/5d89195af85ea57dfb9e2a9134442518.jpg
     :alt: Chemical illustration: Following is the line formula for an alkane. Draw its structure and give its name.
-
-
+    
+    
     ``````````
 
 7.  Write equations for the complete combustion of each compound.
@@ -1601,28 +1601,28 @@ Alkanes react with halogens by substituting one or more halogen atoms for hydrog
 
     1.  ``````````{figure} /images/section_15/e69091f6c4903a4dcebf8fca5b8c35a5.jpg
         :alt: Chemical illustration: Indicate whether the structures in each set represent the same compound or isomers.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_15/18aa2481919139a10ff5043b79dfbb25.jpg
         :alt: Chemical illustration: Indicate whether the structures in each set represent the same compound or isomers.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_15/2a82d4fb999e635a0b1bbdf54ac67acb.jpg
         :alt: Chemical illustration: Indicate whether the structures in each set represent the same compound or isomers.
-
-
+        
+        
         ``````````
 
 11. Consider the line-angle formulas shown here and answer the questions.
 
     ``````````{figure} /images/section_15/95bde77d2f87de419dbd0b80bbbf47d3.jpg
     :alt: Chemical illustration: Consider the line-angle formulas shown here and answer the questions.
-
-
+    
+    
     ``````````
 
     1.  Which pair of formulas represents isomers? Draw each structure.
@@ -1634,58 +1634,58 @@ Alkanes react with halogens by substituting one or more halogen atoms for hydrog
 
 1.  organic
 
-2.
+2.  
 
 3.  1.  Two numbers are needed to indicate two substituents; 2,2-dimethylpropane.
     2.  The lowest possible numbers were not used; 2,2,3-trimethylbutane.
     3.  An ethyl substituent is not possible on the second carbon atom; 3,5-dimethylheptane.
     4.  A propyl substituent is not possible on the fifth carbon atom; 3,4,5-trimethyloctane.
 
-4.
+4.  
 
 5.  Lighter alkanes wash away protective skin oils; heavier alkanes form a protective layer.
 
-6.
+6.  
 
 7.  1.  C<sub>3</sub>H<sub>8</sub> + 5O<sub>2</sub> → 3CO<sub>2</sub> + 4H<sub>2</sub>O
     2.  2C<sub>8</sub>H<sub>18</sub> + 25O<sub>2</sub> → 16CO<sub>2</sub> + 18H<sub>2</sub>O
 
-8.
+8.  
 
 9.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>; hexane
 
     ``````````{figure} /images/section_15/d56a75bc555612896989fcfbe0e7effb.jpg
     :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 2 CH 2 CH 3 ; hexane
-
-
+    
+    
     ``````````
 
     ``````````{figure} /images/section_15/a7894c68be21464e4b15b842ae5aaafe.jpg
     :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 2 CH 2 CH 3 ; hexane
-
-
+    
+    
     ``````````
 
     ``````````{figure} /images/section_15/85ae86d1ef9fba74ebe20a7df4099721.jpg
     :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 2 CH 2 CH 3 ; hexane
-
-
+    
+    
     ``````````
 
     ``````````{figure} /images/section_15/e8eacba7daf238f888d269cd6a607b9a.jpg
     :alt: Chemical illustration: CH 3 CH 2 CH 2 CH 2 CH 2 CH 3 ; hexane
-
-
+    
+    
     ``````````
 
-10.
+10. 
 
 11. 1.  ii and iii; CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> and
 
         ``````````{figure} /images/section_15/da0b47a24539a7fe543cd3e565134617.jpg
         :alt: Chemical illustration: ii and iii; CH 3 CH 2 CH 2 CH 2 CH 2 CH 2 CH 3 and
-
-
+        
+        
         ``````````
 
     2.  iv; 3-chloropentane; CH<sub>3</sub>CH<sub>2</sub>CHClCH<sub>2</sub>CH<sub>3</sub>
@@ -1694,8 +1694,8 @@ Alkanes react with halogens by substituting one or more halogen atoms for hydrog
 
         ``````````{figure} /images/section_15/ccfa848786a78e5235a891c02730801f.jpg
         :alt: Chemical illustration: i; ethylcyclopentane;
-
-
+        
+        
         ``````````
 
     4.  C<sub>7</sub>H<sub>14</sub>

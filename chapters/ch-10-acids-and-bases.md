@@ -277,39 +277,39 @@ Hydrocyanic acid (HCN) is one exception to the acid-naming rules that specify us
 
 1.  HCl and HNO<sub>3</sub> (answers will vary)
 
-2.
+2.  
 
 3.  sour taste, react with metals, react with bases, and turn litmus red
 
-4.
+4.  
 
 5.  1.  hydrobromic acid
     2.  calcium hydroxide
     3.  nitric acid
     4.  iron(III) hydroxide
 
-6.
+6.  
 
 7.  perhaps hydroxic acid
 
-8.
+8.  
 
 9.  2HNO<sub>3</sub>(aq) + Ba(OH)<sub>2</sub>(aq) → Ba(NO<sub>3</sub>)<sub>2</sub>(aq) + 2H<sub>2</sub>O
 
-10.
+10. 
 
 11. 0.844 mol
 
-12.
+12. 
 
 13. 1.  2HN<sub>3</sub>(aq) + Ca(OH)<sub>2</sub> → Ca(N<sub>3</sub>)<sub>2</sub> + 2H<sub>2</sub>O
     2.  268 mL
 
-14.
+14. 
 
 15. 0.488 g
 
-16.
+16. 
 
 (src-gob-ch10-s02)=
 
@@ -467,23 +467,23 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  HCl: Brønsted-Lowry acid; NH<sub>3</sub>: Brønsted-Lowry base
 
-2.
+2.  
 
 3.  A Brønsted-Lowry acid gives away an H<sup>+</sup> ion---nominally, a proton---in an acid-base reaction.
 
-4.
+4.  
 
 5.  NH<sub>3</sub> + H<sub>2</sub>O → NH<sub>4</sub><sup>+</sup> + OH<sup>−</sup>; NH<sub>3</sub>: Brønsted-Lowry base; H<sub>2</sub>O: Brønsted-Lowry acid
 
-6.
+6.  
 
 7.  HNO<sub>3</sub> + H<sub>2</sub>O → H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>−</sup>; HNO<sub>3</sub>: Brønsted-Lowry acid; H<sub>2</sub>O: Brønsted-Lowry base
 
-8.
+8.  
 
 9.  C<sub>17</sub>H<sub>22</sub>NO<sub>4+</sub> + H<sub>2</sub>O → H<sub>3</sub>O<sup>+</sup> + C<sub>17</sub>H<sub>21</sub>NO<sub>4</sub>
 
-10.
+10. 
 
 ## 10.3 Water: Both an Acid and a Base
 
@@ -590,15 +590,15 @@ Identify water as either a Brønsted-Lowry acid or a Brønsted-Lowry base.
 
 1.  base
 
-2.
+2.  
 
 3.  acid
 
-4.
+4.  
 
 5.  Al(OH)<sub>3</sub> + H<sup>+</sup> → HAl(OH)<sub>3</sub><sup>+</sup>; Al(OH)<sub>3</sub> + OH<sup>−</sup> → Al(OH)<sub>4</sub><sup>−</sup>
 
-6.
+6.  
 
 (src-gob-ch10-s04)=
 
@@ -642,7 +642,7 @@ Table 10.2 Strong Acids and Bases (All in Aqueous Solution)
 - - H<sub>2</sub>SO<sub>4</sub>
   - Ca(OH)<sub>2</sub>
 - - HClO<sub>4</sub>
-  -
+  -  
 
 ````````
 
@@ -857,41 +857,41 @@ Weak acids and bases are relatively common. You may notice from [Table 10.3 \"Th
 
 1.  strong acid: HCl; weak acid: HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> (answers will vary)
 
-2.
+2.  
 
 3.  1.  weak
     2.  weak
     3.  strong
     4.  strong
 
-4.
+4.  
 
 5.  1.  weak
     2.  strong
     3.  strong
     4.  weak
 
-6.
+6.  
 
 7.  3a: HF(aq) ⇆ H<sup>+</sup>(aq) + F<sup>−</sup>(aq); 3b: HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq) ⇆ H<sup>+</sup>(aq) + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup>(aq)
 
-8.
+8.  
 
 9.  5a: NH<sub>3</sub>(aq) + H<sub>2</sub>O ⇆ NH<sub>4</sub><sup>+</sup>(aq) + OH<sup>−</sup>(aq); 5d: Cu(OH)<sub>2</sub>(aq) ⇆ Cu<sup>2+</sup>(aq) + 2OH<sup>−</sup>(aq)
 
-10.
+10. 
 
 11. HCl(aq)
 
-12.
+12. 
 
 13. HCl(aq)
 
-14.
+14. 
 
 15. (answers will vary)
 
-16.
+16. 
 
 (src-gob-ch10-s05)=
 
@@ -1034,26 +1034,26 @@ Blood bank technology specialists are well trained. Typically, they require a co
 
 1.  A buffer resists sudden changes in pH. It has a weak acid or base and a salt of that weak acid or base.
 
-2.
+2.  
 
 3.  1.  not a buffer
     2.  buffer
     3.  not a buffer
     4.  buffer
 
-4.
+4.  
 
 5.  3b: strong acid: H<sup>+</sup> + NO<sub>2</sub><sup>−</sup> → HNO<sub>2</sub>; strong base: OH<sup>−</sup> + HNO<sub>2</sub> → H<sub>2</sub>O + NO<sub>2</sub><sup>−</sup>; 3d: strong acid: H<sup>+</sup> + NH<sub>3</sub> → NH<sub>4</sub><sup>+</sup>; strong base: OH<sup>−</sup> + NH<sub>4</sub><sup>+</sup> → H<sub>2</sub>O + NH<sub>3</sub>
 
-6.
+6.  
 
 7.  Buffers can be made by combining H<sub>3</sub>PO<sub>4</sub> and H<sub>2</sub>PO<sub>4</sub><sup>−</sup>, H<sub>2</sub>PO<sub>4</sub><sup>−</sup> and HPO<sub>4</sub><sup>2−</sup>, and HPO<sub>4</sub><sup>2−</sup> and PO<sub>4</sub><sup>3−</sup>.
 
-8.
+8.  
 
 9.  the phosphoric acid--phosphate buffer
 
-10.
+10. 
 
 ## 10.6 End-of-Chapter Material
 
@@ -1105,25 +1105,25 @@ The **pH** scale is a scale used to express the concentration of hydrogen ions i
 
 1.  HCl is a strong acid and yields more ions in solution.
 
-2.
+2.  
 
 3.  H<sub>2</sub>SO<sub>4</sub> + NaOH → NaHSO<sub>4</sub> + H<sub>2</sub>O; NaHSO<sub>4</sub> + NaOH → Na<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O
 
-4.
+4.  
 
 5.  One way is to add it to NaHCO<sub>3</sub>; if it bubbles, it is an acid. Alternatively, add the sample to litmus and look for a characteristic color change (red for acid, blue for base).
 
-6.
+6.  
 
 7.  ``````````{figure} /images/section_13/663b1ff8f8075bef1d554a9df3095406.jpg
     :alt: Chemical illustration: One way is to add it to NaHCO 3 ; if it bubbles, it is an acid. Alternatively, add the sample to litmus and look for a characteristic color change (red for acid, blue for base).
-
-
+    
+    
     ``````````
 
     The O atom is donating an electron pair to the H<sup>+</sup> ion, making the base an electron pair donor and the acid an electron pair acceptor.
 
-8.
+8.  
 
 [^chem-1]: A compound that increases the concentration of hydrogen ion (H<sup>+</sup>) in aqueous solution.
 

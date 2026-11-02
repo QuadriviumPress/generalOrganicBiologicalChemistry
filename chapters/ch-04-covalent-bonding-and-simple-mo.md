@@ -132,16 +132,16 @@ Solution
 
     ``````````{figure} /images/section_07/eed7b08d19c1da1224af51bcbc452bec.jpg
     :alt: Chemical illustration: Chlorine has the same valence shell electron configuration as fluorine, so the Lewis diagram for a molecule composed of two chlorine atoms is similar to the one for fluorine:
-
-
+    
+    
     ``````````
 
 2.  Bromine has the same valence shell electron configuration as fluorine, so the Lewis diagram for a molecule composed of a hydrogen atom and a bromine atom is similar to that for hydrogen and fluorine:
 
     ``````````{figure} /images/section_07/7da9829527d58f51bf5d2a09804637a8.jpg
     :alt: Chemical illustration: Bromine has the same valence shell electron configuration as fluorine, so the Lewis diagram for a molecule composed of a hydrogen atom and a bromine atom is similar to that for hydrogen and fluorine:
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -230,59 +230,59 @@ In molecules, there is a pattern to the number of covalent bonds that different 
 
 1.  A covalent bond is formed when two atoms share electrons.
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_07/11e792b5e5ae5392d8e8ef9cfa01a65f.jpg
     :alt: Chemical illustration: A covalent bond is formed when two atoms share electrons.
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  ``````````{figure} /images/section_07/c9813bfc8791306efe5c8f057cfee159.jpg
     :alt: Chemical illustration: A covalent bond is formed when two atoms share electrons.
-
-
+    
+    
     ``````````
 
-6.
+6.  
 
 7.  A molecule is a discrete combination of atoms; a formula unit is the lowest ratio of ions in a crystal.
 
-8.
+8.  
 
 9.  ``````````{figure} /images/section_07/5fe557d9da4fdda4eeacadcc7b1ea637.jpg
     :alt: Chemical illustration: A molecule is a discrete combination of atoms; a formula unit is the lowest ratio of ions in a crystal.
-
-
+    
+    
     ``````````
 
     bonding electrons: 4; nonbonding electrons: 4
 
-10.
+10. 
 
 11. ``````````{figure} /images/section_07/4eca5d32adae81361b7ce0bdc4ddc51d.jpg
     :alt: Chemical illustration: bonding electrons: 4; nonbonding electrons: 4
-
-
+    
+    
     ``````````
 
     bonding electrons: 8; nonbonding electrons: 24
 
-12.
+12. 
 
 13. Hydrogen atoms form only one covalent bond because they have only one valence electron to pair.
 
-14.
+14. 
 
 15. two; H<sub>2</sub>Te
 
-16.
+16. 
 
 17. one
 
-18.
+18. 
 
 (src-gob-ch04-s02)=
 
@@ -298,7 +298,7 @@ In molecules, there is a pattern to the number of covalent bonds that different 
 What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding. For example, ammonium chloride has ionic bonds between a polyatomic ion, NH<sub>4</sub><sup>+</sup>, and Cl<sup>−</sup> ions, but within the ammonium ion, the nitrogen and hydrogen atoms are connected by covalent bonds:
 
 ``````````{figure} /images/section_07/cdbb825f61fd187a32f41ebcf8eb82fc.jpg
-:alt: Chemical illustration: What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding. For example,
+:alt: Chemical illustration: What elements make covalent bonds? Covalent bonds form when two or more nonmetals combine. For example, both hydrogen and oxygen are nonmetals, and when they combine to make water, they do so by forming covalent bonds. Nonmetal atoms in polyatomic ions are joined by covalent bonds, but the ion as a whole participates in ionic bonding. For example, 
 
 ``````````
 
@@ -530,36 +530,36 @@ Methane is the simplest organic compound[^chem-8]. Organic compounds are compoun
     3.  yes
     4.  yes
 
-2.
+2.  
 
 3.  1.  both
     2.  ionic
     3.  covalent
     4.  ionic
 
-4.
+4.  
 
 5.  SiH<sub>4</sub>; except for water, hydrogen is almost never listed first in a covalent compound.
 
-6.
+6.  
 
 7.  1.  silicon tetrafluoride
     2.  nitrogen dioxide
     3.  carbon disulfide
     4.  diphosphorus pentoxide
 
-8.
+8.  
 
 9.  1.  ICl<sub>3</sub>
     2.  S<sub>2</sub>Br<sub>2</sub>
     3.  AsO<sub>3</sub>
     4.  XeF<sub>6</sub>
 
-10.
+10. 
 
 11. H<sub>2</sub>O and NH<sub>3</sub> (water and ammonia) (answers will vary)
 
-12.
+12. 
 
 (src-gob-ch04-s03)=
 
@@ -614,16 +614,16 @@ Solution
 
     ``````````{figure} /images/section_07/7ee2e7f80b0867e2007952aefc89f327.jpg
     :alt: Chemical illustration: The bond between the two nitrogen atoms is a triple bond. The Lewis diagram for N 2 is as follows:
-
-
+    
+    
     ``````````
 
 2.  In CH<sub>2</sub>O, the central atom is surrounded by two different types of atoms. The Lewis diagram that fills each atom's valence electron shell is as follows:
 
     ``````````{figure} /images/section_07/26767d460241c67552135369cdbeb601.jpg
     :alt: Chemical illustration: In CH 2 O, the central atom is surrounded by two different types of atoms. The Lewis diagram that fills each atom’s valence electron shell is as follows:
-
-
+    
+    
     ``````````
 
 ````````````{important} Note
@@ -676,27 +676,27 @@ Draw the Lewis diagram for each molecule.
 
 1.  1.  ``````````{figure} /images/section_07/cf8030a489ed7229e976864510dddeda.jpg
         :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_07/eb3d52a3b0cd89249c6f7580d2f1012f.jpg
         :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_07/4456c380780e30a15e5ddb0e1a6e3606.jpg
         :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  Hydrogen can accept only one more electron; multiple bonds require more than one electron pair to be shared.
 
-4.
+4.  
 
 ## 4.4 Characteristics of Covalent Bonds
 
@@ -947,32 +947,32 @@ The physical properties of water and carbon dioxide are affected by their polari
 
 1.  A C--O bond is longer.
 
-2.
+2.  
 
 3.  1.  0.143 nm
     2.  0.120 nm
     3.  0.100 nm
     4.  0.116 nm
 
-4.
+4.  
 
 5.  Actual bond lengths are very small, so the nanometer unit makes the expression of length easier to understand.
 
-6.
+6.  
 
 7.  1.  C
     2.  O
     3.  Na
     4.  Cl
 
-8.
+8.  
 
 9.  1.  unequally toward the O
     2.  equally
     3.  unequally toward the N
     4.  unequally toward the Cl
 
-10.
+10. 
 
 (src-gob-ch04-s05)=
 
@@ -1013,10 +1013,10 @@ Use the masses of the atoms from the periodic table in [Chapter 21 \"Appendix: P
       - 2 × 1.01 =
       - 2.02 u
     - - 1 O:
-      -
+      -  
       - \+ 16.00 u
     - - Total:
-      -
+      -  
       - 18.02 u
 
     ````````
@@ -1033,7 +1033,7 @@ Use the masses of the atoms from the periodic table in [Chapter 21 \"Appendix: P
       - 6 × 1.01 =
       - \+ 6.06 u
     - - Total:
-      -
+      -  
       - 78.12 u
 
     ````````
@@ -1044,13 +1044,13 @@ Use the masses of the atoms from the periodic table in [Chapter 21 \"Appendix: P
     :header-rows: 0
 
     - - 1 N:
-      -
+      -  
       - 14.01 u
     - - 2 O:
       - 2 × 16.00 =
       - \+ 32.00 u
     - - Total:
-      -
+      -  
       - 46.01 u
 
     ````````
@@ -1067,7 +1067,7 @@ Use the masses of the atoms from the periodic table in [Chapter 21 \"Appendix: P
       - 5 × 16.00 =
       - \+ 80.00 u
     - - Total:
-      -
+      -  
       - 108.02 u
 
     ````````
@@ -1153,8 +1153,8 @@ Solution
 
     ``````````{figure} /images/section_07/455567ffc247811ffd5dd93f16ff3064.jpg
     :alt: Chemical illustration: The Lewis diagram for PCl 3 is as follows:
-
-
+    
+    
     ``````````
 
     The four electron pairs arrange themselves tetrahedrally, but the lone electron pair is not considered in describing the molecular shape. Like NH<sub>3</sub>, this molecule is pyramidal.
@@ -1163,8 +1163,8 @@ Solution
 
     ``````````{figure} /images/section_07/6326e60937f243cfebaabd7a00bd2b4d.jpg
     :alt: Chemical illustration: The Lewis diagram for CO 2 is as follows:
-
-
+    
+    
     ``````````
 
     The multiple bonds are treated as one group. Thus, CO<sub>2</sub> has only two groups of electrons that repel each other. They will direct themselves 180° apart from each other, so CO<sub>2</sub> molecules are linear.
@@ -1239,21 +1239,21 @@ Describe the shape of each molecule.
     3.  233.25 u
     4.  36.46 u
 
-2.
+2.  
 
 3.  180.17 u
 
-4.
+4.  
 
 5.  1.  bent
     2.  trigonal planar
     3.  bent
 
-6.
+6.  
 
 7.  bent
 
-8.
+8.  
 
 (src-gob-ch04-s06)=
 
@@ -1385,20 +1385,20 @@ Identify the functional group(s) in each molecule as a double bond, a triple bon
 
 2.  ``````````{figure} /images/section_07/b398bf617efc6276f4d064ff67fdb9b2.jpg
     :alt: Chemical illustration: Identify the functional group(s) in each molecule as a double bond, a triple bond, an alcohol, or a carboxyl.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_07/6ff3ed44437ff5d4a8dcbdd44b659351.jpg
     :alt: Chemical illustration: Identify the functional group(s) in each molecule as a double bond, a triple bond, an alcohol, or a carboxyl.
-
-
+    
+    
     ``````````
 
 4.  ``````````{figure} /images/section_07/2eed86ef8d47f868931068ffc54450a9.jpg
     :alt: Chemical illustration: Identify the functional group(s) in each molecule as a double bond, a triple bond, an alcohol, or a carboxyl.
-
-
+    
+    
     ``````````
 
 Solution
@@ -1412,36 +1412,36 @@ Solution
 
 Identify the functional group(s) in each molecule as a double bond, a triple bond, an alcohol, or a carboxyl.
 
-1.
+1.   
 
     ``````````{figure} /images/section_07/3802941d5534289b0a97beca854a6343.jpg
     :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_07/64d0f95b65074c869bbf6a862099c22d.jpg
     :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_07/ddfd6b94addb3a7fa255a46a0875061c.jpg
     :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+    
+    
     ``````````
 
-4.
+4.   
 
     ``````````{figure} /images/section_07/8e994eaf896cb72e423625e76471b41b.jpg
     :alt: Chemical illustration: Chapter 4: Covalent Bonding and Simple Molecular Compounds
-
-
+    
+    
     ``````````
 
 ````````````{important} Career Focus: Forensic Chemist
@@ -1483,104 +1483,104 @@ Another aspect of a forensic chemist's job is testifying in court. Judges and ju
 
     1.  ``````````{figure} /images/section_07/b58c4e1c2bebf52822af71ad89aafed8.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_07/c6e4a40b76b8c22c1e70b2fe335b7df8.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_07/7733dbbcdb5d44dd6915124fff901e99.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_07/4ee9c304271e80446e9588a8c17a7ad7.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
 4.  Identify the type of hydrocarbon in each structure.
 
     1.  ``````````{figure} /images/section_07/c88ed6bb56a33246a45c5dafa3567ae3.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_07/8c102bc6b826571563f43f82f298df69.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_07/19711784f729d53f416220da791cd97f.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_07/28cf1da37c0547e63e10a40b2bf3fab7.jpg
         :alt: Chemical illustration: Identify the type of hydrocarbon in each structure.
-
-
+        
+        
         ``````````
 
 5.  Identify the functional group(s) in each molecule.
 
     1.  ``````````{figure} /images/section_07/14b05e7e95f733fd2e2a0a422b994d4f.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_07/1cf2d67dc542e4014b1c5cda37cd35b4.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_07/edd227c793f861cc9b94d1ea7e4222f9.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_07/c349e369f883916c09ca07ed30a42778.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
 6.  Identify the functional group(s) in each molecule.
 
     1.  ``````````{figure} /images/section_07/2759f948bec3023eda3c8d4c9c986fd0.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_07/188c3699b616d3aed430f828a5326999.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_07/9c82c99b443244af717f813dc4a88883.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_07/55913bc245b5e841bce28b79c54383b4.jpg
         :alt: Chemical illustration: Identify the functional group(s) in each molecule.
-
-
+        
+        
         ``````````
 
 7.  How many functional groups described in this section contain carbon and hydrogen atoms only? Name them.
@@ -1591,25 +1591,25 @@ Another aspect of a forensic chemist's job is testifying in court. Judges and ju
 
 1.  Carbon atoms bond reasonably strongly with other carbon atoms. Carbon atoms bond reasonably strongly with atoms of other elements. Carbon atoms make a large number of covalent bonds (four).
 
-2.
+2.  
 
 3.  1.  alkane
     2.  alkene
     3.  alkene
     4.  alkyne
 
-4.
+4.  
 
 5.  1.  alcohol
     2.  carboxyl
     3.  alcohol
     4.  carbon-carbon double bond and carbon-carbon triple bond
 
-6.
+6.  
 
 7.  two; carbon-carbon double bonds and carbon-carbon triple bonds
 
-8.
+8.  
 
 ## 4.7 End-of-Chapter Material
 
@@ -1645,16 +1645,16 @@ The mass of a molecule is called its **molecular mass** and is the sum of the ma
 
     ``````````{figure} /images/section_07/84022604cdbd3d05aa5c5b6641d70445.jpg
     :alt: Chemical illustration: Acetic acid has the following structure:
-
-
+    
+    
     ``````````
 
     This molecule can lose a hydrogen ion (H<sup>+</sup>) and the resulting anion can combine with other cations, such as Na<sup>+</sup>:
 
     ``````````{figure} /images/section_07/12dffecc94602cc432ca30d1e1ee25f4.jpg
     :alt: Chemical illustration: This molecule can lose a hydrogen ion (H + ) and the resulting anion can combine with other cations, such as Na + :
-
-
+    
+    
     ``````````
 
     Name this ionic compound.
@@ -1677,8 +1677,8 @@ The mass of a molecule is called its **molecular mass** and is the sum of the ma
 
     ``````````{figure} /images/section_07/d619293cd90f70d2afaffd23c5cccf08.jpg
     :alt: Chemical illustration: Acetaminophen, a popular painkiller, has the following structure:
-
-
+    
+    
     ``````````
 
     Name the recognizable functional groups in this molecule. Do you think there are other groups of atoms in this molecule that might qualify as functional groups?
@@ -1687,8 +1687,8 @@ The mass of a molecule is called its **molecular mass** and is the sum of the ma
 
     ``````````{figure} /images/section_07/53843688ab5a00387b2f1402247279ab.jpg
     :alt: Chemical illustration: Glutamic acid is the parent compound of monosodium glutamate (known as MSG), which is used as a flavor enhancer. Glutamic acid has the following structure:
-
-
+    
+    
     ``````````
 
     Name the functional groups you recognize in this molecule. Do you think there are other groups of atoms in this molecule that might qualify as functional groups?
@@ -1697,31 +1697,31 @@ The mass of a molecule is called its **molecular mass** and is the sum of the ma
 
 1.  1a: 5.75 × 10<sup>−23</sup> g; 1b: 1.53 × 10<sup>−22</sup> g; 1c: 3.88 × 10<sup>−22</sup> g; 1d: 6.06 × 10<sup>−23</sup> g
 
-2.
+2.  
 
 3.  14.96 g
 
-4.
+4.  
 
 5.  sodium acetate
 
-6.
+6.  
 
 7.  N≡C--C≡N
 
-8.
+8.  
 
 9.  6.49 × 10<sup>7</sup> bonds
 
-10.
+10. 
 
 11. Hydrogen atoms make relatively nonpolar bonds with carbon atoms.
 
-12.
+12. 
 
 13. alcohol; the N--H group, the ring with double bonds, and the C=O are also likely functional groups.
 
-14.
+14. 
 
 [^chem-1]: The sharing of electrons between two atoms.
 

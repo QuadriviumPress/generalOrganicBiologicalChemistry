@@ -45,18 +45,18 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - actinium\*
   - Ac
   - 89
-  -
-  -
+  -  
+  -  
 - - aluminum
   - Al
   - 13
   - 26.9815386(8)
-  -
+  -  
 - - americium\*
   - Am
   - 95
-  -
-  -
+  -  
+  -  
 - - antimony
   - Sb
   - 51
@@ -71,37 +71,37 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - As
   - 33
   - 74.92160(2)
-  -
+  -  
 - - astatine\*
   - At
   - 85
-  -
-  -
+  -  
+  -  
 - - barium
   - Ba
   - 56
   - 137.327(7)
-  -
+  -  
 - - berkelium\*
   - Bk
   - 97
-  -
-  -
+  -  
+  -  
 - - beryllium
   - Be
   - 4
   - 9.012182(3)
-  -
+  -  
 - - bismuth
   - Bi
   - 83
   - 208.98040(1)
-  -
+  -  
 - - bohrium\*
   - Bh
   - 107
-  -
-  -
+  -  
+  -  
 - - boron
   - B
   - 5
@@ -111,7 +111,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Br
   - 35
   - 79.904(1)
-  -
+  -  
 - - cadmium
   - Cd
   - 48
@@ -121,7 +121,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Cs
   - 55
   - 132.9054519(2)
-  -
+  -  
 - - calcium
   - Ca
   - 20
@@ -130,8 +130,8 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - californium\*
   - Cf
   - 98
-  -
-  -
+  -  
+  -  
 - - carbon
   - C
   - 6
@@ -151,17 +151,17 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Cr
   - 24
   - 51.9961(6)
-  -
+  -  
 - - cobalt
   - Co
   - 27
   - 58.933195(5)
-  -
+  -  
 - - copernicium\*
   - Cn
   - 112
-  -
-  -
+  -  
+  -  
 - - copper
   - Cu
   - 29
@@ -170,18 +170,18 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - curium\*
   - Cm
   - 96
-  -
-  -
+  -  
+  -  
 - - darmstadtium\*
   - Ds
   - 110
-  -
-  -
+  -  
+  -  
 - - dubnium\*
   - Db
   - 105
-  -
-  -
+  -  
+  -  
 - - dysprosium
   - Dy
   - 66
@@ -190,8 +190,8 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - einsteinium\*
   - Es
   - 99
-  -
-  -
+  -  
+  -  
 - - erbium
   - Er
   - 68
@@ -205,18 +205,18 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - fermium\*
   - Fm
   - 100
-  -
-  -
+  -  
+  -  
 - - fluorine
   - F
   - 9
   - 18.9984032(5)
-  -
+  -  
 - - francium\*
   - Fr
   - 87
-  -
-  -
+  -  
+  -  
 - - gadolinium
   - Gd
   - 64
@@ -226,27 +226,27 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Ga
   - 31
   - 69.723(1)
-  -
+  -  
 - - germanium
   - Ge
   - 32
   - 72.64(1)
-  -
+  -  
 - - gold
   - Au
   - 79
   - 196.966569(4)
-  -
+  -  
 - - hafnium
   - Hf
   - 72
   - 178.49(2)
-  -
+  -  
 - - hassium\*
   - Hs
   - 108
-  -
-  -
+  -  
+  -  
 - - helium
   - He
   - 2
@@ -256,7 +256,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Ho
   - 67
   - 164.93032(2)
-  -
+  -  
 - - hydrogen
   - H
   - 1
@@ -266,22 +266,22 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - In
   - 49
   - 114.818(3)
-  -
+  -  
 - - iodine
   - I
   - 53
   - 126.90447(3)
-  -
+  -  
 - - iridium
   - Ir
   - 77
   - 192.217(3)
-  -
+  -  
 - - iron
   - Fe
   - 26
   - 55.845(2)
-  -
+  -  
 - - krypton
   - Kr
   - 36
@@ -295,8 +295,8 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - lawrencium\*
   - Lr
   - 103
-  -
-  -
+  -  
+  -  
 - - lead
   - Pb
   - 82
@@ -316,27 +316,27 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Mg
   - 12
   - 24.3050(6)
-  -
+  -  
 - - manganese
   - Mn
   - 25
   - 54.938045(5)
-  -
+  -  
 - - meitnerium\*
   - Mt
   - 109
-  -
-  -
+  -  
+  -  
 - - mendelevium\*
   - Md
   - 101
-  -
-  -
+  -  
+  -  
 - - mercury
   - Hg
   - 80
   - 200.59(2)
-  -
+  -  
 - - molybdenum
   - Mo
   - 42
@@ -355,18 +355,18 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - neptunium\*
   - Np
   - 93
-  -
-  -
+  -  
+  -  
 - - nickel
   - Ni
   - 28
   - 58.6934(2)
-  -
+  -  
 - - niobium
   - Nb
   - 41
   - 92.90638(2)
-  -
+  -  
 - - nitrogen
   - N
   - 7
@@ -375,8 +375,8 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - nobelium\*
   - No
   - 102
-  -
-  -
+  -  
+  -  
 - - osmium
   - Os
   - 76
@@ -396,67 +396,67 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - P
   - 15
   - 30.973762(2)
-  -
+  -  
 - - platinum
   - Pt
   - 78
   - 195.084(9)
-  -
+  -  
 - - plutonium\*
   - Pu
   - 94
-  -
-  -
+  -  
+  -  
 - - polonium\*
   - Po
   - 84
-  -
-  -
+  -  
+  -  
 - - potassium
   - K
   - 19
   - 39.0983(1)
-  -
+  -  
 - - praseodymium
   - Pr
   - 59
   - 140.90765(2)
-  -
+  -  
 - - promethium\*
   - Pm
   - 61
-  -
-  -
+  -  
+  -  
 - - protactinium\*
   - Pa
   - 91
   - 231.03588(2)
-  -
+  -  
 - - radium\*
   - Ra
   - 88
-  -
-  -
+  -  
+  -  
 - - radon\*
   - Rn
   - 86
-  -
-  -
+  -  
+  -  
 - - roentgenium\*
   - Rg
   - 111
-  -
-  -
+  -  
+  -  
 - - rhenium
   - Re
   - 75
   - 186.207(1)
-  -
+  -  
 - - rhodium
   - Rh
   - 45
   - 102.90550(2)
-  -
+  -  
 - - rubidium
   - Rb
   - 37
@@ -470,8 +470,8 @@ Table 21.1 The Basics of the Elements of the Periodic Table
 - - rutherfordium\*
   - Rf
   - 104
-  -
-  -
+  -  
+  -  
 - - samarium
   - Sm
   - 62
@@ -481,12 +481,12 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Sc
   - 21
   - 44.955912(6)
-  -
+  -  
 - - seaborgium\*
   - Sg
   - 106
-  -
-  -
+  -  
+  -  
 - - selenium
   - Se
   - 34
@@ -506,7 +506,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Na
   - 11
   - 22.98976928(2)
-  -
+  -  
 - - strontium
   - Sr
   - 38
@@ -521,12 +521,12 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Ta
   - 73
   - 180.94788(2)
-  -
+  -  
 - - technetium\*
   - Tc
   - 43
-  -
-  -
+  -  
+  -  
 - - tellurium
   - Te
   - 52
@@ -536,12 +536,12 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Tb
   - 65
   - 158.92535(2)
-  -
+  -  
 - - thallium
   - Tl
   - 81
   - 204.3833(2)
-  -
+  -  
 - - thorium\*
   - Th
   - 90
@@ -551,7 +551,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Tm
   - 69
   - 168.93421(2)
-  -
+  -  
 - - tin
   - Sn
   - 50
@@ -561,37 +561,37 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Ti
   - 22
   - 47.867(1)
-  -
+  -  
 - - tungsten
   - W
   - 74
   - 183.84(1)
-  -
+  -  
 - - ununhexium\*
   - Uuh
   - 116
-  -
-  -
+  -  
+  -  
 - - ununoctium\*
   - Uuo
   - 118
-  -
-  -
+  -  
+  -  
 - - ununpentium\*
   - Uup
   - 115
-  -
-  -
+  -  
+  -  
 - - ununquadium\*
   - Uuq
   - 114
-  -
-  -
+  -  
+  -  
 - - ununtrium\*
   - Uut
   - 113
-  -
-  -
+  -  
+  -  
 - - uranium\*
   - U
   - 92
@@ -601,7 +601,7 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - V
   - 23
   - 50.9415(1)
-  -
+  -  
 - - xenon
   - Xe
   - 54
@@ -616,12 +616,12 @@ Table 21.1 The Basics of the Elements of the Periodic Table
   - Y
   - 39
   - 88.90585(2)
-  -
+  -  
 - - zinc
   - Zn
   - 30
   - 65.409(4)
-  -
+  -  
 - - zirconium
   - Zr
   - 40

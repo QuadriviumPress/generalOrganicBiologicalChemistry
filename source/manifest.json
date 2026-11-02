@@ -26,7 +26,7 @@
       "questions": 0,
       "answers": 0,
       "source_sha256": "bf36b28a652c42b7f71c9b49e914f268952d7ae9e701bccce9910e106759cce5",
-      "markdown_sha256": "269917d2b18664e7cc7bbea70dfa32f343722ebe0272d9f34b062d4ab383ccca"
+      "markdown_sha256": "085592fc5854ade00a191903ca329ce8038d90d367c80a86b8e578e094b3fe44"
     },
     {
       "source": "s03-preface.html",
@@ -38,7 +38,7 @@
       "questions": 0,
       "answers": 0,
       "source_sha256": "f40129cfe49be064de3721c7f4f73d7a06ecbd1d66ff735d8e65503bb543ce72",
-      "markdown_sha256": "82ac5693073aac1e0419b1c5a67cb120b47aef44b8974488568bfc4d167a8ccd"
+      "markdown_sha256": "5813f9175adae8b385e3f9f6c4b38192dd8dbaad67b9c086781cf7d0fe95da82"
     },
     {
       "source": "s04-chemistry-matter-and-measureme.html",
@@ -50,7 +50,7 @@
       "questions": 141,
       "answers": 103,
       "source_sha256": "c685b118c6f115de8ea799d0eec00b803cb397d3eb2212ecce6f788d82dd45b0",
-      "markdown_sha256": "d1b9c98914cccb8786cdc1bb518c98c24c6f5381de7d5e6e621ac9a9eca44219"
+      "markdown_sha256": "8738611ec21c070535a0746264c95b4cc018376f0ea062fcd6792f4dc2963e2a"
     },
     {
       "source": "s05-elements-atoms-and-the-periodi.html",
@@ -62,7 +62,7 @@
       "questions": 128,
       "answers": 103,
       "source_sha256": "e76473662e73acd000599ae2491da309084a1aa2db64007a1a2a00109354d088",
-      "markdown_sha256": "1795b423d53fc1b2820b7da3de4bd010f85ef3a31b63ef026696568daa99eac5"
+      "markdown_sha256": "c8de23e9ad089e91ff39b404b0ef218e1b62745580f6af231e611ba17aa0beb7"
     },
     {
       "source": "s06-ionic-bonding-and-simple-ionic.html",
@@ -74,7 +74,7 @@
       "questions": 119,
       "answers": 90,
       "source_sha256": "15c7379a5f4411b0519e33b95f50ed651719fe5c0333f2ebe5bee7851c696450",
-      "markdown_sha256": "6010fec9ab4440794648d0eb0d75f73332a0b4af6296aafbf3f90fd242e17510"
+      "markdown_sha256": "8591bec2f9af6dca4b4772fdc2f0daed259675805f4a53d827aad9d84ce0ba18"
     },
     {
       "source": "s07-covalent-bonding-and-simple-mo.html",
@@ -86,7 +86,7 @@
       "questions": 115,
       "answers": 87,
       "source_sha256": "d0c1832fd09dd6d9557d96bf3d3585d5e0678156de9014dfefda38e9a6a12b48",
-      "markdown_sha256": "6a27d29a7b6b454e8ecf2c2a233269fc70a7b1713d4570284aa5fc3d602fb618"
+      "markdown_sha256": "dc36708d61b07aaecb6f17bedd9ce19f6762d3f78d95baec9b97568ae6d61436"
     },
     {
       "source": "s08-introduction-to-chemical-react.html",
@@ -98,7 +98,7 @@
       "questions": 80,
       "answers": 65,
       "source_sha256": "cbd698b95def2cac07e7399ee7b9d8af4b2b5d82f4cf0b61cc7f20bff5da8f94",
-      "markdown_sha256": "6aec6e4e3a13e0a4134c04947f09f144886e7e52505ac9b49ae8da9ef23ff408"
+      "markdown_sha256": "4e730ee323ab2944c04cdf8b87ca4fb288c70b56a4fe3dc70d4e3154cb194ce6"
     },
     {
       "source": "s09-quantities-in-chemical-reactio.html",
@@ -110,7 +110,7 @@
       "questions": 77,
       "answers": 66,
       "source_sha256": "ed3e2a3d217ad63d3ebef8fbd114a43c75a1331c3e83cd3bf7f1b6ebba6503ce",
-      "markdown_sha256": "219b010cf5d9328fae991862a52db86cc37ed6f4a0b984b7cdebe2e5cc6d0e71"
+      "markdown_sha256": "ed081d2fac460518d97bd33b947f6a33955ae56a95ee7d264ebd9bfb329eb7a9"
     },
     {
       "source": "s10-energy-and-chemical-processes.html",
@@ -122,7 +122,7 @@
       "questions": 72,
       "answers": 66,
       "source_sha256": "eb9666f0161787ece5b83829af9535a216943e061c79c486a9b3c0f321f489e7",
-      "markdown_sha256": "42bdef700f9f862c26b920ad70e2e5f389d2ff149ed0bf70b322309d1a109a78"
+      "markdown_sha256": "e0e411777f6afe57cd9532d265672e00383266ca10caa83a7af866b0d29013eb"
     },
     {
       "source": "s11-solids-liquids-and-gases.html",
@@ -134,7 +134,7 @@
       "questions": 85,
       "answers": 69,
       "source_sha256": "bed71a9bdd025f5705d5e4d036703f924546dc5ceb4fb0c959fb61c01e1f7c66",
-      "markdown_sha256": "272a94dff880d16a57165fe10e5e530f215625ad6a4289fc6ee171f8deea7c1a"
+      "markdown_sha256": "31211c54c9e4acd4f24dbbb9a1488ad9fb778a79fc857c6562545487370fbd09"
     },
     {
       "source": "s12-solutions.html",
@@ -146,7 +146,7 @@
       "questions": 94,
       "answers": 76,
       "source_sha256": "a831293df6de57ed236899c1d681d5f3f3578f437f577ef61c458a1d848390d4",
-      "markdown_sha256": "116d3bbea6d10e3a8af0ea516145fd1a46468f785c0cd58fd8a07224a3d9a958"
+      "markdown_sha256": "92cefc84f4bf5c5ba5264de6aaa8cd0c1b0dfa358422de7cd77d2878c9545441"
     },
     {
       "source": "s13-acids-and-bases.html",
@@ -158,7 +158,7 @@
       "questions": 90,
       "answers": 75,
       "source_sha256": "962765693d215d3d4ee82c0517c9d6020a37f2859f5a7b21512bf6005112f960",
-      "markdown_sha256": "007559f031482865a91bc65787f122649260ea696dfe92e9280a71a8c38c970f"
+      "markdown_sha256": "4ca2956003f8fd405d3725b4bd78eed68569a5c99e9775d43ac720f63aa2aad3"
     },
     {
       "source": "s14-nuclear-chemistry.html",
@@ -170,7 +170,7 @@
       "questions": 82,
       "answers": 77,
       "source_sha256": "2cac2a170d76e991d7999ea72e71968cb621b8a48dcb0534c1a744efe60585f4",
-      "markdown_sha256": "8e6ce5345eabede16f1e510f66c2e3c840ff8ae89d9416e28c8ecc9dcbd014f7"
+      "markdown_sha256": "31250160f6b992d0de9210295671c771af40898d40a6b8a805e94859ef48969f"
     },
     {
       "source": "s15-organic-chemistry-alkanes-and-.html",
@@ -182,7 +182,7 @@
       "questions": 78,
       "answers": 67,
       "source_sha256": "fee75e34f76357795c0cb4c164ff41000eeeec1f8c7e4c1e44896158fba2fced",
-      "markdown_sha256": "0afeb04505c55014a54218d68103ba2b31ed3b028d944b5f45f80c4d0b74421a"
+      "markdown_sha256": "0765572b7091a403a30cf2843b3d9ef3f3d777c3e5f8b00e13a5bcd7bfdc0469"
     },
     {
       "source": "s16-unsaturated-and-aromatic-hydro.html",
@@ -194,7 +194,7 @@
       "questions": 71,
       "answers": 57,
       "source_sha256": "ca8f9ec5b94e3272adacccc6a25f71249650de0733386708aa17c459fa7f9c6c",
-      "markdown_sha256": "31584b6f89a6c6b7e2a0d95a456492e944510138b26ee01ec5ba0f559b9809d8"
+      "markdown_sha256": "cf987e1c820a318f061c27cb38e56fadfa46e80929f3e76ac9ad9226b4819248"
     },
     {
       "source": "s17-organic-compounds-of-oxygen.html",
@@ -206,7 +206,7 @@
       "questions": 112,
       "answers": 94,
       "source_sha256": "39595491f90186e91b4235350af9a122b7f8a6917e284aae2551aedb6184afef",
-      "markdown_sha256": "7aac5d68088d5fe628adcce96bc5f25669459f5dccf3f76d80707df73b319941"
+      "markdown_sha256": "a447b3e05d131aa9d56e8677105d5c6475345400c82f59bd91de879b43adac6b"
     },
     {
       "source": "s18-organic-acids-and-bases-and-so.html",
@@ -218,7 +218,7 @@
       "questions": 148,
       "answers": 118,
       "source_sha256": "90047631adafcc7dd060a37dea5244d0668778e939e3be15d12129f2db95c0f1",
-      "markdown_sha256": "452b2a18eca728b3a7289d605d9f19a9bd12e5f896a616ea15755cccb2ddeffc"
+      "markdown_sha256": "46fa3e00914ac9367841ba4972edbdb55a8cf100913a8869889656f96100a0c2"
     },
     {
       "source": "s19-carbohydrates.html",
@@ -230,7 +230,7 @@
       "questions": 68,
       "answers": 61,
       "source_sha256": "bf0c3ce27e5c310894891c0afde7ee082a5b1261444086d1135b66a4d6403855",
-      "markdown_sha256": "17a38aed73374d7817fc234e3a606637dbd7b5a88844cdd52f692e9136c2750a"
+      "markdown_sha256": "f435f541f8cb3a4ece366f30e323b36ceb7f4605695f37c55b579b58e0f8217c"
     },
     {
       "source": "s20-lipids.html",
@@ -242,7 +242,7 @@
       "questions": 42,
       "answers": 42,
       "source_sha256": "1093eb09d0ea8b1b3b2910b02d0404d0b761f881b34fe74850fc4aadfdaea1b3",
-      "markdown_sha256": "de9b2b51803e102868d33322e3445a6effd65f1a7b3bc6f6f5e48723c1b27bd1"
+      "markdown_sha256": "635f2e1956e15e5ec79ea8601d1e548238865fd5223e745e2b10fcc4c07c87a8"
     },
     {
       "source": "s21-amino-acids-proteins-and-enzym.html",
@@ -254,7 +254,7 @@
       "questions": 82,
       "answers": 78,
       "source_sha256": "d018461cec18258d1190e1680e6e2f095b4af4f10360388fd62c71e27ce848b7",
-      "markdown_sha256": "bceb394e34ed2a5c00799d5a20cd84bc51f4048b3e5f0aaa574ae66466cb3738"
+      "markdown_sha256": "8bb55767216efe0092843854c8356029aefc50b11cd461383a409c934823c5d5"
     },
     {
       "source": "s22-nucleic-acids.html",
@@ -266,7 +266,7 @@
       "questions": 63,
       "answers": 60,
       "source_sha256": "838d6e7b4161ea5ab77af058ffe6e55f939b94083466dd53c49a101cd95b6c8d",
-      "markdown_sha256": "f5d8dad9e18ef2dfdfe50d675dfb294cfa95d9cd6bf476dcd55013774cc91f08"
+      "markdown_sha256": "0eeb1067594aa43e9a91380c5badf751df34008820583c1ca2333b8ae45d9ba0"
     },
     {
       "source": "s23-energy-metabolism.html",
@@ -278,7 +278,7 @@
       "questions": 70,
       "answers": 70,
       "source_sha256": "beeeadfe042c6d8e1ab4ff126b9e79a72648d971e07a1cc9e72a9d4273103990",
-      "markdown_sha256": "618a4c7b1a14f610a04bbacef6a3ad1653a699272440bfce1645e781c9fafdaf"
+      "markdown_sha256": "3bfd57b4ec714524c97c2a943adfc7d81e514ff53d5da5c26c6b2853849f3d75"
     },
     {
       "source": "s24-appendix-periodic-table-of-the.html",
@@ -290,7 +290,7 @@
       "questions": 0,
       "answers": 0,
       "source_sha256": "2a227982cdadea916c77e0eb0b3e9267d597def7dc42851d5e8962a5fe35cb62",
-      "markdown_sha256": "cf3f76729122f2a097d38d7225a30418d2d740b96a7afd2265bfa66b06824ad4"
+      "markdown_sha256": "1362187a09d2429adab02f071d2f7756e74617debb10f778a62fbff71f7b3c18"
     }
   ],
   "assets": {

@@ -28,7 +28,7 @@ We introduced the carbonyl group (C=O)---the functional group of aldehydes and k
 A carboxylic acid[^chem-1] is an organic compound that has a carboxyl group[^chem-2]. The carboxyl group is a functional group that contains a carbon--oxygen double bond and an OH group also attached to the same carbon atom, but it has characteristic properties of its own. As with aldehydes and ketones, carboxylic acid formulas can be written to show the carbon-to-oxygen double bond explicitly, or the carboxyl group can be written in condensed form on one line. In general, carboxylic acids are represented by the formula RCOOH, where R is a hydrocarbon group.
 
 ``````````{figure} /images/section_18/18e9bed0889ba0a247f38f8014c609ba.jpg
-:alt: Chemical illustration: A carboxylic acid An organic compound that has a carboxyl group. is an organic compound that has a carboxyl group A functional group that contains a carbon–oxygen bond and an OH group also attached to the same carbon atom. . The carboxyl group is a functional group that contains a carbon–oxygen double bond and an OH group also attached to the same
+:alt: Chemical illustration: A carboxylic acid An organic compound that has a carboxyl group. is an organic compound that has a carboxyl group A functional group that contains a carbon–oxygen bond and an OH group also attached to the same carbon atom. . The carboxyl group is a functional group that contains a carbon–oxygen double bond and an OH group also attached to the same 
 
 ``````````
 
@@ -78,14 +78,14 @@ Table 15.1 Organic Acids, Bases, and Acid Derivatives
 
   - ``````````{figure} /images/section_18/67bbe588a84302f514a2f5e5ed88df39.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_18/9d99bc7b85fc7046eec82c8ce03086eb.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - acetic acid
@@ -96,8 +96,8 @@ Table 15.1 Organic Acids, Bases, and Acid Derivatives
 
   - ``````````{figure} /images/section_18/31310f3476f37e026179d109ec047e17.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - CH<sub>3</sub>NH<sub>2</sub>
@@ -110,14 +110,14 @@ Table 15.1 Organic Acids, Bases, and Acid Derivatives
 
   - ``````````{figure} /images/section_18/1f32646ac4568c84e214c5ec01404f19.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_18/57d07c472b003362bb4c6a84a36dc959.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - acetamide
@@ -128,14 +128,14 @@ Table 15.1 Organic Acids, Bases, and Acid Derivatives
 
   - ``````````{figure} /images/section_18/ad9e569f534cb5fc015d52c4931522e4.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - ``````````{figure} /images/section_18/602d23be738ad503008c8e24f764af05.jpg
     :alt: Chemical illustration: Table 15.1 Organic Acids, Bases, and Acid Derivatives
-
-
+    
+    
     ``````````
 
   - methyl acetate
@@ -184,43 +184,43 @@ Table 15.1 Organic Acids, Bases, and Acid Derivatives
 
 1.  1.  ``````````{figure} /images/section_18/6d6c9d41fee112242f0f1f64f373bd92.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/c177d59d39eb776860f80faba6772de5.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/4796386907606a68d89cd111336a8cbf.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_18/d144310dcd84a993d90d1ec38aeaf6ef.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/03b5d6293c878f08317d7ce97f1284be.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/86ac829885c431af1db5e32e6c60005c.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 (src-gob-ch15-s02)=
 
@@ -308,8 +308,8 @@ Give the common and IUPAC names for each compound.
 
 2.  ``````````{figure} /images/section_18/ac708fffc11d9ad6b882ae8dc119fea7.jpg
     :alt: Chemical illustration: Give the common and IUPAC names for each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -318,8 +318,8 @@ Solution
 
     ``````````{figure} /images/section_18/faa57407201c56bfd9c860ea5306c243.jpg
     :alt: Chemical illustration: The LCC contains four carbon atoms; the compound is therefore named as a substituted butyric (or butanoic) acid.
-
-
+    
+    
     ``````````
 
     The chlorine atom is attached to the γ-carbon in the common system or C4 in the IUPAC system. The compound is γ-chlorobutyric acid or 2-bromobutanoic acid.
@@ -407,29 +407,29 @@ Propionic acid has three carbon atoms: C--C--COOH. Attach a chlorine (Cl) atom t
 
     2.  ``````````{figure} /images/section_18/548782aa54e0bd2f9daaa47abafcceea.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/e2c341256f71793130039fb01c3dc14a.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_18/745e409ee1db2bc7119617578dcc17a8.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  3-methylbutanoic acid; β-methylbutyric acid
     2.  3,4,4-trimethylpentanoic acid
     3.  4-hydroxybutanoic acid; γ- hydroxybutyric acid
 
-4.
+4.  
 
 ## 15.3 The Formation of Carboxylic Acids
 
@@ -477,8 +477,8 @@ Acetic acid can be further oxidized to carbon dioxide and water.
 
 2.  ``````````{figure} /images/section_18/3e09a6a8ca0cd3355d4f05d44a040a93.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
 ````````````{important} Key Takeaway
@@ -500,7 +500,7 @@ Acetic acid can be further oxidized to carbon dioxide and water.
 
 1.  1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CHO
-2.
+2.  
 
 (src-gob-ch15-s04)=
 
@@ -613,11 +613,11 @@ Table 15.2 Physical Constants of Carboxylic Acids
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH because of hydrogen bonding (There is no intermolecular hydrogen bonding with CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>3</sub>.)
 
-2.
+2.  
 
 3.  CH<sub>3</sub>COOH because it engages in hydrogen bonding with water (There is no intermolecular hydrogen bonding with CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.)
 
-4.
+4.  
 
 ## 15.5 Chemical Properties of Carboxylic Acids: Ionization and Neutralization
 
@@ -721,7 +721,7 @@ Write an equation for the reaction of benzoic acid with each compound.
 Some organic salts are used as preservatives in food products. They prevent spoilage by inhibiting the growth of bacteria and fungi. Calcium and sodium propionate, for example, are added to processed cheese and bakery goods; sodium benzoate is added to cider, jellies, pickles, and syrups; and sodium sorbate and potassium sorbate are added to fruit juices, sauerkraut, soft drinks, and wine. Look for them on ingredient labels the next time you shop for groceries.
 
 ``````````{figure} /images/section_18/cbac8bd93df2c08c1bfef6ca665bcd8e.jpg
-:alt: Chemical illustration: Some organic salts are used as preservatives in food products. They prevent spoilage by inhibiting the growth of bacteria and fungi. Calcium and sodium propionate, for example, are added to processed cheese and bakery goods; sodium benzoate is added to cider, jellies, pickles, and syrups; and sodium sorbate and potassium sorbate are added to fruit
+:alt: Chemical illustration: Some organic salts are used as preservatives in food products. They prevent spoilage by inhibiting the growth of bacteria and fungi. Calcium and sodium propionate, for example, are added to processed cheese and bakery goods; sodium benzoate is added to cider, jellies, pickles, and syrups; and sodium sorbate and potassium sorbate are added to fruit 
 
 ``````````
 
@@ -779,20 +779,20 @@ Some organic salts are used as preservatives in food products. They prevent spoi
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH(aq) + H<sub>2</sub>O(ℓ) → CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COO<sup>−</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq)
 
-2.
+2.  
 
 3.  2CH<sub>3</sub>COOH + Na<sub>2</sub>CO<sub>3</sub>(aq) → 2CH<sub>3</sub>COO<sup>−</sup>Na<sup>+</sup>(aq) + H<sub>2</sub>O(ℓ) + CO<sub>2</sub>(g)
 
-4.
+4.  
 
 5.  CH<sub>3</sub>CH<sub>2</sub>COOH(aq) + H<sub>2</sub>O(ℓ) → CH<sub>3</sub>CH<sub>2</sub>COO<sup>−</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq)
 
-6.
+6.  
 
 7.  1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH(aq) + NaOH(aq) → CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COO<sup>−</sup>Na<sup>+</sup>(aq) + H<sub>2</sub>O(ℓ)
     2.  CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH + NaHCO<sub>3</sub>(aq) → CH<sub>3</sub>(CH<sub>2</sub>)COO<sup>−</sup>Na<sup>+</sup>(aq) + H<sub>2</sub>O(ℓ) + CO<sub>2</sub>(g)
 
-8.
+8.  
 
 9.  1.  lithium butyrate (lithium butanoate)
     2.  ammonium butanoate or ammonium butyrate
@@ -863,8 +863,8 @@ Table 15.3 Nomenclature of Esters
 
 - - ``````````{figure} /images/section_18/dc81dd9bb68c912d9e411e2e045ec192.jpg
     :alt: Chemical illustration: Table 15.3 Nomenclature of Esters
-
-
+    
+    
     ``````````
 
   - ethyl benzoate
@@ -879,14 +879,14 @@ Give the common and IUPAC names for each compound.
 
 1.  ``````````{figure} /images/section_18/3a665a35aba30e874589d5b7ff157cb5.jpg
     :alt: Chemical illustration: Give the common and IUPAC names for each compound.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_18/19b77d2374835242deaf04d4e5b2bf65.jpg
     :alt: Chemical illustration: Give the common and IUPAC names for each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -895,8 +895,8 @@ Solution
 
     ``````````{figure} /images/section_18/eda3076654e99ce8f8bb2642a6d64a0e.jpg
     :alt: Chemical illustration: The alkyl group attached directly to the oxygen atom is a butyl group (in green).
-
-
+    
+    
     ``````````
 
     The part of the molecule derived from the carboxylic acid (in red) has three carbon atoms. It is called propionate (common) or propanoate (IUPAC). The ester is therefore butyl propionate or butyl propanoate.
@@ -905,28 +905,28 @@ Solution
 
     ``````````{figure} /images/section_18/5e56a32448aa3da2a3a50780e47f4962.jpg
     :alt: Chemical illustration: An alkyl group (in green) is attached directly to the oxygen atom by its middle carbon atom; it is an isopropyl group. The part derived from the acid (that is, the benzene ring and the carbonyl group, in red) is benzoate. The ester is therefore isopropyl benzoate (both the common name and the IUPAC name).
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
 
 Give the common and IUPAC names for each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_18/23f10e0c3c38f72d052533ac920ce963.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_18/8bcd08dec61ff8674259b80822743ece.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
 ### Example 6
@@ -991,62 +991,62 @@ Then attach the ethyl group to the bond that ordinarily holds the hydrogen atom 
 
     1.  ``````````{figure} /images/section_18/78c08ed47143a8ea14d2b3285b7ebd17.jpg
         :alt: Chemical illustration: Name each compound with both the common name and the IUPAC name.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/1e02584893ad7920deb19eefb9ffbf85.jpg
         :alt: Chemical illustration: Name each compound with both the common name and the IUPAC name.
-
-
+        
+        
         ``````````
 
 4.  Name each compound with both the common name and the IUPAC name.
 
     1.  ``````````{figure} /images/section_18/6afb53cab158722d3934e6abeca6cef0.jpg
         :alt: Chemical illustration: Name each compound with both the common name and the IUPAC name.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/122ca19635360ffb8eda89454cbfd435.jpg
         :alt: Chemical illustration: Name each compound with both the common name and the IUPAC name.
-
-
+        
+        
         ``````````
 
 ### Answers
 
 1.  1.  ``````````{figure} /images/section_18/71e0c3e032ce1a0492ccf881508452d0.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/8316d5c78d61e0c76b6a811a342441a6.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/9e323e2305b36260bc00724f4f1ab99e.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_18/2b00d71e99a0422a82d761afe07cdb46.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  methyl formate; methyl methanoate
     2.  ethyl propionate; ethyl propanoate
 
-4.
+4.  
 
 ## 15.7 Physical Properties of Esters
 
@@ -1083,7 +1083,7 @@ Table 15.4 Physical Properties of Some Esters
   - 60
   - −99
   - 32
-  -
+  -  
 - - HCOOCH<sub>2</sub>CH<sub>3</sub>
   - ethyl formate
   - 74
@@ -1095,13 +1095,13 @@ Table 15.4 Physical Properties of Some Esters
   - 74
   - −98
   - 57
-  -
+  -  
 - - CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>3</sub>
   - ethyl acetate
   - 88
   - −84
   - 77
-  -
+  -  
 - - CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOCH<sub>3</sub>
   - methyl butyrate
   - 102
@@ -1176,7 +1176,7 @@ Table 15.4 Physical Properties of Some Esters
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH because there is intermolecular hydrogen bonding (There is no intermolecular hydrogen bonding in CH<sub>3</sub>CH<sub>2</sub>COOCH<sub>3</sub>.)
 
-2.
+2.  
 
 (src-gob-ch15-s08)=
 
@@ -1254,17 +1254,17 @@ Polyester molecules make excellent fibers and are used in many fabrics. A knitte
 
 1.  1.  ``````````{figure} /images/section_18/86e0be0809a99e5a69c163a26eb86bca.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/a6860c182a9c3f3509fc2de8e62f7e50.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 ## 15.9 Hydrolysis of Esters
 
@@ -1382,14 +1382,14 @@ In basic hydrolysis, the molecule of the base splits the ester linkage. The acid
 
     1.  ``````````{figure} /images/section_18/5cc2f8972400f1d73c301f41f8802071.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/84cf08b7c5b84eabb409596b933ffb79.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
 4.  Complete each equation.
@@ -1401,12 +1401,12 @@ In basic hydrolysis, the molecule of the base splits the ester linkage. The acid
 
 1.  $\text{CH}_{\text{3}}\text{COOCH}_{\text{2}}\text{CH}_{\text{3}}\text{~+~H}_{\text{2}}\text{O~}\overset{\text{H}^{\text{+}}}{\rightarrow}\text{~CH}_{\text{3}}\text{COOH~+~CH}_{\text{3}}\text{CH}_{\text{2}}\text{OH}$
 
-2.
+2.  
 
 3.  1.  CH<sub>3</sub>COONa(aq) + CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH + CH<sub>3</sub>CH<sub>2</sub>OH
 
-4.
+4.  
 
 (src-gob-ch15-s10)=
 
@@ -1422,7 +1422,7 @@ In basic hydrolysis, the molecule of the base splits the ester linkage. The acid
 Just as carboxylic acids do, inorganic acids such as nitric acid (HNO<sub>3</sub>), sulfuric acid (H<sub>2</sub>SO<sub>4</sub>), and phosphoric acid (H<sub>3</sub>PO<sub>4</sub>) also form esters. The esters of phosphoric acid are especially important in biochemistry. A phosphoric acid molecule can form a monoalkyl, a dialkyl, or a trialkyl ester by reaction with one, two, or three molecules of an alcohol.
 
 ``````````{figure} /images/section_18/3cfccf769579de43236f74e8d70fb978.jpg
-:alt: Chemical illustration: Just as carboxylic acids do, inorganic acids such as nitric acid (HNO 3 ), sulfuric acid (H 2 SO 4 ), and phosphoric acid (H 3 PO 4 ) also form esters. The esters of phosphoric acid are especially important in biochemistry. A phosphoric acid molecule can form a monoalkyl, a dialkyl, or a trialkyl ester by reaction with one, two, or three molecules
+:alt: Chemical illustration: Just as carboxylic acids do, inorganic acids such as nitric acid (HNO 3 ), sulfuric acid (H 2 SO 4 ), and phosphoric acid (H 3 PO 4 ) also form esters. The esters of phosphoric acid are especially important in biochemistry. A phosphoric acid molecule can form a monoalkyl, a dialkyl, or a trialkyl ester by reaction with one, two, or three molecules 
 
 ``````````
 
@@ -1474,43 +1474,43 @@ The explosive nitroglycerin (glyceryl trinitrate) is an ester formed from glycer
 
     1.  ``````````{figure} /images/section_18/8f42e2480165047bc770f077a27e00de.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/71fd1300e1e4879d02e74f50b320d5a7.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/3571b9501086bf1a4543b7107aa23fc2.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 ### Answer
 
 1.  1.  ``````````{figure} /images/section_18/0f8343077d449118a179e7e52b18ec83.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/9454f92bf736848a4de50bc5dadee26a.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/82512faf03c5d7f6d3bdacc4cc8b0946.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 (src-gob-ch15-s11)=
 
@@ -1555,8 +1555,8 @@ Name and classify each compound.
 
 2.  ``````````{figure} /images/section_18/600e7452343b208105151dc0ef7ad57f.jpg
     :alt: Chemical illustration: Name and classify each compound.
-
-
+    
+    
     ``````````
 
 3.  CH<sub>3</sub>CH<sub>2</sub>NHCH<sub>2</sub>CH<sub>3</sub>
@@ -1574,20 +1574,20 @@ Solution
 
 Name and classify each compound.
 
-1.
+1.   
 
     ``````````{figure} /images/section_18/d620e09f50bd07de664c468e671cce0d.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_18/f60e96c6b11b5ec7b683802514ab2fe9.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
 3.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>
@@ -1607,8 +1607,8 @@ Solution
 
     ``````````{figure} /images/section_18/6dec09ee99bca8f83fff3f5e5e28171a.jpg
     :alt: Chemical illustration: The name indicates that there are an isopropyl group (in red) and two methyl groups (in green) attached to the nitrogen atom; the amine is tertiary.
-
-
+    
+    
     ``````````
 
 2.  The name indicates that there are two propyl groups attached to the nitrogen atom; the amine is secondary. (The third bond on the nitrogen atom goes to a hydrogen atom.)
@@ -1649,8 +1649,8 @@ The benzene ring with an amino (NH<sub>2</sub>) group is aniline. The compound i
 
     ``````````{figure} /images/section_18/b4c15de653eae373661a59bef6a01c8c.jpg
     :alt: Chemical illustration: Name this compound.
-
-
+    
+    
     ``````````
 
 ### Example 12
@@ -1739,8 +1739,8 @@ Name each ion.
 
   ``````````{figure} /images/section_18/e7cff0971efd33833b3994865b6c308b.jpg
   :alt: Chemical illustration: The amine functional group is as follows:
-
-
+  
+  
   ``````````
 
 - Amines are classified as primary, secondary, or tertiary by the number of hydrocarbon groups attached to the nitrogen atom.
@@ -1779,14 +1779,14 @@ Name each ion.
 
     2.  ``````````{figure} /images/section_18/52f3596a59cdc630c25ec5d8c7dc144c.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_18/3e4ff4617f68050c0928bd7430d6d025.jpg
         :alt: Chemical illustration: Name each compound.
-
-
+        
+        
         ``````````
 
 6.  Name each compound.
@@ -1822,48 +1822,48 @@ Name each ion.
 
         ``````````{figure} /images/section_18/28ae33fecd53080620d1b5469efe8826.jpg
         :alt: Chemical illustration: tertiary
-
-
+        
+        
         ``````````
 
     3.  HOCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>; primary
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_18/7fa89c4e84ca4c48479d6004d48dab22.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/0ab8925cdd9478ee74a5d6bb54baee2b.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  propylamine
     2.  isopropylmethylamine
     3.  2-aminopentane
 
-6.
+6.  
 
 7.  1.  \[(CH<sub>3</sub>)<sub>2</sub>NH<sub>2</sub><sup>+</sup>\]Cl<sup>--</sup>
 
     2.  ``````````{figure} /images/section_18/83d86aa09b542095a9023ffd25055abe.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-8.
+8.  
 
 9.  1.  diethylammonium bromide
     2.  triethylammonium iodide
 
-10.
+10. 
 
 ## 15.12 Physical Properties of Amines
 
@@ -1999,11 +1999,11 @@ Aromatic amines generally are quite toxic. They are readily absorbed through the
 1.  1.  butylamine because the N--H bonds can engage in hydrogen bonding; pentane cannot engage in hydrogen bonding
     2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> because it has a greater molar mass than CH<sub>3</sub>NH<sub>2</sub>
 
-2.
+2.  
 
 3.  CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> because amines can engage in hydrogen bonding with water; alkanes cannot engage in hydrogen bonding
 
-4.
+4.  
 
 (src-gob-ch15-s13)=
 
@@ -2071,7 +2071,7 @@ Many heterocyclic amines occur naturally in plants. Like other amines, these com
 Caffeine is a stimulant found in coffee, tea, and some soft drinks. Its mechanism of action is not well understood, but it is thought to block the activity of adenosine, a heterocyclic base that acts as a neurotransmitter, a substance that carries messages across a tiny gap (synapse) from one nerve cell (neuron) to another cell. The effective dose of caffeine is about 200 mg, corresponding to about two cups of strong coffee or tea.
 
 ``````````{figure} /images/section_18/02cb1e806545bf68e43667f0328fd0e3.jpg
-:alt: Chemical illustration: Caffeine is a stimulant found in coffee, tea, and some soft drinks. Its mechanism of action is not well understood, but it is thought to block the activity of adenosine, a heterocyclic base that acts as a neurotransmitter, a substance that carries messages across a tiny gap (synapse) from one nerve cell (neuron) to another cell. The effective dose
+:alt: Chemical illustration: Caffeine is a stimulant found in coffee, tea, and some soft drinks. Its mechanism of action is not well understood, but it is thought to block the activity of adenosine, a heterocyclic base that acts as a neurotransmitter, a substance that carries messages across a tiny gap (synapse) from one nerve cell (neuron) to another cell. The effective dose 
 
 ``````````
 
@@ -2136,21 +2136,21 @@ Because it is soluble in water, cocaine hydrochloride is readily absorbed throug
 
     1.  ``````````{figure} /images/section_18/c8c69aff81bb051ecc30036327e262a7.jpg
         :alt: Chemical illustration: What salt is formed in each reaction? Draw its structure.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/c6e5e7216ab7eeac2954f214cfd8ffa0.jpg
         :alt: Chemical illustration: What salt is formed in each reaction? Draw its structure.
-
-
+        
+        
         ``````````
 
 ### Answer
 
 1.  1.  CH<sub>3</sub>NH<sub>3</sub><sup>+</sup>Br<sup>−</sup>(aq)
     2.  \[CH<sub>3</sub>NH<sub>2</sub>CH<sub>3</sub>\]<sup>+</sup>NO<sub>3</sub><sup>−</sup>(aq)
-2.
+2.  
 
 ## 15.14 Amides: Structures and Names
 
@@ -2189,14 +2189,14 @@ Name each compound with the common name, the IUPAC name, or both.
 
 1.  ``````````{figure} /images/section_18/c40c5c216fe69bc1ee6f380487b9bda1.jpg
     :alt: Chemical illustration: Name each compound with the common name, the IUPAC name, or both.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_18/8abec1ff3f82fbc79dc8d08eb51a99b6.jpg
     :alt: Chemical illustration: Name each compound with the common name, the IUPAC name, or both.
-
-
+    
+    
     ``````````
 
 Solution
@@ -2208,20 +2208,20 @@ Solution
 
 Name each compound with the common name, the IUPAC name, or both.
 
-1.
+1.   
 
     ``````````{figure} /images/section_18/194d75cd598d05c857a64fd222e78499.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_18/3c570b0c6a493895cdc7cb3656814db9.jpg
     :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+    
+    
     ``````````
 
 ### Concept Review Exercises
@@ -2230,8 +2230,8 @@ Name each compound with the common name, the IUPAC name, or both.
 
     ``````````{figure} /images/section_18/c331204eb6c3ac40a7ad36089fb45968.jpg
     :alt: Chemical illustration: Name this compound with the common name and the IUPAC name.
-
-
+    
+    
     ``````````
 
 2.  Draw a the structural formulae for pentanamide.
@@ -2242,8 +2242,8 @@ Name each compound with the common name, the IUPAC name, or both.
 
 2.  ``````````{figure} /images/section_18/e5bbaf214c64d6311b2251c10ba902e6.jpg
     :alt: Chemical illustration: β-bromobutyramide (3-bromobutanamide)
-
-
+    
+    
     ``````````
 
 ````````````{important} Key Takeaways
@@ -2254,8 +2254,8 @@ Name each compound with the common name, the IUPAC name, or both.
 
   ``````````{figure} /images/section_18/e11549e934cd1fbee854d2e55519b929.jpg
   :alt: Chemical illustration: The functional group for an amide is as follows:
-
-
+  
+  
   ``````````
 
 - In names for amides, the -*ic acid* of the common name or the -*oic* ending of the IUPAC for the corresponding carboxylic acid is replaced by -*amide*.
@@ -2278,44 +2278,44 @@ Name each compound with the common name, the IUPAC name, or both.
 
     1.  ``````````{figure} /images/section_18/43d76a76022c24bd0fcf1f44eb214b58.jpg
         :alt: Chemical illustration: Name each compound with the common name, the IUPAC name, or both.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/12e5f31d733c9aefcc8eda62e8ca2fd4.jpg
         :alt: Chemical illustration: Name each compound with the common name, the IUPAC name, or both.
-
-
+        
+        
         ``````````
 
 4.  Name the compound.
 
     ``````````{figure} /images/section_18/2ba2609bc768e5531e6c6f0c87230cbc.jpg
     :alt: Chemical illustration: Name the compound.
-
-
+    
+    
     ``````````
 
 ### Answers
 
 1.  1.  ``````````{figure} /images/section_18/5244db6354fd59f16f03300d971e0703.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/5fbfde9dbbe0e6cf5acd5f3872a1d16a.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  propionamide (propanamide)
     2.  α-methylbutyramide (2-methylbutanamide)
 
-4.
+4.  
 
 ## 15.15 Physical Properties of Amides
 
@@ -2412,11 +2412,11 @@ Amide molecules can engage in hydrogen bonding with water molecules (a). Those a
 
 1.  butyramide because the nitrogen-to-hydrogen (N--H) and the carbon-to-oxygen double (C=O) bonds can engage in hydrogen bonding; ethyl acetate cannot engage in hydrogen bonding
 
-2.
+2.  
 
 3.  acetamide because the N--H and C=O bonds can engage in hydrogen bonding with water; 1-butene cannot engage in hydrogen bonding with water
 
-4.
+4.  
 
 (src-gob-ch15-s16)=
 
@@ -2478,7 +2478,7 @@ Some polyamides are known as *nylons*. Nylons are among the most widely used syn
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>COOH (pentanoic acid) and NH<sub>3</sub> (ammonia)
 
-2.
+2.  
 
 ## 15.17 Chemical Properties of Amides: Hydrolysis
 
@@ -2516,8 +2516,8 @@ Solution
     ``````````{figure} /images/section_18/b20818d2d3033aa37d88b53737611b5a.jpg
     :alt: Chemical illustration: The hydrolysis of a simple amide produces an organic acid and ammonia. Butyramide thus yields butyric acid and ammonia.
     :name: src-fwk-gob-eq15-020
-
-
+    
+    
     ``````````
 
 2.  The hydrolysis of an amide produces an organic acid and ammonia. Benzamide thus yields benzoic acid and ammonia.
@@ -2525,8 +2525,8 @@ Solution
     ``````````{figure} /images/section_18/a70b6c833854402870368eddfd67eea6.jpg
     :alt: Chemical illustration: The hydrolysis of an amide produces an organic acid and ammonia. Benzamide thus yields benzoic acid and ammonia.
     :name: src-fwk-gob-eq15-021
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -2569,28 +2569,28 @@ Athletic trainers may have administrative duties, such as the responsibility for
 
     1.  ``````````{figure} /images/section_18/714f7fa7cbba7338309c7665a767ba22.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/a992e05f2b956c3d0ba2fffb837dd7b1.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
 2.  Complete each equation.
 
     1.  ``````````{figure} /images/section_18/736d760b1c447a0377d4a2d582b90ff5.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_18/eb5de9c8fb4df878487a87731b9b9ddd.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
 ### Answer
@@ -2599,11 +2599,11 @@ Athletic trainers may have administrative duties, such as the responsibility for
 
     2.  ``````````{figure} /images/section_18/2d3591656e05634ba3254aede60544c7.jpg
         :alt: Chemical illustration: Chapter 15: Organic Acids and Bases and Some of Their Derivatives
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 ## 15.18 End-of-Chapter Material
 
@@ -2663,16 +2663,16 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
     ``````````{figure} /images/section_18/6863a7ee08d16614c87b1259d11d80bf.jpg
     :alt: Chemical illustration: A lactone is a cyclic ester. What product is formed in following reaction?
-
-
+    
+    
     ``````````
 
 11. A lactam is a cyclic amide. What product is formed in the following reaction?
 
     ``````````{figure} /images/section_18/2dc049f534476f700759f1d8319771bf.jpg
     :alt: Chemical illustration: A lactam is a cyclic amide. What product is formed in the following reaction?
-
-
+    
+    
     ``````````
 
 12. Draw the structures for the eight isomeric amines that have the molecular formula C<sub>4</sub>H<sub>11</sub>N. Give each a common name and classify it as primary, secondary, or tertiary.
@@ -2695,55 +2695,55 @@ Organic compounds containing a carbonyl group bonded to a nitrogen atom are amid
 
 1.  unpleasant: carboxylic acids; pleasant: esters
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_18/3b374c26ff822cfb16ab32f0336b1dcd.jpg
     :alt: Chemical illustration: unpleasant: carboxylic acids; pleasant: esters
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  sodium benzoate because it is ionic and forms ion-dipole forces with water; benzoic acid can engage in hydrogen bonding only with water
 
-6.
+6.  
 
 7.  pentane \< methyl acetate \< butyl alcohol \< propionic acid
 
-8.
+8.  
 
 9.  CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>
 
-10.
+10. 
 
 11. H<sub>3</sub>N<sup>+</sup>CH<sub>2</sub>CH<sub>2</sub>COOH
 
-12.
+12. 
 
 13. ``````````{figure} /images/section_18/9febe26633ae5563c2431ef68d5d0d08.jpg
     :alt: Chemical illustration: H 3 N + CH 2 CH 2 COOH
-
-
+    
+    
     ``````````
 
-14.
+14. 
 
 15. ``````````{figure} /images/section_18/4a3b524a40df221837db961f5714d4cc.jpg
     :alt: Chemical illustration: H 3 N + CH 2 CH 2 COOH
-
-
+    
+    
     ``````````
 
-16.
+16. 
 
 17. ``````````{figure} /images/section_18/8032c88058abbecb950915e4d8283553.jpg
     :alt: Chemical illustration: H 3 N + CH 2 CH 2 COOH
-
-
+    
+    
     ``````````
 
-18.
+18. 
 
 19. 20.0 mL
 

@@ -108,8 +108,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/9f0d971905afd16b60c26544a3454b28.jpg
     :alt: Chemical illustration: acyl phosphate
-
-
+    
+    
     ``````````
 
   - 1,3-bisphosphoglycerate (BPG)
@@ -120,8 +120,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/9f0d971905afd16b60c26544a3454b28.jpg
     :alt: Chemical illustration: acyl phosphate
-
-
+    
+    
     ``````````
 
   - acetyl phosphate
@@ -132,8 +132,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/e950f7d59cbae1d47495a8e1c2d8a865.jpg
     :alt: Chemical illustration: guanidine phosphates
-
-
+    
+    
     ``````````
 
   - creatine phosphate
@@ -144,8 +144,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/e950f7d59cbae1d47495a8e1c2d8a865.jpg
     :alt: Chemical illustration: guanidine phosphates
-
-
+    
+    
     ``````````
 
   - arginine phosphate
@@ -156,8 +156,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/eb8d1ea5d5116db1d6a35860fa0d70cb.jpg
     :alt: Chemical illustration: pyrophosphates
-
-
+    
+    
     ``````````
 
   - PP<sub>i\*</sub> → 2P<sub>i</sub>
@@ -168,8 +168,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/eb8d1ea5d5116db1d6a35860fa0d70cb.jpg
     :alt: Chemical illustration: pyrophosphates
-
-
+    
+    
     ``````````
 
   - ATP → AMP + PP<sub>i</sub>
@@ -180,8 +180,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/eb8d1ea5d5116db1d6a35860fa0d70cb.jpg
     :alt: Chemical illustration: pyrophosphates
-
-
+    
+    
     ``````````
 
   - ATP → ADP + P<sub>i</sub>
@@ -192,8 +192,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/eb8d1ea5d5116db1d6a35860fa0d70cb.jpg
     :alt: Chemical illustration: pyrophosphates
-
-
+    
+    
     ``````````
 
   - ADP → AMP + P<sub>i</sub>
@@ -204,8 +204,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/f59ceb2aea5b678e834caf8dc94a71a7.jpg
     :alt: Chemical illustration: sugar phosphates
-
-
+    
+    
     ``````````
 
   - glucose 1-phosphate
@@ -216,8 +216,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/f59ceb2aea5b678e834caf8dc94a71a7.jpg
     :alt: Chemical illustration: sugar phosphates
-
-
+    
+    
     ``````````
 
   - fructose 6-phosphate
@@ -228,8 +228,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/f59ceb2aea5b678e834caf8dc94a71a7.jpg
     :alt: Chemical illustration: sugar phosphates
-
-
+    
+    
     ``````````
 
   - AMP → adenosine + P<sub>i</sub>
@@ -240,8 +240,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/f59ceb2aea5b678e834caf8dc94a71a7.jpg
     :alt: Chemical illustration: sugar phosphates
-
-
+    
+    
     ``````````
 
   - glucose 6-phosphate
@@ -252,8 +252,8 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
     ``````````{figure} /images/section_23/f59ceb2aea5b678e834caf8dc94a71a7.jpg
     :alt: Chemical illustration: sugar phosphates
-
-
+    
+    
     ``````````
 
   - glycerol 3-phosphate
@@ -302,13 +302,13 @@ Table 20.1 Energy Released by Hydrolysis of Some Phosphate Compounds
 
 1.  ATP has a triphosphate group attached, while ADP has only a diphosphate group attached.
 
-2.
+2.  
 
 3.  1.  yes
     2.  no
     3.  yes
 
-4.
+4.  
 
 ## 20.2 Stage I of Catabolism
 
@@ -460,7 +460,7 @@ The further metabolism of monosaccharides, fatty acids, and amino acids released
     3.  sucrase
     4.  aminopeptidase
 
-5.
+5.   
 
     1.  What is the meaning of the following statement? "Bile salts act to emulsify lipids in the small intestine."
     2.  Why is emulsification important?
@@ -483,25 +483,25 @@ The further metabolism of monosaccharides, fatty acids, and amino acids released
 
 1.  proteins: amino acids; carbohydrates: monosaccharides; fats: fatty acids and glycerol
 
-2.
+2.  
 
 3.  1.  Chymotrypsin is found in the small intestine and catalyzes the hydrolysis of peptide bonds following aromatic amino acids.
     2.  Lactase is found in the small intestine and catalyzes the hydrolysis of lactose.
     3.  Pepsin is found in the stomach and catalyzes the hydrolysis of peptide bonds, primarily those that occur after aromatic amino acids.
     4.  Maltase is found in the small intestine and catalyzes the hydrolysis of maltose.
 
-4.
+4.  
 
 5.  1.  Bile salts aid in digestion by dispersing lipids throughout the aqueous solution in the small intestine.
     2.  Emulsification is important because lipids are not soluble in water; it breaks lipids up into smaller particles that can be more readily hydrolyzed by lipases.
 
-6.
+6.  
 
 7.  1.  gly-ala-phe and thr-leu
     2.  ala-ile-tyr and ser-arg
     3.  val-trp and arg-leu-cys
 
-8.
+8.  
 
 ## 20.3 Overview of Stage II of Catabolism
 
@@ -630,7 +630,7 @@ The red line shows the path of electrons.
 
 Electrons can enter the electron transport chain through either complex I or II. We will look first at electrons entering at complex I. These electrons come from NADH, which is formed in three reactions of the citric acid cycle. Let's use step 8 as an example, the reaction in which L-malate is oxidized to oxaloacetate and NAD<sup>+</sup> is reduced to NADH. This reaction can be divided into two half reactions:
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -648,7 +648,7 @@ Electrons can enter the electron transport chain through either complex I or II.
 
 In the oxidation half-reaction, two hydrogen (H<sup>+</sup>) ions and two electrons are removed from the substrate. In the reduction half-reaction, the NAD<sup>+</sup> molecule accepts both of those electrons and one of the H<sup>+</sup> ions. The other H<sup>+</sup> ion is transported from the matrix, across the inner mitochondrial membrane, and into the intermembrane space. The NADH diffuses through the matrix and is bound by complex I of the electron transport chain. In the complex, the coenzyme flavin mononucleotide (FMN) accepts both electrons from NADH. By passing the electrons along, NADH is oxidized back to NAD<sup>+</sup> and FMN is reduced to FMNH<sub>2</sub> (reduced form of flavin mononucleotide). Again, the reaction can be illustrated by dividing it into its respective half-reactions.
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -666,7 +666,7 @@ In the oxidation half-reaction, two hydrogen (H<sup>+</sup>) ions and two electr
 
 Complex I contains several proteins that have iron-sulfur (Fe·S) centers. The electrons that reduced FMN to FMNH<sub>2</sub> are now transferred to these proteins. The iron ions in the Fe·S centers are in the Fe(III) form at first, but by accepting an electron, each ion is reduced to the Fe(II) form. Because each Fe·S center can transfer only one electron, two centers are needed to accept the two electrons that will regenerate FMN.
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -678,7 +678,7 @@ FMNH<sub>2</sub> → FMN + 2H<sup>+</sup> + 2e<sup>−</sup>
 
 Electrons from FADH<sub>2</sub>, formed in step 6 of the citric acid cycle, enter the electron transport chain through complex II. Succinate dehydrogenase, the enzyme in the citric acid cycle that catalyzes the formation of FADH<sub>2</sub> from FAD is part of complex II. The electrons from FADH<sub>2</sub> are then transferred to an Fe·S protein.
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -696,7 +696,7 @@ Coenzyme Q is also called *ubiquinone* because it is ubiquitous in living system
 
 ````````````
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -711,7 +711,7 @@ Coenzyme Q is also called *ubiquinone* because it is ubiquitous in living system
 
 Complexes III and IV include several iron-containing proteins known as cytochromes[^chem-11]. The iron in these enzymes is located in substructures known as iron porphyrins ([Figure 20.15 \"An Iron Porphyrin\"](/chapters/ch-20-energy-metabolism.md#src-gob-ch20-s04-s03-f02)). Like the Fe·S centers, the characteristic feature of the cytochromes is the ability of their iron atoms to exist as either Fe(II) or Fe(III). Thus, each cytochrome in its oxidized form---Fe(III)---can accept one electron and be reduced to the Fe(II) form. This change in oxidation state is reversible, so the reduced form can donate its electron to the next cytochrome, and so on. Complex III contains cytochromes b and c, as well as Fe·S proteins, with cytochrome c acting as the electron shuttle between complex III and IV. Complex IV contains cytochromes a and a<sub>3</sub> in an enzyme known as *cytochrome oxidase*. This enzyme has the ability to transfer electrons to molecular oxygen, the last electron acceptor in the chain of electron transport reactions. In this final step, water (H<sub>2</sub>O) is formed.
 
-
+ 
 
 *Oxidation half-reaction*:
 
@@ -754,19 +754,19 @@ Table 20.2 Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Acetyl-C
   - Yield of ATP (moles)
 - - Isocitrate → α-ketoglutarate + CO<sub>2</sub>
   - produces 1 mol NADH
-  -
+  -  
 - - α-ketoglutarate → succinyl-CoA + CO<sub>2</sub>
   - produces 1 mol NADH
-  -
+  -  
 - - Succinyl-CoA → succinate
   - produces 1 mol GTP
   - +1
 - - Succinate → fumarate
   - produces 1 mol FADH<sub>2</sub>
-  -
+  -  
 - - Malate → oxaloacetate
   - produces 1 mol NADH
-  -
+  -  
 - - 1 FADH<sub>2</sub> from the citric acid cycle
   - yields 2 mol ATP
   - +2
@@ -837,7 +837,7 @@ Table 20.2 Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Acetyl-C
 
 7.  What is the function of the cytochromes in the electron transport chain?
 
-8.
+8.   
 
     1.  What is meant by this statement? "Electron transport is tightly coupled to oxidative phosphorylation."
     2.  How are electron transport and oxidative phosphorylation coupled or linked?
@@ -849,21 +849,21 @@ Table 20.2 Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Acetyl-C
     3.  malate
     4.  α-ketoglutarate hydrogenase complex
 
-2.
+2.  
 
 3.  1.  reaction in 1a
     2.  reaction in 1c
     3.  reaction in 1b
 
-4.
+4.  
 
 5.  Both molecules serve as electron shuttles between the complexes of the electron transport chain.
 
-6.
+6.  
 
 7.  Cytochromes are proteins in the electron transport chain and serve as one-electron carriers.
 
-8.
+8.  
 
 (src-gob-ch20-s05)=
 
@@ -987,7 +987,7 @@ Table 20.3 Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Glucose
   - −1
 - - glyceraldehyde 3-phosphate → BPG
   - produces 2 mol of cytoplasmic NADH
-  -
+  -  
 - - BPG → 3-phosphoglycerate
   - produces 2 mol ATP
   - +2
@@ -996,22 +996,22 @@ Table 20.3 Maximum Yield of ATP from the Complete Oxidation of 1 Mol of Glucose
   - +2
 - - pyruvate → acetyl-CoA + CO<sub>2</sub>
   - produces 2 mol NADH
-  -
+  -  
 - - isocitrate → α-ketoglutarate + CO<sub>2</sub>
   - produces 2 mol NADH
-  -
+  -  
 - - α-ketoglutarate → succinyl-CoA + CO<sub>2</sub>
   - produces 2 mol NADH
-  -
+  -  
 - - succinyl-CoA → succinate
   - produces 2 mol GTP
   - +2
 - - succinate → fumarate
   - produces 2 mol FADH<sub>2</sub>
-  -
+  -  
 - - malate → oxaloacetate
   - produces 2 mol NADH
-  -
+  -  
 - - 2 cytoplasmic NADH from glycolysis
   - yields 2--3 mol ATP per NADH (depending on tissue)
   - +4 to +6
@@ -1112,7 +1112,7 @@ As indicated earlier, the 58% of released energy that is not conserved enters th
     1.  muscle cells?
     2.  yeast?
 
-8.
+8.   
 
     1.  Calculate the number of moles of ATP produced by the aerobic oxidation of 1 mol of glucose in a liver cell.
 
@@ -1129,21 +1129,21 @@ As indicated earlier, the 58% of released energy that is not conserved enters th
     3.  triose phosphate isomerase
     4.  glucose 6-phosphate
 
-2.
+2.  
 
 3.  1.  reactions 1b, 1d, and 2a
     2.  reaction 1b
 
-4.
+4.  
 
 5.  NAD<sup>+</sup>
 
-6.
+6.  
 
 7.  1.  Pyruvate is reduced to lactate, and NADH is reoxidized to NAD<sup>+</sup>.
     2.  Pyruvate is converted to ethanol and carbon dioxide, and NADH is reoxidized to NAD<sup>+</sup>.
 
-8.
+8.  
 
 ## 20.6 Stage II of Lipid Catabolism
 
@@ -1279,8 +1279,8 @@ The oxidation of fatty acids produces large quantities of water. This water, whi
 
 2.  ``````````{figure} /images/section_23/55c454831ef7026f73e0f9d1eb44c19e.jpg
     :alt: Chemical illustration: They react with CoA to form fatty acyl-CoA molecules.
-
-
+    
+    
     ``````````
 
 ````````````{important} Key Takeaways
@@ -1297,20 +1297,20 @@ The oxidation of fatty acids produces large quantities of water. This water, whi
 
     1.  ``````````{figure} /images/section_23/c6523c0e3653947af1e9d35293071b38.jpg
         :alt: Chemical illustration: For each reaction found in β-oxidation, identify the enzyme that catalyzes the reaction and classify the reaction as oxidation-reduction, hydration, or cleavage.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_23/503f794194ba8a7288eb9bbb153a27fb.jpg
         :alt: Chemical illustration: For each reaction found in β-oxidation, identify the enzyme that catalyzes the reaction and classify the reaction as oxidation-reduction, hydration, or cleavage.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_23/b5c22c434431b7d22b9717bcf4ace186.jpg
         :alt: Chemical illustration: For each reaction found in β-oxidation, identify the enzyme that catalyzes the reaction and classify the reaction as oxidation-reduction, hydration, or cleavage.
-
-
+        
+        
         ``````````
 
 2.  What are the products of β-oxidation?
@@ -1341,21 +1341,21 @@ The oxidation of fatty acids produces large quantities of water. This water, whi
     2.  thiolase; cleavage
     3.  acyl-CoA dehydrogenase; oxidation-reduction
 
-2.
+2.  
 
 3.  five rounds
 
-4.
+4.  
 
 5.  1.  7 molecules
     2.  <sub>6\ molecules</sub>
     3.  6 molecules
 
-6.
+6.  
 
 7.  112 molecules
 
-8.
+8.  
 
 (src-gob-ch20-s07)=
 
@@ -1374,7 +1374,7 @@ The liver is the principal site of amino acid metabolism, but other tissues, suc
 Transamination[^chem-16] is an exchange of functional groups between any amino acid (except lysine, proline, and threonine) and an α-keto acid. The amino group is usually transferred to the keto carbon atom of pyruvate, oxaloacetate, or α-ketoglutarate, converting the α-keto acid to alanine, aspartate, or glutamate, respectively. Transamination reactions are catalyzed by specific transaminases (also called aminotransferases), which require pyridoxal phosphate as a coenzyme. (For more information about coenzymes, see [Chapter 18 \"Amino Acids, Proteins, and Enzymes\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18), [Section 18.9 \"Enzyme Cofactors and Vitamins\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s09).)
 
 ``````````{figure} /images/section_23/86f209c34d53a690f43da91648e30af5.jpg
-:alt: Chemical illustration: Transamination An exchange of functional groups between any amino acid and an α-keto acid. is an exchange of functional groups between any amino acid (except lysine, proline, and threonine) and an α-keto acid. The amino group is usually transferred to the keto carbon atom of pyruvate, oxaloacetate, or α-ketoglutarate, converting the α-keto acid to
+:alt: Chemical illustration: Transamination An exchange of functional groups between any amino acid and an α-keto acid. is an exchange of functional groups between any amino acid (except lysine, proline, and threonine) and an α-keto acid. The amino group is usually transferred to the keto carbon atom of pyruvate, oxaloacetate, or α-ketoglutarate, converting the α-keto acid to 
 
 ``````````
 
@@ -1443,7 +1443,7 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 ### Concept Review Exercises
 
-1.
+1.   
 
     1.  Write the equation for the transamination reaction between alanine and oxaloacetate.
     2.  Name the two products that are formed.
@@ -1454,8 +1454,8 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  1.  ``````````{figure} /images/section_23/c04403c157f2b8267458da65ea8f1e65.jpg
         :alt: Chemical illustration: Chapter 20: Energy Metabolism
-
-
+        
+        
         ``````````
 
     2.  pyruvate and aspartate
@@ -1493,15 +1493,15 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  ``````````{figure} /images/section_23/6f40d5fe2d6bf2968a184d396baa07a4.jpg
     :alt: Chemical illustration: Determine if each amino acid is glucogenic, ketogenic, or both.
-
-
+    
+    
     ``````````
 
-2.
+2.  
 
 3.  α-ketoglutarate, NADH, and NH<sub>4</sub><sup>+</sup>
 
-4.
+4.  
 
 5.  1.  glucogenic
     2.  both
@@ -1577,37 +1577,37 @@ The first step in amino acid catabolism is separation of the amino group from th
 
 1.  The hydrolysis of arginine phosphate releases more energy than is needed for the synthesis of ATP, while hydrolysis of glucose 6-phosphate does not.
 
-2.
+2.  
 
 3.  1.  The enzyme will cleave off amino acids one at a time beginning with alanine (the N-terminal end).
     2.  following phenylalanine
 
-4.
+4.  
 
 5.  Half of the label will be on the second carbon atom of oxaloacetate, while the other half will be on the third carbon atom.
 
-6.
+6.  
 
 7.  ``````````{figure} /images/section_23/112ef59a1e0ae68d48f5898d6a28d2b8.jpg
     :alt: Chemical illustration: Half of the label will be on the second carbon atom of oxaloacetate, while the other half will be on the third carbon atom.
-
-
+    
+    
     ``````````
 
-8.
+8.  
 
 9.  When oxygen is abundant, NADH is reoxidized through the reactions of the electron transport chain.
 
-10.
+10. 
 
 11. FADH<sub>2</sub> is reoxidized back to FAD via the electron transport chain.
 
-12.
+12. 
 
 13. ``````````{figure} /images/section_23/124167c2513a1943be08254f16a5058a.jpg
     :alt: Chemical illustration: FADH 2 is reoxidized back to FAD via the electron transport chain.
-
-
+    
+    
     ``````````
 
 [^chem-1]: The thousands of coordinated chemical reactions that keep cells alive.

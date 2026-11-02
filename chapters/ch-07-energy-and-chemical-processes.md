@@ -196,23 +196,23 @@ Because some forms of exercise use more energy than others, anyone considering a
 
 1.  Energy is the ability to do work.
 
-2.
+2.  
 
 3.  1 cal = 4.184 J; the calorie is larger.
 
-4.
+4.  
 
 5.  1.265 kcal; 5,293 J
 
-6.
+6.  
 
 7.  1 kcal = 4.184 kJ
 
-8.
+8.  
 
 9.  8.4 × 10<sup>6</sup> J
 
-10.
+10. 
 
 ## 7.2 Heat
 
@@ -372,27 +372,27 @@ This value for specific heat is very close to that given for copper in [Table 7.
 
 1.  Heat flows into the pot of water.
 
-2.
+2.  
 
 3.  15,000 cal
 
-4.
+4.  
 
 5.  49.0°C
 
-6.
+6.  
 
 7.  404 g
 
-8.
+8.  
 
 9.  Mercury would experience the largest temperature change.
 
-10.
+10. 
 
 11. 0.496 cal/g·°C
 
-12.
+12. 
 
 ## 7.3 Phase Changes
 
@@ -552,23 +552,23 @@ Under similar circumstances, water will also sublime from frozen foods (e.g., me
 
 1.  670 cal
 
-2.
+2.  
 
 3.  6.98 g
 
-4.
+4.  
 
 5.  8,930 J/g
 
-6.
+6.  
 
 7.  1,440 cal/mol
 
-8.
+8.  
 
 9.  80,600 cal/mol
 
-10.
+10. 
 
 ## 7.4 Bond Energies and Chemical Reactions
 
@@ -708,16 +708,16 @@ Is each chemical reaction exothermic or endothermic?
 
 1.  1.661 × 10<sup>−19</sup> cal
 
-2.
+2.  
 
 3.  endothermic
 
-4.
+4.  
 
 5.  1.  endothermic
     2.  exothermic
 
-6.
+6.  
 
 ## 7.5 The Energy of Biochemical Reactions
 
@@ -796,15 +796,15 @@ Our diet does not just supply us with energy. We also get vitamins, minerals, an
 
 1.  156 kcal
 
-2.
+2.  
 
 3.  exothermic
 
-4.
+4.  
 
 5.  21.3 mol
 
-6.
+6.  
 
 ## 7.6 End-of-Chapter Material
 
@@ -886,33 +886,33 @@ Even complex biochemical reactions have to follow the rules of simple chemistry,
 1.  1.  2SO<sub>2</sub> + O<sub>2</sub> → 2SO<sub>3</sub>
     2.  16,700 kcal
 
-2.
+2.  
 
 3.  about 23.1°C
 
-4.
+4.  
 
 5.  6.76 g
 
-6.
+6.  
 
 7.  652 g
 
-8.
+8.  
 
 9.  1.  83.3 g
     2.  438 g
 
-10.
+10. 
 
 11. 1.  1.34 × 10<sup>24</sup> cal
     2.  93 days
 
-12.
+12. 
 
 13. A reactant is missing: H<sub>2</sub>O is missing.
 
-14.
+14. 
 
 [^chem-1]: The ability to do work.
 

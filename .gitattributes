@@ -1,2 +1,6 @@
 # Preserve the archived HTML byte-for-byte, including source whitespace.
 source/*.html -text -whitespace
+# Pandoc's indented blank lines and empty numbered answer items are intentional.
+chapters/*.md whitespace=-blank-at-eol
+front/*.md whitespace=-blank-at-eol
+appendices/*.md whitespace=-blank-at-eol

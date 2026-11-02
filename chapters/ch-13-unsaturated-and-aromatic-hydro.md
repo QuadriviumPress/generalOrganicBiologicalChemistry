@@ -115,8 +115,8 @@ Here are some basic rules for naming alkenes from the International Union of Pur
 
     ``````````{figure} /images/section_16/38d2578676745ebb989a804247aed7e0.jpg
     :alt: Chemical illustration: Substituent groups are named as with alkanes, and their position is indicated by a number. Thus,
-
-
+    
+    
     ``````````
 
     is 5-methyl-2-hexene. Note that the numbering of the parent chain is always done in such a way as to give the double bond the lowest number, even if that causes a substituent to have a higher number. *The double bond always has priority in numbering.*
@@ -127,14 +127,14 @@ Name each compound.
 
 1.  ``````````{figure} /images/section_16/11d5f4e650c36261ea6e43095b70f0da.jpg
     :alt: Chemical illustration: Name each compound.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_16/024feb79bd92e3f8724302a77be7c76b.jpg
     :alt: Chemical illustration: Name each compound.
-
-
+    
+    
     ``````````
 
 Solution
@@ -148,12 +148,12 @@ Name each compound.
 
 1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH=CHCH<sub>3</sub>
 
-2.
+2.   
 
     ``````````{figure} /images/section_16/271cd294eb155178e189f72305cff4ca.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
 Just as there are cycloalkanes, there are *cycloalkenes*. These compounds are named like alkenes, but with the prefix *cyclo*- attached to the beginning of the parent alkene name.
@@ -171,24 +171,24 @@ Solution
 
     ``````````{figure} /images/section_16/fca0a2a98e5e8b1372243220cb25bcf7.jpg
     :alt: Chemical illustration: First write the parent chain of five carbon atoms: C–C–C–C–C. Then add the double bond between the second and third carbon atoms:
-
-
+    
+    
     ``````````
 
     Now place the methyl group on the third carbon atom and add enough hydrogen atoms to give each carbon atom a total of four bonds.
 
     ``````````{figure} /images/section_16/f98f51f3f9c9b23fbf6da268979cfb98.jpg
     :alt: Chemical illustration: Now place the methyl group on the third carbon atom and add enough hydrogen atoms to give each carbon atom a total of four bonds.
-
-
+    
+    
     ``````````
 
 2.  First, consider what each of the three parts of the name means. *Cyclo* means a ring compound, *hex* means 6 carbon atoms, and -*ene* means a double bond.
 
     ``````````{figure} /images/section_16/d3d7478deef8c47b986f6787b1e24d9e.jpg
     :alt: Chemical illustration: First, consider what each of the three parts of the name means. Cyclo means a ring compound, hex means 6 carbon atoms, and - ene means a double bond.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -209,16 +209,16 @@ Draw the structure for each compound.
 
     1.  ``````````{figure} /images/section_16/88706c0f437bfddd8a756606ed04c09a.jpg
         :alt: Chemical illustration: Classify each compound as saturated or unsaturated. Identify each as an alkane, an alkene, or an alkyne.
-
-
+        
+        
         ``````````
 
     2.  CH<sub>3</sub>CH<sub>2</sub>C≡CCH<sub>3</sub>
 
     3.  ``````````{figure} /images/section_16/41ac418527dbece017c41e631dfb9c62.jpg
         :alt: Chemical illustration: Classify each compound as saturated or unsaturated. Identify each as an alkane, an alkene, or an alkyne.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -255,69 +255,69 @@ Draw the structure for each compound.
 
     1.  ``````````{figure} /images/section_16/cb4e2748e26abccff2999e85aa17929f.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/4c1bd78ec79b79240f38809e3f1459e4.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/e8e9711ae13ab052f9f47e03abc5f470.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
 4.  Name each compound according to the IUPAC system.
 
     1.  ``````````{figure} /images/section_16/d6d22298b9c2c328ded928834fb0de9e.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/58a73c0645c7fca937c224279c6ab3c8.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/2bc6f9e4a967477ce6b416d58a873206.jpg
         :alt: Chemical illustration: Name each compound according to the IUPAC system.
-
-
+        
+        
         ``````````
 
 ### Answers
 
 1.  1.  ``````````{figure} /images/section_16/17549429c1043b7246d87f27eaf20402.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/eb4731eba2ce19644e830e58ab7b240c.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/1be0045f7b2136f449d56b78573ad335.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  2-methyl-2-pentene
     2.  3-methyl-2-heptene
     3.  2,5-dimethyl-2-hexene
 
-4.
+4.  
 
 (src-gob-ch13-s02)=
 
@@ -415,8 +415,8 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
     ``````````{figure} /images/section_16/55bc5569d86c404436cae7b6ff1847da.jpg
     :alt: Chemical illustration: This compound meets rule 2; it has two nonidentical groups on each carbon atom (H and Cl on one and H and Br on the other). It exists as both cis and trans isomers:
-
-
+    
+    
     ``````````
 
 2.  This compound has two hydrogen atoms on one of its doubly bonded carbon atoms; it fails rule 2 and does not exist as cis and trans isomers.
@@ -427,8 +427,8 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
     ``````````{figure} /images/section_16/456f8aaa42d41d3ddeedcd1e74c59d1a.jpg
     :alt: Chemical illustration: This compound meets rule 2; it has two nonidentical groups on each carbon atom and exists as both cis and trans isomers:
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -443,14 +443,14 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
     4.  ``````````{figure} /images/section_16/59e80798de70b739b0c8e4f2c5051f65.jpg
         :alt: Chemical illustration: Which compounds can exist as cis-trans isomers? Draw them.
-
-
+        
+        
         ``````````
 
     5.  ``````````{figure} /images/section_16/cc2bacbaeec8ad121e37ef530e7ea4c3.jpg
         :alt: Chemical illustration: Which compounds can exist as cis-trans isomers? Draw them.
-
-
+        
+        
         ``````````
 
 ### Concept Review Exercises
@@ -461,26 +461,26 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
     1.  ``````````{figure} /images/section_16/6e7abe999980c806f82c5935244b807c.jpg
         :alt: Chemical illustration: Classify each compound as a cis isomer, a trans isomer, or neither.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/016dc6eea5f3ed34c0636f026475baa6.jpg
         :alt: Chemical illustration: Classify each compound as a cis isomer, a trans isomer, or neither.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/6f4d0db663885ee6c499924970749b97.jpg
         :alt: Chemical illustration: Classify each compound as a cis isomer, a trans isomer, or neither.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_16/7aec26f72a319418bb7402f0df3ff179.jpg
         :alt: Chemical illustration: Classify each compound as a cis isomer, a trans isomer, or neither.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -520,14 +520,14 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
 1.  1.  ``````````{figure} /images/section_16/49b77e14f1a593612c72d43c42a9f409.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/052c8661866c7e061b36e51ea5710467.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     3.  none
@@ -536,11 +536,11 @@ All four structures have a double bond and thus meet rule 1 for cis-trans isomer
 
     5.  ``````````{figure} /images/section_16/809028196c4d5e2b1007b3b5e975d376.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 ## 13.3 Physical Properties of Alkenes
 
@@ -600,7 +600,7 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  1.  1-pentene
     2.  3-nonene
-2.
+2.  
 
 (src-gob-ch13-s04)=
 
@@ -653,20 +653,20 @@ In each reaction, the reagent adds across the double bond.
 
 1.  ``````````{figure} /images/section_16/a064cd3526a9fa2da52fc2344a78ce57.jpg
     :alt: Chemical illustration: In each reaction, the reagent adds across the double bond.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_16/012f64e623204f90e3fc0e353eb32fb3.jpg
     :alt: Chemical illustration: In each reaction, the reagent adds across the double bond.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_16/99886ecbcf6fdb8a35801bcc0063a0f2.jpg
     :alt: Chemical illustration: In each reaction, the reagent adds across the double bond.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -707,8 +707,8 @@ Write the equation for each reaction.
 
     3.  ``````````{figure} /images/section_16/9f7616b6b3eadde21c0cb30b9245e7d8.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
 2.  Complete each equation.
@@ -719,8 +719,8 @@ Write the equation for each reaction.
 
     3.  ``````````{figure} /images/section_16/dff5e0bda30f066fa5bd237f3d070e90.jpg
         :alt: Chemical illustration: Complete each equation.
-
-
+        
+        
         ``````````
 
 ### Answer
@@ -731,11 +731,11 @@ Write the equation for each reaction.
 
     3.  ``````````{figure} /images/section_16/4ea8823a33199695358f8f8460ad07ff.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 (src-gob-ch13-s05)=
 
@@ -798,8 +798,8 @@ Table 13.2 Some Addition Polymers
 
   - ``````````{figure} /images/section_16/9b86cdda89c551d96580ed8681e0ca59.jpg
     :alt: Chemical illustration: Table 13.2 Some Addition Polymers
-
-
+    
+    
     ``````````
 
   - polypropylene
@@ -810,8 +810,8 @@ Table 13.2 Some Addition Polymers
 
   - ``````````{figure} /images/section_16/081d4b06da2c3314d789d810532d94b1.jpg
     :alt: Chemical illustration: Table 13.2 Some Addition Polymers
-
-
+    
+    
     ``````````
 
   - polyvinyl chloride
@@ -870,7 +870,7 @@ Synthetic polymers are an important part of a hip joint replacement. The hip is 
 
 1.  H<sub>2</sub>C=CCl<sub>2</sub>
 
-2.
+2.  
 
 ## 13.6 Alkynes
 
@@ -945,11 +945,11 @@ Alkynes are similar to alkenes in both physical and chemical properties. For exa
 
     2.  ``````````{figure} /images/section_16/6ab58f652a7b6776043950c2c2cfdb34.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  1-pentyne
     2.  2-hexyne
@@ -1028,11 +1028,11 @@ Most of the benzene used commercially comes from petroleum. It is employed as a 
 
 1.  ``````````{figure} /images/section_16/2890f531315c138b8df7a8affdd93182.jpg
     :alt: Chemical illustration: Draw the structure of benzene as chemists usually represent it today.
-
-
+    
+    
     ``````````
 
-2.
+2.  
 
 ## 13.8 Structure and Nomenclature of Aromatic Compounds
 
@@ -1083,26 +1083,26 @@ Which compounds are aromatic?
 
 1.  ``````````{figure} /images/section_16/c70039f9e6698fc0913495dffe354ac9.jpg
     :alt: Chemical illustration: Which compounds are aromatic?
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_16/40cf8840818b662f47a5f94c2780ed2c.jpg
     :alt: Chemical illustration: Which compounds are aromatic?
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_16/8a2eb330e359b799c5fd0516f7afbf66.jpg
     :alt: Chemical illustration: Which compounds are aromatic?
-
-
+    
+    
     ``````````
 
 4.  ``````````{figure} /images/section_16/3049571ade2b8568f755903972d8c8e3.jpg
     :alt: Chemical illustration: Which compounds are aromatic?
-
-
+    
+    
     ``````````
 
 Solution
@@ -1116,28 +1116,28 @@ Solution
 
 Which compounds are aromatic?
 
-1.
+1.   
 
     ``````````{figure} /images/section_16/93a0709a229842016e420ac9343ba8d4.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_16/9919292df5bf7f383f46ecd390990487.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_16/90e515a4ccfa76e3b99fcb031cc7ecb5.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
 In the International Union of Pure and Applied Chemistry (IUPAC) system, aromatic hydrocarbons are named as derivatives of benzene. [Figure 13.6 \"Some Benzene Derivatives\"](/chapters/ch-13-unsaturated-and-aromatic-hydro.md#src-gob-ch13-s08-f01) shows four examples. In these structures, it is immaterial whether the single substituent is written at the top, side, or bottom of the ring: a hexagon is symmetrical, and therefore all positions are equivalent.
@@ -1182,20 +1182,20 @@ Name each compound using both the common name and the IUPAC name.
 
 1.  ``````````{figure} /images/section_16/dc447539989fc1b4bee488145496995c.jpg
     :alt: Chemical illustration: Name each compound using both the common name and the IUPAC name.
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_16/eb8020a8a88b39746353195e2200c2be.jpg
     :alt: Chemical illustration: Name each compound using both the common name and the IUPAC name.
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_16/fb7076db7b1cc8268f4ee07d84c5e190.jpg
     :alt: Chemical illustration: Name each compound using both the common name and the IUPAC name.
-
-
+    
+    
     ``````````
 
 Solution
@@ -1219,34 +1219,34 @@ The nitro (NO<sub>2</sub>) group is a common substituent in aromatic compounds. 
 
 Name each compound using both the common name and the IUPAC name.
 
-1.
+1.   
 
     ``````````{figure} /images/section_16/cb83f39f995c9325fd48a3d3300892d2.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_16/4e218dd88a148338369cdd75f7e22125.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_16/fe27a4e3fdbdb6c92bac411446f79263.jpg
     :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+    
+    
     ``````````
 
 Sometimes an aromatic group is found as a substituent bonded to a nonaromatic entity or to another aromatic ring. The group of atoms remaining when a hydrogen atom is removed from an aromatic compound is called an aryl group[^chem-16]. The most common aryl group is derived from benzene (C<sub>6</sub>H<sub>6</sub>) by removing one hydrogen atom (C<sub>6</sub>H<sub>5</sub>) and is called a *phenyl* group, from *pheno*, an old name for benzene.
 
 ``````````{figure} /images/section_16/60f32d3db941938d884e3b924babd2fb.jpg
-:alt: Chemical illustration: Sometimes an aromatic group is found as a substituent bonded to a nonaromatic entity or to another aromatic ring. The group of atoms remaining when a hydrogen atom is removed from an aromatic compound is called an aryl group A group derived from an aromatic hydrocarbon by the removal of a hydrogen atom. . The most common aryl group is derived from
+:alt: Chemical illustration: Sometimes an aromatic group is found as a substituent bonded to a nonaromatic entity or to another aromatic ring. The group of atoms remaining when a hydrogen atom is removed from an aromatic compound is called an aryl group A group derived from an aromatic hydrocarbon by the removal of a hydrogen atom. . The most common aryl group is derived from 
 
 ``````````
 
@@ -1291,40 +1291,40 @@ Table 13.4 Some Drugs That Contain a Benzene Ring
 
   - ``````````{figure} /images/section_16/2540c49bfe04360d5eceea42a457716e.jpg
     :alt: Chemical illustration: Table 13.4 Some Drugs That Contain a Benzene Ring
-
-
+    
+    
     ``````````
 
 - - acetaminophen
 
   - ``````````{figure} /images/section_16/beb319948f1e9b8824da5aeef723188d.jpg
     :alt: Chemical illustration: Table 13.4 Some Drugs That Contain a Benzene Ring
-
-
+    
+    
     ``````````
 
 - - ibuprofen
 
   - ``````````{figure} /images/section_16/85e438c1a0b8f95f8fd7e807966f01ad.jpg
     :alt: Chemical illustration: Table 13.4 Some Drugs That Contain a Benzene Ring
-
-
+    
+    
     ``````````
 
 - - amphetamine
 
   - ``````````{figure} /images/section_16/8d35c46f5454c7c4d096d17b369bda9d.jpg
     :alt: Chemical illustration: Table 13.4 Some Drugs That Contain a Benzene Ring
-
-
+    
+    
     ``````````
 
 - - sulfanilamide
 
   - ``````````{figure} /images/section_16/495fe8529f673bf5c10e4d728948141d.jpg
     :alt: Chemical illustration: Table 13.4 Some Drugs That Contain a Benzene Ring
-
-
+    
+    
     ``````````
 
 ````````
@@ -1345,40 +1345,40 @@ Table 13.4 Some Drugs That Contain a Benzene Ring
 
     ``````````{figure} /images/section_16/43025c671d65183e133488e4fb4c6f15.jpg
     :alt: Chemical illustration: meta = 1,3 disubstitution; (answers will vary)
-
-
+    
+    
     ``````````
 
     ortho = 1,2 disubstitution
 
     ``````````{figure} /images/section_16/a616f6c69ac593a8a2ea8fb688984b9c.jpg
     :alt: Chemical illustration: ortho = 1,2 disubstitution
-
-
+    
+    
     ``````````
 
     para = 1,4 disubstitution or 1-bromo-4-chlorobenzene
 
     ``````````{figure} /images/section_16/fda7710e9562cc5bec55d2aa67bbb978.jpg
     :alt: Chemical illustration: para = 1,4 disubstitution or 1-bromo-4-chlorobenzene
-
-
+    
+    
     ``````````
 
 3.  phenyl group: C<sub>6</sub>H<sub>5</sub> or
 
     ``````````{figure} /images/section_16/b6b477d2b8ae21f3d394b40fab0a177d.jpg
     :alt: Chemical illustration: phenyl group: C 6 H 5 or
-
-
+    
+    
     ``````````
 
     3-phenyloctane:
 
     ``````````{figure} /images/section_16/098756fd2146eb5fa1ae6365a8ddf9fd.jpg
     :alt: Chemical illustration: 3-phenyloctane:
-
-
+    
+    
     ``````````
 
 ````````````{important} Key Takeaway
@@ -1393,28 +1393,28 @@ Table 13.4 Some Drugs That Contain a Benzene Ring
 
     1.  ``````````{figure} /images/section_16/8fdfb7f273659ed8d585eb63702cdd50.jpg
         :alt: Chemical illustration: Is each compound aromatic?
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/2872aadf5fc4a18ee1358f855cda4e6d.jpg
         :alt: Chemical illustration: Is each compound aromatic?
-
-
+        
+        
         ``````````
 
 2.  Is each compound aromatic?
 
     1.  ``````````{figure} /images/section_16/203814e81de08a13aa57d33063538dbc.jpg
         :alt: Chemical illustration: Is each compound aromatic?
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/f42379468d55717a8a938392bace79ee.jpg
         :alt: Chemical illustration: Is each compound aromatic?
-
-
+        
+        
         ``````````
 
 3.  Draw the structure for each compound.
@@ -1433,52 +1433,52 @@ Table 13.4 Some Drugs That Contain a Benzene Ring
 
     1.  ``````````{figure} /images/section_16/36f98b76e15688719908cc563da36ea7.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/da48d6779a3090bcda19989e678e86d3.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/652c7baacb862f276237bc939151ac49.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_16/b25de5dace1dad2dc08aadfd7814be9e.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
 6.  Name each compound with its IUPAC name.
 
     1.  ``````````{figure} /images/section_16/9e56509c42b93b35250d517964f98a76.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/db9fdf6839684c2b94ce83b01bcb6985.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/6fbc40567742096650a3feae21ccb278.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
     4.  ``````````{figure} /images/section_16/fcf9a065830b0f59377a77faf4280602.jpg
         :alt: Chemical illustration: Name each compound with its IUPAC name.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -1486,34 +1486,34 @@ Table 13.4 Some Drugs That Contain a Benzene Ring
 1.  1.  yes
     2.  no
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_16/1af4b322f4847c4fc8222846db935163.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/996d5ce95967da381e00a0de3f5c1fc9.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/ce348a7764207c23cc271a98ed6e1725.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  ethylbenzene
     2.  isopropylbenzene
     3.  *o*-bromotoluene
     4.  3,5-dichlorotoluene
 
-6.
+6.  
 
 ## 13.9 End-of-Chapter Material
 
@@ -1565,8 +1565,8 @@ A **polycyclic aromatic hydrocarbon (PAH)** has fused benzene rings sharing a co
 
     1.  ``````````{figure} /images/section_16/9a3665a600a0b3616f0d0a73b536a465.jpg
         :alt: Chemical illustration: Classify each compound as saturated or unsaturated.
-
-
+        
+        
         ``````````
 
     2.  CH<sub>3</sub>C≡CCH<sub>3</sub>
@@ -1575,28 +1575,28 @@ A **polycyclic aromatic hydrocarbon (PAH)** has fused benzene rings sharing a co
 
     1.  ``````````{figure} /images/section_16/e878eb0038dbb779a0a984e7b15b8688.jpg
         :alt: Chemical illustration: Classify each compound as saturated or unsaturated.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/5b9dd24602d376f0b202d27f09a82ccc.jpg
         :alt: Chemical illustration: Classify each compound as saturated or unsaturated.
-
-
+        
+        
         ``````````
 
 3.  Give the molecular formula for each compound.
 
     1.  ``````````{figure} /images/section_16/8a4860fd9234c826f8c1fcdd489dcf23.jpg
         :alt: Chemical illustration: Give the molecular formula for each compound.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/40c8b584ab079c78d4d85e1d39191e5d.jpg
         :alt: Chemical illustration: Give the molecular formula for each compound.
-
-
+        
+        
         ``````````
 
 4.  When three isomeric pentenes---X, Y, and Z---are hydrogenated, all three form 2-methylbutane. The addition of Cl<sub>2</sub> to Y gives 1,2-dichloro-3-methylbutane, and the addition of Cl<sub>2</sub> to Z gives 1,2-dichloro-2-methylbutane. Draw the original structures for X, Y, and Z.
@@ -1631,40 +1631,40 @@ A **polycyclic aromatic hydrocarbon (PAH)** has fused benzene rings sharing a co
 
     1.  ``````````{figure} /images/section_16/82a546a5a43e912aa5ea9671ac995b45.jpg
         :alt: Chemical illustration: Following are line-angle formulas for three compounds. Draw the structure and give the name for each.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/1cee39f629aadd787f3ff7aac3ba4c5b.jpg
         :alt: Chemical illustration: Following are line-angle formulas for three compounds. Draw the structure and give the name for each.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/b91b78c5b5e61877237b860bbf5d4917.jpg
         :alt: Chemical illustration: Following are line-angle formulas for three compounds. Draw the structure and give the name for each.
-
-
+        
+        
         ``````````
 
 13. Following are ball-and-stick molecular models for three compounds (blue balls represent H atoms; red balls are C atoms). Write the condensed structural formula and give the name for each.
 
     1.  ``````````{figure} /images/section_16/91357fc82e3b1027bf28095fad7f65a9.jpg
         :alt: Chemical illustration: Following are ball-and-stick molecular models for three compounds (blue balls represent H atoms; red balls are C atoms). Write the condensed structural formula and give the name for each.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_16/06f1bf05a3632cdebfb8c1e3c95bf16c.jpg
         :alt: Chemical illustration: Following are ball-and-stick molecular models for three compounds (blue balls represent H atoms; red balls are C atoms). Write the condensed structural formula and give the name for each.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/48c57c55debaaa4b0f65facec4cffa76.jpg
         :alt: Chemical illustration: Following are ball-and-stick molecular models for three compounds (blue balls represent H atoms; red balls are C atoms). Write the condensed structural formula and give the name for each.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -1672,43 +1672,43 @@ A **polycyclic aromatic hydrocarbon (PAH)** has fused benzene rings sharing a co
 1.  1.  unsaturated
     2.  unsaturated
 
-2.
+2.  
 
 3.  1.  C<sub>6</sub>H<sub>10</sub>
     2.  C<sub>4</sub>H<sub>8</sub>
 
-4.
+4.  
 
 5.  Add bromine solution (reddish-brown) to each. Pentane will not react, and the reddish-brown color persists; 1-pentene will react, leaving a colorless solution.
 
-6.
+6.  
 
 7.  2C<sub>6</sub>H<sub>6</sub> + 15O<sub>2</sub> → 12CO<sub>2</sub> + 6H<sub>2</sub>O; 132 g
 
-8.
+8.  
 
 9.  carcinogenic, flammable
 
-10.
+10. 
 
 11. 1.  number not needed
     2.  can't have two groups on one carbon atom on a benzene ring
     3.  can't have a substituent on the same carbon atom as the nitro group
 
-12.
+12. 
 
 13. 1.  CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>; 2-hexene
 
     2.  ``````````{figure} /images/section_16/ffaef217cb5e0367f57eb7533f23f0fa.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_16/0de90d6e479fd73668e1560be25522ff.jpg
         :alt: Chemical illustration: Chapter 13: Unsaturated and Aromatic Hydrocarbons
-
-
+        
+        
         ``````````
 
 [^chem-1]: A hydrocarbon with one or more carbon--carbon double bonds.

@@ -197,20 +197,20 @@ Although we often draw the carbon atoms in a straight line, they actually have m
 
     1.  ``````````{figure} /images/section_20/95a86db3b6ffb35ccda8b5948f01e7c3.jpg
         :alt: Chemical illustration: Arrange these fatty acids (all contain 18 carbon atoms) in order of increasing melting point. Justify your arrangement.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_20/20c8479a2a876258569fad4833fd34a6.jpg
         :alt: Chemical illustration: Arrange these fatty acids (all contain 18 carbon atoms) in order of increasing melting point. Justify your arrangement.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_20/883aac7de242167746705cb8ede004f4.jpg
         :alt: Chemical illustration: Arrange these fatty acids (all contain 18 carbon atoms) in order of increasing melting point. Justify your arrangement.
-
-
+        
+        
         ``````````
 
 6.  Arrange these fatty acids (all contain 16 carbon atoms) in order of increasing melting point. Justify your arrangement.
@@ -219,14 +219,14 @@ Although we often draw the carbon atoms in a straight line, they actually have m
 
     2.  ``````````{figure} /images/section_20/0002fe42ad4887cfcec274c669f15966.jpg
         :alt: Chemical illustration: Arrange these fatty acids (all contain 16 carbon atoms) in order of increasing melting point. Justify your arrangement.
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_20/37c8be7c48038d1fffea540b38d4cec9.jpg
         :alt: Chemical illustration: Arrange these fatty acids (all contain 16 carbon atoms) in order of increasing melting point. Justify your arrangement.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -235,17 +235,17 @@ Although we often draw the carbon atoms in a straight line, they actually have m
     2.  saturated; 14 carbon atoms
     3.  unsaturated; 18 carbon atoms
 
-2.
+2.  
 
 3.  1.  CH<sub>3</sub>(CH<sub>2</sub>)<sub>10</sub>COOH
     2.  CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>CH=CH(CH<sub>2</sub>)<sub>7</sub>COOH
     3.  CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>(CH<sub>2</sub>CH=CH)<sub>2</sub>(CH<sub>2</sub>)<sub>7</sub>COOH
 
-4.
+4.  
 
 5.  c \< a \< b; an increase in the number of double bonds will lower the melting point because it is more difficult to closely pack the fatty acids together.
 
-6.
+6.  
 
 (src-gob-ch17-s02)=
 
@@ -288,7 +288,7 @@ Table 17.2 Average Fatty Acid Composition of Some Common Fats and Oils (%)\*
 ````````{list-table}
 :header-rows: 1
 
-- -
+- -  
   - Lauric
   - Myristic
   - Palmitic
@@ -313,7 +313,7 @@ Table 17.2 Average Fatty Acid Composition of Some Common Fats and Oils (%)\*
   - 2
   - 1
 - - tallow
-  -
+  -  
   - 3
   - 24
   - 19
@@ -321,13 +321,13 @@ Table 17.2 Average Fatty Acid Composition of Some Common Fats and Oils (%)\*
   - 3
   - 1
 - - lard
-  -
+  -  
   - 2
   - 26
   - 14
   - 44
   - 10
-  -
+  -  
 - - **Oils**
   - **Oils**
   - **Oils**
@@ -337,8 +337,8 @@ Table 17.2 Average Fatty Acid Composition of Some Common Fats and Oils (%)\*
   - **Oils**
   - **Oils**
 - - canola oil
-  -
-  -
+  -  
+  -  
   - 4
   - 2
   - 62
@@ -351,34 +351,34 @@ Table 17.2 Average Fatty Acid Composition of Some Common Fats and Oils (%)\*
   - 3
   - 6
   - 2
-  -
+  -  
 - - corn oil
-  -
-  -
+  -  
+  -  
   - 11
   - 2
   - 28
   - 58
   - 1
 - - olive oil
-  -
-  -
+  -  
+  -  
   - 13
   - 3
   - 71
   - 10
   - 1
 - - peanut oil
-  -
-  -
+  -  
+  -  
   - 11
   - 2
   - 48
   - 32
-  -
+  -  
 - - soybean oil
-  -
-  -
+  -  
+  -  
   - 11
   - 4
   - 24
@@ -477,8 +477,8 @@ Rancidity is a major concern of the food industry, which is why food chemists ar
 
     ``````````{figure} /images/section_20/63179743b6394b02b6c49e05359c5aad.jpg
     :alt: Chemical illustration: Which of these triglycerides would you expect to find in higher amounts in oils? In fats? Justify your choice.
-
-
+    
+    
     ``````````
 
 ### Answers
@@ -517,13 +517,13 @@ Rancidity is a major concern of the food industry, which is why food chemists ar
 
 6.  Draw structures to write the reaction for the hydrolysis of tristearin in a basic solution (see [Table 17.1 \"Some Common Fatty Acids Found in Natural Fats\"](/chapters/ch-17-lipids.md#src-gob-ch17-s01-t01) for the condensed structure of stearic acid).
 
-7.
+7.   
 
     1.  What compounds with a disagreeable odor are formed when butter becomes rancid?
     2.  How are these compounds formed?
     3.  How can rancidity be prevented?
 
-8.
+8.   
 
     1.  What compound with a disagreeable odor is formed when unsaturated fatty acids react with oxygen in the atmosphere?
     2.  How can this process be prevented?
@@ -532,33 +532,33 @@ Rancidity is a major concern of the food industry, which is why food chemists ar
 
 1.  ``````````{figure} /images/section_20/5fcf85185b1a58ac21f863230ca0bdbf.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_20/4aa8eea1e965857206cb79af22ebab57.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  ``````````{figure} /images/section_20/3c81d131313d7e5dd7d2d0039152443c.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-6.
+6.  
 
 7.  1.  smaller carboxylic acids, such as butyric, caprylic, and capric acids
     2.  These compounds are formed by the hydrolysis of the triglycerides found in butter.
     3.  Rancidity can be prevented by covering the butter (to keep out moisture) and storing it in a refrigerator. (Cold temperatures slow down hydrolysis reactions.)
 
-8.
+8.  
 
 (src-gob-ch17-s03)=
 
@@ -704,35 +704,35 @@ Small ions and molecules soluble in water enter and leave the cell by way of cha
 
     1.  ``````````{figure} /images/section_20/aefee6d9bdeee6e6ae02f9702f91760b.jpg
         :alt: Chemical illustration: Classify each as a phospholipid, a glycolipid, and/or a sphingolipid. (Some lipids can be given more than one classification.)
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_20/f22f6b8e31147a19310be1199550f42e.jpg
         :alt: Chemical illustration: Classify each as a phospholipid, a glycolipid, and/or a sphingolipid. (Some lipids can be given more than one classification.)
-
-
+        
+        
         ``````````
 
 2.  Classify each as a phospholipid, a glycolipid, and/or a sphingolipid. (Some lipids can be given more than one classification.)
 
     1.  ``````````{figure} /images/section_20/20b3d2b85550fe3ee0b3588dc21a8707.jpg
         :alt: Chemical illustration: Classify each as a phospholipid, a glycolipid, and/or a sphingolipid. (Some lipids can be given more than one classification.)
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_20/d1a53e8dae080c3e3ea9700f4e4e8d24.jpg
         :alt: Chemical illustration: Classify each as a phospholipid, a glycolipid, and/or a sphingolipid. (Some lipids can be given more than one classification.)
-
-
+        
+        
         ``````````
 
 3.  Draw the structure of the sphingomyelin that has lauric acid as its fatty acid and ethanolamine as its amino alcohol.
 
 4.  Draw the structure of the cerebroside that has myristic acid as its fatty acid and galactose as its sugar.
 
-5.
+5.   
 
     1.  Distinguish between an integral protein and a peripheral protein.
     2.  What is one key function of integral proteins?
@@ -742,15 +742,15 @@ Small ions and molecules soluble in water enter and leave the cell by way of cha
 1.  1.  phospholipid
     2.  sphingolipid and glycolipid
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_20/cc42e22ce0c34f86a65d80595671f731.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  1.  Integral proteins span the lipid bilayer, while peripheral proteins associate with the surfaces of the lipid bilayer.
     2.  aid in the movement of charged and polar species across the membrane
@@ -821,40 +821,40 @@ Table 17.3 Representative Steroid Hormones and Their Physiological Effects
 
 - - ``````````{figure} /images/section_20/7b02575a1d4b6ad3b45bc1596a85d4ad.jpg
     :alt: Chemical illustration: Table 17.3 Representative Steroid Hormones and Their Physiological Effects
-
-
+    
+    
     ``````````
 
   - regulates salt metabolism; stimulates kidneys to retain sodium and excrete potassium
 
 - - ``````````{figure} /images/section_20/3c88f01c58fed48b95e9b2ed7393611b.jpg
     :alt: Chemical illustration: Table 17.3 Representative Steroid Hormones and Their Physiological Effects
-
-
+    
+    
     ``````````
 
   - stimulates the conversion of proteins to carbohydrates
 
 - - ``````````{figure} /images/section_20/6718f8abf8db71f162c478ebbb19f2ce.jpg
     :alt: Chemical illustration: Table 17.3 Representative Steroid Hormones and Their Physiological Effects
-
-
+    
+    
     ``````````
 
   - regulates the menstrual cycle; maintains pregnancy
 
 - - ``````````{figure} /images/section_20/f8b592c316e19d92f796776a5c62f82e.jpg
     :alt: Chemical illustration: Table 17.3 Representative Steroid Hormones and Their Physiological Effects
-
-
+    
+    
     ``````````
 
   - stimulates female sex characteristics; regulates changes during the menstrual cycle
 
 - - ``````````{figure} /images/section_20/917ecf7acccf4ccad4680dd6e4313a77.jpg
     :alt: Chemical illustration: Table 17.3 Representative Steroid Hormones and Their Physiological Effects
-
-
+    
+    
     ``````````
 
   - stimulates and maintains male sex characteristics
@@ -931,15 +931,15 @@ Surgical removal is often advised for a gallbladder that becomes infected, infla
 
 1.  cholesterol
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_20/53cd0d34ee9fb9a42f5244eabbd07178.jpg
     :alt: Chemical illustration: cholesterol
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 ## 17.5 End-of-Chapter Material
 
@@ -971,8 +971,8 @@ Most lipids can be saponified, but some, such as **steroids**, cannot be saponif
 
         ``````````{figure} /images/section_20/0270c4c45ab6484444b6fed4ac626491.jpg
         :alt: Chemical illustration: Would you expect the melting point of palmitelaidic acid to be lower or higher than that of elaidic acid? Explain.
-
-
+        
+        
         ``````````
 
 2.  Examine the labels on two brands of margarine and two brands of shortening and list the oils used in the various brands.
@@ -985,8 +985,8 @@ Most lipids can be saponified, but some, such as **steroids**, cannot be saponif
 
     ``````````{figure} /images/section_20/d6337e89bff3a69089a0fe5e9eb01a8a.jpg
     :alt: Chemical illustration: Serine is an amino acid that has the following structure. Draw the structure for a phosphatidylserine that contains a palmitic acid and a palmitoleic acid unit.
-
-
+    
+    
     ``````````
 
 6.  Explain whether each compound would be expected to diffuse through the lipid bilayer of a cell membrane.
@@ -1004,7 +1004,7 @@ Most lipids can be saponified, but some, such as **steroids**, cannot be saponif
 
 8.  How does the structure of cholic acid differ from that of cholesterol? Which compound would you expect to be more polar? Why?
 
-9.
+9.   
 
     1.  What fatty acid is the precursor for the prostaglandins?
     2.  Identify three biological effects of prostaglandins.
@@ -1016,35 +1016,35 @@ Most lipids can be saponified, but some, such as **steroids**, cannot be saponif
 1.  1.  Stearic acid has the highest melting point, followed by elaidic acid, and then oleic acid with the lowest melting point. Elaidic acid is a *trans* fatty acid, and the carbon chains can pack together almost as tightly as those of the saturated stearic acid. Oleic acid is a *cis* fatty acid, and the bend in the hydrocarbon chain keeps these carbon chains from packing as closely together; fewer interactions lead to a much lower melting point.
     2.  The melting point of palmitelaidic acid should be lower than that of elaidic acid because it has a shorter carbon chain (16, as compared to 18 for elaidic acid). The shorter the carbon chain, the lower the melting point due to a decrease in intermolecular interactions.
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_20/2f72b31967541a6516059225e6511ef1.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  ``````````{figure} /images/section_20/39f11c5526ff31b33f7a95b80db827e1.jpg
     :alt: Chemical illustration: Chapter 17: Lipids
-
-
+    
+    
     ``````````
 
-6.
+6.  
 
 7.  1.  regulates the menstrual cycle and maintains pregnancy
     2.  regulates salt metabolism by stimulating the kidneys to retain sodium and excrete potassium
     3.  stimulates and maintains male sex characteristics
     4.  stimulates the conversion of proteins to carbohydrates
 
-8.
+8.  
 
 9.  1.  arachidonic acid
     2.  induce smooth muscle contraction, lower blood pressure, and contribute to the inflammatory response
 
-10.
+10. 
 
 [^chem-1]: A compound isolated from body tissues that is more soluble in organic solvents than in water.
 

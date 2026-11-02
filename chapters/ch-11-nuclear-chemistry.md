@@ -208,42 +208,42 @@ Fission is the radioactive process used in nuclear power plants and one type of 
 
 1.  Radioactivity is the spontaneous emission of particles and radiation from atomic nuclei.
 
-2.
+2.  
 
 3.  1.  5 protons; 6 neutrons
     2.  13 protons; 14 neutrons
     3.  26 protons; 30 neutrons
     4.  86 protons; 138 neutrons
 
-4.
+4.  
 
 5.  An alpha particle is a combination of two protons and two neutrons and is equivalent to a helium nucleus.
 
-6.
+6.  
 
 7.  Gamma rays are high-energy electromagnetic radiation given off in radioactive decay.
 
-8.
+8.  
 
 9.  $\left. {{}_{94}^{244}\text{P}}\text{u}\rightarrow{{}_{2}^{4}\text{H}}\text{e~+~}{{}_{92}^{240}\text{U}}\text{;} \right.$ the daughter isotope is ${{}_{92}^{240}\text{U}}\text{,}$ an atom of uranium.
 
-10.
+10. 
 
 11. $\left. {{}_{50}^{121}\text{S}}\text{n}\rightarrow{{}_{- 1}^{0}\text{e}}\text{~+~}{{}_{51}^{121}\text{S}}\text{b;} \right.$ the daughter isotope is ${{}_{51}^{121}\text{S}}\text{b,}$ an atom of antimony.
 
-12.
+12. 
 
 13. 0.512 MeV
 
-14.
+14. 
 
 15. Beta particles; shielding of the appropriate thickness can protect against both alpha and beta particles.
 
-16.
+16. 
 
 17. Nuclear fission is when large nuclei break down into smaller nuclei.
 
-18.
+18. 
 
 (src-gob-ch11-s02)=
 
@@ -380,15 +380,15 @@ On the other hand, some nuclei have extremely short half-lives, presenting chall
 
 1.  Only radioactive isotopes have half-lives.
 
-2.
+2.  
 
 3.  51.0 d
 
-4.
+4.  
 
 5.  25 y
 
-6.
+6.  
 
 ## 11.3 Units of Radioactivity
 
@@ -583,31 +583,31 @@ Another means of detecting radioactivity is an electrical device called a Geiger
 
 1.  Known as the radiation absorbed dose, a rad is the absorption of 0.01 J/g of tissue.
 
-2.
+2.  
 
 3.  A becquerel is smaller and equals 1 decay per second. A curie is 3.7 × 10<sup>10</sup> Bq.
 
-4.
+4.  
 
 5.  6000 y
 
-6.
+6.  
 
 7.  2.41 × 10<sup>6</sup> disintegrations per second
 
-8.
+8.  
 
 9.  The radiation exposure is determined by the number of rads times the quality factor of the radiation.
 
-10.
+10. 
 
 11. At least 16% (terrestrial and cosmic sources) of radioactivity is unavoidable; the rest depends on what else a person is exposed to.
 
-12.
+12. 
 
 13. A film badge uses film, which is exposed as it is subjected to radiation.
 
-14.
+14. 
 
 ## 11.4 Uses of Radioactive Isotopes
 
@@ -749,27 +749,27 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  A tracer follows the path of a chemical or a physical process. One of the uses of a tracer is following the path of water underground (answers will vary).
 
-2.
+2.  
 
 3.  Radioactive dating works by comparing the amounts of parent and daughter isotopes and calculating back to how long ago all of the material was just the parent isotope.
 
-4.
+4.  
 
 5.  about 11,400 y
 
-6.
+6.  
 
 7.  increased shelf life (answers will vary)
 
-8.
+8.  
 
 9.  Iodine-131 is preferentially absorbed by the thyroid gland and can be used to measure the gland's activity or destroy bad cells in the gland.
 
-10.
+10. 
 
 11. gamma rays, beta particles, or alpha particles
 
-12.
+12. 
 
 ## 11.5 Nuclear Energy
 
@@ -928,19 +928,19 @@ One of the chief responsibilities of a nuclear medicine technologist is safety. 
 
 1.  1.22 × 10<sup>13</sup> J
 
-2.
+2.  
 
 3.  1.70 × 10<sup>12</sup> J
 
-4.
+4.  
 
 5.  A nuclear reactor generates heat, which is used to generate steam that turns a turbine to generate electricity.
 
-6.
+6.  
 
 7.  A chain reaction is an ever-expanding series of processes that, if left unchecked, can cause a runaway reaction and possibly an explosion.
 
-8.
+8.  
 
 ## 11.6 End-of-Chapter Material
 
@@ -1002,27 +1002,27 @@ Radioactive processes occur with simultaneous changes in energy. This **nuclear 
 
 1.  Acids can dissolve metals, making aqueous solutions.
 
-2.
+2.  
 
 3.  14.7 mL
 
-4.
+4.  
 
 5.  $\left. {{}_{38}^{90}\text{S}}\text{r}\rightarrow{{}_{- 1}^{0}\text{e}} + {{}_{39}^{90}\text{Y}} \right.$
 
-6.
+6.  
 
 7.  502 g/mol
 
-8.
+8.  
 
 9.  about 18 Bq
 
-10.
+10. 
 
 11. UF<sub>6</sub> + 2H<sub>2</sub>O → UO<sub>2</sub>F<sub>2</sub> + 4HF
 
-12.
+12. 
 
 [^chem-1]: Emanations of particles and radiation from atomic nuclei.
 

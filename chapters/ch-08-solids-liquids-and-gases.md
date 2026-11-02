@@ -226,25 +226,25 @@ What intermolecular forces besides dispersion forces, if any, exist in each subs
 
 1.  solid, liquid, and gas
 
-2.
+2.  
 
 3.  London forces, hydrogen bonding, and ionic interactions
 
-4.
+4.  
 
 5.  1.  hydrogen bonding
     2.  ionic interactions
     3.  dispersion forces
 
-6.
+6.  
 
 7.  The two covalent bonds are oriented in such a way that their dipoles cancel out.
 
-8.
+8.  
 
 9.  very hard, high melting point
 
-10.
+10. 
 
 ## 8.2 Solids and Liquids
 
@@ -401,27 +401,27 @@ Water's influence on the world around us is affected by these properties. Isn't 
 
 1.  hard, specific volume and shape, high density, cannot be compressed
 
-2.
+2.  
 
 3.  variable volume and shape, low density, compressible
 
-4.
+4.  
 
 5.  sodium chloride (answers will vary)
 
-6.
+6.  
 
 7.  At higher temperatures, their intermolecular interactions are strong enough to hold the particles in place.
 
-8.
+8.  
 
 9.  high density; definite volume
 
-10.
+10. 
 
 11. liquid; gas; solid
 
-12.
+12. 
 
 (src-gob-ch08-s03)=
 
@@ -515,23 +515,23 @@ The kinetic theory also states that there is no interaction between individual g
 
 1.  Gases are composed of tiny particles that are separated by large distances. Gas particles are constantly moving, experiencing collisions with other gas particles and the walls of their container. The velocity of gas particles is related to the temperature of a gas. Gas particles do not experience any force of attraction or repulsion with each other.
 
-2.
+2.  
 
 3.  A gas exerts pressure as its particles rebound off the walls of its container.
 
-4.
+4.  
 
 5.  1 Pa, 1 mmHg, and 1 atm
 
-6.
+6.  
 
 7.  1,190 torr
 
-8.
+8.  
 
 9.  0.158 atm; 0.108 atm
 
-10.
+10. 
 
 ## 8.4 Gas Laws
 
@@ -905,47 +905,47 @@ Because respiratory therapists work directly with patients, the ability to work 
 
 1.  temperature and amount of the gas
 
-2.
+2.  
 
 3.  The identity does not matter because the variables of Boyle's law do not identify the gas.
 
-4.
+4.  
 
 5.  3.89 L
 
-6.
+6.  
 
 7.  92.1 mL
 
-8.
+8.  
 
 9.  1.07 L
 
-10.
+10. 
 
 11. 23.7 cm<sup>3</sup>
 
-12.
+12. 
 
 13. 206 mL
 
-14.
+14. 
 
 15. The ideal gas law confirms that 22.4 L equals 1 mol.
 
-16.
+16. 
 
 17. 1.63 mol
 
-18.
+18. 
 
 19. 405 K; 132°C
 
-20.
+20. 
 
 21. 0.151 atm
 
-22.
+22. 
 
 ## 8.5 End-of-Chapter Material
 
@@ -1005,24 +1005,24 @@ There are several simple relationships between the variables used to describe a 
 
 1.  31.9 g
 
-2.
+2.  
 
 3.  1.  11.4 mol
     2.  255 L
 
-4.
+4.  
 
 5.  57.81 L; an expansion of 57,700 times
 
-6.
+6.  
 
 7.  NaCl; with smaller anions, NaCl likely experiences stronger ionic bonding.
 
-8.
+8.  
 
 9.  11.6 mol
 
-10.
+10. 
 
 [^chem-1]: A form of matter that has the same physical properties throughout.
 

@@ -291,7 +291,6 @@ def main():
                       '2024 atomic weights. Consult [CIAAW](https://www.ciaaw.org/abridged-atomic-weights.htm) '
                       'for the published weights and uncertainties.\n```\n\n')
             text = re.sub(r'(^# [^\n]+\n\n)', lambda m: m[0] + notice, text, count=1, flags=re.M)
-        text = '\n'.join(line.rstrip() for line in text.splitlines()).rstrip() + '\n'
         target = ROOT / entry['file']
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(text)

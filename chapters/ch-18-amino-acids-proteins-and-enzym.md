@@ -120,8 +120,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/7fe184bc1edcb8cf40851bb62cfb7182.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 75
@@ -134,8 +134,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/f0327ddd85f14253ec7c3e902077adcc.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 89
@@ -148,8 +148,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/da1aa9e6507b67f16936a98ab3e062c1.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 117
@@ -162,8 +162,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/7feae33da978f4e4d15b8a47e9e8be46.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 131
@@ -176,8 +176,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/016c5c25430dd25bfdd64db5a18282ad.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 131
@@ -190,8 +190,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/ea72e274624f3ddfb3d2553f710714e3.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 165
@@ -204,8 +204,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/0179041c9d7240954fedc2914a9acd6e.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 204
@@ -218,8 +218,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/0fa1e5f19c0783df3708095168b30a05.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 149
@@ -232,8 +232,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/cb08ea4ca52c16e52f1c1a95d9088f47.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 115
@@ -252,8 +252,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/63848af5c32997eb781c2825ef7b146e.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 105
@@ -266,8 +266,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/ce4f6352d122b852daabf06990887c35.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 119
@@ -280,8 +280,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/e50d80c23bf23cf172825879cce34c4b.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 121
@@ -294,8 +294,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/7209f7a3ae9adfa439347cdcb8ea7fd5.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 181
@@ -308,8 +308,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/2eeebc4421b578fd768f3c89ed753971.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 132
@@ -322,8 +322,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/c786e6a0db62b979a69a4b9e768cdce1.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 146
@@ -342,8 +342,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/daea79b248b5e0710ef85691aae2d2a9.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 132
@@ -356,8 +356,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/d5f6aea2aff13631e7ab0de2e293833b.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 146
@@ -376,8 +376,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/f18c38bbc19d1bc05232e74d0e7e9f25.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 155
@@ -390,8 +390,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/965e267b9d5ba8e56a6e913503113bf4.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 147
@@ -404,8 +404,8 @@ Table 18.2 Common Amino Acids Found in Proteins
 
   - ``````````{figure} /images/section_21/4857f12bc44f0966b40c0abdb4bd7f5e.jpg
     :alt: Chemical illustration: Table 18.2 Common Amino Acids Found in Proteins
-
-
+    
+    
     ``````````
 
   - 175
@@ -446,8 +446,8 @@ We learned in [Chapter 16 \"Carbohydrates\"](/chapters/ch-16-carbohydrates.md#sr
 
 1.  ``````````{figure} /images/section_21/32ec767b03ba868e7690790471981c37.jpg
     :alt: Chemical illustration: Identify the amino acid that fits each description.
-
-
+    
+    
     ``````````
 
 2.  1.  aspartic acid
@@ -505,43 +505,43 @@ We learned in [Chapter 16 \"Carbohydrates\"](/chapters/ch-16-carbohydrates.md#sr
 
     2.  ``````````{figure} /images/section_21/6eaea3a832a142af78264b67975dddd6.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_21/cdaad45a04a0232a53eedabdc67e97e5.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_21/0b299efbd6cd00e04031007490bf5c0e.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_21/efec0b62a45280fb47d7890299d45c57.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_21/ad4985cc7c681c9b489dc0abea1c1e45.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  1.  asparagine or glutamine
     2.  phenylalanine, tyrosine, or tryptophan
     3.  aspartic acid or glutamic acid
 
-6.
+6.  
 
 ## 18.2 Reactions of Amino Acids
 
@@ -569,16 +569,16 @@ Solution
 
     ``````````{figure} /images/section_21/70b1c37e1481a9c9722d60b57a3400ec.jpg
     :alt: Chemical illustration: The base removes H + from the protonated amine group.
-
-
+    
+    
     ``````````
 
 2.  The acid adds H<sup>+</sup> to the carboxylate group.
 
     ``````````{figure} /images/section_21/a951cb6209eeb790e728058752ab8b11.jpg
     :alt: Chemical illustration: The acid adds H + to the carboxylate group.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -658,14 +658,14 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 2.  ``````````{figure} /images/section_21/d37c429cd9db2e7cd4bf8214eeb13e6e.jpg
     :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_21/b4c84ccb1f8d3f5a2be724b557d59929.jpg
     :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+    
+    
     ``````````
 
 ````````````{important} Key Takeaways
@@ -693,23 +693,23 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
 
 1.  1.  ``````````{figure} /images/section_21/c82b071735370e5853e45ead953ada18.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_21/f79eaa3f548da3d7481c6cbb6cd0d3b0.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     3.  ``````````{figure} /images/section_21/a4a388ef6c68d37174394d4c0d32aefd.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 (src-gob-ch18-s03)=
 
@@ -797,21 +797,21 @@ Just as millions of different words are spelled with our 26-letter English alpha
 
 1.  1.  ``````````{figure} /images/section_21/11673f1d38b19a90480d2e4f44636525.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_21/8e5098390ccb1ec2ad6ae60f20028300.jpg
         :alt: Chemical illustration: Chapter 18: Amino Acids, Proteins, and Enzymes
-
-
+        
+        
         ``````````
 
-2.
+2.  
 
 3.  C-terminal amino acid: cys; N-terminal amino acid: lys
 
-4.
+4.  
 
 (src-gob-ch18-s04)=
 
@@ -887,7 +887,7 @@ Four major types of attractive interactions determine the shape and stability of
 3\. Disulfide linkages[^chem-15]. Two cysteine amino acid units may be brought close together as the protein molecule folds. Subsequent oxidation and linkage of the sulfur atoms in the highly reactive sulfhydryl (SH) groups leads to the formation of cystine (part (c) of [Figure 18.6 \"Tertiary Protein Structure Interactions\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s04-s01-f05)). Intrachain disulfide linkages are found in many proteins, including insulin (yellow bars in [Figure 18.2 \"Primary Structure of Human Insulin\"](/chapters/ch-18-amino-acids-proteins-and-enzym.md#src-gob-ch18-s04-s01-f01)) and have a strong stabilizing effect on the tertiary structure.
 
 ``````````{figure} /images/section_21/c02399a4fba322ebf86aa960bd158f0d.jpg
-:alt: Chemical illustration: 3. Disulfide linkages A covalent bond that forms by the oxidation and linkage of two sulfur atoms from the side chains of two cysteine residues. . Two cysteine amino acid units may be brought close together as the protein molecule folds. Subsequent oxidation and linkage of the sulfur atoms in the highly reactive sulfhydryl (SH) groups leads to the
+:alt: Chemical illustration: 3. Disulfide linkages A covalent bond that forms by the oxidation and linkage of two sulfur atoms from the side chains of two cysteine residues. . Two cysteine amino acid units may be brought close together as the protein molecule folds. Subsequent oxidation and linkage of the sulfur atoms in the highly reactive sulfhydryl (SH) groups leads to the 
 
 ``````````
 
@@ -1029,22 +1029,22 @@ The primary structures of proteins are quite sturdy. In general, fairly vigorous
     2.  fibrous
     3.  fibrous
 
-2.
+2.  
 
 3.  β-pleated sheet
 
-4.
+4.  
 
 5.  1.  ionic bonding
     2.  dispersion forces
     3.  dispersion forces
     4.  disulfide linkage
 
-6.
+6.  
 
 7.  Protein denaturation disrupts the secondary, tertiary, and quaternary levels of structure. Only primary structure is unaffected by denaturation.
 
-8.
+8.  
 
 (src-gob-ch18-s05)=
 
@@ -1125,8 +1125,8 @@ Table 18.6 Assignment of an Enzyme Classification Number
 
   - ``````````{figure} /images/section_21/d7cba09ae63bb89a4d3fcc32a4fe15a6.jpg
     :alt: Chemical illustration: Reaction catalyzed:
-
-
+    
+    
     ``````````
 
 ````````
@@ -1183,11 +1183,11 @@ In the small intestine, sucrose is hydrolyzed to form glucose and fructose in a 
 1.  1.  lactose
     2.  cellulose
     3.  peptides
-2.
+2.  
 3.  1.  lyase
     2.  hydrolase
     3.  transferase
-4.
+4.  
 
 ## 18.6 Enzyme Action
 
@@ -1306,12 +1306,12 @@ Enzyme specificity results from the uniqueness of the active site in each differ
     2.  ionic bonding
     3.  hydrogen bonding
     4.  dispersion forces
-2.
+2.  
 3.  1.  The amino acid has a polar side chain capable of engaging in hydrogen bonding; serine (answers will vary).
     2.  The amino acid has a negatively charged side chain; aspartic acid (answers will vary).
     3.  The amino acid has a polar side chain capable of engaging in hydrogen bonding; asparagine (answers will vary).
     4.  The amino acid has a nonpolar side chain; isoleucine (answers will vary).
-4.
+4.  
 
 (src-gob-ch18-s07)=
 
@@ -1400,11 +1400,11 @@ An enzyme exhibits maximum activity over the narrow pH range in which a molecule
 
 1.  In an enzyme-catalyzed reaction, the substrate binds to the enzyme to form an enzyme-substrate complex. If more substrate is present than enzyme, all of the enzyme binding sites will have substrate bound, and further increases in substrate concentration cannot increase the rate.
 
-2.
+2.  
 
 3.  The activity will decrease; a pH of 6.3 is more acidic than 7.4, and one or more key groups in the active site may bind a hydrogen ion, changing the charge on that group.
 
-4.
+4.  
 
 ## 18.8 Enzyme Inhibition
 
@@ -1444,8 +1444,8 @@ Table 18.7 Poisons as Enzyme Inhibitors
 
   - ``````````{figure} /images/section_21/b546f6da32af9673ffab55380e23be99.jpg
     :alt: Chemical illustration: Table 18.7 Poisons as Enzyme Inhibitors
-
-
+    
+    
     ``````````
 
   - acetylcholinesterase
@@ -1553,7 +1553,7 @@ Threonine deaminase is the first enzyme in the conversion of threonine to isoleu
 
 1.  serine
 
-2.
+2.  
 
 (src-gob-ch18-s09)=
 
@@ -1723,16 +1723,16 @@ Free radicals react most commonly react with lipoproteins and unsaturated fatty 
 1.  1.  fat soluble
     2.  water soluble
     3.  water soluble
-2.
+2.  
 3.  1.  vitamin B<sub>6</sub> or pyridoxine
     2.  vitamin B<sub>2</sub> or riboflavin
     3.  pantothenic acid
     4.  vitamin B<sub>3</sub> or niacin
-4.
+4.  
 5.  1.  needed by enzymes that catalyze oxidation-reduction reactions in which two hydrogen atoms are transferred
     2.  needed for the formation of vision pigments
     3.  needed by enzymes that catalyze carboxylation reactions
-6.
+6.  
 
 ## 18.10 End-of-Chapter Material
 
@@ -1799,16 +1799,16 @@ Simple enzymes consist entirely of one or more amino acid chains. Complex enzyme
 
         ``````````{figure} /images/section_21/6b0b24797cd918241fe64bebdce23020.jpg
         :alt: Chemical illustration: the enzyme that catalyzes the removal of a carboxyl group from pyruvate to form acetate
-
-
+        
+        
         ``````````
 
     2.  the enzyme that catalyzes the rearrangement of 3-phosphoglycerate to form 2-phosphoglycerate
 
         ``````````{figure} /images/section_21/144efc51460976550d593ee891a73d24.jpg
         :alt: Chemical illustration: the enzyme that catalyzes the rearrangement of 3-phosphoglycerate to form 2-phosphoglycerate
-
-
+        
+        
         ``````````
 
 13. The enzyme lysozyme has an aspartic acid residue in the active site. In acidic solution, the enzyme is inactive, but activity increases as the pH rises to around 6. Explain why.
@@ -1828,51 +1828,51 @@ Simple enzymes consist entirely of one or more amino acid chains. Complex enzyme
 
 1.  ``````````{figure} /images/section_21/2ee003d119a1ce96c3b2b9987e48809a.jpg
     :alt: Chemical illustration: Using your knowledge of factors that influence enzyme activity, describe what happens when milk is pasteurized.
-
-
+    
+    
     ``````````
 
     This amino acid would not be found in proteins because it is not an α-amino acid.
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_21/314e46bc804ee7c8726e79d3b01f4907.jpg
     :alt: Chemical illustration: This amino acid would not be found in proteins because it is not an α-amino acid.
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  ``````````{figure} /images/section_21/d17b4665241d7410aecc8e906b9f59e8.jpg
     :alt: Chemical illustration: This amino acid would not be found in proteins because it is not an α-amino acid.
-
-
+    
+    
     ``````````
 
-6.
+6.  
 
 7.  Bradykinin would be positively charged; all of the amino acids, except for arginine, have R groups that do not become either positively or negatively charged. The two arginines are R groups that are positively charged at neutral pH, so the peptide would have an overall positive charge.
 
-8.
+8.  
 
 9.  Carbohydrates have many OH groups attached, which can engage in hydrogen bonding with water, which increases the solubility of the proteins.
 
-10.
+10. 
 
 11. 1.  oxidoreductase
     2.  hydrolase
 
-12.
+12. 
 
 13. The enzyme is active when the carboxyl group in the R group of aspartic acid does not have the hydrogen attached (forming COO<sup>--</sup>); the hydrogen is removed when the pH of the solution is around pH 6 or higher.
 
-14.
+14. 
 
 15. 1.  at 100 μM, you would predict that the rate would increase 100 times to 4,900 μmol of substrate to product in 1 min; at 1.0 mM, you would predict an increase to 49,000 μmol of substrate to product in 1 min.
     2.  There is a great discrepancy between the predicted rates and actual rates; this occurs because the enzyme becomes saturated with substrate, preventing a further increase in the rate of the reaction (the reaction is no longer linear with respect to substrate concentration because it is at very low concentrations).
 
-16.
+16. 
 
 17. When milk is pasteurized, it is heated to high temperatures. These high temperatures denature the proteins in bacteria, so they cannot carry out needed functions to grow and multiply.
 

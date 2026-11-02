@@ -47,26 +47,26 @@ Which compounds would be classified as carbohydrates?
 
 1.  ``````````{figure} /images/section_19/32d3e4d73be13d8c074cca896a75ee78.jpg
     :alt: Chemical illustration: Which compounds would be classified as carbohydrates?
-
-
+    
+    
     ``````````
 
 2.  ``````````{figure} /images/section_19/a82bc0d656cafbbdf40be3fca1fff82b.jpg
     :alt: Chemical illustration: Which compounds would be classified as carbohydrates?
-
-
+    
+    
     ``````````
 
 3.  ``````````{figure} /images/section_19/335c077d27d162c6d30b4e281b9a15fb.jpg
     :alt: Chemical illustration: Which compounds would be classified as carbohydrates?
-
-
+    
+    
     ``````````
 
 4.  ``````````{figure} /images/section_19/cc9868e74b241f35707909a3ab8fcb71.jpg
     :alt: Chemical illustration: Which compounds would be classified as carbohydrates?
-
-
+    
+    
     ``````````
 
 Solution
@@ -80,36 +80,36 @@ Solution
 
 Which compounds would be classified as carbohydrates?
 
-1.
+1.   
 
     ``````````{figure} /images/section_19/cde466c4fad0b083c54bb2819b829216.jpg
     :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+    
+    
     ``````````
 
-2.
+2.   
 
     ``````````{figure} /images/section_19/5bc030f13f3fa95d661f3ac5cc722a0a.jpg
     :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+    
+    
     ``````````
 
-3.
+3.   
 
     ``````````{figure} /images/section_19/6d6028547b90564121a4544cddc86f5a.jpg
     :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+    
+    
     ``````````
 
-4.
+4.   
 
     ``````````{figure} /images/section_19/795e6f7a44fdf11b283af623532475a5.jpg
     :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+    
+    
     ``````````
 
 Green plants are capable of synthesizing glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) from carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O) by using solar energy in the process known as photosynthesis[^chem-3]:
@@ -158,7 +158,7 @@ Compounds that cannot be hydrolyzed will not react with water to form two or mor
 
 1.  Trehalose is a disaccharide because it is hydrolyzed into two molecules of glucose (a monosaccharide).
 
-2.
+2.  
 
 (src-gob-ch16-s02)=
 
@@ -191,16 +191,16 @@ Solution
 
     ``````````{figure} /images/section_19/80aa6d58713c74da98a49034abba98f8.jpg
     :alt: Chemical illustration: The structure must have five carbon atoms with the second carbon atom being a carbonyl group and the other four carbon atoms each having an OH group attached. Several structures are possible, but one example is shown.
-
-
+    
+    
     ``````````
 
 2.  The structure must have four carbon atoms with the first carbon atom part of the aldehyde functional group. The other three carbon atoms each have an OH group attached. Several structures are possible, but one example is shown.
 
     ``````````{figure} /images/section_19/1317f7294cc3fe2b0d375efbb03decde.jpg
     :alt: Chemical illustration: The structure must have four carbon atoms with the first carbon atom part of the aldehyde functional group. The other three carbon atoms each have an OH group attached. Several structures are possible, but one example is shown.
-
-
+    
+    
     ``````````
 
 ### Skill-Building Exercise
@@ -303,24 +303,24 @@ Some optically active substances rotate the plane of polarized light to the righ
 
         ``````````{figure} /images/section_19/98d7162076ad3476ad54dac69f810a14.jpg
         :alt: Chemical illustration: D-glucose
-
-
+        
+        
         ``````````
 
     2.  L-ribulose
 
         ``````````{figure} /images/section_19/6917fc1e76880206f5337eca49d8eb2e.jpg
         :alt: Chemical illustration: L-ribulose
-
-
+        
+        
         ``````````
 
     3.  D-glyceraldehyde
 
         ``````````{figure} /images/section_19/4693c92be84a4284d0e18e3da30645a4.jpg
         :alt: Chemical illustration: D-glyceraldehyde
-
-
+        
+        
         ``````````
 
 2.  Identify each sugar as an aldose or a ketose and then as a triose, tetrose, pentose, or hexose.
@@ -329,52 +329,52 @@ Some optically active substances rotate the plane of polarized light to the righ
 
         ``````````{figure} /images/section_19/c5df34bcad206f3a5fde99adaeb33746.jpg
         :alt: Chemical illustration: dihydroxyacetone
-
-
+        
+        
         ``````````
 
     2.  D-ribose
 
         ``````````{figure} /images/section_19/e337da8fd26c31e2915391c5fe184385.jpg
         :alt: Chemical illustration: D-ribose
-
-
+        
+        
         ``````````
 
     3.  D-galactose
 
         ``````````{figure} /images/section_19/ba5855fcf6e22b2010141015530444dc.jpg
         :alt: Chemical illustration: D-galactose
-
-
+        
+        
         ``````````
 
 3.  Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
 
     1.  ``````````{figure} /images/section_19/d67a71be6589cfb48c133f69aa3fce24.jpg
         :alt: Chemical illustration: Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/8dcec03abd5446d979f7dfcce0acc07e.jpg
         :alt: Chemical illustration: Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
-
-
+        
+        
         ``````````
 
 4.  Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
 
     1.  ``````````{figure} /images/section_19/0505e47571da0b2c57e28fb7e9592953.jpg
         :alt: Chemical illustration: Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/647841eb1e27d55b07467ffd6dddf115.jpg
         :alt: Chemical illustration: Identify each sugar as an aldose or a ketose and then as a D sugar or an L sugar.
-
-
+        
+        
         ``````````
 
 ### Answers
@@ -382,10 +382,10 @@ Some optically active substances rotate the plane of polarized light to the righ
 1.  1.  aldose; hexose
     2.  ketose; pentose
     3.  aldose; triose
-2.
+2.  
 3.  1.  aldose; D sugar
     2.  ketose; L sugar
-4.
+4.  
 
 (src-gob-ch16-s03)=
 
@@ -526,11 +526,11 @@ All of the extensive clinical studies completed to date have indicated that thes
 
 1.  1.  D-glucose
     2.  D-fructose
-2.
+2.  
 3.  1.  aldohexose
     2.  aldohexose
     3.  ketohexose
-4.
+4.  
 
 (src-gob-ch16-s04)=
 
@@ -620,19 +620,19 @@ The difference between the α and the β forms of sugars may seem trivial, but s
 
 1.  ``````````{figure} /images/section_19/adddb6c1bbb71e27e8efd36cd7237ff7.jpg
     :alt: Chemical illustration: Given that the aldohexose D-allose differs from D-glucose only in the configuration at the third carbon atom, draw the cyclic structure for β-D-allose.
-
-
+    
+    
     ``````````
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_19/76ce6c1765227426cc9b5f1f06d18aa2.jpg
     :alt: Chemical illustration: Given that the aldohexose D-allose differs from D-glucose only in the configuration at the third carbon atom, draw the cyclic structure for β-D-allose.
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 ## 16.5 Properties of Monosaccharides
 
@@ -700,15 +700,15 @@ These reactions have been used as simple and rapid diagnostic tests for the pres
 
 1.  All three will give a positive Benedict's test because they are all monosaccharides.
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_19/afacb4d925967bcf00997e01f73a7925.jpg
     :alt: Chemical illustration: All three will give a positive Benedict’s test because they are all monosaccharides.
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 ## 16.6 Disaccharides
 
@@ -775,8 +775,8 @@ The glycosidic linkage between sugars 1 and 2 is β because the bond is directed
 
     ``````````{figure} /images/section_19/5831768f1423168f21681fc38ec98593.jpg
     :alt: Chemical illustration: For this trisaccharide, indicate whether each glycosidic linkage is α or β.
-
-
+    
+    
     ``````````
 
 ````````````{important} To Your Health: Lactose Intolerance and Galactosemia
@@ -846,28 +846,28 @@ The average American consumes more than 100 lb of sucrose every year. About two-
 
     1.  ``````````{figure} /images/section_19/c4f7c7cd8f028142e490573236e957f5.jpg
         :alt: Chemical illustration: For each disaccharide, indicate whether the glycosidic linkage is α or β.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/4e65bd9522b7449b0c10d4588a0101a2.jpg
         :alt: Chemical illustration: For each disaccharide, indicate whether the glycosidic linkage is α or β.
-
-
+        
+        
         ``````````
 
 4.  For each disaccharide, indicate whether the glycosidic linkage is α or β.
 
     1.  ``````````{figure} /images/section_19/804e0101c008ac22b65212c45404701b.jpg
         :alt: Chemical illustration: For each disaccharide, indicate whether the glycosidic linkage is α or β.
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/1b0e0965c5467365848804d75af4ac9a.jpg
         :alt: Chemical illustration: For each disaccharide, indicate whether the glycosidic linkage is α or β.
-
-
+        
+        
         ``````````
 
 5.  Identify each disaccharide in Exercise 3 as a reducing or nonreducing sugar. If it is a reducing sugar, draw its structure and circle the anomeric carbon. State if the OH group at the anomeric carbon is in the α or the β position.
@@ -878,8 +878,8 @@ The average American consumes more than 100 lb of sucrose every year. About two-
 
     ``````````{figure} /images/section_19/95c20d0c173824797201cc075f5875ad.jpg
     :alt: Chemical illustration: Melibiose is a disaccharide that occurs in some plant juices. Its structure is as follows:
-
-
+    
+    
     ``````````
 
     1.  What monosaccharide units are incorporated into melibiose?
@@ -896,31 +896,31 @@ The average American consumes more than 100 lb of sucrose every year. About two-
 1.  1.  lactose
     2.  sucrose
 
-2.
+2.  
 
 3.  1.  ``````````{figure} /images/section_19/ef211bfb881b5bc37b24d3f29eae45be.jpg
         :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/cfc04ec8aef84d56c73da8ff2bfd2637.jpg
         :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+        
+        
         ``````````
 
-4.
+4.  
 
 5.  3a: nonreducing; 3b: reducing
 
     ``````````{figure} /images/section_19/10d1b89834bd42052fea74fc77199012.jpg
     :alt: Chemical illustration: 3a: nonreducing; 3b: reducing
-
-
+    
+    
     ``````````
 
-6.
+6.  
 
 7.  1.  galactose and glucose
 
@@ -928,11 +928,11 @@ The average American consumes more than 100 lb of sucrose every year. About two-
 
     3.  ``````````{figure} /images/section_19/7f216cc1851b4fcdd4d4ab5d058380b3.jpg
         :alt: Chemical illustration: Chapter 16: Carbohydrates
-
-
+        
+        
         ``````````
 
-8.
+8.  
 
 (src-gob-ch16-s07)=
 
@@ -1067,11 +1067,11 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
     2.  glucose
     3.  glucose
 
-2.
+2.  
 
 3.  Amylose and cellulose are both linear polymers of glucose units, but the glycosidic linkages between the glucose units differ. The linkages in amylose are α-1,4-glycosidic linkages, while the linkages in cellulose they are β-1,4-glycosidic linkages.
 
-4.
+4.  
 
 ## 16.8 End-of-Chapter Material
 
@@ -1122,52 +1122,52 @@ The disaccharide *sucrose* (table sugar) consists of a glucose unit and a fructo
 
     1.  ``````````{figure} /images/section_19/cd20f4fedf07d389139a588bcddde653.jpg
         :alt: Chemical illustration: What reagent(s) could be used to carry out each conversion?
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/a5cd2947bc1abbe9a09d71ab8cccf599.jpg
         :alt: Chemical illustration: What reagent(s) could be used to carry out each conversion?
-
-
+        
+        
         ``````````
 
 10. What reagents are necessary to carry out each conversion?
 
     1.  ``````````{figure} /images/section_19/dbe87fae3e2af3c67ed11c40fdc788ca.jpg
         :alt: Chemical illustration: What reagents are necessary to carry out each conversion?
-
-
+        
+        
         ``````````
 
     2.  ``````````{figure} /images/section_19/2048f3ff2a390842b1e9d32ecd52ca37.jpg
         :alt: Chemical illustration: What reagents are necessary to carry out each conversion?
-
-
+        
+        
         ``````````
 
 11. The structure of lactulose is shown here. What monosaccharide units compose this disaccharide?
 
     ``````````{figure} /images/section_19/55ad38a956bec01e625c7e2e72d7300b.jpg
     :alt: Chemical illustration: The structure of lactulose is shown here. What monosaccharide units compose this disaccharide?
-
-
+    
+    
     ``````````
 
 12. N-acetylglucosamine is synthesized from D-glucosamine, which in turn is obtained from D-glucose. What reagents are needed for the conversion of D-glucosamine to N-acetylglucosamine?
 
     ``````````{figure} /images/section_19/c84c7f181f46fdf381f393cfa41aa98b.jpg
     :alt: Chemical illustration: N-acetylglucosamine is synthesized from D-glucosamine, which in turn is obtained from D-glucose. What reagents are needed for the conversion of D-glucosamine to N-acetylglucosamine?
-
-
+    
+    
     ``````````
 
 13. Hyaluronic acid is a heteropolymer that acts as a lubricating agent in the fluids of joints and the eyes. Its structure consists of repeating disaccharide units containing glucuronic acid and N-acetylglucosamine connected by a β-1,3-linkage. Draw the structure of the disaccharide unit found in hyaluronic acid.
 
     ``````````{figure} /images/section_19/6b39f411e2132f94d04f75b08bd066bc.jpg
     :alt: Chemical illustration: Hyaluronic acid is a heteropolymer that acts as a lubricating agent in the fluids of joints and the eyes. Its structure consists of repeating disaccharide units containing glucuronic acid and N-acetylglucosamine connected by a β-1,3-linkage. Draw the structure of the disaccharide unit found in hyaluronic acid.
-
-
+    
+    
     ``````````
 
 14. Several artificial sweeteners are discussed in this chapter.
@@ -1189,58 +1189,58 @@ The disaccharide *sucrose* (table sugar) consists of a glucose unit and a fructo
 
 1.  ``````````{figure} /images/section_19/781cc62d427ef0f731a72f5fea64f2df.jpg
     :alt: Chemical illustration: How does galactosemia differ from lactose intolerance in terms of the cause of the disease and its symptoms and severity?
-
-
+    
+    
     ``````````
 
-2.
+2.  
 
 3.  ``````````{figure} /images/section_19/c43f9c93b8717c247eed0050309d807b.jpg
     :alt: Chemical illustration: How does galactosemia differ from lactose intolerance in terms of the cause of the disease and its symptoms and severity?
-
-
+    
+    
     ``````````
 
-4.
+4.  
 
 5.  Lactose, D-ribose, and D-glyceraldehyde would give a positive Benedict's test.
 
-6.
+6.  
 
 7.  To be a reducing sugar, a disaccharide must contain an anomeric carbon atom that can open up to form an aldehyde functional group, as shown in this disaccharide (answers will vary).
 
     ``````````{figure} /images/section_19/c86c82c31e3f848d8cb1caa9621b7c76.jpg
     :alt: Chemical illustration: To be a reducing sugar, a disaccharide must contain an anomeric carbon atom that can open up to form an aldehyde functional group, as shown in this disaccharide (answers will vary).
-
-
+    
+    
     ``````````
 
-8.
+8.  
 
 9.  1.  The carbohydrate is being oxidized; Tollens' or Benedict's reagent could be used.
     2.  To form the compound shown, an aldehyde must react with methanol (CH<sub>3</sub>OH) and an acid catalyst.
 
-10.
+10. 
 
 11. galactose and fructose
 
-12.
+12. 
 
 13. ``````````{figure} /images/section_19/b132a0efae504cc72019d127f2e5076e.jpg
     :alt: Chemical illustration: galactose and fructose
-
-
+    
+    
     ``````````
 
-14.
+14. 
 
 15. Sucralose would be expected to have the sweetest taste because its relative sweetness is the highest. Lactose would have the least sweet taste because it has the lowest relative sweetness.
 
-16.
+16. 
 
 17. Intestinal bacteria can act on the lactose present in the intestine to produce organic acids and gases. The buildup of water and bacterial decay products leads to cramps and diarrhea.
 
-18.
+18. 
 
 [^chem-1]: The chemistry of molecules found in living organisms.
 

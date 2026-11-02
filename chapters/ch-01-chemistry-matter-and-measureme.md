@@ -180,7 +180,7 @@ Not all scientific investigations are simple enough to be separated into these t
     4.  not science
     5.  not science
 
-2.
+2.  
 
 3.  1.  matter
     2.  not matter
@@ -189,23 +189,23 @@ Not all scientific investigations are simple enough to be separated into these t
     5.  matter
     6.  matter
 
-4.
+4.  
 
 5.  geophysics
 
-6.
+6.  
 
 7.  Medicine is probably closer to a field of engineering than a field of science, but this may be arguable. Ask your doctor.
 
-8.
+8.  
 
 9.  In scientific terms, this person has a hypothesis.
 
-10.
+10. 
 
 11. Science is based on reproducible facts, not blind belief.
 
-12.
+12. 
 
 ## 1.2 The Classification of Matter
 
@@ -415,33 +415,33 @@ Matter can be classified in a variety of ways, depending on its properties.
     3.  physical property
     4.  physical property
 
-2.
+2.  
 
 3.  An element is a substance that cannot be broken down into chemically simpler components. Compounds can be broken down into simpler substances.
 
-4.
+4.  
 
 5.  a salt and pepper mix and a bowl of cereal (answers will vary)
 
-6.
+6.  
 
 7.  1.  element
     2.  heterogeneous mixture
     3.  compound
 
-8.
+8.  
 
 9.  1.  solution
     2.  solution
     3.  compound
 
-10.
+10. 
 
 11. 1.  melting or fusion
     2.  boiling or evaporation
     3.  sublimation
 
-12.
+12. 
 
 ## 1.3 Measurements
 
@@ -542,11 +542,11 @@ Most drugs must be taken in just the right amount. If too little is taken, the d
 
 1.  The number states how much, and the unit states of what. Without the number and the unit, a quantity cannot be properly communicated.
 
-2.
+2.  
 
 3.  No, it is not a proper answer; you do not know whether the professor meant homework problem number 20 or 20 homework problems.
 
-4.
+4.  
 
 ## 1.4 Expressing Numbers: Scientific Notation
 
@@ -585,7 +585,7 @@ and so forth
 The convention for expressing numbers in scientific notation is to write a single nonzero first digit, a decimal point, and the rest of the digits, excluding any trailing zeros. This figure is followed by a multiplication sign and then by 10 raised to the power necessary to reproduce the original number. For example, although 1,500,000 can also be written as 15. × 10<sup>5</sup> (which would be 15. × 100,000), the convention is to have only one digit before the decimal point. How do we know to what power 10 is raised? The power is the number of places you have to move the decimal point to the left to make it follow the first digit, so that the number being multiplied is between 1 and 10:
 
 ``````````{figure} /images/section_04/97110e66b0e6a0a36114655ff446030b.jpg
-:alt: Chemical illustration: The convention for expressing numbers in scientific notation is to write a single nonzero first digit, a decimal point, and the rest of the digits, excluding any trailing zeros. This figure is followed by a multiplication sign and then by 10 raised to the power necessary to reproduce the original number. For example, although 1,500,000 can also be
+:alt: Chemical illustration: The convention for expressing numbers in scientific notation is to write a single nonzero first digit, a decimal point, and the rest of the digits, excluding any trailing zeros. This figure is followed by a multiplication sign and then by 10 raised to the power necessary to reproduce the original number. For example, although 1,500,000 can also be 
 :name: src-fwk-gob-eq01-001
 
 ``````````
@@ -774,11 +774,11 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
     - - Incorrect Scientific Notation
       - Correct Scientific Notation
     - - 54.7 × 10<sup>4</sup>
-      -
+      -  
     - - 0.0066 × 10<sup>3</sup>
-      -
+      -  
     - - 3,078 × 10<sup>0</sup>
-      -
+      -  
 
     ````````
 
@@ -790,11 +790,11 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
     - - Incorrect Scientific Notation
       - Correct Scientific Notation
     - - 234.0 × 10<sup>1</sup>
-      -
+      -  
     - - 36 × 10<sup>−4</sup>
-      -
+      -  
     - - 0.993 × 10<sup>5</sup>
-      -
+      -  
 
     ````````
 
@@ -802,7 +802,7 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
 
 1.  Scientific notation is more convenient than listing a large number of zeros.
 
-2.
+2.  
 
 3.  1.  6.4 × 10<sup>−4</sup>
     2.  5.23 × 10<sup>6</sup>
@@ -810,14 +810,14 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
     4.  2.20 × 10<sup>−10</sup>
     5.  1.0 × 10<sup>0</sup>
 
-4.
+4.  
 
 5.  1.  67,200
     2.  0.0002088
     3.  −3,000,000
     4.  0.000000998
 
-6.
+6.  
 
 7.  ````````{list-table}
     :header-rows: 1
@@ -833,7 +833,7 @@ Although calculators can show 8 to 10 digits in their display windows, that is n
 
     ````````
 
-8.
+8.  
 
 ## 1.5 Expressing Numbers: Significant Figures
 
@@ -1062,7 +1062,7 @@ Remember that calculators do not understand significant figures. *You* are the o
 
 1.  Significant figures represent all the known digits plus the first estimated digit of a measurement; they are the only values worth reporting in a measurement.
 
-2.
+2.  
 
 3.  1.  two
     2.  four
@@ -1071,32 +1071,32 @@ Remember that calculators do not understand significant figures. *You* are the o
     5.  three
     6.  five
 
-4.
+4.  
 
 5.  1.  34,700
     2.  34,800
     3.  34,600
 
-6.
+6.  
 
 7.  1.  1,797
     2.  15,863
     3.  0.1071
 
-8.
+8.  
 
 9.  1.  3,850,000
     2.  1.775
     3.  884
 
-10.
+10. 
 
 11. 1.  5.1 × 10<sup>−3</sup>
     2.  2.04 × 10<sup>4</sup>
     3.  1.824 × 10<sup>−3</sup>
     4.  1.11 × 10<sup>−6</sup>
 
-12.
+12. 
 
 (src-gob-ch01-s06)=
 
@@ -1363,15 +1363,15 @@ Note that we have limited our final answer to three significant figures.
     - - Unit
       - Abbreviation
     - - centiliter
-      -
-    - -
+      -  
+    - -  
       - ms
-    - -
+    - -  
       - cm
-    - -
+    - -  
       - kL
     - - micrometer
-      -
+      -  
 
     ````````
 
@@ -1383,15 +1383,15 @@ Note that we have limited our final answer to three significant figures.
     - - Unit
       - Abbreviation
     - - microliter
-      -
+      -  
     - - kilosecond
-      -
-    - -
+      -  
+    - -  
       - dL
-    - -
+    - -  
       - ns
     - - millimeter
-      -
+      -  
 
     ````````
 
@@ -1403,11 +1403,11 @@ Note that we have limited our final answer to three significant figures.
 
 1.  second, meter, kilogram, and kelvin (answers will vary)
 
-2.
+2.  
 
 3.  1,000; 100
 
-4.
+4.  
 
 5.  ````````{list-table}
     :header-rows: 1
@@ -1427,11 +1427,11 @@ Note that we have limited our final answer to three significant figures.
 
     ````````
 
-6.
+6.  
 
 7.  grams per liter, grams per milliliter, and kilograms per liter (answers will vary)
 
-8.
+8.  
 
 ## 1.7 Converting Units
 
@@ -1702,35 +1702,35 @@ Credit: QuadriviumPress; [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/
     2.  $\frac{\text{1,000,000~}\mu\text{L}}{\text{1~L}}\text{;}\,\frac{\text{1~L}}{\text{1,000,000~}\mu\text{L}}$
     3.  $\frac{\text{1,000~ms}}{\text{1~s}}\text{;}\,\frac{\text{1~s}}{\text{1,000~ms}}$
 
-2.
+2.  
 
 3.  5.62 × 10<sup>4</sup> m
 
-4.
+4.  
 
 5.  4.41 × 10<sup>7</sup> µL
 
-6.
+6.  
 
 7.  1.096 × 10<sup>8</sup> µg
 
-8.
+8.  
 
 9.  3.009 × 10<sup>3</sup> cL
 
-10.
+10. 
 
 11. 270 g
 
-12.
+12. 
 
 13. 430 mL
 
-14.
+14. 
 
 15. 20 tablets
 
-16.
+16. 
 
 ## 1.8 End-of-Chapter Material
 
@@ -1817,41 +1817,41 @@ Chemistry uses SI, a system of units based on seven **basic units**. The most im
 
 1.  282 g
 
-2.
+2.  
 
 3.  650 mg
 
-4.
+4.  
 
 5.  1.  four significant figures
     2.  people
     3.  2.841 × 10<sup>8</sup> people
 
-6.
+6.  
 
 7.  1.  $\frac{1\text{~km}}{10^{6}\text{~mm}}$
     2.  $\frac{\text{10}^{9}\ \mu\text{g}}{1\text{~kg}}$
     3.  $\frac{10^{4}\ \mu\text{m}}{1\text{~cm}}$
 
-8.
+8.  
 
 9.  1.15 g/mL
 
-10.
+10. 
 
 <!-- -->
 
 11. 187 in.
 
-12.
+12. 
 
 13. 77 kg
 
-14.
+14. 
 
 15. $\text{1~L~=~0}\text{.001~m}^{3} \times \,\,\left( \frac{1\text{~dm}}{0.1\text{~m}} \right)^{3} = 1\text{~dm}^{3}$
 
-16.
+16. 
 
 [^chem-1]: The study of matter.
 
